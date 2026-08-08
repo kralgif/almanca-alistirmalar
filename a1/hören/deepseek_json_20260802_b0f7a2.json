@@ -1,0 +1,48 @@
+{
+  "title": "GOETHE A2 - HÖREN (IM SUPERMARKT)",
+  "subtitle": "IM SUPERMARKT",
+  "sectionId": 12,
+  "sectionName": "IM SUPERMARKT",
+  "exercises": [
+    {
+      "exerciseId": "16",
+      "type": "richtig_falsch",
+      "frage": "Der Kunde kauft Brot, Milch, Käse und Äpfel.",
+      "turkce": "Müşteri ekmek, süt, peynir ve elma alıyor.",
+      "ipucu": "Brot, Milch, Käse und Äpfel.",
+      "answer": "Richtig"
+    },
+    {
+      "exerciseId": "17",
+      "type": "richtig_falsch",
+      "frage": "Die Kassiererin sagt zuerst 32,50 Euro.",
+      "turkce": "Kasiyer önce 32,50 Euro diyor.",
+      "ipucu": "Zusammen 32,50 Euro.",
+      "answer": "Richtig"
+    },
+    {
+      "exerciseId": "18",
+      "type": "richtig_falsch",
+      "frage": "Der Käse kostet 3,80 Euro.",
+      "turkce": "Peynir 3,80 Euro.",
+      "ipucu": "der Käse 3,80 Euro.",
+      "answer": "Richtig"
+    },
+    {
+      "exerciseId": "19",
+      "type": "richtig_falsch",
+      "frage": "Der Kunde bezahlt bar.",
+      "turkce": "Müşteri nakit ödüyor.",
+      "ipucu": "Ich bezahle mit Karte - kartla.",
+      "answer": "Falsch"
+    },
+    {
+      "exerciseId": "20",
+      "type": "richtig_falsch",
+      "frage": "Der Kunde gibt 12,00 Euro aus.",
+      "turkce": "Müşteri 12,00 Euro ödüyor.",
+      "ipucu": "Das macht zusammen 12,00 Euro.",
+      "answer": "Richtig"
+    }
+  ]
+}

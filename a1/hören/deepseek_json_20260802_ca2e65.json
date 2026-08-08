@@ -1,0 +1,48 @@
+{
+  "title": "GOETHE A2 - HÖREN (WETTERBERICHT 2)",
+  "subtitle": "WETTERBERICHT 2",
+  "sectionId": 28,
+  "sectionName": "WETTERBERICHT 2",
+  "exercises": [
+    {
+      "exerciseId": "21",
+      "type": "richtig_falsch",
+      "frage": "Heute ist der 15. April.",
+      "turkce": "Bugün 15 Nisan.",
+      "ipucu": "für heute, den 15. April.",
+      "answer": "Richtig"
+    },
+    {
+      "exerciseId": "22",
+      "type": "richtig_falsch",
+      "frage": "In Berlin ist es bewölkt.",
+      "turkce": "Berlin'de hava bulutlu.",
+      "ipucu": "In Berlin scheint die Sonne - güneşli.",
+      "answer": "Falsch"
+    },
+    {
+      "exerciseId": "23",
+      "type": "richtig_falsch",
+      "frage": "In Berlin werden es 24 Grad.",
+      "turkce": "Berlin'de 24 derece olacak.",
+      "ipucu": "Die Temperaturen steigen auf 24 Grad.",
+      "answer": "Richtig"
+    },
+    {
+      "exerciseId": "24",
+      "type": "richtig_falsch",
+      "frage": "In Hamburg gibt es Regen am Vormittag.",
+      "turkce": "Hamburg'da sabah yağmur var.",
+      "ipucu": "in Hamburg ... leichten Regen am Vormittag.",
+      "answer": "Richtig"
+    },
+    {
+      "exerciseId": "25",
+      "type": "richtig_falsch",
+      "frage": "Morgen regnet es in ganz Deutschland.",
+      "turkce": "Yarın tüm Almanya'da yağmur var.",
+      "ipucu": "Morgen wird es im ganzen Land regnen.",
+      "answer": "Richtig"
+    }
+  ]
+}

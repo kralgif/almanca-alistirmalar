@@ -1,0 +1,51 @@
+{
+  "title": "GOETHE A2 - HÖREN (HOTELRESERVIERUNG 3)",
+  "subtitle": "HOTELRESERVIERUNG 3",
+  "sectionId": 38,
+  "sectionName": "HOTELRESERVIERUNG 3",
+  "exercises": [
+    {
+      "exerciseId": "50",
+      "type": "multiple_choice",
+      "frage": "Wie heißt der Gast?",
+      "turkce": "Müşterinin adı ne?",
+      "ipucu": "auf den Namen Wagner.",
+      "options": ["Wagner", "Schmidt", "Meier"],
+      "answer": "Wagner"
+    },
+    {
+      "exerciseId": "51",
+      "type": "multiple_choice",
+      "frage": "Welches Zimmer hat der Gast?",
+      "turkce": "Müşteri hangi odada?",
+      "ipucu": "318 im 3. Stock.",
+      "options": ["318 im 2. Stock", "318 im 3. Stock", "318 im 4. Stock"],
+      "answer": "318 im 3. Stock"
+    },
+    {
+      "exerciseId": "52",
+      "type": "multiple_choice",
+      "frage": "Wie viele Nächte bleibt der Gast?",
+      "turkce": "Müşteri kaç gece kalıyor?",
+      "ipucu": "für zwei Nächte.",
+      "options": ["eine Nacht", "zwei Nächte", "drei Nächte"],
+      "answer": "zwei Nächte"
+    },
+    {
+      "exerciseId": "53",
+      "type": "richtig_falsch",
+      "frage": "Das Frühstück ist nicht inklusive.",
+      "turkce": "Kahvaltı dahil değil.",
+      "ipucu": "das Frühstück ist inklusive - dahil.",
+      "answer": "Falsch"
+    },
+    {
+      "exerciseId": "54",
+      "type": "fill_in",
+      "frage": "Eine Nacht kostet _______ Euro.",
+      "turkce": "Bir gece _______ Euro.",
+      "ipucu": "85 Euro.",
+      "answer": "85"
+    }
+  ]
+}

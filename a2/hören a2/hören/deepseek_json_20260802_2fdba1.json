@@ -1,0 +1,72 @@
+{
+  "title": "GOETHE A2 - HÖREN (RADIOINTERVIEW - NEUE MITARBEITERIN)",
+  "subtitle": "RADIOINTERVIEW - NEUE MITARBEITERIN",
+  "sectionId": 22,
+  "sectionName": "RADIOINTERVIEW - NEUE MITARBEITERIN",
+  "exercises": [
+    {
+      "exerciseId": "1",
+      "type": "richtig_falsch",
+      "frage": "Stefanie Wagner ist 28 Jahre alt.",
+      "turkce": "Stefanie Wagner 28 yaşında.",
+      "ipucu": "bin 28 Jahre alt.",
+      "answer": "Richtig"
+    },
+    {
+      "exerciseId": "2",
+      "type": "richtig_falsch",
+      "frage": "Stefanie kommt aus München.",
+      "turkce": "Stefanie Münih'ten geliyor.",
+      "ipucu": "komme aus Österreich, aus Wien.",
+      "answer": "Falsch"
+    },
+    {
+      "exerciseId": "3",
+      "type": "richtig_falsch",
+      "frage": "Stefanie wohnt jetzt in München.",
+      "turkce": "Stefanie şimdi Münih'te yaşıyor.",
+      "ipucu": "wohne jetzt aber in München.",
+      "answer": "Richtig"
+    },
+    {
+      "exerciseId": "4",
+      "type": "richtig_falsch",
+      "frage": "Stefanie arbeitet bei der Firma 'Tech Solutions'.",
+      "turkce": "Stefanie 'Tech Solutions' firmasında çalışıyor.",
+      "ipucu": "arbeite ... bei der Firma Tech Solutions.",
+      "answer": "Richtig"
+    },
+    {
+      "exerciseId": "5",
+      "type": "richtig_falsch",
+      "frage": "Stefanie ist die Assistentin von Herrn Schmidt.",
+      "turkce": "Stefanie Bay Schmidt'in asistanı.",
+      "ipucu": "Assistentin von Frau Schmidt - Bayan Schmidt.",
+      "answer": "Falsch"
+    },
+    {
+      "exerciseId": "6",
+      "type": "richtig_falsch",
+      "frage": "Stefanie arbeitet von 8:00 bis 16:00 Uhr.",
+      "turkce": "Stefanie 8:00'den 16:00'ya kadar çalışıyor.",
+      "ipucu": "von 9:00 bis 17:00 Uhr.",
+      "answer": "Falsch"
+    },
+    {
+      "exerciseId": "7",
+      "type": "richtig_falsch",
+      "frage": "Stefanie liest gern Bücher.",
+      "turkce": "Stefanie kitap okumayı sever.",
+      "ipucu": "Ich lese gern Bücher.",
+      "answer": "Richtig"
+    },
+    {
+      "exerciseId": "8",
+      "type": "richtig_falsch",
+      "frage": "Stefanie spricht Spanisch sehr gut.",
+      "turkce": "Stefanie İspanyolcayı çok iyi konuşuyor.",
+      "ipucu": "Spanisch, aber das ist noch nicht so gut.",
+      "answer": "Falsch"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "title": "GOETHE A2 - HÖREN (VORSTELLUNG IM BÜRO)",
+  "subtitle": "VORSTELLUNG IM BÜRO",
+  "sectionId": 27,
+  "sectionName": "VORSTELLUNG IM BÜRO",
+  "exercises": [
+    {
+      "exerciseId": "31",
+      "type": "multiple_choice",
+      "frage": "Der neue Kollege heißt...",
+      "turkce": "Yeni çalışan arkadaşın adı...",
+      "ipucu": "Ich heiße Felix Schmidt.",
+      "options": ["Felix Schmidt", "Felix Meier", "Felix Wagner"],
+      "answer": "Felix Schmidt"
+    },
+    {
+      "exerciseId": "32",
+      "type": "multiple_choice",
+      "frage": "Herr Schmidt ist...",
+      "turkce": "Bay Schmidt...",
+      "ipucu": "Ich bin 34 Jahre alt.",
+      "options": ["30 Jahre alt", "34 Jahre alt", "36 Jahre alt"],
+      "answer": "34 Jahre alt"
+    },
+    {
+      "exerciseId": "33",
+      "type": "multiple_choice",
+      "frage": "Herr Schmidt kommt aus...",
+      "turkce": "Bay Schmidt ...'dan geliyor.",
+      "ipucu": "Ich komme aus ... Hamburg.",
+      "options": ["Berlin", "München", "Hamburg"],
+      "answer": "Hamburg"
+    },
+    {
+      "exerciseId": "34",
+      "type": "multiple_choice",
+      "frage": "Herr Schmidt ist...",
+      "turkce": "Bay Schmidt...",
+      "ipucu": "Ich bin seit fünf Jahren verheiratet.",
+      "options": ["verheiratet", "ledig", "geschieden"],
+      "answer": "verheiratet"
+    },
+    {
+      "exerciseId": "35",
+      "type": "multiple_choice",
+      "frage": "Herr Schmidt arbeitet als...",
+      "turkce": "Bay Schmidt ... olarak çalışıyor.",
+      "ipucu": "Ich arbeite als Grafikdesigner.",
+      "options": ["Architekt", "Grafikdesigner", "Ingenieur"],
+      "answer": "Grafikdesigner"
+    },
+    {
+      "exerciseId": "36",
+      "type": "multiple_choice",
+      "frage": "Herr Schmidt hat...",
+      "turkce": "Bay Schmidt'in ... var.",
+      "ipucu": "Wir haben eine Tochter.",
+      "options": ["einen Sohn", "eine Tochter", "zwei Kinder"],
+      "answer": "eine Tochter"
+    },
+    {
+      "exerciseId": "37",
+      "type": "multiple_choice",
+      "frage": "In seiner Freizeit malt Herr Schmidt...",
+      "turkce": "Bay Schmidt boş zamanında ... çiziyor.",
+      "ipucu": "male ich gern - severek çizer.",
+      "options": ["gern", "nicht gern", "manchmal"],
+      "answer": "gern"
+    },
+    {
+      "exerciseId": "38",
+      "type": "fill_in",
+      "frage": "Herr Schmidt spricht _______ und _______.",
+      "turkce": "Bay Schmidt _______ ve _______ konuşuyor.",
+      "ipucu": "Ich spreche Deutsch und Englisch.",
+      "answer": "Deutsch, Englisch"
+    }
+  ]
+}

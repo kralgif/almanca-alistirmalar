@@ -1,0 +1,43 @@
+{
+  "title": "GOETHE A2 - HÖREN (IM RESTAURANT 3)",
+  "subtitle": "IM RESTAURANT 3",
+  "sectionId": 39,
+  "sectionName": "IM RESTAURANT 3",
+  "exercises": [
+    {
+      "exerciseId": "9",
+      "type": "multiple_choice",
+      "frage": "Was bestellt der Gast als Vorspeise?",
+      "turkce": "Müşteri başlangıç olarak ne sipariş ediyor?",
+      "ipucu": "Tomatensuppe als Vorspeise.",
+      "options": ["die Tomatensuppe", "den Salat", "die Bratwurst"],
+      "answer": "die Tomatensuppe"
+    },
+    {
+      "exerciseId": "10",
+      "type": "multiple_choice",
+      "frage": "Was bestellt der Gast als Hauptgericht?",
+      "turkce": "Müşteri ana yemek olarak ne sipariş ediyor?",
+      "ipucu": "Rindersteak mit Pommes.",
+      "options": ["Fisch mit Reis", "Rindersteak mit Pommes", "Pasta mit Gemüse"],
+      "answer": "Rindersteak mit Pommes"
+    },
+    {
+      "exerciseId": "11",
+      "type": "multiple_choice",
+      "frage": "Was trinkt der Gast?",
+      "turkce": "Müşteri ne içiyor?",
+      "ipucu": "Ein Glas Rotwein.",
+      "options": ["Weißwein", "Rotwein", "Bier"],
+      "answer": "Rotwein"
+    },
+    {
+      "exerciseId": "12",
+      "type": "richtig_falsch",
+      "frage": "Die Frau des Gastes möchte einen Nachtisch.",
+      "turkce": "Müşterinin eşi tatlı istiyor.",
+      "ipucu": "meine Frau möchte ein Eis.",
+      "answer": "Richtig"
+    }
+  ]
+}

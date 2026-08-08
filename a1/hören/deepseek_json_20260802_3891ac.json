@@ -1,0 +1,48 @@
+{
+  "title": "GOETHE A2 - HÖREN (CAFÉ)",
+  "subtitle": "CAFÉ",
+  "sectionId": 4,
+  "sectionName": "CAFÉ",
+  "exercises": [
+    {
+      "exerciseId": "6",
+      "type": "richtig_falsch",
+      "frage": "Gast 1 möchte einen Cappuccino.",
+      "turkce": "1. müşteri kapuçino istiyor.",
+      "ipucu": "Ich hätte gern einen Cappuccino.",
+      "answer": "Richtig"
+    },
+    {
+      "exerciseId": "7",
+      "type": "richtig_falsch",
+      "frage": "Gast 1 möchte ein Stück Apfelkuchen.",
+      "turkce": "1. müşteri bir dilim elmalı kek istiyor.",
+      "ipucu": "und ein Stück Apfelkuchen.",
+      "answer": "Richtig"
+    },
+    {
+      "exerciseId": "8",
+      "type": "richtig_falsch",
+      "frage": "Gast 2 möchte einen Kaffee.",
+      "turkce": "2. müşteri kahve istiyor.",
+      "ipucu": "Für mich einen Tee - çay.",
+      "answer": "Falsch"
+    },
+    {
+      "exerciseId": "9",
+      "type": "richtig_falsch",
+      "frage": "Gast 2 möchte ein Butterbrezel.",
+      "turkce": "2. müşteri tereyağlı simit istiyor.",
+      "ipucu": "und ein Butterbrezel.",
+      "answer": "Richtig"
+    },
+    {
+      "exerciseId": "10",
+      "type": "richtig_falsch",
+      "frage": "Gast 2 möchte auch ein Glas Wasser.",
+      "turkce": "2. müşteri bir bardak su da istiyor.",
+      "ipucu": "Ich nehme auch noch ein Glas Wasser.",
+      "answer": "Richtig"
+    }
+  ]
+}

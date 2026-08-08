@@ -1,0 +1,72 @@
+{
+  "title": "GOETHE A2 - HÖREN (PATIENTIN BEIM ARZT)",
+  "subtitle": "PATIENTIN BEIM ARZT",
+  "sectionId": 18,
+  "sectionName": "PATIENTIN BEIM ARZT",
+  "exercises": [
+    {
+      "exerciseId": "17",
+      "type": "richtig_falsch",
+      "frage": "Frau Wagner hat Kopfschmerzen.",
+      "turkce": "Bayan Wagner'ın baş ağrısı var.",
+      "ipucu": "Ich habe seit drei Tagen starke Kopfschmerzen.",
+      "answer": "Richtig"
+    },
+    {
+      "exerciseId": "18",
+      "type": "richtig_falsch",
+      "frage": "Frau Wagner hat die Kopfschmerzen seit einer Woche.",
+      "turkce": "Bayan Wagner'ın baş ağrısı bir haftadır.",
+      "ipucu": "seit drei Tagen - üç gündür.",
+      "answer": "Falsch"
+    },
+    {
+      "exerciseId": "19",
+      "type": "richtig_falsch",
+      "frage": "Frau Wagner hat Fieber.",
+      "turkce": "Bayan Wagner'ın ateşi var.",
+      "ipucu": "Ich habe auch Fieber.",
+      "answer": "Richtig"
+    },
+    {
+      "exerciseId": "20",
+      "type": "richtig_falsch",
+      "frage": "Frau Wagner hat keine Halsschmerzen.",
+      "turkce": "Bayan Wagner'ın boğaz ağrısı yok.",
+      "ipucu": "Die Halsschmerzen sind aber nicht so stark - var.",
+      "answer": "Falsch"
+    },
+    {
+      "exerciseId": "21",
+      "type": "richtig_falsch",
+      "frage": "Der Arzt sagt, es ist eine Grippe.",
+      "turkce": "Doktor grip olduğunu söylüyor.",
+      "ipucu": "Es ist eine Grippe.",
+      "answer": "Richtig"
+    },
+    {
+      "exerciseId": "22",
+      "type": "richtig_falsch",
+      "frage": "Frau Wagner soll die Tabletten zweimal am Tag nehmen.",
+      "turkce": "Bayan Wagner ilaçları günde iki kez almalı.",
+      "ipucu": "drei Mal am Tag - üç kez.",
+      "answer": "Falsch"
+    },
+    {
+      "exerciseId": "23",
+      "type": "richtig_falsch",
+      "frage": "Frau Wagner soll zwei Tage im Bett bleiben.",
+      "turkce": "Bayan Wagner iki gün yatakta kalmalı.",
+      "ipucu": "bleiben Sie zwei Tage im Bett.",
+      "answer": "Richtig"
+    },
+    {
+      "exerciseId": "24",
+      "type": "richtig_falsch",
+      "frage": "Frau Wagner kann am Donnerstag wieder arbeiten.",
+      "turkce": "Bayan Wagner perşembe günü tekrar çalışabilir.",
+      "ipucu": "Am Mittwoch können Sie wieder zur Arbeit gehen - çarşamba.",
+      "answer": "Falsch"
+    }
+  ]
+}

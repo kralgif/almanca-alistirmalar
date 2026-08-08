@@ -1,0 +1,43 @@
+{
+  "title": "GOETHE A2 - HÖREN (BAHNHOFDURCHSAGE 3)",
+  "subtitle": "BAHNHOFDURCHSAGE 3",
+  "sectionId": 29,
+  "sectionName": "BAHNHOFDURCHSAGE 3",
+  "exercises": [
+    {
+      "exerciseId": "17",
+      "type": "multiple_choice",
+      "frage": "Wohin fährt der ICE 587?",
+      "turkce": "ICE 587 nereye gidiyor?",
+      "ipucu": "Der ICE 587 nach Frankfurt.",
+      "options": ["nach Frankfurt", "nach Nürnberg", "nach Stuttgart"],
+      "answer": "nach Frankfurt"
+    },
+    {
+      "exerciseId": "18",
+      "type": "multiple_choice",
+      "frage": "Wie viel Verspätung hat der ICE 587?",
+      "turkce": "ICE 587 ne kadar gecikti?",
+      "ipucu": "hat etwa 20 Minuten Verspätung.",
+      "options": ["15 Minuten", "20 Minuten", "25 Minuten"],
+      "answer": "20 Minuten"
+    },
+    {
+      "exerciseId": "19",
+      "type": "multiple_choice",
+      "frage": "Wann fährt der Zug nach Nürnberg ab?",
+      "turkce": "Nürnberg treni ne zaman kalkıyor?",
+      "ipucu": "um 10:45 Uhr von Gleis 2.",
+      "options": ["um 10:15 Uhr", "um 10:35 Uhr", "um 10:45 Uhr"],
+      "answer": "um 10:45 Uhr"
+    },
+    {
+      "exerciseId": "20",
+      "type": "richtig_falsch",
+      "frage": "Der Zug nach Stuttgart fährt heute von Gleis 3.",
+      "turkce": "Stuttgart treni bugün 3. perondan kalkıyor.",
+      "ipucu": "heute von Gleis 5 statt von Gleis 3.",
+      "answer": "Falsch"
+    }
+  ]
+}

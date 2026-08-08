@@ -1,0 +1,146 @@
+{
+  "title": "GOETHE A1 - SCHREIBEN (TÜM ALIŞTIRMALAR)",
+  "subtitle": "A1 SEVİYESİ YAZMA ALIŞTIRMALARI",
+  "sections": [
+    {
+      "sectionId": 1,
+      "sectionName": "EINLADUNGEN",
+      "exercises": [
+        {
+          "exerciseId": "sch_001",
+          "type": "writing",
+          "aufgabe": "Sie möchten Ihren Freund Thomas zum Geburtstag einladen. Schreiben Sie eine E-Mail (ca. 20-30 Wörter):\n1. Warum schreiben Sie?\n2. Wann und wo ist die Party?\n3. Wann soll Thomas kommen?",
+          "turkce": "Arkadaşınız Thomas'ı doğum gününe davet etmek istiyorsunuz. Bir e-posta yazın:\n1. Neden yazıyorsunuz?\n2. Parti ne zaman ve nerede?\n3. Thomas ne zaman gelmeli?",
+          "keywords": ["schreibe", "Geburtstag", "Party", "einladen", "Samstag", "19 Uhr", "bei mir", "komm", "freue mich", "Grüße"],
+          "min_matches": 4,
+          "solution_example": "Hallo Thomas,\nich lade dich zu meinem Geburtstag ein. Die Party ist am Samstag um 19 Uhr bei mir zu Hause. Bitte komm um 18 Uhr. Ich freue mich auf dich!\nViele Grüße\nMax",
+          "feedback_correct": "Gut gemacht! Deine Einladung ist klar und vollständig.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'Geburtstag', 'Party', 'Samstag', '19 Uhr' ve 'einladen'."
+        },
+        {
+          "exerciseId": "sch_007",
+          "type": "writing",
+          "aufgabe": "Sie möchten Ihre Freundin Anna zum Kaffee einladen. Schreiben Sie eine Nachricht (ca. 20-30 Wörter):\n1. Warum schreiben Sie?\n2. Wann und wo möchten Sie sich treffen?\n3. Was sollen Sie mitbringen?",
+          "turkce": "Arkadaşınız Anna'yı kahveye davet etmek istiyorsunuz. Bir mesaj yazın:\n1. Neden yazıyorsunuz?\n2. Ne zaman ve nerede buluşmak istiyorsunuz?\n3. Ne getirmelisiniz?",
+          "keywords": ["Kaffee", "einladen", "treffen", "Sonntag", "Café", "Markt", "15 Uhr", "Kuchen", "mitbringen", "Grüße"],
+          "min_matches": 4,
+          "solution_example": "Liebe Anna,\nich lade dich zum Kaffee ein. Treffen wir uns am Sonntag um 15 Uhr im Café am Markt. Bitte bring einen Kuchen mit.\nViele Grüße\nClara",
+          "feedback_correct": "Gut gemacht! Deine Einladung ist herzlich und klar.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'Kaffee', 'einladen', 'Sonntag', 'Café' ve 'Kuchen'."
+        }
+      ]
+    },
+    {
+      "sectionId": 2,
+      "sectionName": "DANKSAGUNGEN",
+      "exercises": [
+        {
+          "exerciseId": "sch_002",
+          "type": "writing",
+          "aufgabe": "Sie haben ein Geschenk von Ihrer Tante bekommen. Schreiben Sie eine E-Mail (ca. 20-30 Wörter):\n1. Warum schreiben Sie?\n2. Was haben Sie bekommen?\n3. Wie finden Sie das Geschenk?",
+          "turkce": "Teyzenizden bir hediye aldınız. Bir e-posta yazın:\n1. Neden yazıyorsunuz?\n2. Ne aldınız?\n3. Hediyeyi nasıl buluyorsunuz?",
+          "keywords": ["danke", "bedanken", "Geschenk", "Buch", "schön", "toll", "perfekt", "freue mich", "Grüße"],
+          "min_matches": 4,
+          "solution_example": "Liebe Tante,\nvielen Dank für das schöne Buch! Es ist ein perfektes Geschenk. Ich freue mich sehr darüber.\nLiebe Grüße\nAnna",
+          "feedback_correct": "Gut gemacht! Dein Dankeschön ist herzlich und persönlich.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'danke', 'Geschenk', 'schön' ve 'freue mich'."
+        }
+      ]
+    },
+    {
+      "sectionId": 3,
+      "sectionName": "ANFRAGEN / INFORMATIONEN",
+      "exercises": [
+        {
+          "exerciseId": "sch_003",
+          "type": "writing",
+          "aufgabe": "Sie möchten nach Berlin reisen. Schreiben Sie eine E-Mail an die Touristeninformation (ca. 20-30 Wörter):\n1. Warum schreiben Sie?\n2. Was möchten Sie wissen? (Museen, Sehenswürdigkeiten, Hotels)\n3. Bitte um eine Antwort.",
+          "turkce": "Berlin'e seyahat etmek istiyorsunuz. Turizm danışmaya bir e-posta yazın:\n1. Neden yazıyorsunuz?\n2. Ne bilmek istiyorsunuz? (Müzeler, turistik yerler, oteller)\n3. Cevap isteyin.",
+          "keywords": ["Berlin", "reisen", "Information", "Museen", "Sehenswürdigkeiten", "Hotels", "senden", "antworten", "Grüßen"],
+          "min_matches": 4,
+          "solution_example": "Sehr geehrte Damen und Herren,\nich möchte nach Berlin reisen. Bitte senden Sie mir Informationen zu Museen, Sehenswürdigkeiten und Hotels. Vielen Dank!\nMit freundlichen Grüßen\nMehmet",
+          "feedback_correct": "Gut gemacht! Deine Anfrage ist klar und vollständig.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'Berlin', 'reisen', 'Information', 'Museen' ve 'Hotels'."
+        },
+        {
+          "exerciseId": "sch_006",
+          "type": "writing",
+          "aufgabe": "Sie möchten einen Tisch im Restaurant reservieren. Schreiben Sie eine E-Mail (ca. 20-30 Wörter):\n1. Warum schreiben Sie?\n2. Wann und für wie viele Personen?\n3. Bitte um eine Bestätigung.",
+          "turkce": "Restoranda masa rezervasyonu yapmak istiyorsunuz. Bir e-posta yazın:\n1. Neden yazıyorsunuz?\n2. Ne zaman ve kaç kişi için?\n3. Onay isteyin.",
+          "keywords": ["reservieren", "Tisch", "Restaurant", "Samstag", "19 Uhr", "4 Personen", "Bestätigung", "antworten", "Grüßen"],
+          "min_matches": 4,
+          "solution_example": "Guten Tag,\nich möchte einen Tisch reservieren. Wir kommen am Samstag um 19 Uhr. Wir sind 4 Personen. Bitte bestätigen Sie die Reservierung.\nVielen Dank\nLisa",
+          "feedback_correct": "Gut gemacht! Deine Reservierungsanfrage ist klar und höflich.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'reservieren', 'Tisch', 'Samstag', '19 Uhr' ve 'Personen'."
+        },
+        {
+          "exerciseId": "sch_009",
+          "type": "writing",
+          "aufgabe": "Sie möchten ein Buch im Internet bestellen. Schreiben Sie eine E-Mail an den Buchladen (ca. 20-30 Wörter):\n1. Warum schreiben Sie?\n2. Welches Buch möchten Sie?\n3. Wie möchten Sie bezahlen?",
+          "turkce": "İnternetten bir kitap sipariş etmek istiyorsunuz. Kitapçıya bir e-posta yazın:\n1. Neden yazıyorsunuz?\n2. Hangi kitabı istiyorsunuz?\n3. Nasıl ödemek istiyorsunuz?",
+          "keywords": ["bestellen", "Buch", "Deutsch für Anfänger", "kaufen", "Kreditkarte", "PayPal", "Überweisung", "Grüßen"],
+          "min_matches": 4,
+          "solution_example": "Guten Tag,\nich möchte das Buch 'Deutsch für Anfänger' bestellen. Der Preis ist 14,90 Euro. Ich bezahle mit Kreditkarte.\nMit freundlichen Grüßen\nMichael",
+          "feedback_correct": "Gut gemacht! Deine Bestellung ist klar und vollständig.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'bestellen', 'Buch', 'Deutsch für Anfänger' ve 'Kreditkarte'."
+        },
+        {
+          "exerciseId": "sch_010",
+          "type": "writing",
+          "aufgabe": "Sie möchten eine Wohnung besichtigen. Schreiben Sie eine E-Mail (ca. 20-30 Wörter):\n1. Warum schreiben Sie?\n2. Wann möchten Sie die Wohnung sehen?\n3. Was möchten Sie wissen? (Miete, Größe, Lage)",
+          "turkce": "Bir daire görmek istiyorsunuz. Bir e-posta yazın:\n1. Neden yazıyorsunuz?\n2. Daireyi ne zaman görmek istiyorsunuz?\n3. Ne bilmek istiyorsunuz? (Kira, büyüklük, konum)",
+          "keywords": ["Wohnung", "besichtigen", "sehen", "Dienstag", "16 Uhr", "Miete", "Größe", "Lage", "Grüßen"],
+          "min_matches": 4,
+          "solution_example": "Sehr geehrte Frau Schmidt,\nich möchte die Wohnung in der Goethestraße 15 besichtigen. Kann ich am Dienstag um 16 Uhr kommen? Wie viel kostet die Miete? Wie groß ist die Wohnung?\nMit freundlichen Grüßen\nThomas",
+          "feedback_correct": "Gut gemacht! Deine Anfrage ist klar und vollständig.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'Wohnung', 'besichtigen', 'Dienstag', '16 Uhr' ve 'Miete'."
+        }
+      ]
+    },
+    {
+      "sectionId": 4,
+      "sectionName": "KRANKMELDUNGEN & ABSAGEN",
+      "exercises": [
+        {
+          "exerciseId": "sch_004",
+          "type": "writing",
+          "aufgabe": "Sie können heute nicht zur Arbeit kommen. Schreiben Sie eine E-Mail an Ihre Chefin (ca. 20-30 Wörter):\n1. Warum schreiben Sie?\n2. Was haben Sie? (Kopfschmerzen, Fieber, Grippe)\n3. Wie lange bleiben Sie zu Hause?",
+          "turkce": "Bugün işe gelemeyeceksiniz. Patronunuza bir e-posta yazın:\n1. Neden yazıyorsunuz?\n2. Ne rahatsızlığınız var? (Baş ağrısı, ateş, grip)\n3. Ne kadar evde kalacaksınız?",
+          "keywords": ["krank", "nicht kommen", "Arbeit", "Kopfschmerzen", "Fieber", "Grippe", "zu Hause", "heute", "Grüßen"],
+          "min_matches": 4,
+          "solution_example": "Sehr geehrte Frau Meier,\nich kann heute nicht zur Arbeit kommen. Ich habe starke Kopfschmerzen und Fieber. Ich bleibe heute zu Hause. Vielen Dank für Ihr Verständnis!\nMit freundlichen Grüßen\nJulia",
+          "feedback_correct": "Gut gemacht! Deine Krankmeldung ist klar und höflich.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'krank', 'Kopfschmerzen', 'Fieber' ve 'zu Hause'."
+        },
+        {
+          "exerciseId": "sch_005",
+          "type": "writing",
+          "aufgabe": "Sie können nicht zum Treffen am Samstag kommen. Schreiben Sie eine Nachricht an Ihren Freund (ca. 20-30 Wörter):\n1. Warum schreiben Sie?\n2. Warum können Sie nicht kommen?\n3. Wann können Sie sich treffen?",
+          "turkce": "Cumartesi buluşmaya gelemeyeceksiniz. Arkadaşınıza bir mesaj yazın:\n1. Neden yazıyorsunuz?\n2. Neden gelemiyorsunuz?\n3. Ne zaman buluşabilirsiniz?",
+          "keywords": ["leider", "nicht kommen", "Treffen", "arbeiten", "Termin", "Dienstag", "Mittwoch", "nächste Woche", "Grüße"],
+          "min_matches": 4,
+          "solution_example": "Hallo Max,\nleider kann ich am Samstag nicht zum Treffen kommen. Ich muss arbeiten. Können wir uns am Dienstag treffen?\nBis bald\nPeter",
+          "feedback_correct": "Gut gemacht! Deine Absage ist freundlich und klar.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'leider', 'nicht kommen', 'Treffen', 'arbeiten' ve 'neuer Termin'."
+        }
+      ]
+    },
+    {
+      "sectionId": 5,
+      "sectionName": "POSTKARTEN & URLAUB",
+      "exercises": [
+        {
+          "exerciseId": "sch_008",
+          "type": "writing",
+          "aufgabe": "Sie fahren in den Urlaub. Schreiben Sie eine Postkarte an Ihre Eltern (ca. 20-30 Wörter):\n1. Wo sind Sie?\n2. Wie ist das Wetter?\n3. Was machen Sie?",
+          "turkce": "Tatile gidiyorsunuz. Ailenize bir kartpostal yazın:\n1. Neredesiniz?\n2. Hava nasıl?\n3. Ne yapıyorsunuz?",
+          "keywords": ["Italien", "Meer", "sonnig", "warm", "schwimmen", "wandern", "essen", "Urlaub", "Grüße"],
+          "min_matches": 4,
+          "solution_example": "Liebe Eltern,\nich bin in Italien am Meer. Das Wetter ist sonnig und warm. Ich schwimme jeden Tag und esse viel Eis.\nLiebe Grüße\nSarah",
+          "feedback_correct": "Gut gemacht! Deine Postkarte ist herzlich und informativ.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'Italien', 'Meer', 'sonnig', 'warm' ve 'schwimmen'."
+        }
+      ]
+    }
+  ]
+}

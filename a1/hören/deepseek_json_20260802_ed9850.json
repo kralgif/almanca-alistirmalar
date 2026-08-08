@@ -1,0 +1,48 @@
+{
+  "title": "GOETHE A2 - HÖREN (POST)",
+  "subtitle": "POST",
+  "sectionId": 19,
+  "sectionName": "POST",
+  "exercises": [
+    {
+      "exerciseId": "46",
+      "type": "richtig_falsch",
+      "frage": "Der Kunde möchte ein Paket nach Österreich schicken.",
+      "turkce": "Müşteri Avusturya'ya paket göndermek istiyor.",
+      "ipucu": "Ich möchte ein Paket nach Österreich schicken.",
+      "answer": "Richtig"
+    },
+    {
+      "exerciseId": "47",
+      "type": "richtig_falsch",
+      "frage": "Das Paket wiegt 3 Kilogramm.",
+      "turkce": "Paket 3 kilogram.",
+      "ipucu": "Etwa 2 Kilogramm.",
+      "answer": "Falsch"
+    },
+    {
+      "exerciseId": "48",
+      "type": "richtig_falsch",
+      "frage": "Versichert kostet es 16,50 Euro.",
+      "turkce": "Sigortalı 16,50 Euro.",
+      "ipucu": "Dann sind es 16,50 Euro.",
+      "answer": "Richtig"
+    },
+    {
+      "exerciseId": "49",
+      "type": "richtig_falsch",
+      "frage": "Der Kunde muss ein Formular ausfüllen.",
+      "turkce": "Müşteri bir form doldurmalı.",
+      "ipucu": "Füllen Sie bitte dieses Formular aus.",
+      "answer": "Richtig"
+    },
+    {
+      "exerciseId": "50",
+      "type": "richtig_falsch",
+      "frage": "Der Kunde bezahlt bar.",
+      "turkce": "Müşteri nakit ödüyor.",
+      "ipucu": "Kann ich mit Karte bezahlen? - kartla.",
+      "answer": "Falsch"
+    }
+  ]
+}

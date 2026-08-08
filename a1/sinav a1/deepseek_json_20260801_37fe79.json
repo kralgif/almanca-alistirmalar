@@ -1,0 +1,216 @@
+{
+  "baslik": "Goethe A1 - Deneme Sınavı",
+  "sürüm": "1.0",
+  "tarih": "2024-08-02",
+  "aciklama": "Goethe A1 Start Deutsch 1 formatında tam deneme sınavı - Lesen ve Schreiben bölümleri",
+  "uygulama_kurallari": {
+    "cevap_kontrol": {
+      "dogru_cevap": "Öğrenci cevabı 'dogru_cevap' alanı ile birebir eşleşirse doğru.",
+      "synonyme_kontrolu": "Öğrenci cevabı 'synonyme' listesindeki herhangi bir kelimeyle eşleşirse doğru.",
+      "anahtar_kelime_kontrolu": "Öğrenci cevabı 'anahtar_kelimeler' listesindeki tüm kelimeleri içeriyorsa doğru.",
+      "oneri_mesaji": "Yanlış cevap durumunda 'oneri' alanını göster."
+    },
+    "soru_tipleri": {
+      "coktan_secmeli": "Öğrenci a, b, c şıklarından birini seçer.",
+      "bosluk_doldurma": "Öğrenci boşluğa uygun kelimeyi yazar.",
+      "email": "Öğrenci serbest metin yazar."
+    },
+    "puanlama_schreiben": {
+      "max_puan": 10,
+      "kriterler": {
+        "aufgabe_erfullt": "3 puan - Tüm noktalar cevaplanmış",
+        "textsorte": "1 puan - Anrede und Grußformel doğru",
+        "grammatik": "2 puan - Fiil çekimleri doğru",
+        "wortschatz": "2 puan - Konuya uygun kelimeler",
+        "rechtschreibung": "1 puan - Yazım kuralları",
+        "satzverbindungen": "1 puan - Bağlaçlar kullanılmış"
+      }
+    }
+  },
+  "lesen": {
+    "metinler": [
+      {
+        "id": "lesen_metin_1",
+        "baslik": "Bio-Lebensmittel",
+        "metin": "Immer mehr Menschen in Deutschland kaufen Bio-Lebensmittel. Das hat eine neue Studie gezeigt. Bio-Produkte sind gesünder und besser für die Umwelt. Viele Supermärkte bieten heute eine große Auswahl an Bio-Obst, Bio-Gemüse und Bio-Fleisch. Die Preise sind oft höher als bei normalen Produkten, aber viele Kunden sind bereit, mehr zu bezahlen.\n\nBesonders junge Menschen zwischen 18 und 35 Jahren kaufen gerne Bio-Produkte. Sie achten auf ihre Gesundheit und die Umwelt. Auch in Restaurants und Kantinen gibt es heute mehr Bio-Gerichte.\n\nDie Studie zeigt auch, dass viele Menschen nicht genau wissen, was 'Bio' bedeutet. Sie kaufen Bio-Produkte, weil sie denken, dass sie gesünder sind. Experten sagen, dass Bio-Produkte nicht immer gesünder sind, aber sie sind besser für die Umwelt.",
+        "sorular": [
+          {
+            "soru_no": 12,
+            "soru": "Was zeigt die Studie?",
+            "tip": "coktan_secmeli",
+            "secenekler": {
+              "a": "Immer weniger Menschen kaufen Bio-Lebensmittel.",
+              "b": "Immer mehr Menschen kaufen Bio-Lebensmittel.",
+              "c": "Bio-Lebensmittel sind immer billiger."
+            },
+            "dogru_cevap": "b",
+            "synonyme": [],
+            "anahtar_kelimeler": [],
+            "oneri": "Immer mehr Menschen kaufen Bio-Lebensmittel."
+          },
+          {
+            "soru_no": 13,
+            "soru": "Warum kaufen viele Menschen Bio-Produkte?",
+            "tip": "coktan_secmeli",
+            "secenekler": {
+              "a": "Weil sie billig sind.",
+              "b": "Weil sie gesünder sind und besser für die Umwelt.",
+              "c": "Weil sie immer verfügbar sind."
+            },
+            "dogru_cevap": "b",
+            "synonyme": [],
+            "anahtar_kelimeler": [],
+            "oneri": "Weil sie gesünder sind und besser für die Umwelt."
+          },
+          {
+            "soru_no": 14,
+            "soru": "Wer kauft besonders gern Bio-Produkte?",
+            "tip": "coktan_secmeli",
+            "secenekler": {
+              "a": "Ältere Menschen über 60",
+              "b": "Junge Menschen zwischen 18 und 35",
+              "c": "Kinder unter 10"
+            },
+            "dogru_cevap": "b",
+            "synonyme": [],
+            "anahtar_kelimeler": [],
+            "oneri": "Junge Menschen zwischen 18 und 35"
+          },
+          {
+            "soru_no": 15,
+            "soru": "Was sagen Experten über Bio-Produkte?",
+            "tip": "coktan_secmeli",
+            "secenekler": {
+              "a": "Sie sind immer gesünder.",
+              "b": "Sie sind nicht immer gesünder, aber besser für die Umwelt.",
+              "c": "Sie sind immer teurer."
+            },
+            "dogru_cevap": "b",
+            "synonyme": [],
+            "anahtar_kelimeler": [],
+            "oneri": "Sie sind nicht immer gesünder, aber besser für die Umwelt."
+          },
+          {
+            "soru_no": 16,
+            "soru": "Was bieten Supermärkte heute an?",
+            "tip": "coktan_secmeli",
+            "secenekler": {
+              "a": "Nur normale Produkte",
+              "b": "Eine große Auswahl an Bio-Produkten",
+              "c": "Keine Bio-Produkte"
+            },
+            "dogru_cevap": "b",
+            "synonyme": [],
+            "anahtar_kelimeler": [],
+            "oneri": "Eine große Auswahl an Bio-Produkten"
+          },
+          {
+            "soru_no": 17,
+            "soru": "Was wissen viele Menschen über Bio?",
+            "tip": "coktan_secmeli",
+            "secenekler": {
+              "a": "Sie wissen genau, was Bio bedeutet.",
+              "b": "Sie wissen nicht genau, was Bio bedeutet.",
+              "c": "Sie wissen nichts über Bio."
+            },
+            "dogru_cevap": "b",
+            "synonyme": [],
+            "anahtar_kelimeler": [],
+            "oneri": "Sie wissen nicht genau, was Bio bedeutet."
+          }
+        ]
+      },
+      {
+        "id": "lesen_metin_2",
+        "baslik": "Einladung zum Geburtstag",
+        "metin": "Liebe Anna,\n\nich schreibe dir, weil ich am Samstag Geburtstag habe. Ich lade dich herzlich zu meiner Party ein. Die Party beginnt um 19 Uhr bei mir zu Hause. Bitte bring etwas zu essen oder zu trinken mit. Wir wollen im Garten feiern. Vergiss nicht eine Jacke, denn es wird kühl. Ich freue mich sehr auf dich!\n\nViele Grüße\nLisa",
+        "sorular": [
+          {
+            "soru_no": 18,
+            "soru": "ich _______ dir, weil ich am Samstag Geburtstag habe.",
+            "tip": "bosluk_doldurma",
+            "dogru_cevap": "schreibe",
+            "synonyme": ["schreib", "schreiben"],
+            "anahtar_kelimeler": ["schreibe"],
+            "oneri": "schreibe"
+          },
+          {
+            "soru_no": 19,
+            "soru": "Die Party _______ um 19 Uhr bei mir zu Hause.",
+            "tip": "bosluk_doldurma",
+            "dogru_cevap": "beginnt",
+            "synonyme": ["fängt", "startet"],
+            "anahtar_kelimeler": ["beginnt", "fängt"],
+            "oneri": "beginnt / fängt an"
+          },
+          {
+            "soru_no": 20,
+            "soru": "Bitte bring etwas zu essen oder zu trinken _______.",
+            "tip": "bosluk_doldurma",
+            "dogru_cevap": "mit",
+            "synonyme": ["mitbringen"],
+            "anahtar_kelimeler": ["mit"],
+            "oneri": "mit"
+          },
+          {
+            "soru_no": 21,
+            "soru": "Wir wollen im Garten _______.",
+            "tip": "bosluk_doldurma",
+            "dogru_cevap": "feiern",
+            "synonyme": ["party", "feier"],
+            "anahtar_kelimeler": ["feiern"],
+            "oneri": "feiern"
+          },
+          {
+            "soru_no": 22,
+            "soru": "Ich _______ mich sehr auf dich!",
+            "tip": "bosluk_doldurma",
+            "dogru_cevap": "freue",
+            "synonyme": ["freu"],
+            "anahtar_kelimeler": ["freue"],
+            "oneri": "freue"
+          }
+        ]
+      }
+    ]
+  },
+  "schreiben": {
+    "alistirmalar": [
+      {
+        "id": "sch_001",
+        "konu": "E-Mail an die Touristeninformation",
+        "tip": "email",
+        "zorluk": "orta",
+        "görev": "Sie möchten im August Dresden besuchen. Schreiben Sie eine E-Mail an die Touristeninformation (ca. 20-30 Wörter): 1. Warum schreiben Sie? 2. Bitten Sie um Informationen über Museen und Sehenswürdigkeiten. 3. Fragen Sie nach Hoteladressen.",
+        "anrede": ["Sehr geehrte Damen und Herren", "Guten Tag", "Liebe Touristeninformation"],
+        "gruß": ["Mit freundlichen Grüßen", "Vielen Dank", "Liebe Grüße"],
+        "anahtar_kelimeler": {
+          "grund": ["schreibe", "August", "Dresden", "reisen", "Information", "Anfrage"],
+          "info": ["Museen", "Sehenswürdigkeiten", "Kulturprogramm", "Ausstellungen"],
+          "frage": ["Hoteladressen", "Hotels", "Unterkunft", "Adressen"]
+        },
+        "synonyme": {
+          "reisen": ["fahren", "besuchen", "verreisen"],
+          "Information": ["Auskunft", "Tipp", "Empfehlung"],
+          "Museen": ["Ausstellungen", "Kunst"],
+          "Sehenswürdigkeiten": ["Attraktionen", "Plätze"],
+          "Hoteladressen": ["Unterkünfte", "Hotels", "Pensionen"]
+        },
+        "kalip_ifadeler": [
+          "Ich schreibe Ihnen, weil ich im August Dresden besuchen möchte.",
+          "Könnten Sie mir bitte Informationen über Museen und Sehenswürdigkeiten geben?",
+          "Ich hätte auch gerne einige Hoteladressen.",
+          "Bitte senden Sie mir Informationen über...",
+          "Vielen Dank für Ihre Hilfe."
+        ],
+        "cümle_varyasyonlari": [
+          "Sehr geehrte Damen und Herren, ich möchte im August Dresden besuchen. Bitte senden Sie mir Informationen über Museen und Sehenswürdigkeiten. Ich brauche auch Hoteladressen. Vielen Dank!",
+          "Guten Tag, ich reise im August nach Dresden. Könnten Sie mir bitte Informationen über Museen und Hotels schicken?",
+          "Sehr geehrte Damen und Herren, ich schreibe Ihnen, weil ich im August Dresden besuchen möchte. Ich würde gerne Informationen über Museen und Sehenswürdigkeiten bekommen. Können Sie mir auch Hoteladressen geben?",
+          "Liebe Touristeninformation, ich möchte im August Dresden besuchen. Bitte senden Sie mir Infos zu Museen und Sehenswürdigkeiten. Ich brauche auch Hoteladressen. Danke!"
+        ],
+        "ornek_cevap": "Sehr geehrte Damen und Herren,\nich möchte im August Dresden besuchen. Bitte senden Sie mir Informationen über Museen und Sehenswürdigkeiten. Ich brauche auch Hoteladressen. Vielen Dank!\nMit freundlichen Grüßen\nMax"
+      }
+    ]
+  }
+}

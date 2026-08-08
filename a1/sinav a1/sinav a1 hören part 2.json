@@ -1,0 +1,47 @@
+{
+  "baslik": "Restaurantbestellung",
+  "sürüm": "1.0",
+  "tarih": "2024-08-02",
+  "aciklama": "Restaurantbestellung - Gast bestellt Essen und Getränke",
+  "transkript": "Kellner: Guten Abend! Was möchten Sie essen?\nGast: Ich hätte gern die Tomatensuppe und dann das Schnitzel mit Pommes.\nKellner: Und was möchten Sie trinken?\nGast: Ein Glas Wasser, bitte.\nKellner: Möchten Sie auch einen Nachtisch?\nGast: Nein, danke. Das ist alles.\nKellner: Kommt sofort.",
+  "transkript_enthalten": false,
+  "uygulama_kurallari": {
+    "cevap_kontrol": {
+      "dogru_cevap": "Öğrenci cevabı 'dogru_cevap' alanı ile birebir eşleşirse doğru.",
+      "oneri_mesaji": "Yanlış cevap durumunda 'oneri' alanını göster."
+    },
+    "soru_tipleri": {
+      "coktan_secmeli": "Öğrenci a, b, c şıklarından birini seçer."
+    }
+  },
+  "alistirmalar": [
+    {
+      "id": "re_001",
+      "soru": "Der Gast möchte zuerst...",
+      "tip": "coktan_secmeli",
+      "secenekler": {
+        "a": "die Tomatensuppe",
+        "b": "das Schnitzel mit Pommes",
+        "c": "ein Eis"
+      },
+      "dogru_cevap": "a",
+      "synonyme": [],
+      "anahtar_kelimeler": [],
+      "oneri": "die Tomatensuppe"
+    },
+    {
+      "id": "re_002",
+      "soru": "Der Gast trinkt...",
+      "tip": "coktan_secmeli",
+      "secenekler": {
+        "a": "ein Glas Bier",
+        "b": "ein Glas Wein",
+        "c": "ein Glas Wasser"
+      },
+      "dogru_cevap": "c",
+      "synonyme": [],
+      "anahtar_kelimeler": [],
+      "oneri": "ein Glas Wasser"
+    }
+  ]
+}

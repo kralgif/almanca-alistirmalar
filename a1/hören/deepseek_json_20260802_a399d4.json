@@ -1,0 +1,61 @@
+{
+  "title": "GOETHE A2 - HÖREN (RADIO - GESPRÄCH ÜBER HOBBIES)",
+  "subtitle": "RADIO - GESPRÄCH ÜBER HOBBIES",
+  "sectionId": 20,
+  "sectionName": "RADIO - GESPRÄCH ÜBER HOBBIES",
+  "exercises": [
+    {
+      "exerciseId": "17",
+      "type": "multiple_choice",
+      "frage": "Lisa ist ...",
+      "turkce": "Lisa ...",
+      "ipucu": "Lisa, 24 Jahre alt.",
+      "options": ["22 Jahre alt", "24 Jahre alt", "26 Jahre alt"],
+      "answer": "24 Jahre alt"
+    },
+    {
+      "exerciseId": "18",
+      "type": "multiple_choice",
+      "frage": "Lisa geht ... pro Woche ins Fitnessstudio.",
+      "turkce": "Lisa haftada ... fitness stüdyosuna gidiyor.",
+      "ipucu": "dreimal pro Woche.",
+      "options": ["einmal", "zweimal", "dreimal"],
+      "answer": "dreimal"
+    },
+    {
+      "exerciseId": "19",
+      "type": "multiple_choice",
+      "frage": "Lisa spielt...",
+      "turkce": "Lisa ... çalıyor.",
+      "ipucu": "Ich spiele auch Klavier.",
+      "options": ["Gitarre", "Klavier", "Schlagzeug"],
+      "answer": "Klavier"
+    },
+    {
+      "exerciseId": "20",
+      "type": "multiple_choice",
+      "frage": "Lisa liest ...",
+      "turkce": "Lisa ... okuyor.",
+      "ipucu": "ungefähr zwei Bücher pro Monat.",
+      "options": ["zwei Bücher pro Monat", "drei Bücher pro Monat", "fünf Bücher pro Monat"],
+      "answer": "zwei Bücher pro Monat"
+    },
+    {
+      "exerciseId": "21",
+      "type": "multiple_choice",
+      "frage": "Lisas Spezialität ist...",
+      "turkce": "Lisa'nın uzmanlığı...",
+      "ipucu": "Meine Spezialität ist Pasta mit selbstgemachter Tomatensauce.",
+      "options": ["Pizza", "Pasta mit Tomatensauce", "Suppe"],
+      "answer": "Pasta mit Tomatensauce"
+    },
+    {
+      "exerciseId": "22",
+      "type": "fill_in",
+      "frage": "Lisa liest gern _______ und _______-Bücher.",
+      "turkce": "Lisa _______ ve _______ kitapları okumayı seviyor.",
+      "ipucu": "Ich mag Krimis und Fantasy-Bücher.",
+      "answer": "Krimis, Fantasy"
+    }
+  ]
+}

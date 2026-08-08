@@ -1,0 +1,43 @@
+{
+  "title": "GOETHE A2 - HÖREN (FLUGHAFENDURCHSAGE)",
+  "subtitle": "FLUGHAFENDURCHSAGE",
+  "sectionId": 8,
+  "sectionName": "FLUGHAFENDURCHSAGE",
+  "exercises": [
+    {
+      "exerciseId": "13",
+      "type": "multiple_choice",
+      "frage": "Wohin fliegt Flug LH 482?",
+      "turkce": "LH 482 uçuşu nereye gidiyor?",
+      "ipucu": "Flug LH 482 nach London.",
+      "options": ["nach New York", "nach London", "nach Paris"],
+      "answer": "nach London"
+    },
+    {
+      "exerciseId": "14",
+      "type": "multiple_choice",
+      "frage": "Von welchem Gate startet Flug LH 482 jetzt?",
+      "turkce": "LH 482 uçuşu şimdi hangi kapıdan kalkıyor?",
+      "ipucu": "wird jetzt auf Gate 14 verlegt.",
+      "options": ["Gate 12", "Gate 14", "Gate 17"],
+      "answer": "Gate 14"
+    },
+    {
+      "exerciseId": "15",
+      "type": "multiple_choice",
+      "frage": "Wie viel Verspätung hat Flug BA 215?",
+      "turkce": "BA 215 uçuşu ne kadar gecikti?",
+      "ipucu": "hat eine Stunde Verspätung - 1 Stunde = 60 Minuten.",
+      "options": ["30 Minuten", "45 Minuten", "60 Minuten"],
+      "answer": "60 Minuten"
+    },
+    {
+      "exerciseId": "16",
+      "type": "richtig_falsch",
+      "frage": "Passagiere nach Paris sollen sich am Schalter B melden.",
+      "turkce": "Paris yolcuları B gişesine gitmeli.",
+      "ipucu": "Schalter A - A gişesi.",
+      "answer": "Falsch"
+    }
+  ]
+}

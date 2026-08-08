@@ -1,0 +1,48 @@
+{
+  "title": "GOETHE A2 - HÖREN (RADIOBERICHT)",
+  "subtitle": "RADIOBERICHT",
+  "sectionId": 21,
+  "sectionName": "RADIOBERICHT",
+  "exercises": [
+    {
+      "exerciseId": "21",
+      "type": "richtig_falsch",
+      "frage": "Im Norden ist es sonnig und warm.",
+      "turkce": "Kuzeyde güneşli ve sıcak.",
+      "ipucu": "Im Norden ist es sonnig und warm.",
+      "answer": "Richtig"
+    },
+    {
+      "exerciseId": "22",
+      "type": "richtig_falsch",
+      "frage": "In der Mitte gibt es Regen.",
+      "turkce": "Orta kısımda yağmur var.",
+      "ipucu": "In der Mitte ... leichten Regen - hafif yağmur.",
+      "answer": "Richtig"
+    },
+    {
+      "exerciseId": "23",
+      "type": "richtig_falsch",
+      "frage": "Die Temperaturen im Norden sind 15 Grad.",
+      "turkce": "Kuzeyde sıcaklıklar 15 derece.",
+      "ipucu": "zwischen 20 und 25 Grad.",
+      "answer": "Falsch"
+    },
+    {
+      "exerciseId": "24",
+      "type": "richtig_falsch",
+      "frage": "Im Süden gibt es Gewitter am Nachmittag.",
+      "turkce": "Güneyde öğleden sonra fırtına var.",
+      "ipucu": "Im Süden ... Gewitter am Nachmittag.",
+      "answer": "Richtig"
+    },
+    {
+      "exerciseId": "25",
+      "type": "richtig_falsch",
+      "frage": "Morgen wird es kälter.",
+      "turkce": "Yarın hava soğuyacak.",
+      "ipucu": "wärmer und sonniger - daha sıcak.",
+      "answer": "Falsch"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "title": "GOETHE A2 - HÖREN (DURCHSAGE IM BAHNHOF 2)",
+  "subtitle": "DURCHSAGE IM BAHNHOF 2",
+  "sectionId": 6,
+  "sectionName": "DURCHSAGE IM BAHNHOF 2",
+  "exercises": [
+    {
+      "exerciseId": "1",
+      "type": "richtig_falsch",
+      "frage": "Der ICE 587 fährt nach Frankfurt.",
+      "turkce": "ICE 587 Frankfurt'a gidiyor.",
+      "ipucu": "Der ICE 587 nach Frankfurt.",
+      "answer": "Richtig"
+    },
+    {
+      "exerciseId": "2",
+      "type": "richtig_falsch",
+      "frage": "Der Zug hat 20 Minuten Verspätung.",
+      "turkce": "Tren 20 dakika gecikti.",
+      "ipucu": "etwa 15 Minuten Verspätung - 15 dakika.",
+      "answer": "Falsch"
+    },
+    {
+      "exerciseId": "3",
+      "type": "richtig_falsch",
+      "frage": "Der Zug fährt jetzt um 10:30 Uhr ab.",
+      "turkce": "Tren şimdi 10:30'da kalkıyor.",
+      "ipucu": "Die neue Abfahrt ist um 10:30 Uhr.",
+      "answer": "Richtig"
+    },
+    {
+      "exerciseId": "4",
+      "type": "richtig_falsch",
+      "frage": "Der Regionalzug nach Nürnberg fährt um 10:45 Uhr.",
+      "turkce": "Nürnberg bölgesel treni 10:45'te kalkıyor.",
+      "ipucu": "um 10:45 Uhr von Gleis 2.",
+      "answer": "Richtig"
+    },
+    {
+      "exerciseId": "5",
+      "type": "richtig_falsch",
+      "frage": "Der Zug nach Stuttgart fährt von Gleis 3.",
+      "turkce": "Stuttgart treni 3. perondan kalkıyor.",
+      "ipucu": "von Gleis 5 statt von Gleis 3.",
+      "answer": "Falsch"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "title": "GOETHE A2 - HÖREN (NEUER STUDENT)",
+  "subtitle": "NEUER STUDENT",
+  "sectionId": 17,
+  "sectionName": "NEUER STUDENT",
+  "exercises": [
+    {
+      "exerciseId": "9",
+      "type": "multiple_choice",
+      "frage": "Der Student heißt...",
+      "turkce": "Öğrencinin adı...",
+      "ipucu": "Ich bin Ali Demir.",
+      "options": ["Ali Müller", "Ali Demir", "Ali Schmidt"],
+      "answer": "Ali Demir"
+    },
+    {
+      "exerciseId": "10",
+      "type": "multiple_choice",
+      "frage": "Ali kommt aus...",
+      "turkce": "Ali ...'dan geliyor.",
+      "ipucu": "Ich komme aus der Türkei.",
+      "options": ["Deutschland", "Österreich", "der Türkei"],
+      "answer": "der Türkei"
+    },
+    {
+      "exerciseId": "11",
+      "type": "multiple_choice",
+      "frage": "Ali ist...",
+      "turkce": "Ali...",
+      "ipucu": "Ich bin 24 Jahre alt.",
+      "options": ["22 Jahre alt", "24 Jahre alt", "26 Jahre alt"],
+      "answer": "24 Jahre alt"
+    },
+    {
+      "exerciseId": "12",
+      "type": "multiple_choice",
+      "frage": "Ali studiert...",
+      "turkce": "Ali ... okuyor.",
+      "ipucu": "Ich studiere Informatik.",
+      "options": ["Medizin", "Informatik", "Deutsch"],
+      "answer": "Informatik"
+    },
+    {
+      "exerciseId": "13",
+      "type": "multiple_choice",
+      "frage": "Ali wohnt in...",
+      "turkce": "Ali ...'de yaşıyor.",
+      "ipucu": "Ich wohne in einer WG.",
+      "options": ["einem Hotel", "einer WG", "einer Wohnung allein"],
+      "answer": "einer WG"
+    },
+    {
+      "exerciseId": "14",
+      "type": "multiple_choice",
+      "frage": "Ali hat...",
+      "turkce": "Ali'nin ... var.",
+      "ipucu": "Ich habe einen Bruder.",
+      "options": ["eine Schwester", "einen Bruder", "einen Hund"],
+      "answer": "einen Bruder"
+    },
+    {
+      "exerciseId": "15",
+      "type": "multiple_choice",
+      "frage": "Ali fotografiert gern...",
+      "turkce": "Ali ... fotoğraflamayı sever.",
+      "ipucu": "Ich fotografiere gern die Stadt und die Natur.",
+      "options": ["die Stadt und die Natur", "das Meer und die Berge", "Tiere und Pflanzen"],
+      "answer": "die Stadt und die Natur"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "title": "GOETHE A2 - HÖREN (ARZTTERMIN)",
+  "subtitle": "ARZTTERMIN",
+  "sectionId": 3,
+  "sectionName": "ARZTTERMIN",
+  "exercises": [
+    {
+      "exerciseId": "26",
+      "type": "richtig_falsch",
+      "frage": "Der Patient hat Halsschmerzen.",
+      "turkce": "Hastanın boğaz ağrısı var.",
+      "ipucu": "Ich habe seit drei Tagen starke Halsschmerzen.",
+      "answer": "Richtig"
+    },
+    {
+      "exerciseId": "27",
+      "type": "richtig_falsch",
+      "frage": "Der Patient hat die Schmerzen seit zwei Tagen.",
+      "turkce": "Hastanın ağrıları iki gündür.",
+      "ipucu": "seit drei Tagen - üç gündür.",
+      "answer": "Falsch"
+    },
+    {
+      "exerciseId": "28",
+      "type": "richtig_falsch",
+      "frage": "Der Termin ist um 11:30 Uhr.",
+      "turkce": "Randevu 11:30'da.",
+      "ipucu": "einen Termin um 11:30 Uhr.",
+      "answer": "Richtig"
+    },
+    {
+      "exerciseId": "29",
+      "type": "richtig_falsch",
+      "frage": "Der Patient muss die Krankenversicherungskarte mitbringen.",
+      "turkce": "Hasta sağlık sigorta kartını getirmeli.",
+      "ipucu": "Bitte bringen Sie Ihre Krankenversicherungskarte mit.",
+      "answer": "Richtig"
+    },
+    {
+      "exerciseId": "30",
+      "type": "richtig_falsch",
+      "frage": "Der Patient kommt heute nicht.",
+      "turkce": "Hasta bugün gelmiyor.",
+      "ipucu": "heute noch einen Termin - bugün randevu.",
+      "answer": "Falsch"
+    }
+  ]
+}

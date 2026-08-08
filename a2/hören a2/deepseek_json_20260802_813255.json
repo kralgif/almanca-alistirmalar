@@ -1,0 +1,43 @@
+{
+  "title": "GOETHE A2 - HÖREN (TELEFONINTERVIEW 3)",
+  "subtitle": "TELEFONINTERVIEW 3",
+  "sectionId": 32,
+  "sectionName": "TELEFONINTERVIEW 3",
+  "exercises": [
+    {
+      "exerciseId": "1",
+      "type": "multiple_choice",
+      "frage": "Wie alt ist Frau Meier?",
+      "turkce": "Bayan Meier kaç yaşında?",
+      "ipucu": "Ich bin 32 Jahre alt.",
+      "options": ["30 Jahre alt", "32 Jahre alt", "34 Jahre alt"],
+      "answer": "32 Jahre alt"
+    },
+    {
+      "exerciseId": "2",
+      "type": "multiple_choice",
+      "frage": "Was ist Frau Meiers Beruf?",
+      "turkce": "Bayan Meier'in mesleği ne?",
+      "ipucu": "arbeite als Ärztin.",
+      "options": ["Lehrerin", "Ärztin", "Verkäuferin"],
+      "answer": "Ärztin"
+    },
+    {
+      "exerciseId": "3",
+      "type": "richtig_falsch",
+      "frage": "Frau Meier hat drei Kinder.",
+      "turkce": "Bayan Meier'in üç çocuğu var.",
+      "ipucu": "habe zwei Kinder - iki çocuk.",
+      "answer": "Falsch"
+    },
+    {
+      "exerciseId": "4",
+      "type": "multiple_choice",
+      "frage": "Was macht Frau Meier in ihrer Freizeit?",
+      "turkce": "Bayan Meier boş zamanında ne yapıyor?",
+      "ipucu": "spiele ich Tennis und lese gern Bücher.",
+      "options": ["Sie spielt Fußball und liest.", "Sie spielt Tennis und liest.", "Sie spielt Klavier und liest."],
+      "answer": "Sie spielt Tennis und liest."
+    }
+  ]
+}

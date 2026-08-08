@@ -1,0 +1,1795 @@
+{
+  "baslik": "Goethe A1 - Tüm Alıştırmalar",
+  "sürüm": "3.0",
+  "tarih": "2024-08-01",
+  "aciklama": "Bu dosya, Goethe A1 seviyesindeki tüm alıştırmaları, konu anlatımlarını, soruları ve cevapları içerir. Uygulama entegrasyonu için hazırlanmıştır.",
+  "uygulama_kurallari": {
+    "cevap_kontrol": {
+      "dogru_cevap": "Öğrenci cevabı ile 'dogru_cevap' alanı birebir eşleşirse doğru.",
+      "synonyme_kontrolu": "Öğrenci cevabı 'synonyme' listesindeki herhangi bir kelimeyle eşleşirse doğru.",
+      "anahtar_kelime_kontrolu": "Öğrenci cevabı 'anahtar_kelimeler' listesindeki tüm kelimeleri içeriyorsa doğru.",
+      "oneri_mesaji": "Yanlış cevap durumunda 'dogru_cevap' ve 'synonyme' listesinden rastgele bir öneri göster."
+    },
+    "soru_tipleri": {
+      "bosluk_doldurma": "Öğrenci boşluğa uygun kelimeyi yazar.",
+      "coktan_secmeli": "Öğrenci a, b, c, d şıklarından birini seçer.",
+      "dogru_yanlis": "Öğrenci Richtig (Doğru) veya Falsch (Yanlış) seçer.",
+      "kendini_tanitma": "Öğrenci kendi bilgilerini girer (serbest metin)."
+    }
+  },
+  "konular": [
+    {
+      "id": "kisisel_bilgiler",
+      "baslik": "Kişisel Bilgiler",
+      "alistirmalar": [
+        {
+          "id": "kb_001",
+          "soru": "Wie heißt du?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Ich heiße",
+          "synonyme": ["Ich bin", "Mein Name ist"],
+          "anahtar_kelimeler": ["heiße", "Name", "bin"],
+          "oneri": "Ich heiße [Adınız]"
+        },
+        {
+          "id": "kb_002",
+          "soru": "Wie ist dein Nachname?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Mein Nachname ist",
+          "synonyme": ["Ich heiße", "Mein Name ist"],
+          "anahtar_kelimeler": ["Nachname", "Familienname"],
+          "oneri": "Mein Nachname ist [Soyadınız]"
+        },
+        {
+          "id": "kb_003",
+          "soru": "Woher kommst du?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Ich komme aus der Türkei",
+          "synonyme": ["Ich komme aus", "Ich bin aus"],
+          "anahtar_kelimeler": ["komme", "aus", "Türkei"],
+          "oneri": "Ich komme aus der Türkei"
+        },
+        {
+          "id": "kb_004",
+          "soru": "Wo wohnst du?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Ich wohne in Istanbul",
+          "synonyme": ["Ich lebe in", "Ich bin in"],
+          "anahtar_kelimeler": ["wohne", "in", "Istanbul"],
+          "oneri": "Ich wohne in [Şehir]"
+        },
+        {
+          "id": "kb_005",
+          "soru": "Wie alt bist du?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Ich bin 25 Jahre alt",
+          "synonyme": ["Ich bin", "alt"],
+          "anahtar_kelimeler": ["bin", "Jahre", "alt"],
+          "oneri": "Ich bin [Yaş] Jahre alt"
+        },
+        {
+          "id": "kb_006",
+          "soru": "Was ist dein Beruf?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Ich bin Lehrer",
+          "synonyme": ["Ich arbeite als", "Ich bin"],
+          "anahtar_kelimeler": ["bin", "Lehrer", "arbeite"],
+          "oneri": "Ich bin [Meslek]"
+        },
+        {
+          "id": "kb_007",
+          "soru": "Was machst du?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Ich arbeite als Ingenieur",
+          "synonyme": ["Ich bin", "Ich arbeite"],
+          "anahtar_kelimeler": ["arbeite", "als", "Ingenieur"],
+          "oneri": "Ich arbeite als [Meslek]"
+        },
+        {
+          "id": "kb_008",
+          "soru": "Hast du Geschwister?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Ja, ich habe einen Bruder und eine Schwester",
+          "synonyme": ["Ja, ich habe", "Nein, ich habe keine"],
+          "anahtar_kelimeler": ["habe", "Bruder", "Schwester"],
+          "oneri": "Ja, ich habe einen Bruder / eine Schwester"
+        },
+        {
+          "id": "kb_009",
+          "soru": "Bist du verheiratet?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Ja, ich bin verheiratet",
+          "synonyme": ["Nein, ich bin ledig", "Ja, verheiratet"],
+          "anahtar_kelimeler": ["verheiratet", "ledig"],
+          "oneri": "Ja, ich bin verheiratet / Nein, ich bin ledig"
+        },
+        {
+          "id": "kb_010",
+          "soru": "Was sind deine Hobbys?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Meine Hobbys sind Fußball, Lesen und Kochen",
+          "synonyme": ["Ich mag", "Meine Freizeit"],
+          "anahtar_kelimeler": ["Hobbys", "Fußball", "Lesen"],
+          "oneri": "Meine Hobbys sind ..."
+        },
+        {
+          "id": "kb_011",
+          "soru": "Was machst du gern in deiner Freizeit?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Ich lese gern und höre Musik",
+          "synonyme": ["Ich mag", "Meine Hobbys"],
+          "anahtar_kelimeler": ["lese", "gern", "höre"],
+          "oneri": "Ich ... gern"
+        },
+        {
+          "id": "kb_012",
+          "soru": "Wie ist deine Telefonnummer?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Meine Telefonnummer ist 0177 1234567",
+          "synonyme": ["Meine Nummer ist", "Mein Handy"],
+          "anahtar_kelimeler": ["Telefonnummer", "0177"],
+          "oneri": "Meine Telefonnummer ist ..."
+        },
+        {
+          "id": "kb_013",
+          "soru": "Hast du eine E-Mail-Adresse?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Ja, meine E-Mail-Adresse ist orhan@web.de",
+          "synonyme": ["Nein, ich habe keine", "Ja, meine E-Mail"],
+          "anahtar_kelimeler": ["E-Mail", "@", "orhan"],
+          "oneri": "Ja, meine E-Mail-Adresse ist ..."
+        },
+        {
+          "id": "kb_014",
+          "soru": "Wie heißt du?",
+          "tip": "coktan_secmeli",
+          "secenekler": {
+            "a": "Ich heiße Müller.",
+            "b": "Ich bin 30 Jahre alt.",
+            "c": "Ich wohne in Berlin."
+          },
+          "dogru_cevap": "a",
+          "synonyme": [],
+          "anahtar_kelimeler": [],
+          "oneri": "Ich heiße [Adınız]"
+        },
+        {
+          "id": "kb_015",
+          "soru": "Woher kommst du?",
+          "tip": "coktan_secmeli",
+          "secenekler": {
+            "a": "Ich wohne in der Goethestraße.",
+            "b": "Ich komme aus der Schweiz.",
+            "c": "Ich bin Lehrer."
+          },
+          "dogru_cevap": "b",
+          "synonyme": [],
+          "anahtar_kelimeler": [],
+          "oneri": "Ich komme aus der Schweiz"
+        },
+        {
+          "id": "kb_016",
+          "soru": "Ist das dein Bruder?",
+          "tip": "coktan_secmeli",
+          "secenekler": {
+            "a": "Ja, das ist mein Bruder.",
+            "b": "Nein, ich habe keine Kinder.",
+            "c": "Ja, ich bin verheiratet."
+          },
+          "dogru_cevap": "a",
+          "synonyme": [],
+          "anahtar_kelimeler": [],
+          "oneri": "Ja, das ist mein Bruder"
+        },
+        {
+          "id": "kb_017",
+          "soru": "Wie alt bist du?",
+          "tip": "coktan_secmeli",
+          "secenekler": {
+            "a": "Ich bin klein.",
+            "b": "Ich heiße Thomas.",
+            "c": "Ich bin 25 Jahre alt."
+          },
+          "dogru_cevap": "c",
+          "synonyme": [],
+          "anahtar_kelimeler": [],
+          "oneri": "Ich bin [Yaş] Jahre alt"
+        },
+        {
+          "id": "kb_018",
+          "soru": "Was sind deine Hobbys?",
+          "tip": "coktan_secmeli",
+          "secenekler": {
+            "a": "Ich lese gern und spiele Klavier.",
+            "b": "Ich wohne in München.",
+            "c": "Ich bin Kellner."
+          },
+          "dogru_cevap": "a",
+          "synonyme": [],
+          "anahtar_kelimeler": [],
+          "oneri": "Meine Hobbys sind ..."
+        }
+      ]
+    },
+    {
+      "id": "alisveris",
+      "baslik": "Alışveriş",
+      "alistirmalar": [
+        {
+          "id": "as_001",
+          "soru": "Was kostet der Pullover?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Der Pullover kostet 29,95 Euro",
+          "synonyme": ["Der Pullover ist", "Kostet"],
+          "anahtar_kelimeler": ["Pullover", "kostet", "29,95"],
+          "oneri": "Der Pullover kostet 29,95 Euro"
+        },
+        {
+          "id": "as_002",
+          "soru": "Wie viel kosten die Schuhe?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Die Schuhe kosten 49,99 Euro",
+          "synonyme": ["Die Schuhe sind", "Kosten"],
+          "anahtar_kelimeler": ["Schuhe", "kosten", "49,99"],
+          "oneri": "Die Schuhe kosten 49,99 Euro"
+        },
+        {
+          "id": "as_003",
+          "soru": "Was kostet das Brot?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Das Brot kostet 2,50 Euro",
+          "synonyme": ["Das Brot ist", "Kostet"],
+          "anahtar_kelimeler": ["Brot", "kostet", "2,50"],
+          "oneri": "Das Brot kostet 2,50 Euro"
+        },
+        {
+          "id": "as_004",
+          "soru": "Haben Sie das in Größe M?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Ja, hier bitte",
+          "synonyme": ["Nein, leider nicht", "Nein, nur in Größe L"],
+          "anahtar_kelimeler": ["ja", "hier", "bitte"],
+          "oneri": "Ja, hier bitte"
+        },
+        {
+          "id": "as_005",
+          "soru": "Gibt es die Jacke in Schwarz?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Ja, in Schwarz",
+          "synonyme": ["Nein, nur in Blau", "Ja"],
+          "anahtar_kelimeler": ["Schwarz", "Blau", "Rot"],
+          "oneri": "Ja, in Schwarz"
+        },
+        {
+          "id": "as_006",
+          "soru": "Welche Größe brauchen Sie?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Ich brauche Größe 38",
+          "synonyme": ["Ich brauche", "Größe"],
+          "anahtar_kelimeler": ["brauche", "Größe", "38"],
+          "oneri": "Ich brauche Größe 38"
+        },
+        {
+          "id": "as_007",
+          "soru": "Was möchten Sie essen?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Ich hätte gern die Salatplatte",
+          "synonyme": ["Ich möchte", "Ich nehme"],
+          "anahtar_kelimeler": ["hätte gern", "Salatplatte"],
+          "oneri": "Ich hätte gern die Salatplatte"
+        },
+        {
+          "id": "as_008",
+          "soru": "Was empfehlen Sie?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Ich empfehle die Bratwurst",
+          "synonyme": ["Ich empfehle", "Die ist heute frisch"],
+          "anahtar_kelimeler": ["empfehle", "Bratwurst"],
+          "oneri": "Ich empfehle die Bratwurst"
+        },
+        {
+          "id": "as_009",
+          "soru": "Möchten Sie etwas trinken?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Ja, ich hätte gern ein Glas Wasser",
+          "synonyme": ["Nein, danke", "Ja, ein Glas"],
+          "anahtar_kelimeler": ["Wasser", "Glas", "hätte gern"],
+          "oneri": "Ja, ich hätte gern ein Glas Wasser"
+        },
+        {
+          "id": "as_010",
+          "soru": "Darf ich mit Karte bezahlen?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Ja, natürlich",
+          "synonyme": ["Nein, nur bar"],
+          "anahtar_kelimeler": ["natürlich", "Karte"],
+          "oneri": "Ja, natürlich"
+        },
+        {
+          "id": "as_011",
+          "soru": "Kann ich die Jacke anprobieren?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Ja, die Umkleide ist dort",
+          "synonyme": ["Ja, hier", "Die Umkleide"],
+          "anahtar_kelimeler": ["Umkleide", "dort"],
+          "oneri": "Ja, die Umkleide ist dort"
+        },
+        {
+          "id": "as_012",
+          "soru": "Ich suche ein Geschenk.",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Ich suche eine Tasche für meine Mutter",
+          "synonyme": ["Ich suche", "ein Geschenk"],
+          "anahtar_kelimeler": ["suche", "Tasche", "Mutter"],
+          "oneri": "Ich suche eine Tasche für meine Mutter"
+        },
+        {
+          "id": "as_013",
+          "soru": "Gibt es einen Rabatt?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Ja, 30 Prozent auf alles",
+          "synonyme": ["Ja, 20 Prozent", "Nein"],
+          "anahtar_kelimeler": ["Prozent", "Rabatt", "alles"],
+          "oneri": "Ja, 30 Prozent auf alles"
+        },
+        {
+          "id": "as_014",
+          "soru": "Ist das im Angebot?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Ja, das ist reduziert",
+          "synonyme": ["Nein, das ist der normale Preis"],
+          "anahtar_kelimeler": ["reduziert", "Angebot"],
+          "oneri": "Ja, das ist reduziert"
+        }
+      ]
+    },
+    {
+      "id": "yeme_icme",
+      "baslik": "Yeme-İçme",
+      "alistirmalar": [
+        {
+          "id": "yi_001",
+          "soru": "Was möchten Sie essen?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Ich hätte gern die Salatplatte",
+          "synonyme": ["Ich möchte", "Ich nehme"],
+          "anahtar_kelimeler": ["hätte gern", "Salatplatte"],
+          "oneri": "Ich hätte gern die Salatplatte"
+        },
+        {
+          "id": "yi_002",
+          "soru": "Was möchten Sie trinken?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Ich hätte gern ein Glas Wasser",
+          "synonyme": ["Ich möchte", "Ein Glas"],
+          "anahtar_kelimeler": ["Wasser", "Glas"],
+          "oneri": "Ich hätte gern ein Glas Wasser"
+        },
+        {
+          "id": "yi_003",
+          "soru": "Möchten Sie noch etwas?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Nein, danke",
+          "synonyme": ["Ja, ich hätte gern ein Eis"],
+          "anahtar_kelimeler": ["nein", "danke"],
+          "oneri": "Nein, danke"
+        },
+        {
+          "id": "yi_004",
+          "soru": "Was empfehlen Sie?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Ich empfehle die Bratwurst",
+          "synonyme": ["Ich empfehle den Fisch"],
+          "anahtar_kelimeler": ["empfehle", "Bratwurst"],
+          "oneri": "Ich empfehle die Bratwurst"
+        },
+        {
+          "id": "yi_005",
+          "soru": "Was möchten Sie zum Nachtisch?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Ich hätte gern ein Eis mit Schokolade",
+          "synonyme": ["Ich hätte gern", "Nachtisch"],
+          "anahtar_kelimeler": ["Eis", "Schokolade"],
+          "oneri": "Ich hätte gern ein Eis mit Schokolade"
+        },
+        {
+          "id": "yi_006",
+          "soru": "Was möchten Sie zum Frühstück?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Ich esse ein Brötchen mit Marmelade und trinke einen Kaffee",
+          "synonyme": ["Ich frühstücke", "Ich esse"],
+          "anahtar_kelimeler": ["Brötchen", "Marmelade", "Kaffee"],
+          "oneri": "Ich esse ein Brötchen mit Marmelade und trinke einen Kaffee"
+        },
+        {
+          "id": "yi_007",
+          "soru": "Was trinken Sie zum Frühstück?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Ich trinke Kaffee",
+          "synonyme": ["Ich trinke Tee", "Ich trinke Orangensaft"],
+          "anahtar_kelimeler": ["trinke", "Kaffee"],
+          "oneri": "Ich trinke Kaffee"
+        },
+        {
+          "id": "yi_008",
+          "soru": "Essen Sie Brötchen zum Frühstück?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Ja, ich esse gern Brötchen",
+          "synonyme": ["Nein, ich esse lieber Müsli"],
+          "anahtar_kelimeler": ["Brötchen", "gern"],
+          "oneri": "Ja, ich esse gern Brötchen"
+        },
+        {
+          "id": "yi_009",
+          "soru": "Essen Sie Fleisch?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Ja, ich esse Fleisch",
+          "synonyme": ["Nein, ich bin Vegetarier"],
+          "anahtar_kelimeler": ["Fleisch", "Vegetarier"],
+          "oneri": "Ja, ich esse Fleisch"
+        },
+        {
+          "id": "yi_010",
+          "soru": "Was ist Ihr Lieblingsessen?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Mein Lieblingsessen ist Pizza",
+          "synonyme": ["Ich liebe", "Mein Lieblingsessen"],
+          "anahtar_kelimeler": ["Lieblingsessen", "Pizza"],
+          "oneri": "Mein Lieblingsessen ist Pizza"
+        },
+        {
+          "id": "yi_011",
+          "soru": "Was schmeckt Ihnen gut?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Mir schmeckt der Fisch gut",
+          "synonyme": ["Ich mag", "Der Fisch schmeckt"],
+          "anahtar_kelimeler": ["schmeckt", "Fisch"],
+          "oneri": "Mir schmeckt der Fisch gut"
+        },
+        {
+          "id": "yi_012",
+          "soru": "Trinken Sie lieber Kaffee oder Tee?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Ich trinke lieber Kaffee",
+          "synonyme": ["Ich trinke lieber Tee", "Ich mag"],
+          "anahtar_kelimeler": ["lieber", "Kaffee"],
+          "oneri": "Ich trinke lieber Kaffee"
+        },
+        {
+          "id": "yi_013",
+          "soru": "Was essen Sie gern?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Ich esse gern Fisch und Gemüse",
+          "synonyme": ["Ich mag", "Ich esse"],
+          "anahtar_kelimeler": ["esse", "gern", "Fisch"],
+          "oneri": "Ich esse gern Fisch und Gemüse"
+        },
+        {
+          "id": "yi_014",
+          "soru": "Was trinken Sie gern?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Ich trinke gern Wasser und Saft",
+          "synonyme": ["Ich trinke", "gern"],
+          "anahtar_kelimeler": ["trinke", "Wasser", "Saft"],
+          "oneri": "Ich trinke gern Wasser und Saft"
+        },
+        {
+          "id": "yi_015",
+          "soru": "Was kostet das Essen?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Das Essen kostet 24,50 Euro",
+          "synonyme": ["Das Essen ist", "Kostet"],
+          "anahtar_kelimeler": ["Essen", "kostet", "24,50"],
+          "oneri": "Das Essen kostet 24,50 Euro"
+        },
+        {
+          "id": "yi_016",
+          "soru": "Darf ich mit Karte bezahlen?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Ja, natürlich",
+          "synonyme": ["Nein, nur bar"],
+          "anahtar_kelimeler": ["natürlich", "Karte"],
+          "oneri": "Ja, natürlich"
+        },
+        {
+          "id": "yi_017",
+          "soru": "Möchten Sie getrennt bezahlen?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Ja, getrennt bitte",
+          "synonyme": ["Nein, zusammen bitte"],
+          "anahtar_kelimeler": ["getrennt", "zusammen"],
+          "oneri": "Ja, getrennt bitte"
+        }
+      ]
+    },
+    {
+      "id": "seyahat_ulasim",
+      "baslik": "Seyahat ve Ulaşım",
+      "alistirmalar": [
+        {
+          "id": "su_001",
+          "soru": "Wohin fahren Sie?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Ich fahre nach Berlin",
+          "synonyme": ["Ich fahre ans Meer", "Ich fahre in die Berge"],
+          "anahtar_kelimeler": ["fahre", "nach", "Berlin"],
+          "oneri": "Ich fahre nach Berlin"
+        },
+        {
+          "id": "su_002",
+          "soru": "Wohin fährst du im Urlaub?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Ich fahre ans Meer",
+          "synonyme": ["Ich fahre in die Berge", "Ich fahre nach Italien"],
+          "anahtar_kelimeler": ["fahre", "ans Meer"],
+          "oneri": "Ich fahre ans Meer"
+        },
+        {
+          "id": "su_003",
+          "soru": "Woher kommen Sie?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Ich komme aus der Türkei",
+          "synonyme": ["Ich komme aus", "Ich bin aus"],
+          "anahtar_kelimeler": ["komme", "aus", "Türkei"],
+          "oneri": "Ich komme aus der Türkei"
+        },
+        {
+          "id": "su_004",
+          "soru": "Wann fährt der Zug ab?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Der Zug fährt um 10 Uhr ab",
+          "synonyme": ["Der Zug ist um 10 Uhr", "fährt ab"],
+          "anahtar_kelimeler": ["Zug", "fährt", "10 Uhr"],
+          "oneri": "Der Zug fährt um 10 Uhr ab"
+        },
+        {
+          "id": "su_005",
+          "soru": "Wann kommt der Zug an?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Der Zug kommt um 12:30 Uhr an",
+          "synonyme": ["Der Zug ist um 12:30 Uhr", "kommt an"],
+          "anahtar_kelimeler": ["Zug", "kommt", "12:30"],
+          "oneri": "Der Zug kommt um 12:30 Uhr an"
+        },
+        {
+          "id": "su_006",
+          "soru": "Wie lange fährt der Zug?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Der Zug fährt 4 Stunden",
+          "synonyme": ["Der Zug ist 4 Stunden", "dauert"],
+          "anahtar_kelimeler": ["fährt", "4", "Stunden"],
+          "oneri": "Der Zug fährt 4 Stunden"
+        },
+        {
+          "id": "su_007",
+          "soru": "Wann fährt der Bus ab?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Der Bus fährt um 8:15 Uhr ab",
+          "synonyme": ["Der Bus ist um 8:15 Uhr"],
+          "anahtar_kelimeler": ["Bus", "fährt", "8:15"],
+          "oneri": "Der Bus fährt um 8:15 Uhr ab"
+        },
+        {
+          "id": "su_008",
+          "soru": "Wo muss ich umsteigen?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Sie müssen in Hamburg umsteigen",
+          "synonyme": ["Sie müssen in Frankfurt umsteigen"],
+          "anahtar_kelimeler": ["umsteigen", "Hamburg"],
+          "oneri": "Sie müssen in Hamburg umsteigen"
+        },
+        {
+          "id": "su_009",
+          "soru": "Wie komme ich zum Bahnhof?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Gehen Sie geradeaus, dann rechts",
+          "synonyme": ["Gehen Sie links", "Gehen Sie geradeaus"],
+          "anahtar_kelimeler": ["geradeaus", "rechts"],
+          "oneri": "Gehen Sie geradeaus, dann rechts"
+        },
+        {
+          "id": "su_010",
+          "soru": "Wo ist die Information?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Die Information ist in Halle C",
+          "synonyme": ["Die Information ist links", "im Erdgeschoss"],
+          "anahtar_kelimeler": ["Information", "Halle C"],
+          "oneri": "Die Information ist in Halle C"
+        },
+        {
+          "id": "su_011",
+          "soru": "Ist das weit?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Nein, das ist nicht weit",
+          "synonyme": ["Ja, das ist weit"],
+          "anahtar_kelimeler": ["nicht weit", "zu Fuß"],
+          "oneri": "Nein, das ist nicht weit"
+        },
+        {
+          "id": "su_012",
+          "soru": "Wie viel kostet die Fahrkarte?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Die Fahrkarte kostet 25 Euro",
+          "synonyme": ["Das Ticket kostet"],
+          "anahtar_kelimeler": ["Fahrkarte", "kostet", "25"],
+          "oneri": "Die Fahrkarte kostet 25 Euro"
+        },
+        {
+          "id": "su_013",
+          "soru": "Welcher Bus fährt zum Zentrum?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Bus Nummer 42 fährt zum Zentrum",
+          "synonyme": ["Bus Nummer 10"],
+          "anahtar_kelimeler": ["Bus", "Nummer 42", "Zentrum"],
+          "oneri": "Bus Nummer 42 fährt zum Zentrum"
+        },
+        {
+          "id": "su_014",
+          "soru": "Welches Gleis fährt der Zug nach Berlin?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Der Zug fährt von Gleis 3",
+          "synonyme": ["Von Gleis 2", "Von Gleis 5"],
+          "anahtar_kelimeler": ["Gleis", "3"],
+          "oneri": "Der Zug fährt von Gleis 3"
+        },
+        {
+          "id": "su_015",
+          "soru": "Wann fahren Sie in den Urlaub?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Ich fahre im August in den Urlaub",
+          "synonyme": ["Ich fahre im September"],
+          "anahtar_kelimeler": ["August", "Urlaub"],
+          "oneri": "Ich fahre im August in den Urlaub"
+        },
+        {
+          "id": "su_016",
+          "soru": "Wie lange bleiben Sie im Urlaub?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Ich bleibe 2 Wochen",
+          "synonyme": ["Ich bleibe 1 Woche", "3 Tage"],
+          "anahtar_kelimeler": ["bleibe", "2", "Wochen"],
+          "oneri": "Ich bleibe 2 Wochen"
+        },
+        {
+          "id": "su_017",
+          "soru": "Mit wem fahren Sie in den Urlaub?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Ich fahre mit meiner Familie",
+          "synonyme": ["Ich fahre mit Freunden"],
+          "anahtar_kelimeler": ["mit", "Familie"],
+          "oneri": "Ich fahre mit meiner Familie"
+        },
+        {
+          "id": "su_018",
+          "soru": "Was machen Sie im Urlaub?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Ich schwimme und wandere gern",
+          "synonyme": ["Ich lese und schwimme"],
+          "anahtar_kelimeler": ["schwimme", "wandere"],
+          "oneri": "Ich schwimme und wandere gern"
+        },
+        {
+          "id": "su_019",
+          "soru": "Wo wohnen Sie im Urlaub?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Ich wohne in einem Hotel",
+          "synonyme": ["Ich wohne in einer Pension"],
+          "anahtar_kelimeler": ["wohne", "Hotel"],
+          "oneri": "Ich wohne in einem Hotel"
+        },
+        {
+          "id": "su_020",
+          "soru": "Hat der Zug Verspätung?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Ja, der Zug hat 15 Minuten Verspätung",
+          "synonyme": ["Nein, der Zug hat keine Verspätung"],
+          "anahtar_kelimeler": ["Verspätung", "15 Minuten"],
+          "oneri": "Ja, der Zug hat 15 Minuten Verspätung"
+        },
+        {
+          "id": "su_021",
+          "soru": "Wann kommt der nächste Bus?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Der nächste Bus kommt in 10 Minuten",
+          "synonyme": ["Der nächste Bus kommt in 5 Minuten"],
+          "anahtar_kelimeler": ["nächste", "Bus", "10 Minuten"],
+          "oneri": "Der nächste Bus kommt in 10 Minuten"
+        }
+      ]
+    },
+    {
+      "id": "zaman_randevular",
+      "baslik": "Zaman ve Randevular",
+      "alistirmalar": [
+        {
+          "id": "zr_001",
+          "soru": "Wie spät ist es?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Es ist 10 Uhr",
+          "synonyme": ["Es ist 10", "10 Uhr"],
+          "anahtar_kelimeler": ["Es ist", "10", "Uhr"],
+          "oneri": "Es ist 10 Uhr"
+        },
+        {
+          "id": "zr_002",
+          "soru": "Um wie viel Uhr beginnt der Film?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Der Film beginnt um 20 Uhr",
+          "synonyme": ["Der Film startet um 20 Uhr"],
+          "anahtar_kelimeler": ["beginnt", "20", "Uhr"],
+          "oneri": "Der Film beginnt um 20 Uhr"
+        },
+        {
+          "id": "zr_003",
+          "soru": "Um wie viel Uhr treffen wir uns?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Wir treffen uns um 14 Uhr",
+          "synonyme": ["Treffen uns um 14 Uhr"],
+          "anahtar_kelimeler": ["treffen", "14", "Uhr"],
+          "oneri": "Wir treffen uns um 14 Uhr"
+        },
+        {
+          "id": "zr_004",
+          "soru": "Welchen Tag haben wir heute?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Heute ist Montag",
+          "synonyme": ["Heute ist Dienstag"],
+          "anahtar_kelimeler": ["heute", "Montag"],
+          "oneri": "Heute ist Montag"
+        },
+        {
+          "id": "zr_005",
+          "soru": "Wann arbeitest du?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Ich arbeite von Montag bis Freitag",
+          "synonyme": ["Ich arbeite von Dienstag bis Samstag"],
+          "anahtar_kelimeler": ["Montag", "Freitag"],
+          "oneri": "Ich arbeite von Montag bis Freitag"
+        },
+        {
+          "id": "zr_006",
+          "soru": "Was machst du am Wochenende?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Am Wochenende gehe ich ins Kino",
+          "synonyme": ["Am Wochenende bleibe ich zu Hause"],
+          "anahtar_kelimeler": ["Wochenende", "Kino"],
+          "oneri": "Am Wochenende gehe ich ins Kino"
+        },
+        {
+          "id": "zr_007",
+          "soru": "Hast du am Montag Zeit?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Ja, ich habe Zeit",
+          "synonyme": ["Nein, ich habe keine Zeit"],
+          "anahtar_kelimeler": ["habe", "Zeit"],
+          "oneri": "Ja, ich habe Zeit"
+        },
+        {
+          "id": "zr_008",
+          "soru": "Wann passt es dir?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Am Mittwoch passt es gut",
+          "synonyme": ["Am Montag passt es gut"],
+          "anahtar_kelimeler": ["Mittwoch", "passt"],
+          "oneri": "Am Mittwoch passt es gut"
+        },
+        {
+          "id": "zr_009",
+          "soru": "Treffen wir uns am Samstag?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Ja, gerne!",
+          "synonyme": ["Nein, am Samstag habe ich keine Zeit"],
+          "anahtar_kelimeler": ["gerne", "Samstag"],
+          "oneri": "Ja, gerne!"
+        },
+        {
+          "id": "zr_010",
+          "soru": "Wo treffen wir uns?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Wir treffen uns am Bahnhof",
+          "synonyme": ["Wir treffen uns vor dem Kino"],
+          "anahtar_kelimeler": ["treffen", "Bahnhof"],
+          "oneri": "Wir treffen uns am Bahnhof"
+        },
+        {
+          "id": "zr_011",
+          "soru": "Können wir uns morgen treffen?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Ja, gerne. Um wie viel Uhr?",
+          "synonyme": ["Nein, morgen habe ich keine Zeit"],
+          "anahtar_kelimeler": ["gerne", "morgen"],
+          "oneri": "Ja, gerne. Um wie viel Uhr?"
+        },
+        {
+          "id": "zr_012",
+          "soru": "Was machst du am Freitag?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Am Freitag habe ich einen Termin beim Arzt",
+          "synonyme": ["Am Freitag arbeite ich"],
+          "anahtar_kelimeler": ["Freitag", "Termin"],
+          "oneri": "Am Freitag habe ich einen Termin beim Arzt"
+        },
+        {
+          "id": "zr_013",
+          "soru": "Hast du am Nachmittag Zeit?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Ja, ich habe am Nachmittag Zeit",
+          "synonyme": ["Nein, am Nachmittag habe ich keine Zeit"],
+          "anahtar_kelimeler": ["Nachmittag", "Zeit"],
+          "oneri": "Ja, ich habe am Nachmittag Zeit"
+        },
+        {
+          "id": "zr_014",
+          "soru": "Wie lange bleibt ihr in Berlin?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Wir bleiben 3 Tage",
+          "synonyme": ["Wir bleiben 2 Wochen"],
+          "anahtar_kelimeler": ["bleiben", "3", "Tage"],
+          "oneri": "Wir bleiben 3 Tage"
+        },
+        {
+          "id": "zr_015",
+          "soru": "Wann fährt der Zug ab?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Der Zug fährt um 15 Uhr ab",
+          "synonyme": ["Der Zug ist um 15 Uhr"],
+          "anahtar_kelimeler": ["Zug", "15", "Uhr"],
+          "oneri": "Der Zug fährt um 15 Uhr ab"
+        },
+        {
+          "id": "zr_016",
+          "soru": "Wie lange dauert der Film?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Der Film dauert 2 Stunden",
+          "synonyme": ["Der Film ist 2 Stunden"],
+          "anahtar_kelimeler": ["dauert", "2", "Stunden"],
+          "oneri": "Der Film dauert 2 Stunden"
+        },
+        {
+          "id": "zr_017",
+          "soru": "Bis wann hast du Zeit?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Ich habe bis 18 Uhr Zeit",
+          "synonyme": ["Ich habe bis 20 Uhr Zeit"],
+          "anahtar_kelimeler": ["bis", "18", "Uhr"],
+          "oneri": "Ich habe bis 18 Uhr Zeit"
+        },
+        {
+          "id": "zr_018",
+          "soru": "Wann hast du Geburtstag?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Ich habe am 15. April Geburtstag",
+          "synonyme": ["Ich habe am 3. Juli Geburtstag"],
+          "anahtar_kelimeler": ["15. April", "Geburtstag"],
+          "oneri": "Ich habe am 15. April Geburtstag"
+        },
+        {
+          "id": "zr_019",
+          "soru": "Der Wievielte ist heute?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Heute ist der 5. Juni",
+          "synonyme": ["Heute ist der 1. Januar"],
+          "anahtar_kelimeler": ["heute", "5. Juni"],
+          "oneri": "Heute ist der 5. Juni"
+        },
+        {
+          "id": "zr_020",
+          "soru": "Wann stehst du morgens auf?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Ich stehe um 6 Uhr auf",
+          "synonyme": ["Ich stehe um 7 Uhr auf"],
+          "anahtar_kelimeler": ["stehe", "6", "Uhr"],
+          "oneri": "Ich stehe um 6 Uhr auf"
+        },
+        {
+          "id": "zr_021",
+          "soru": "Wann gehst du abends ins Bett?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Ich gehe um 22 Uhr ins Bett",
+          "synonyme": ["Ich gehe um 23 Uhr ins Bett"],
+          "anahtar_kelimeler": ["gehe", "22", "Uhr"],
+          "oneri": "Ich gehe um 22 Uhr ins Bett"
+        },
+        {
+          "id": "zr_022",
+          "soru": "Was machst du am Morgen?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Am Morgen trinke ich Kaffee",
+          "synonyme": ["Am Morgen esse ich Frühstück"],
+          "anahtar_kelimeler": ["Morgen", "Kaffee"],
+          "oneri": "Am Morgen trinke ich Kaffee"
+        }
+      ]
+    },
+    {
+      "id": "konaklama",
+      "baslik": "Konaklama",
+      "alistirmalar": [
+        {
+          "id": "ko_001",
+          "soru": "Haben Sie ein Zimmer frei?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Ja, wir haben ein Einzelzimmer frei",
+          "synonyme": ["Nein, wir haben kein Zimmer frei"],
+          "anahtar_kelimeler": ["Einzelzimmer", "frei"],
+          "oneri": "Ja, wir haben ein Einzelzimmer frei"
+        },
+        {
+          "id": "ko_002",
+          "soru": "Ich möchte ein Zimmer buchen.",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Für wie viele Nächte?",
+          "synonyme": ["Für welche Zeit?"],
+          "anahtar_kelimeler": ["Nächte", "Zeit"],
+          "oneri": "Für wie viele Nächte?"
+        },
+        {
+          "id": "ko_003",
+          "soru": "Für wie viele Nächte möchten Sie buchen?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Ich möchte für 3 Nächte buchen",
+          "synonyme": ["Ich möchte für 2 Nächte buchen"],
+          "anahtar_kelimeler": ["3", "Nächte"],
+          "oneri": "Ich möchte für 3 Nächte buchen"
+        },
+        {
+          "id": "ko_004",
+          "soru": "Wie viel kostet eine Übernachtung?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Eine Übernachtung kostet 50 Euro",
+          "synonyme": ["Eine Übernachtung ist 50 Euro"],
+          "anahtar_kelimeler": ["Übernachtung", "50", "Euro"],
+          "oneri": "Eine Übernachtung kostet 50 Euro"
+        },
+        {
+          "id": "ko_005",
+          "soru": "Ist das Frühstück inklusive?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Ja, das Frühstück ist inklusive",
+          "synonyme": ["Nein, das Frühstück kostet extra"],
+          "anahtar_kelimeler": ["Frühstück", "inklusive"],
+          "oneri": "Ja, das Frühstück ist inklusive"
+        },
+        {
+          "id": "ko_006",
+          "soru": "Wie viel kostet das Zimmer pro Nacht?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Das Zimmer kostet 60 Euro pro Nacht",
+          "synonyme": ["Das Zimmer ist 60 Euro"],
+          "anahtar_kelimeler": ["Zimmer", "60", "Nacht"],
+          "oneri": "Das Zimmer kostet 60 Euro pro Nacht"
+        },
+        {
+          "id": "ko_007",
+          "soru": "Welche Zimmernummer habe ich?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Ihre Zimmernummer ist 254",
+          "synonyme": ["Ihre Zimmernummer ist 123"],
+          "anahtar_kelimeler": ["Zimmernummer", "254"],
+          "oneri": "Ihre Zimmernummer ist 254"
+        },
+        {
+          "id": "ko_008",
+          "soru": "In welchem Stock ist mein Zimmer?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Ihr Zimmer ist im 2. Stock",
+          "synonyme": ["Ihr Zimmer ist im 3. Stock"],
+          "anahtar_kelimeler": ["2. Stock"],
+          "oneri": "Ihr Zimmer ist im 2. Stock"
+        },
+        {
+          "id": "ko_009",
+          "soru": "Wo finde ich Zimmer 254?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Zimmer 254 ist im 2. Stock",
+          "synonyme": ["Zimmer 123 ist im 1. Stock"],
+          "anahtar_kelimeler": ["254", "2. Stock"],
+          "oneri": "Zimmer 254 ist im 2. Stock"
+        },
+        {
+          "id": "ko_010",
+          "soru": "Gibt es einen Aufzug?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Ja, der Aufzug ist hier rechts",
+          "synonyme": ["Nein, es gibt keinen Aufzug"],
+          "anahtar_kelimeler": ["Aufzug", "rechts"],
+          "oneri": "Ja, der Aufzug ist hier rechts"
+        },
+        {
+          "id": "ko_011",
+          "soru": "Mein Fernseher funktioniert nicht.",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Das tut mir leid. Ich kümmere mich darum",
+          "synonyme": ["Das tut mir leid. Ich rufe den Techniker"],
+          "anahtar_kelimeler": ["tut mir leid", "kümmere"],
+          "oneri": "Das tut mir leid. Ich kümmere mich darum"
+        },
+        {
+          "id": "ko_012",
+          "soru": "Ich brauche ein Handtuch.",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Kein Problem. Ich bringe es sofort",
+          "synonyme": ["Kein Problem. Ich gebe es Ihnen"],
+          "anahtar_kelimeler": ["Problem", "sofort"],
+          "oneri": "Kein Problem. Ich bringe es sofort"
+        },
+        {
+          "id": "ko_013",
+          "soru": "Kann ich meinen Schlüssel bekommen?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Ja, hier ist Ihr Schlüssel. Zimmer 254",
+          "synonyme": ["Ja, hier ist der Schlüssel"],
+          "anahtar_kelimeler": ["Schlüssel", "254"],
+          "oneri": "Ja, hier ist Ihr Schlüssel. Zimmer 254"
+        },
+        {
+          "id": "ko_014",
+          "soru": "Kann ich mein Gepäck hier lassen?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Ja, hier im Gepäckraum",
+          "synonyme": ["Nein, das ist nicht möglich"],
+          "anahtar_kelimeler": ["Gepäckraum"],
+          "oneri": "Ja, hier im Gepäckraum"
+        },
+        {
+          "id": "ko_015",
+          "soru": "Ich möchte einchecken.",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Haben Sie eine Reservierung?",
+          "synonyme": ["Ihr Name, bitte?"],
+          "anahtar_kelimeler": ["Reservierung"],
+          "oneri": "Haben Sie eine Reservierung?"
+        },
+        {
+          "id": "ko_016",
+          "soru": "Wann ist Check-out?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Check-out ist um 12 Uhr",
+          "synonyme": ["Check-out ist um 11 Uhr"],
+          "anahtar_kelimeler": ["Check-out", "12", "Uhr"],
+          "oneri": "Check-out ist um 12 Uhr"
+        },
+        {
+          "id": "ko_017",
+          "soru": "Ich möchte auschecken.",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Ja, natürlich. Haben Sie gut geschlafen?",
+          "synonyme": ["Ja, natürlich. Haben Sie die Rechnung?"],
+          "anahtar_kelimeler": ["geschlafen", "Rechnung"],
+          "oneri": "Ja, natürlich. Haben Sie gut geschlafen?"
+        },
+        {
+          "id": "ko_018",
+          "soru": "Wann gibt es Frühstück?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Frühstück gibt es von 7 bis 10 Uhr",
+          "synonyme": ["Frühstück gibt es von 8 bis 10:30 Uhr"],
+          "anahtar_kelimeler": ["Frühstück", "7", "10"],
+          "oneri": "Frühstück gibt es von 7 bis 10 Uhr"
+        },
+        {
+          "id": "ko_019",
+          "soru": "Wo ist das Frühstücksrestaurant?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Das Frühstücksrestaurant ist im 1. Stock",
+          "synonyme": ["Das Frühstücksrestaurant ist im Erdgeschoss"],
+          "anahtar_kelimeler": ["Frühstücksrestaurant", "1. Stock"],
+          "oneri": "Das Frühstücksrestaurant ist im 1. Stock"
+        },
+        {
+          "id": "ko_020",
+          "soru": "Gibt es WLAN im Hotel?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Ja, es gibt WLAN",
+          "synonyme": ["Nein, leider nicht"],
+          "anahtar_kelimeler": ["WLAN"],
+          "oneri": "Ja, es gibt WLAN"
+        },
+        {
+          "id": "ko_021",
+          "soru": "Kann ich hier parken?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Ja, es gibt einen Parkplatz",
+          "synonyme": ["Nein, aber es gibt ein Parkhaus"],
+          "anahtar_kelimeler": ["Parkplatz"],
+          "oneri": "Ja, es gibt einen Parkplatz"
+        }
+      ]
+    },
+    {
+      "id": "gunluk_hayat",
+      "baslik": "Günlük Hayat",
+      "alistirmalar": [
+        {
+          "id": "gh_001",
+          "soru": "Wann stehst du morgens auf?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Ich stehe um 7 Uhr auf",
+          "synonyme": ["Ich stehe um 6 Uhr auf"],
+          "anahtar_kelimeler": ["stehe", "7", "Uhr"],
+          "oneri": "Ich stehe um 7 Uhr auf"
+        },
+        {
+          "id": "gh_002",
+          "soru": "Wann frühstückst du?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Ich frühstücke um 8 Uhr",
+          "synonyme": ["Ich frühstücke um 7 Uhr"],
+          "anahtar_kelimeler": ["frühstücke", "8", "Uhr"],
+          "oneri": "Ich frühstücke um 8 Uhr"
+        },
+        {
+          "id": "gh_003",
+          "soru": "Wann gehst du zur Arbeit?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Ich gehe um 8:30 zur Arbeit",
+          "synonyme": ["Ich gehe um 8 Uhr zur Arbeit"],
+          "anahtar_kelimeler": ["gehe", "8:30", "Arbeit"],
+          "oneri": "Ich gehe um 8:30 zur Arbeit"
+        },
+        {
+          "id": "gh_004",
+          "soru": "Wann kommst du nach Hause?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Ich komme um 18 Uhr nach Hause",
+          "synonyme": ["Ich komme um 17 Uhr nach Hause"],
+          "anahtar_kelimeler": ["komme", "18", "Hause"],
+          "oneri": "Ich komme um 18 Uhr nach Hause"
+        },
+        {
+          "id": "gh_005",
+          "soru": "Was machst du abends?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Abends sehe ich fern und lese ein Buch",
+          "synonyme": ["Abends koche ich und treffe Freunde"],
+          "anahtar_kelimeler": ["abends", "fern", "lese"],
+          "oneri": "Abends sehe ich fern und lese ein Buch"
+        },
+        {
+          "id": "gh_006",
+          "soru": "Wann gehst du ins Bett?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Ich gehe um 23 Uhr ins Bett",
+          "synonyme": ["Ich gehe um 22 Uhr ins Bett"],
+          "anahtar_kelimeler": ["gehe", "23", "Bett"],
+          "oneri": "Ich gehe um 23 Uhr ins Bett"
+        },
+        {
+          "id": "gh_007",
+          "soru": "Hast du Geschwister?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Ja, ich habe einen Bruder und eine Schwester",
+          "synonyme": ["Nein, ich habe keine Geschwister"],
+          "anahtar_kelimeler": ["Bruder", "Schwester"],
+          "oneri": "Ja, ich habe einen Bruder und eine Schwester"
+        },
+        {
+          "id": "gh_008",
+          "soru": "Bist du verheiratet?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Ja, ich bin verheiratet",
+          "synonyme": ["Nein, ich bin ledig"],
+          "anahtar_kelimeler": ["verheiratet", "ledig"],
+          "oneri": "Ja, ich bin verheiratet"
+        },
+        {
+          "id": "gh_009",
+          "soru": "Hast du Kinder?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Ja, ich habe einen Sohn und eine Tochter",
+          "synonyme": ["Nein, ich habe keine Kinder"],
+          "anahtar_kelimeler": ["Sohn", "Tochter"],
+          "oneri": "Ja, ich habe einen Sohn und eine Tochter"
+        },
+        {
+          "id": "gh_010",
+          "soru": "Wie alt ist dein Sohn?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Er ist 9 Jahre alt",
+          "synonyme": ["Er ist 12 Jahre alt"],
+          "anahtar_kelimeler": ["ist", "9", "Jahre"],
+          "oneri": "Er ist 9 Jahre alt"
+        },
+        {
+          "id": "gh_011",
+          "soru": "Was macht deine Mutter?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Meine Mutter ist Hausfrau",
+          "synonyme": ["Meine Mutter ist Lehrerin"],
+          "anahtar_kelimeler": ["Mutter", "Hausfrau"],
+          "oneri": "Meine Mutter ist Hausfrau"
+        },
+        {
+          "id": "gh_012",
+          "soru": "Was ist dein Beruf?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Ich bin Ingenieur",
+          "synonyme": ["Ich bin Lehrer"],
+          "anahtar_kelimeler": ["Ingenieur"],
+          "oneri": "Ich bin Ingenieur"
+        },
+        {
+          "id": "gh_013",
+          "soru": "Wo arbeitest du?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Ich arbeite in einem Büro",
+          "synonyme": ["Ich arbeite in einer Firma"],
+          "anahtar_kelimeler": ["arbeite", "Büro"],
+          "oneri": "Ich arbeite in einem Büro"
+        },
+        {
+          "id": "gh_014",
+          "soru": "Wann arbeitest du?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Ich arbeite von 9 bis 17 Uhr",
+          "synonyme": ["Ich arbeite von 8 bis 16 Uhr"],
+          "anahtar_kelimeler": ["9", "17"],
+          "oneri": "Ich arbeite von 9 bis 17 Uhr"
+        },
+        {
+          "id": "gh_015",
+          "soru": "Hast du heute gearbeitet?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Ja, ich habe heute gearbeitet",
+          "synonyme": ["Nein, ich hatte frei"],
+          "anahtar_kelimeler": ["gearbeitet"],
+          "oneri": "Ja, ich habe heute gearbeitet"
+        },
+        {
+          "id": "gh_016",
+          "soru": "Gehst du noch zur Schule?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Ja, ich gehe in die 9. Klasse",
+          "synonyme": ["Nein, ich arbeite schon"],
+          "anahtar_kelimeler": ["9. Klasse"],
+          "oneri": "Ja, ich gehe in die 9. Klasse"
+        },
+        {
+          "id": "gh_017",
+          "soru": "Was studierst du?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Ich studiere Medizin",
+          "synonyme": ["Ich studiere Informatik"],
+          "anahtar_kelimeler": ["studiere", "Medizin"],
+          "oneri": "Ich studiere Medizin"
+        },
+        {
+          "id": "gh_018",
+          "soru": "Wann hast du Unterricht?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Ich habe von 8 bis 13 Uhr Unterricht",
+          "synonyme": ["Ich habe von 9 bis 14 Uhr Unterricht"],
+          "anahtar_kelimeler": ["8", "13", "Unterricht"],
+          "oneri": "Ich habe von 8 bis 13 Uhr Unterricht"
+        },
+        {
+          "id": "gh_019",
+          "soru": "Kann ich bitte mit Herrn Müller sprechen?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Einen Moment, bitte. Ich verbinde Sie",
+          "synonyme": ["Einen Moment, bitte. Er ist nicht da"],
+          "anahtar_kelimeler": ["Moment", "verbinde"],
+          "oneri": "Einen Moment, bitte. Ich verbinde Sie"
+        },
+        {
+          "id": "gh_020",
+          "soru": "Kann ich eine Nachricht hinterlassen?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Ja, natürlich. Was möchten Sie sagen?",
+          "synonyme": ["Nein, rufen Sie später an"],
+          "anahtar_kelimeler": ["sagen"],
+          "oneri": "Ja, natürlich. Was möchten Sie sagen?"
+        },
+        {
+          "id": "gh_021",
+          "soru": "Rufen Sie mich zurück!",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Ja, ich rufe Sie zurück",
+          "synonyme": ["Ja, ich rufe dich zurück"],
+          "anahtar_kelimeler": ["rufe", "zurück"],
+          "oneri": "Ja, ich rufe Sie zurück"
+        },
+        {
+          "id": "gh_022",
+          "soru": "Hast du meine Nachricht bekommen?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Ja, ich habe deine Nachricht bekommen",
+          "synonyme": ["Nein, ich habe keine Nachricht bekommen"],
+          "anahtar_kelimeler": ["Nachricht", "bekommen"],
+          "oneri": "Ja, ich habe deine Nachricht bekommen"
+        },
+        {
+          "id": "gh_023",
+          "soru": "Schreibst du mir eine SMS?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Ja, ich schreibe dir eine SMS",
+          "synonyme": ["Nein, ich rufe dich lieber an"],
+          "anahtar_kelimeler": ["SMS", "schreibe"],
+          "oneri": "Ja, ich schreibe dir eine SMS"
+        }
+      ]
+    },
+    {
+      "id": "bos_zaman_kultur",
+      "baslik": "Boş Zaman ve Kültür",
+      "alistirmalar": [
+        {
+          "id": "bk_001",
+          "soru": "Was machst du gern in deiner Freizeit?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Ich gehe gern ins Kino und lese Bücher",
+          "synonyme": ["Ich höre Musik und treffe Freunde"],
+          "anahtar_kelimeler": ["Kino", "lese"],
+          "oneri": "Ich gehe gern ins Kino und lese Bücher"
+        },
+        {
+          "id": "bk_002",
+          "soru": "Was sind deine Hobbys?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Meine Hobbys sind Fußball, Musik und Fotografie",
+          "synonyme": ["Meine Hobbys sind Lesen und Schwimmen"],
+          "anahtar_kelimeler": ["Hobbys", "Fußball"],
+          "oneri": "Meine Hobbys sind Fußball, Musik und Fotografie"
+        },
+        {
+          "id": "bk_003",
+          "soru": "Machst du Sport?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Ja, ich mache gern Sport. Ich spiele Fußball",
+          "synonyme": ["Nein, ich mache keinen Sport"],
+          "anahtar_kelimeler": ["Sport", "Fußball"],
+          "oneri": "Ja, ich mache gern Sport. Ich spiele Fußball"
+        },
+        {
+          "id": "bk_004",
+          "soru": "Triffst du oft Freunde?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Ja, ich treffe Freunde am Wochenende",
+          "synonyme": ["Nein, ich treffe Freunde nicht oft"],
+          "anahtar_kelimeler": ["treffe", "Freunde"],
+          "oneri": "Ja, ich treffe Freunde am Wochenende"
+        },
+        {
+          "id": "bk_005",
+          "soru": "Gehst du gern ins Kino?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Ja, ich gehe gern ins Kino",
+          "synonyme": ["Nein, ich gehe nicht gern ins Kino"],
+          "anahtar_kelimeler": ["Kino"],
+          "oneri": "Ja, ich gehe gern ins Kino"
+        },
+        {
+          "id": "bk_006",
+          "soru": "Welche Filme magst du?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Ich mag Krimis und Komödien",
+          "synonyme": ["Ich mag Dramen und Horrorfilme"],
+          "anahtar_kelimeler": ["Krimis", "Komödien"],
+          "oneri": "Ich mag Krimis und Komödien"
+        },
+        {
+          "id": "bk_007",
+          "soru": "Was läuft gerade im Kino?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Ein neuer Film mit Brad Pitt",
+          "synonyme": ["Ein Film über ..."],
+          "anahtar_kelimeler": ["neuer Film"],
+          "oneri": "Ein neuer Film mit Brad Pitt"
+        },
+        {
+          "id": "bk_008",
+          "soru": "Wie war der Film?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Der Film war sehr gut!",
+          "synonyme": ["Der Film war langweilig"],
+          "anahtar_kelimeler": ["sehr gut"],
+          "oneri": "Der Film war sehr gut!"
+        },
+        {
+          "id": "bk_009",
+          "soru": "Wann beginnt die Vorstellung?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Die Vorstellung beginnt um 20 Uhr",
+          "synonyme": ["Die Vorstellung startet um 20 Uhr"],
+          "anahtar_kelimeler": ["beginnt", "20", "Uhr"],
+          "oneri": "Die Vorstellung beginnt um 20 Uhr"
+        },
+        {
+          "id": "bk_010",
+          "soru": "Wie viel kostet die Kinokarte?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Die Kinokarte kostet 12 Euro",
+          "synonyme": ["Die Kinokarte ist 12 Euro"],
+          "anahtar_kelimeler": ["Kinokarte", "12"],
+          "oneri": "Die Kinokarte kostet 12 Euro"
+        },
+        {
+          "id": "bk_011",
+          "soru": "Warst du schon im Museum?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Ja, ich war schon im Museum",
+          "synonyme": ["Nein, noch nicht"],
+          "anahtar_kelimeler": ["Museum"],
+          "oneri": "Ja, ich war schon im Museum"
+        },
+        {
+          "id": "bk_012",
+          "soru": "Welches Museum magst du?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Ich mag das Kunstmuseum",
+          "synonyme": ["Ich mag das Historische Museum"],
+          "anahtar_kelimeler": ["Kunstmuseum"],
+          "oneri": "Ich mag das Kunstmuseum"
+        },
+        {
+          "id": "bk_013",
+          "soru": "Wie viel kostet der Eintritt?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Der Eintritt kostet 8 Euro",
+          "synonyme": ["Der Eintritt ist 8 Euro"],
+          "anahtar_kelimeler": ["Eintritt", "8"],
+          "oneri": "Der Eintritt kostet 8 Euro"
+        },
+        {
+          "id": "bk_014",
+          "soru": "Wann ist das Museum geöffnet?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Das Museum ist von 10 bis 18 Uhr geöffnet",
+          "synonyme": ["Das Museum ist von 9 bis 17 Uhr geöffnet"],
+          "anahtar_kelimeler": ["geöffnet", "10", "18"],
+          "oneri": "Das Museum ist von 10 bis 18 Uhr geöffnet"
+        },
+        {
+          "id": "bk_015",
+          "soru": "Was machst du im Urlaub?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Ich schwimme, wandere und besichtige die Stadt",
+          "synonyme": ["Ich mache Fotos und esse in Restaurants"],
+          "anahtar_kelimeler": ["schwimme", "wandere"],
+          "oneri": "Ich schwimme, wandere und besichtige die Stadt"
+        },
+        {
+          "id": "bk_016",
+          "soru": "Wohin fährst du in den Ferien?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Ich fahre ans Meer",
+          "synonyme": ["Ich fahre in die Berge"],
+          "anahtar_kelimeler": ["ans Meer"],
+          "oneri": "Ich fahre ans Meer"
+        },
+        {
+          "id": "bk_017",
+          "soru": "Besichtigst du gern Sehenswürdigkeiten?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Ja, ich besichtige gern Sehenswürdigkeiten",
+          "synonyme": ["Nein, ich besichtige nicht gern"],
+          "anahtar_kelimeler": ["Sehenswürdigkeiten"],
+          "oneri": "Ja, ich besichtige gern Sehenswürdigkeiten"
+        },
+        {
+          "id": "bk_018",
+          "soru": "Was isst du im Urlaub gern?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Ich esse gern typische Gerichte",
+          "synonyme": ["Ich esse gern Fisch"],
+          "anahtar_kelimeler": ["typische Gerichte"],
+          "oneri": "Ich esse gern typische Gerichte"
+        },
+        {
+          "id": "bk_019",
+          "soru": "Machst du im Urlaub Fotos?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Ja, ich mache viele Fotos",
+          "synonyme": ["Nein, ich mache keine Fotos"],
+          "anahtar_kelimeler": ["Fotos"],
+          "oneri": "Ja, ich mache viele Fotos"
+        },
+        {
+          "id": "bk_020",
+          "soru": "Gehst du gern ins Theater?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Ja, ich gehe gern ins Theater",
+          "synonyme": ["Nein, ich gehe nicht gern ins Theater"],
+          "anahtar_kelimeler": ["Theater"],
+          "oneri": "Ja, ich gehe gern ins Theater"
+        },
+        {
+          "id": "bk_021",
+          "soru": "Hörst du gern Musik?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Ja, ich höre gern Musik",
+          "synonyme": ["Nein, ich höre nicht gern Musik"],
+          "anahtar_kelimeler": ["Musik"],
+          "oneri": "Ja, ich höre gern Musik"
+        },
+        {
+          "id": "bk_022",
+          "soru": "Welche Musik magst du?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Ich mag Popmusik und Klassik",
+          "synonyme": ["Ich mag Rockmusik"],
+          "anahtar_kelimeler": ["Popmusik", "Klassik"],
+          "oneri": "Ich mag Popmusik und Klassik"
+        }
+      ]
+    },
+    {
+      "id": "dekodlama",
+      "baslik": "Vera F. Birkenbihl Dekodlama",
+      "alistirmalar": [
+        {
+          "id": "dk_001",
+          "soru": "Wie heißt du?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Nasıl isimlendirilirsin sen?",
+          "synonyme": ["Nasıl adın?"],
+          "anahtar_kelimeler": ["Wie", "heißt", "du"],
+          "oneri": "Nasıl isimlendirilirsin sen?"
+        },
+        {
+          "id": "dk_002",
+          "soru": "Ich wohne in Berlin.",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Ben otururum Berlin'de",
+          "synonyme": ["Berlin'de otururum"],
+          "anahtar_kelimeler": ["wohne", "Berlin"],
+          "oneri": "Ben otururum Berlin'de"
+        },
+        {
+          "id": "dk_003",
+          "soru": "Der Kaffee kostet 3 Euro.",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Kahve fiyatı 3 Euro",
+          "synonyme": ["Kahve 3 Euro"],
+          "anahtar_kelimeler": ["Kaffee", "kostet", "3"],
+          "oneri": "Kahve fiyatı 3 Euro"
+        },
+        {
+          "id": "dk_004",
+          "soru": "Wir treffen uns am Bahnhof.",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Biz buluşuruz kendimizi tren istasyonunda",
+          "synonyme": ["Tren istasyonunda buluşuruz"],
+          "anahtar_kelimeler": ["treffen", "Bahnhof"],
+          "oneri": "Biz buluşuruz kendimizi tren istasyonunda"
+        },
+        {
+          "id": "dk_005",
+          "soru": "Der Zug kommt an.",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Tren gelir varır",
+          "synonyme": ["Tren varır"],
+          "anahtar_kelimeler": ["Zug", "kommt", "an"],
+          "oneri": "Tren gelir varır"
+        },
+        {
+          "id": "dk_006",
+          "soru": "Ich möchte ein Zimmer.",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Ben isterim bir oda",
+          "synonyme": ["Bir oda isterim"],
+          "anahtar_kelimeler": ["möchte", "Zimmer"],
+          "oneri": "Ben isterim bir oda"
+        },
+        {
+          "id": "dk_007",
+          "soru": "Meine Mutter ist Hausfrau.",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Benim annem ev hanımıdır",
+          "synonyme": ["Annem ev hanımı"],
+          "anahtar_kelimeler": ["Mutter", "Hausfrau"],
+          "oneri": "Benim annem ev hanımıdır"
+        },
+        {
+          "id": "dk_008",
+          "soru": "Ich höre gern Musik.",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Ben dinlerim severek müzik",
+          "synonyme": ["Müzik dinlerim"],
+          "anahtar_kelimeler": ["höre", "Musik"],
+          "oneri": "Ben dinlerim severek müzik"
+        },
+        {
+          "id": "dk_009",
+          "soru": "Hast du Zeit?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Var mı sana vakit?",
+          "synonyme": ["Vaktin var mı?"],
+          "anahtar_kelimeler": ["Hast", "Zeit"],
+          "oneri": "Var mı sana vakit?"
+        },
+        {
+          "id": "dk_010",
+          "soru": "Die Ausstellung ist interessant.",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Sergi ilginçtir",
+          "synonyme": ["Sergi ilginç"],
+          "anahtar_kelimeler": ["Ausstellung", "interessant"],
+          "oneri": "Sergi ilginçtir"
+        },
+        {
+          "id": "dk_011",
+          "soru": "Ich esse gern Fisch.",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Ben yerim severek balık",
+          "synonyme": ["Balık yerim"],
+          "anahtar_kelimeler": ["esse", "Fisch"],
+          "oneri": "Ben yerim severek balık"
+        },
+        {
+          "id": "dk_012",
+          "soru": "Der Zug hat Verspätung.",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Tren var gecikme",
+          "synonyme": ["Tren gecikti"],
+          "anahtar_kelimeler": ["Zug", "Verspätung"],
+          "oneri": "Tren var gecikme"
+        },
+        {
+          "id": "dk_013",
+          "soru": "Ich gehe ins Kino.",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Ben giderim sinemaya",
+          "synonyme": ["Sinemaya giderim"],
+          "anahtar_kelimeler": ["gehe", "Kino"],
+          "oneri": "Ben giderim sinemaya"
+        },
+        {
+          "id": "dk_014",
+          "soru": "Was kostet der Pullover?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Ne fiyatı kazağın?",
+          "synonyme": ["Kazak ne kadar?"],
+          "anahtar_kelimeler": ["kostet", "Pullover"],
+          "oneri": "Ne fiyatı kazağın?"
+        },
+        {
+          "id": "dk_015",
+          "soru": "Ich bin 30 Jahre alt.",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Ben 30 yıllar yaşındayım",
+          "synonyme": ["30 yaşındayım"],
+          "anahtar_kelimeler": ["30", "Jahre", "alt"],
+          "oneri": "Ben 30 yıllar yaşındayım"
+        },
+        {
+          "id": "dk_016",
+          "soru": "Nasıl isimlendirilirsin sen?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Wie heißt du?",
+          "synonyme": ["Wie heißt du?"],
+          "anahtar_kelimeler": ["Wie", "heißt", "du"],
+          "oneri": "Wie heißt du?"
+        },
+        {
+          "id": "dk_017",
+          "soru": "Ben otururum Berlin'de.",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Ich wohne in Berlin",
+          "synonyme": ["Ich lebe in Berlin"],
+          "anahtar_kelimeler": ["wohne", "Berlin"],
+          "oneri": "Ich wohne in Berlin"
+        },
+        {
+          "id": "dk_018",
+          "soru": "Kahve fiyatı 3 Euro.",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Der Kaffee kostet 3 Euro",
+          "synonyme": ["Der Kaffee ist 3 Euro"],
+          "anahtar_kelimeler": ["Kaffee", "kostet", "3"],
+          "oneri": "Der Kaffee kostet 3 Euro"
+        },
+        {
+          "id": "dk_019",
+          "soru": "Biz buluşuruz kendimizi tren istasyonunda.",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Wir treffen uns am Bahnhof",
+          "synonyme": ["Wir treffen uns am Bahnhof"],
+          "anahtar_kelimeler": ["treffen", "Bahnhof"],
+          "oneri": "Wir treffen uns am Bahnhof"
+        },
+        {
+          "id": "dk_020",
+          "soru": "Tren gelir varır.",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Der Zug kommt an",
+          "synonyme": ["Der Zug kommt an"],
+          "anahtar_kelimeler": ["Zug", "kommt", "an"],
+          "oneri": "Der Zug kommt an"
+        },
+        {
+          "id": "dk_021",
+          "soru": "Ben isterim bir oda.",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Ich möchte ein Zimmer",
+          "synonyme": ["Ich will ein Zimmer"],
+          "anahtar_kelimeler": ["möchte", "Zimmer"],
+          "oneri": "Ich möchte ein Zimmer"
+        },
+        {
+          "id": "dk_022",
+          "soru": "Benim annem ev hanımıdır.",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Meine Mutter ist Hausfrau",
+          "synonyme": ["Meine Mutter ist Hausfrau"],
+          "anahtar_kelimeler": ["Mutter", "Hausfrau"],
+          "oneri": "Meine Mutter ist Hausfrau"
+        },
+        {
+          "id": "dk_023",
+          "soru": "Ben dinlerim severek müzik.",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Ich höre gern Musik",
+          "synonyme": ["Ich mag Musik"],
+          "anahtar_kelimeler": ["höre", "Musik"],
+          "oneri": "Ich höre gern Musik"
+        },
+        {
+          "id": "dk_024",
+          "soru": "Var mı sana vakit?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Hast du Zeit?",
+          "synonyme": ["Hast du Zeit?"],
+          "anahtar_kelimeler": ["Hast", "Zeit"],
+          "oneri": "Hast du Zeit?"
+        },
+        {
+          "id": "dk_025",
+          "soru": "Sergi ilginçtir.",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Die Ausstellung ist interessant",
+          "synonyme": ["Die Ausstellung ist interessant"],
+          "anahtar_kelimeler": ["Ausstellung", "interessant"],
+          "oneri": "Die Ausstellung ist interessant"
+        },
+        {
+          "id": "dk_026",
+          "soru": "Ben yerim severek balık.",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Ich esse gern Fisch",
+          "synonyme": ["Ich mag Fisch"],
+          "anahtar_kelimeler": ["esse", "Fisch"],
+          "oneri": "Ich esse gern Fisch"
+        },
+        {
+          "id": "dk_027",
+          "soru": "Tren var bir gecikme.",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Der Zug hat eine Verspätung",
+          "synonyme": ["Der Zug hat Verspätung"],
+          "anahtar_kelimeler": ["Zug", "Verspätung"],
+          "oneri": "Der Zug hat eine Verspätung"
+        },
+        {
+          "id": "dk_028",
+          "soru": "Ben giderim sinemaya.",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Ich gehe ins Kino",
+          "synonyme": ["Ich gehe ins Kino"],
+          "anahtar_kelimeler": ["gehe", "Kino"],
+          "oneri": "Ich gehe ins Kino"
+        },
+        {
+          "id": "dk_029",
+          "soru": "Ne fiyatı kazağın?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Was kostet der Pullover?",
+          "synonyme": ["Was kostet der Pullover?"],
+          "anahtar_kelimeler": ["kostet", "Pullover"],
+          "oneri": "Was kostet der Pullover?"
+        },
+        {
+          "id": "dk_030",
+          "soru": "Ben 30 yıllar yaşındayım.",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Ich bin 30 Jahre alt",
+          "synonyme": ["Ich bin 30 Jahre alt"],
+          "anahtar_kelimeler": ["30", "Jahre", "alt"],
+          "oneri": "Ich bin 30 Jahre alt"
+        }
+      ]
+    }
+  ],
+  "toplam_konu_sayisi": 8,
+  "toplam_alistirma_sayisi": 174
+}

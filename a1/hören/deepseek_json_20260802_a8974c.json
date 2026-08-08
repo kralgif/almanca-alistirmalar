@@ -1,0 +1,48 @@
+{
+  "title": "GOETHE A2 - HÖREN (DURCHSAGE AM BAHNHOF)",
+  "subtitle": "DURCHSAGE AM BAHNHOF",
+  "sectionId": 5,
+  "sectionName": "DURCHSAGE AM BAHNHOF",
+  "exercises": [
+    {
+      "exerciseId": "1",
+      "type": "richtig_falsch",
+      "frage": "Der Zug nach Hamburg hat Verspätung.",
+      "turkce": "Hamburg treni gecikti.",
+      "ipucu": "hat 10 Minuten Verspätung.",
+      "answer": "Richtig"
+    },
+    {
+      "exerciseId": "2",
+      "type": "richtig_falsch",
+      "frage": "Der Zug nach Hamburg fährt um 14:40 Uhr ab.",
+      "turkce": "Hamburg treni 14:40'ta kalkıyor.",
+      "ipucu": "Die Abfahrt ist jetzt um 14:40 Uhr.",
+      "answer": "Richtig"
+    },
+    {
+      "exerciseId": "3",
+      "type": "richtig_falsch",
+      "frage": "Der Zug nach München fährt um 14:30 Uhr.",
+      "turkce": "Münih treni 14:30'da.",
+      "ipucu": "München ... um 15:00 Uhr.",
+      "answer": "Falsch"
+    },
+    {
+      "exerciseId": "4",
+      "type": "richtig_falsch",
+      "frage": "Der Zug nach Berlin fährt von Gleis 3.",
+      "turkce": "Berlin treni 3. perondan kalkıyor.",
+      "ipucu": "Gleis 8 statt von Gleis 3.",
+      "answer": "Falsch"
+    },
+    {
+      "exerciseId": "5",
+      "type": "richtig_falsch",
+      "frage": "Die Durchsage ist am Bahnhof.",
+      "turkce": "Anons tren istasyonunda.",
+      "ipucu": "Durchsage am Bahnhof.",
+      "answer": "Richtig"
+    }
+  ]
+}

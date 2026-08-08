@@ -1,0 +1,48 @@
+{
+  "title": "GOETHE A2 - HÖREN (TELEFONGESPRÄCH)",
+  "subtitle": "TELEFONGESPRÄCH",
+  "sectionId": 24,
+  "sectionName": "TELEFONGESPRÄCH",
+  "exercises": [
+    {
+      "exerciseId": "11",
+      "type": "richtig_falsch",
+      "frage": "Anna möchte mit Herrn Schmidt sprechen.",
+      "turkce": "Anna Bay Schmidt ile görüşmek istiyor.",
+      "ipucu": "Kann ich bitte mit Herrn Schmidt sprechen?",
+      "answer": "Richtig"
+    },
+    {
+      "exerciseId": "12",
+      "type": "richtig_falsch",
+      "frage": "Der Termin war am Donnerstag um 14:00 Uhr.",
+      "turkce": "Randevu perşembe 14:00'teydi.",
+      "ipucu": "Der Termin ist am Donnerstag um 14:00 Uhr.",
+      "answer": "Richtig"
+    },
+    {
+      "exerciseId": "13",
+      "type": "richtig_falsch",
+      "frage": "Anna möchte den Termin auf Freitag verschieben.",
+      "turkce": "Anna randevuyu cumaya ertelemek istiyor.",
+      "ipucu": "Können wir auf Freitag um 10:00 Uhr verschieben?",
+      "answer": "Richtig"
+    },
+    {
+      "exerciseId": "14",
+      "type": "richtig_falsch",
+      "frage": "Der neue Termin ist um 14:00 Uhr.",
+      "turkce": "Yeni randevu 14:00'te.",
+      "ipucu": "Freitag um 10:00 Uhr.",
+      "answer": "Falsch"
+    },
+    {
+      "exerciseId": "15",
+      "type": "richtig_falsch",
+      "frage": "Anna arbeitet bei der Firma Müller.",
+      "turkce": "Anna Müller firmasında çalışıyor.",
+      "ipucu": "Ich bin Anna Meier von der Firma Müller.",
+      "answer": "Richtig"
+    }
+  ]
+}

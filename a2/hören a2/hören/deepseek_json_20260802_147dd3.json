@@ -1,0 +1,72 @@
+{
+  "title": "GOETHE A2 - HÖREN (MITTAGSPAUSE IM BÜRO)",
+  "subtitle": "MITTAGSPAUSE IM BÜRO",
+  "sectionId": 14,
+  "sectionName": "MITTAGSPAUSE IM BÜRO",
+  "exercises": [
+    {
+      "exerciseId": "33",
+      "type": "richtig_falsch",
+      "frage": "A und B haben Mittagspause.",
+      "turkce": "A ve B'nin öğle arası var.",
+      "ipucu": "Hast du heute Mittagspause?",
+      "answer": "Richtig"
+    },
+    {
+      "exerciseId": "34",
+      "type": "richtig_falsch",
+      "frage": "Die Mittagspause ist von 12:00 bis 13:00 Uhr.",
+      "turkce": "Öğle arası 12:00'den 13:00'ye kadar.",
+      "ipucu": "von 12:30 bis 13:30 Uhr.",
+      "answer": "Falsch"
+    },
+    {
+      "exerciseId": "35",
+      "type": "richtig_falsch",
+      "frage": "Es gibt drei Gerichte in der Kantine.",
+      "turkce": "Kantinde üç yemek var.",
+      "ipucu": "Es gibt heute drei Gerichte.",
+      "answer": "Richtig"
+    },
+    {
+      "exerciseId": "36",
+      "type": "richtig_falsch",
+      "frage": "Das Hähnchen ist das zweite Gericht.",
+      "turkce": "Tavuk ikinci yemek.",
+      "ipucu": "Nummer eins ist Hähnchen - birinci.",
+      "answer": "Falsch"
+    },
+    {
+      "exerciseId": "37",
+      "type": "richtig_falsch",
+      "frage": "B nimmt den Fisch.",
+      "turkce": "B balık alıyor.",
+      "ipucu": "Ich nehme den Fisch.",
+      "answer": "Richtig"
+    },
+    {
+      "exerciseId": "38",
+      "type": "richtig_falsch",
+      "frage": "Die Pasta kostet 7,50 Euro.",
+      "turkce": "Makarna 7,50 Euro.",
+      "ipucu": "Pasta kostet 6,00 Euro.",
+      "answer": "Falsch"
+    },
+    {
+      "exerciseId": "39",
+      "type": "richtig_falsch",
+      "frage": "A trinkt Mineralwasser.",
+      "turkce": "A maden suyu içiyor.",
+      "ipucu": "Ich nehme ein Mineralwasser.",
+      "answer": "Richtig"
+    },
+    {
+      "exerciseId": "40",
+      "type": "richtig_falsch",
+      "frage": "B hat nach dem Essen noch viel Arbeit.",
+      "turkce": "B'nin yemekten sonra çok işi var.",
+      "ipucu": "Nach dem Essen muss ich noch einen Bericht schreiben. Ich habe heute noch viel Arbeit.",
+      "answer": "Richtig"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "baslik": "Selbstvorstellung - Frau Schmidt",
+  "sürüm": "1.0",
+  "tarih": "2024-08-02",
+  "aciklama": "Frau Schmidt stellt sich vor - Interview",
+  "transkript": "Interviewer: Guten Tag! Stellen Sie sich bitte vor!\nFrau Schmidt: Guten Tag! Ich heiße Anna Schmidt. Ich bin 28 Jahre alt und komme aus Österreich, aus Wien. Ich wohne jetzt aber in Berlin. Ich arbeite als Verkäuferin in einem Modegeschäft. In meiner Freizeit spiele ich Tennis und lese gern Bücher. Ich bin verheiratet und habe einen Sohn. Er ist 5 Jahre alt.",
+  "transkript_enthalten": false,
+  "uygulama_kurallari": {
+    "cevap_kontrol": {
+      "dogru_cevap": "Öğrenci cevabı 'dogru_cevap' alanı ile birebir eşleşirse doğru.",
+      "synonyme_kontrolu": "Öğrenci cevabı 'synonyme' listesindeki herhangi bir kelimeyle eşleşirse doğru.",
+      "oneri_mesaji": "Yanlış cevap durumunda 'oneri' alanını göster."
+    },
+    "soru_tipleri": {
+      "bilgi_doldurma": "Öğrenci boşluğa uygun bilgiyi yazar."
+    }
+  },
+  "alistirmalar": [
+    {
+      "id": "ss_001",
+      "soru": "Name:",
+      "tip": "bilgi_doldurma",
+      "dogru_cevap": "Anna Schmidt",
+      "synonyme": ["Anna Schmidt", "Schmidt"],
+      "anahtar_kelimeler": ["Anna", "Schmidt"],
+      "oneri": "Anna Schmidt"
+    },
+    {
+      "id": "ss_002",
+      "soru": "Alter:",
+      "tip": "bilgi_doldurma",
+      "dogru_cevap": "28",
+      "synonyme": ["28", "28 Jahre", "28 Jahre alt"],
+      "anahtar_kelimeler": ["28"],
+      "oneri": "28 Jahre alt"
+    },
+    {
+      "id": "ss_003",
+      "soru": "Herkunft (Land):",
+      "tip": "bilgi_doldurma",
+      "dogru_cevap": "Österreich",
+      "synonyme": ["Österreich", "aus Österreich"],
+      "anahtar_kelimeler": ["Österreich"],
+      "oneri": "Österreich"
+    },
+    {
+      "id": "ss_004",
+      "soru": "Wohnort (Stadt):",
+      "tip": "bilgi_doldurma",
+      "dogru_cevap": "Berlin",
+      "synonyme": ["Berlin", "in Berlin"],
+      "anahtar_kelimeler": ["Berlin"],
+      "oneri": "Berlin"
+    },
+    {
+      "id": "ss_005",
+      "soru": "Beruf:",
+      "tip": "bilgi_doldurma",
+      "dogru_cevap": "Verkäuferin",
+      "synonyme": ["Verkäuferin", "Modegeschäft", "Verkäuferin in einem Modegeschäft"],
+      "anahtar_kelimeler": ["Verkäuferin"],
+      "oneri": "Verkäuferin"
+    },
+    {
+      "id": "ss_006",
+      "soru": "Hobby:",
+      "tip": "bilgi_doldurma",
+      "dogru_cevap": "Tennis, Bücher lesen",
+      "synonyme": ["Tennis", "Bücher lesen", "Tennis und Bücher lesen", "Tennis, lesen"],
+      "anahtar_kelimeler": ["Tennis", "lesen"],
+      "oneri": "Tennis und Bücher lesen"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "title": "GOETHE A2 - HÖREN (HOTEL)",
+  "subtitle": "HOTEL",
+  "sectionId": 9,
+  "sectionName": "HOTEL",
+  "exercises": [
+    {
+      "exerciseId": "11",
+      "type": "richtig_falsch",
+      "frage": "Der Gast heißt Wagner.",
+      "turkce": "Müşterinin adı Wagner.",
+      "ipucu": "auf den Namen Wagner.",
+      "answer": "Richtig"
+    },
+    {
+      "exerciseId": "12",
+      "type": "richtig_falsch",
+      "frage": "Der Gast hat ein Doppelzimmer gebucht.",
+      "turkce": "Müşteri çift kişilik oda rezervasyonu yaptı.",
+      "ipucu": "Ich habe ein Einzelzimmer - tek kişilik.",
+      "answer": "Falsch"
+    },
+    {
+      "exerciseId": "13",
+      "type": "richtig_falsch",
+      "frage": "Der Gast bleibt eine Nacht.",
+      "turkce": "Müşteri bir gece kalıyor.",
+      "ipucu": "zwei Nächte - iki gece.",
+      "answer": "Falsch"
+    },
+    {
+      "exerciseId": "14",
+      "type": "richtig_falsch",
+      "frage": "Die Zimmernummer ist 318 im 3. Stock.",
+      "turkce": "Oda numarası 318, 3. katta.",
+      "ipucu": "Ihre Zimmernummer ist 318 im 3. Stock.",
+      "answer": "Richtig"
+    },
+    {
+      "exerciseId": "15",
+      "type": "richtig_falsch",
+      "frage": "Das Frühstück kostet extra.",
+      "turkce": "Kahvaltı ekstra ücretli.",
+      "ipucu": "das Frühstück ist inklusive - dahil.",
+      "answer": "Falsch"
+    }
+  ]
+}

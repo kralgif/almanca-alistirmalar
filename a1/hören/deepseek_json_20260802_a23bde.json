@@ -1,0 +1,48 @@
+{
+  "title": "GOETHE A2 - HÖREN (IM RESTAURANT)",
+  "subtitle": "IM RESTAURANT",
+  "sectionId": 10,
+  "sectionName": "IM RESTAURANT",
+  "exercises": [
+    {
+      "exerciseId": "6",
+      "type": "richtig_falsch",
+      "frage": "Der Gast möchte die Tomatensuppe.",
+      "turkce": "Müşteri domates çorbası istiyor.",
+      "ipucu": "Ich hätte gern die Tomatensuppe.",
+      "answer": "Richtig"
+    },
+    {
+      "exerciseId": "7",
+      "type": "richtig_falsch",
+      "frage": "Der Gast möchte Schnitzel mit Pommes.",
+      "turkce": "Müşteri şnitzel patates kızartması istiyor.",
+      "ipucu": "dann das Schnitzel mit Pommes.",
+      "answer": "Richtig"
+    },
+    {
+      "exerciseId": "8",
+      "type": "richtig_falsch",
+      "frage": "Der Gast trinkt Bier.",
+      "turkce": "Müşteri bira içiyor.",
+      "ipucu": "Ein Glas Rotwein - kırmızı şarap.",
+      "answer": "Falsch"
+    },
+    {
+      "exerciseId": "9",
+      "type": "richtig_falsch",
+      "frage": "Der Gast möchte einen Nachtisch.",
+      "turkce": "Müşteri tatlı istiyor.",
+      "ipucu": "Nein, danke - hayır.",
+      "answer": "Falsch"
+    },
+    {
+      "exerciseId": "10",
+      "type": "richtig_falsch",
+      "frage": "Die Szene spielt in einem Restaurant.",
+      "turkce": "Sahneler bir restoranda geçiyor.",
+      "ipucu": "Kellner und Gast konuşuyor.",
+      "answer": "Richtig"
+    }
+  ]
+}

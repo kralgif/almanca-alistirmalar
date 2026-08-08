@@ -1,0 +1,862 @@
+{
+  "title": "GOETHE A2 - DEUTSCH FÜR FORTGESCHRITTENE",
+  "subtitle": "MODALVERBEN, PRÄTERITUM, PERFEKT, NEBENSÄTZE, REFLEXIVVERBEN, PRÄPOSITIONEN",
+  "sections": [
+    {
+      "sectionId": 1,
+      "sectionName": "BÖLÜM 1: MODALVERBEN",
+      "exercises": [
+        {
+          "exerciseId": "1",
+          "almanca": "Ich kann gut Deutsch sprechen.",
+          "turkce": "İyi Almanca konuşabilirim.",
+          "ipucu": "Ich = Ben, kann = -ebilirim, gut = iyi, Deutsch = Almanca, sprechen = konuşmak"
+        },
+        {
+          "exerciseId": "2",
+          "almanca": "Kannst du mir helfen?",
+          "turkce": "Bana yardım edebilir misin?",
+          "ipucu": "Kannst = -ebilir misin, du = sen, mir = bana, helfen = yardım etmek"
+        },
+        {
+          "exerciseId": "3",
+          "almanca": "Sie kann sehr gut singen.",
+          "turkce": "Çok iyi şarkı söyleyebilir.",
+          "ipucu": "Sie = O, kann = -ebilir, sehr = çok, gut = iyi, singen = şarkı söylemek"
+        },
+        {
+          "exerciseId": "4",
+          "almanca": "Wir können heute Abend kommen.",
+          "turkce": "Bu akşam gelebiliriz.",
+          "ipucu": "Wir = Biz, können = -ebiliriz, heute = bugün, Abend = akşam, kommen = gelmek"
+        },
+        {
+          "exerciseId": "5",
+          "almanca": "Könnt ihr Englisch?",
+          "turkce": "İngilizce biliyor musunuz?",
+          "ipucu": "Könnt = -ebilir misiniz, ihr = siz, Englisch = İngilizce"
+        },
+        {
+          "exerciseId": "6",
+          "almanca": "Ich möchte einen Kaffee bestellen.",
+          "turkce": "Bir kahve sipariş etmek istiyorum.",
+          "ipucu": "Ich = Ben, möchte = isterim, einen = bir, Kaffee = kahve, bestellen = sipariş etmek"
+        },
+        {
+          "exerciseId": "7",
+          "almanca": "Möchtest du etwas trinken?",
+          "turkce": "Bir şey içmek ister misin?",
+          "ipucu": "Möchtest = ister misin, du = sen, etwas = bir şey, trinken = içmek"
+        },
+        {
+          "exerciseId": "8",
+          "almanca": "Wir möchten heute ins Kino gehen.",
+          "turkce": "Bugün sinemaya gitmek istiyoruz.",
+          "ipucu": "Wir = Biz, möchten = isteriz, heute = bugün, ins Kino = sinemaya, gehen = gitmek"
+        },
+        {
+          "exerciseId": "9",
+          "almanca": "Möchten Sie noch etwas?",
+          "turkce": "Başka bir şey ister misiniz?",
+          "ipucu": "Möchten = ister misiniz, Sie = siz, noch = başka, etwas = bir şey"
+        },
+        {
+          "exerciseId": "10",
+          "almanca": "Möchtest du mitkommen?",
+          "turkce": "Bizimle gelmek ister misin?",
+          "ipucu": "Möchtest = ister misin, du = sen, mitkommen = birlikte gelmek"
+        },
+        {
+          "exerciseId": "11",
+          "almanca": "Ich will nach Deutschland reisen.",
+          "turkce": "Almanya'ya seyahat etmek istiyorum.",
+          "ipucu": "Ich = Ben, will = isterim, nach = ...'a, Deutschland = Almanya, reisen = seyahat etmek"
+        },
+        {
+          "exerciseId": "12",
+          "almanca": "Willst du Pizza essen?",
+          "turkce": "Pizza yemek ister misin?",
+          "ipucu": "Willst = ister misin, du = sen, Pizza = pizza, essen = yemek"
+        },
+        {
+          "exerciseId": "13",
+          "almanca": "Wir wollen ein neues Auto kaufen.",
+          "turkce": "Yeni bir araba satın almak istiyoruz.",
+          "ipucu": "Wir = Biz, wollen = isteriz, ein = bir, neues = yeni, Auto = araba, kaufen = satın almak"
+        },
+        {
+          "exerciseId": "14",
+          "almanca": "Sie will Ärztin werden.",
+          "turkce": "Doktor olmak istiyor.",
+          "ipucu": "Sie = O, will = ister, Ärztin = doktor (kadın), werden = olmak"
+        },
+        {
+          "exerciseId": "15",
+          "almanca": "Wollt ihr heute Abend tanzen gehen?",
+          "turkce": "Bu akşam dansa gitmek ister misiniz?",
+          "ipucu": "Wollt = ister misiniz, ihr = siz, heute = bugün, Abend = akşam, tanzen = dans etmek, gehen = gitmek"
+        },
+        {
+          "exerciseId": "16",
+          "almanca": "Ich muss heute arbeiten.",
+          "turkce": "Bugün çalışmak zorundayım.",
+          "ipucu": "Ich = Ben, muss = -zorundayım, heute = bugün, arbeiten = çalışmak"
+        },
+        {
+          "exerciseId": "17",
+          "almanca": "Musst du morgen früh aufstehen?",
+          "turkce": "Yarın erken kalkmak zorunda mısın?",
+          "ipucu": "Musst = -zorunda mısın, du = sen, morgen = yarın, früh = erken, aufstehen = kalkmak"
+        },
+        {
+          "exerciseId": "18",
+          "almanca": "Wir müssen pünktlich kommen.",
+          "turkce": "Zamanında gelmek zorundayız.",
+          "ipucu": "Wir = Biz, müssen = -zorundayız, pünktlich = zamanında, kommen = gelmek"
+        },
+        {
+          "exerciseId": "19",
+          "almanca": "Ihr müsst die Hausaufgaben machen.",
+          "turkce": "Ödevlerinizi yapmak zorundasınız.",
+          "ipucu": "Ihr = Siz, müsst = -zorundasınız, die Hausaufgaben = ödevler, machen = yapmak"
+        },
+        {
+          "exerciseId": "20",
+          "almanca": "Sie müssen den Zug um 8 Uhr nehmen.",
+          "turkce": "Saat 8'deki treni almak zorundasınız.",
+          "ipucu": "Sie = Siz, müssen = -zorundasınız, den Zug = treni, um 8 Uhr = saat 8'de, nehmen = almak"
+        },
+        {
+          "exerciseId": "21",
+          "almanca": "Ich darf hier parken.",
+          "turkce": "Burada park edebilirim.",
+          "ipucu": "Ich = Ben, darf = -ebilirim (izinli), hier = burada, parken = park etmek"
+        },
+        {
+          "exerciseId": "22",
+          "almanca": "Darf ich das Fenster öffnen?",
+          "turkce": "Pencereyi açabilir miyim?",
+          "ipucu": "Darf = -ebilir miyim, ich = ben, das Fenster = pencere, öffnen = açmak"
+        },
+        {
+          "exerciseId": "23",
+          "almanca": "Kinder dürfen hier nicht spielen.",
+          "turkce": "Burada çocuklar oynayamaz.",
+          "ipucu": "Kinder = Çocuklar, dürfen = -ebilirler, hier = burada, nicht = değil, spielen = oynamak"
+        },
+        {
+          "exerciseId": "24",
+          "almanca": "Darf ich mit Karte bezahlen?",
+          "turkce": "Kartla ödeyebilir miyim?",
+          "ipucu": "Darf = -ebilir miyim, ich = ben, mit = ile, Karte = kart, bezahlen = ödemek"
+        },
+        {
+          "exerciseId": "25",
+          "almanca": "Du darfst heute früher nach Hause gehen.",
+          "turkce": "Bugün eve daha erken gidebilirsin.",
+          "ipucu": "Du = Sen, darfst = -ebilirsin, heute = bugün, früher = daha erken, nach Hause = eve, gehen = gitmek"
+        },
+        {
+          "exerciseId": "26",
+          "almanca": "Du sollst mehr Gemüse essen.",
+          "turkce": "Daha fazla sebze yemelisin.",
+          "ipucu": "Du = Sen, sollst = -melisin, mehr = daha fazla, Gemüse = sebze, essen = yemek"
+        },
+        {
+          "exerciseId": "27",
+          "almanca": "Soll ich den Kuchen mitbringen?",
+          "turkce": "Pastayı getireyim mi?",
+          "ipucu": "Soll = -meliyim mi, ich = ben, den Kuchen = pastayı, mitbringen = yanında getirmek"
+        },
+        {
+          "exerciseId": "28",
+          "almanca": "Wir sollen pünktlich sein.",
+          "turkce": "Zamanında olmalıyız.",
+          "ipucu": "Wir = Biz, sollen = -meliyiz, pünktlich = zamanında, sein = olmak"
+        },
+        {
+          "exerciseId": "29",
+          "almanca": "Ihr sollt die Tür abschließen.",
+          "turkce": "Kapıyı kilitlemelisiniz.",
+          "ipucu": "Ihr = Siz, sollt = -melisiniz, die Tür = kapı, abschließen = kilitlemek"
+        },
+        {
+          "exerciseId": "30",
+          "almanca": "Sie sollen den Arzt anrufen.",
+          "turkce": "Doktoru aramalısınız.",
+          "ipucu": "Sie = Siz, sollen = -melisiniz, den Arzt = doktor, anrufen = aramak"
+        },
+        {
+          "exerciseId": "31",
+          "almanca": "Ich konnte gestern nicht kommen.",
+          "turkce": "Dün gelemedim.",
+          "ipucu": "Ich = Ben, konnte = gelemedim, gestern = dün, nicht = değil, kommen = gelmek"
+        },
+        {
+          "exerciseId": "32",
+          "almanca": "Er musste lange warten.",
+          "turkce": "Uzun süre beklemek zorunda kaldı.",
+          "ipucu": "Er = O, musste = zorunda kaldı, lange = uzun, warten = beklemek"
+        },
+        {
+          "exerciseId": "33",
+          "almanca": "Wir wollten ins Kino gehen.",
+          "turkce": "Sinemaya gitmek istedik.",
+          "ipucu": "Wir = Biz, wollten = istedik, ins Kino = sinemaya, gehen = gitmek"
+        },
+        {
+          "exerciseId": "34",
+          "almanca": "Sie durfte nicht rauchen.",
+          "turkce": "Sigara içemezdi.",
+          "ipucu": "Sie = O, durfte = -ebilirdi (izinli), nicht = değil, rauchen = sigara içmek"
+        },
+        {
+          "exerciseId": "35",
+          "almanca": "Ich sollte mehr schlafen.",
+          "turkce": "Daha fazla uyumalıydım.",
+          "ipucu": "Ich = Ben, sollte = -meliydim, mehr = daha fazla, schlafen = uyumak"
+        },
+        {
+          "exerciseId": "36",
+          "almanca": "Kannst du mir bitte helfen? - Ja, ich kann dir helfen.",
+          "turkce": "Bana yardım edebilir misin? - Evet, sana yardım edebilirim.",
+          "ipucu": "Kannst = -ebilir misin, du = sen, mir = bana, helfen = yardım etmek, Ja = evet, ich = ben, kann = -ebilirim, dir = sana"
+        },
+        {
+          "exerciseId": "37",
+          "almanca": "Möchtest du etwas trinken? - Ja, ich möchte einen Tee.",
+          "turkce": "Bir şey içmek ister misin? - Evet, bir çay istiyorum.",
+          "ipucu": "Möchtest = ister misin, du = sen, etwas = bir şey, trinken = içmek, Ja = evet, ich = ben, möchte = isterim, einen = bir, Tee = çay"
+        },
+        {
+          "exerciseId": "38",
+          "almanca": "Wir müssen jetzt gehen. - Ja, wir müssen wirklich gehen.",
+          "turkce": "Şimdi gitmek zorundayız. - Evet, gerçekten gitmek zorundayız.",
+          "ipucu": "Wir = Biz, müssen = -zorundayız, jetzt = şimdi, gehen = gitmek, Ja = evet, wirklich = gerçekten"
+        },
+        {
+          "exerciseId": "39",
+          "almanca": "Durftest du früher nach Hause gehen? - Ja, ich durfte früher gehen.",
+          "turkce": "Daha erken eve gidebilir miydin? - Evet, daha erken gidebilirdim.",
+          "ipucu": "Durftest = -ebilir miydin, du = sen, früher = daha erken, nach Hause = eve, gehen = gitmek, Ja = evet, ich = ben, durfte = -ebilirdim"
+        },
+        {
+          "exerciseId": "40",
+          "almanca": "Soll ich das Licht ausschalten? - Ja, bitte schalte es aus.",
+          "turkce": "Işığı kapatayım mı? - Evet, lütfen kapat.",
+          "ipucu": "Soll = -meliyim mi, ich = ben, das Licht = ışık, ausschalten = kapatmak, Ja = evet, bitte = lütfen, schalte = kapat, es = onu, aus = kapat"
+        }
+      ],
+      "fillBlanks": [
+        {
+          "exerciseId": "41",
+          "almanca": "Ich _______ gut Klavier spielen.",
+          "turkce": "İyi piyano çalabilirim.",
+          "ipucu": "ich için können çekimi: kann",
+          "answer": "kann"
+        },
+        {
+          "exerciseId": "42",
+          "almanca": "Du _______ heute Abend kommen?",
+          "turkce": "Bu akşam gelebilir misin?",
+          "ipucu": "du için können çekimi: kannst",
+          "answer": "kannst"
+        },
+        {
+          "exerciseId": "43",
+          "almanca": "Wir _______ eine Pizza bestellen.",
+          "turkce": "Bir pizza sipariş etmek istiyoruz.",
+          "ipucu": "wir için möchten çekimi: möchten",
+          "answer": "möchten"
+        },
+        {
+          "exerciseId": "44",
+          "almanca": "Er _______ sein Auto verkaufen.",
+          "turkce": "Arabasını satmak istiyor.",
+          "ipucu": "er için wollen çekimi: will",
+          "answer": "will"
+        },
+        {
+          "exerciseId": "45",
+          "almanca": "Ihr _______ die Hausaufgaben machen.",
+          "turkce": "Ödevlerinizi yapmak zorundasınız.",
+          "ipucu": "ihr için müssen çekimi: müsst",
+          "answer": "müsst"
+        },
+        {
+          "exerciseId": "46",
+          "almanca": "Ich _______ gestern nicht kommen.",
+          "turkce": "Dün gelemedim.",
+          "ipucu": "ich için können Präteritum: konnte",
+          "answer": "konnte"
+        },
+        {
+          "exerciseId": "47",
+          "almanca": "Er _______ lange warten.",
+          "turkce": "Uzun süre beklemek zorunda kaldı.",
+          "ipucu": "er için müssen Präteritum: musste",
+          "answer": "musste"
+        },
+        {
+          "exerciseId": "48",
+          "almanca": "Wir _______ ins Kino gehen.",
+          "turkce": "Sinemaya gitmek istedik.",
+          "ipucu": "wir için wollen Präteritum: wollten",
+          "answer": "wollten"
+        },
+        {
+          "exerciseId": "49",
+          "almanca": "Ihr _______ nicht rauchen.",
+          "turkce": "Sigara içemezdiniz.",
+          "ipucu": "ihr için dürfen Präteritum: durftet",
+          "answer": "durftet"
+        },
+        {
+          "exerciseId": "50",
+          "almanca": "Sie _______ früher kommen.",
+          "turkce": "Daha erken gelmeliydiniz.",
+          "ipucu": "Sie için sollen Präteritum: sollten",
+          "answer": "sollten"
+        }
+      ]
+    },
+    {
+      "sectionId": 2,
+      "sectionName": "BÖLÜM 2: PRÄTERITUM VON SEIN / HABEN",
+      "exercises": [
+        {
+          "exerciseId": "51",
+          "almanca": "Ich war gestern in Berlin.",
+          "turkce": "Dün Berlin'deydim.",
+          "ipucu": "Ich = Ben, war = -dim, gestern = dün, in = ...'de, Berlin = Berlin"
+        },
+        {
+          "exerciseId": "52",
+          "almanca": "Du warst sehr müde.",
+          "turkce": "Çok yorgundun.",
+          "ipucu": "Du = Sen, warst = -din, sehr = çok, müde = yorgun"
+        },
+        {
+          "exerciseId": "53",
+          "almanca": "Er war nicht zu Hause.",
+          "turkce": "Evde değildi.",
+          "ipucu": "Er = O, war = -di, nicht = değil, zu Hause = evde"
+        },
+        {
+          "exerciseId": "54",
+          "almanca": "Wir waren im Urlaub.",
+          "turkce": "Tatildeydik.",
+          "ipucu": "Wir = Biz, waren = -dik, im Urlaub = tatilde"
+        },
+        {
+          "exerciseId": "55",
+          "almanca": "Sie waren gestern hier.",
+          "turkce": "Dün buradaydılar.",
+          "ipucu": "Sie = Onlar, waren = -dılar, gestern = dün, hier = burada"
+        },
+        {
+          "exerciseId": "56",
+          "almanca": "Ich hatte keine Zeit.",
+          "turkce": "Zamanım yoktu.",
+          "ipucu": "Ich = Ben, hatte = -dım, keine = yok, Zeit = zaman"
+        },
+        {
+          "exerciseId": "57",
+          "almanca": "Du hattest einen Termin.",
+          "turkce": "Bir randevun vardı.",
+          "ipucu": "Du = Sen, hattest = -dın, einen = bir, Termin = randevu"
+        },
+        {
+          "exerciseId": "58",
+          "almanca": "Er hatte ein neues Auto.",
+          "turkce": "Yeni bir arabası vardı.",
+          "ipucu": "Er = O, hatte = -dı, ein = bir, neues = yeni, Auto = araba"
+        },
+        {
+          "exerciseId": "59",
+          "almanca": "Wir hatten viel Arbeit.",
+          "turkce": "Çok işimiz vardı.",
+          "ipucu": "Wir = Biz, hatten = -dık, viel = çok, Arbeit = iş"
+        },
+        {
+          "exerciseId": "60",
+          "almanca": "Sie hatten keine Fragen.",
+          "turkce": "Soruları yoktu.",
+          "ipucu": "Sie = Onlar, hatten = -dılar, keine = yok, Fragen = sorular"
+        }
+      ],
+      "fillBlanks": [
+        {
+          "exerciseId": "61",
+          "almanca": "Ich _______ gestern im Kino.",
+          "turkce": "Dün sinemadaydım.",
+          "ipucu": "ich için sein Präteritum: war",
+          "answer": "war"
+        },
+        {
+          "exerciseId": "62",
+          "almanca": "Du _______ sehr nett.",
+          "turkce": "Çok kibardın.",
+          "ipucu": "du için sein Präteritum: warst",
+          "answer": "warst"
+        },
+        {
+          "exerciseId": "63",
+          "almanca": "Er _______ keine Zeit.",
+          "turkce": "Zamanı yoktu.",
+          "ipucu": "er için haben Präteritum: hatte",
+          "answer": "hatte"
+        },
+        {
+          "exerciseId": "64",
+          "almanca": "Wir _______ im Urlaub.",
+          "turkce": "Tatildeydik.",
+          "ipucu": "wir için sein Präteritum: waren",
+          "answer": "waren"
+        },
+        {
+          "exerciseId": "65",
+          "almanca": "Ihr _______ viel Glück.",
+          "turkce": "Çok şanslıydınız.",
+          "ipucu": "ihr için haben Präteritum: hattet",
+          "answer": "hattet"
+        }
+      ]
+    },
+    {
+      "sectionId": 3,
+      "sectionName": "BÖLÜM 3: PERFEKT",
+      "exercises": [
+        {
+          "exerciseId": "66",
+          "almanca": "Ich habe Deutsch gelernt.",
+          "turkce": "Almanca öğrendim.",
+          "ipucu": "Ich = Ben, habe = -dim, Deutsch = Almanca, gelernt = öğrenmiş"
+        },
+        {
+          "exerciseId": "67",
+          "almanca": "Er hat den Film gesehen.",
+          "turkce": "Filmi izledi.",
+          "ipucu": "Er = O, hat = -di, den Film = filmi, gesehen = izlemiş"
+        },
+        {
+          "exerciseId": "68",
+          "almanca": "Wir haben Pizza gegessen.",
+          "turkce": "Pizza yedik.",
+          "ipucu": "Wir = Biz, haben = -dik, Pizza = pizza, gegessen = yemiş"
+        },
+        {
+          "exerciseId": "69",
+          "almanca": "Ihr habt das Buch gelesen.",
+          "turkce": "Kitabı okudunuz.",
+          "ipucu": "Ihr = Siz, habt = -diniz, das Buch = kitap, gelesen = okumuş"
+        },
+        {
+          "exerciseId": "70",
+          "almanca": "Sie haben die Arbeit gemacht.",
+          "turkce": "İşi yaptılar.",
+          "ipucu": "Sie = Onlar, haben = -dılar, die Arbeit = iş, gemacht = yapmış"
+        },
+        {
+          "exerciseId": "71",
+          "almanca": "Ich bin nach Berlin gefahren.",
+          "turkce": "Berlin'e gittim.",
+          "ipucu": "Ich = Ben, bin = -dim, nach = ...'e, Berlin = Berlin, gefahren = gitmiş"
+        },
+        {
+          "exerciseId": "72",
+          "almanca": "Sie ist gestern gekommen.",
+          "turkce": "Dün geldi.",
+          "ipucu": "Sie = O, ist = -di, gestern = dün, gekommen = gelmiş"
+        },
+        {
+          "exerciseId": "73",
+          "almanca": "Wir sind ins Kino gegangen.",
+          "turkce": "Sinemaya gittik.",
+          "ipucu": "Wir = Biz, sind = -dik, ins Kino = sinemaya, gegangen = gitmiş"
+        },
+        {
+          "exerciseId": "74",
+          "almanca": "Ihr seid nach Hause gegangen.",
+          "turkce": "Eve gittiniz.",
+          "ipucu": "Ihr = Siz, seid = -diniz, nach Hause = eve, gegangen = gitmiş"
+        },
+        {
+          "exerciseId": "75",
+          "almanca": "Sie sind nach Italien geflogen.",
+          "turkce": "İtalya'ya uçtular.",
+          "ipucu": "Sie = Onlar, sind = -dılar, nach = ...'a, Italien = İtalya, geflogen = uçmuş"
+        }
+      ],
+      "fillBlanks": [
+        {
+          "exerciseId": "76",
+          "almanca": "Ich _______ Deutsch _______ .",
+          "turkce": "Almanca öğrendim.",
+          "ipucu": "ich + haben + Partizip II: habe gelernt",
+          "answer": "habe gelernt"
+        },
+        {
+          "exerciseId": "77",
+          "almanca": "Er _______ den Film _______ .",
+          "turkce": "Filmi izledi.",
+          "ipucu": "er + haben + Partizip II: hat gesehen",
+          "answer": "hat gesehen"
+        },
+        {
+          "exerciseId": "78",
+          "almanca": "Wir _______ Pizza _______ .",
+          "turkce": "Pizza yedik.",
+          "ipucu": "wir + haben + Partizip II: haben gegessen",
+          "answer": "haben gegessen"
+        },
+        {
+          "exerciseId": "79",
+          "almanca": "Ich _______ nach Berlin _______ .",
+          "turkce": "Berlin'e gittim.",
+          "ipucu": "ich + sein + Partizip II: bin gefahren",
+          "answer": "bin gefahren"
+        },
+        {
+          "exerciseId": "80",
+          "almanca": "Sie _______ gestern _______ .",
+          "turkce": "Dün geldi.",
+          "ipucu": "sie + sein + Partizip II: ist gekommen",
+          "answer": "ist gekommen"
+        }
+      ]
+    },
+    {
+      "sectionId": 4,
+      "sectionName": "BÖLÜM 4: NEBENSÄTZE",
+      "exercises": [
+        {
+          "exerciseId": "81",
+          "almanca": "Ich bleibe zu Hause, weil ich krank bin.",
+          "turkce": "Evde kalıyorum çünkü hastayım.",
+          "ipucu": "Ich = Ben, bleibe = kalırım, zu Hause = evde, weil = çünkü, ich = ben, krank = hasta, bin = -yım"
+        },
+        {
+          "exerciseId": "82",
+          "almanca": "Wir gehen nicht spazieren, weil es regnet.",
+          "turkce": "Yürüyüşe gitmiyoruz çünkü yağmur yağıyor.",
+          "ipucu": "Wir = Biz, gehen = gideriz, nicht = değil, spazieren = yürüyüş, weil = çünkü, es = o, regnet = yağmur yağar"
+        },
+        {
+          "exerciseId": "83",
+          "almanca": "Ich muss heute arbeiten, weil ich viel zu tun habe.",
+          "turkce": "Bugün çalışmak zorundayım çünkü yapacak çok işim var.",
+          "ipucu": "Ich = Ben, muss = zorundayım, heute = bugün, arbeiten = çalışmak, weil = çünkü, ich = ben, viel = çok, zu tun = yapacak, habe = var"
+        },
+        {
+          "exerciseId": "84",
+          "almanca": "Ich mag dich, weil du nett bist.",
+          "turkce": "Seni seviyorum çünkü kibarsın.",
+          "ipucu": "Ich = Ben, mag = severim, dich = seni, weil = çünkü, du = sen, nett = kibar, bist = -sın"
+        },
+        {
+          "exerciseId": "85",
+          "almanca": "Wir haben keine Zeit, weil wir arbeiten müssen.",
+          "turkce": "Zamanımız yok çünkü çalışmak zorundayız.",
+          "ipucu": "Wir = Biz, haben = var, keine = yok, Zeit = zaman, weil = çünkü, wir = biz, arbeiten = çalışmak, müssen = zorundayız"
+        },
+        {
+          "exerciseId": "86",
+          "almanca": "Ich weiß, dass du recht hast.",
+          "turkce": "Haklı olduğunu biliyorum.",
+          "ipucu": "Ich = Ben, weiß = bilirim, dass = ... olduğunu, du = sen, recht = haklı, hast = -sın"
+        },
+        {
+          "exerciseId": "87",
+          "almanca": "Ich denke, dass das eine gute Idee ist.",
+          "turkce": "Bunun iyi bir fikir olduğunu düşünüyorum.",
+          "ipucu": "Ich = Ben, denke = düşünürüm, dass = ... olduğunu, das = bu, eine = bir, gute = iyi, Idee = fikir, ist = -dir"
+        },
+        {
+          "exerciseId": "88",
+          "almanca": "Er sagt, dass er morgen kommt.",
+          "turkce": "Yarın geleceğini söylüyor.",
+          "ipucu": "Er = O, sagt = söyler, dass = ... olduğunu, er = o, morgen = yarın, kommt = gelir"
+        },
+        {
+          "exerciseId": "89",
+          "almanca": "Ich hoffe, dass ihr kommt.",
+          "turkce": "Geleceğinizi umuyorum.",
+          "ipucu": "Ich = Ben, hoffe = umarım, dass = ... olduğunu, ihr = siz, kommt = gelirsiniz"
+        },
+        {
+          "exerciseId": "90",
+          "almanca": "Wir wissen, dass Sie Recht haben.",
+          "turkce": "Haklı olduğunuzu biliyoruz.",
+          "ipucu": "Wir = Biz, wissen = biliriz, dass = ... olduğunu, Sie = siz, Recht = haklı, haben = -sınız"
+        },
+        {
+          "exerciseId": "91",
+          "almanca": "Ich rufe dich an, wenn ich Zeit habe.",
+          "turkce": "Zamanım olduğunda seni ararım.",
+          "ipucu": "Ich = Ben, rufe = ararım, dich = seni, an = arar, wenn = ... -diğinde, ich = ben, Zeit = zaman, habe = var"
+        },
+        {
+          "exerciseId": "92",
+          "almanca": "Wenn es regnet, bleibe ich zu Hause.",
+          "turkce": "Yağmur yağdığında evde kalırım.",
+          "ipucu": "Wenn = ... -diğinde, es = o, regnet = yağmur yağar, bleibe = kalırım, ich = ben, zu Hause = evde"
+        },
+        {
+          "exerciseId": "93",
+          "almanca": "Wir gehen einkaufen, wenn wir Geld haben.",
+          "turkce": "Paramız olduğunda alışverişe gideriz.",
+          "ipucu": "Wir = Biz, gehen = gideriz, einkaufen = alışverişe, wenn = ... -diğinde, wir = biz, Geld = para, haben = var"
+        },
+        {
+          "exerciseId": "94",
+          "almanca": "Wenn du Hilfe brauchst, ruf mich an.",
+          "turkce": "Yardıma ihtiyacın olduğunda beni ara.",
+          "ipucu": "Wenn = ... -diğinde, du = sen, Hilfe = yardım, brauchst = ihtiyacın var, ruf = ara, mich = beni, an = ara"
+        },
+        {
+          "exerciseId": "95",
+          "almanca": "Ich komme zu dir, wenn ich fertig bin.",
+          "turkce": "Hazır olduğumda sana gelirim.",
+          "ipucu": "Ich = Ben, komme = gelirim, zu = ...'e, dir = sana, wenn = ... -diğinde, ich = ben, fertig = hazır, bin = -ım"
+        },
+        {
+          "exerciseId": "96",
+          "almanca": "Ich bleibe zu Hause, weil ich krank bin, aber ich komme morgen, wenn es mir besser geht.",
+          "turkce": "Evde kalıyorum çünkü hastayım, ama yarın gelirim eğer daha iyi olursam.",
+          "ipucu": "Ich = Ben, bleibe = kalırım, zu Hause = evde, weil = çünkü, ich = ben, krank = hasta, bin = -yım, aber = ama, ich = ben, komme = gelirim, morgen = yarın, wenn = eğer, es = o, mir = bana, besser = daha iyi, geht = olur"
+        }
+      ],
+      "fillBlanks": []
+    },
+    {
+      "sectionId": 5,
+      "sectionName": "BÖLÜM 5: REFLEXIVVERBEN",
+      "exercises": [
+        {
+          "exerciseId": "97",
+          "almanca": "Ich wasche mich.",
+          "turkce": "Yıkanıyorum.",
+          "ipucu": "Ich = Ben, wasche = yıkarım, mich = kendimi"
+        },
+        {
+          "exerciseId": "98",
+          "almanca": "Du duschst dich.",
+          "turkce": "Duş alıyorsun.",
+          "ipucu": "Du = Sen, duschst = duş alırsın, dich = kendini"
+        },
+        {
+          "exerciseId": "99",
+          "almanca": "Er interessiert sich für Kunst.",
+          "turkce": "Sanatla ilgileniyor.",
+          "ipucu": "Er = O, interessiert = ilgilenir, sich = kendisi, für = ...la, Kunst = sanat"
+        },
+        {
+          "exerciseId": "100",
+          "almanca": "Wir freuen uns über das Geschenk.",
+          "turkce": "Hediyeye seviniyoruz.",
+          "ipucu": "Wir = Biz, freuen = seviniriz, uns = kendimiz, über = ...e, das Geschenk = hediye"
+        },
+        {
+          "exerciseId": "101",
+          "almanca": "Ihr trefft euch heute Abend.",
+          "turkce": "Bu akşam buluşuyorsunuz.",
+          "ipucu": "Ihr = Siz, trefft = buluşursunuz, euch = kendiniz, heute Abend = bu akşam"
+        },
+        {
+          "exerciseId": "102",
+          "almanca": "Sie setzen sich an den Tisch.",
+          "turkce": "Masaya oturuyorlar.",
+          "ipucu": "Sie = Onlar, setzen = otururlar, sich = kendileri, an = ...e, den Tisch = masa"
+        }
+      ],
+      "fillBlanks": [
+        {
+          "exerciseId": "103",
+          "almanca": "Ich wasche _______ .",
+          "turkce": "Yıkanıyorum.",
+          "ipucu": "ich → mich",
+          "answer": "mich"
+        },
+        {
+          "exerciseId": "104",
+          "almanca": "Du duschst _______ .",
+          "turkce": "Duş alıyorsun.",
+          "ipucu": "du → dich",
+          "answer": "dich"
+        },
+        {
+          "exerciseId": "105",
+          "almanca": "Er interessiert _______ für Musik.",
+          "turkce": "Müzikle ilgileniyor.",
+          "ipucu": "er → sich",
+          "answer": "sich"
+        },
+        {
+          "exerciseId": "106",
+          "almanca": "Wir freuen _______ .",
+          "turkce": "Seviniyoruz.",
+          "ipucu": "wir → uns",
+          "answer": "uns"
+        },
+        {
+          "exerciseId": "107",
+          "almanca": "Ihr trefft _______ heute.",
+          "turkce": "Bugün buluşuyorsunuz.",
+          "ipucu": "ihr → euch",
+          "answer": "euch"
+        }
+      ]
+    },
+    {
+      "sectionId": 6,
+      "sectionName": "BÖLÜM 6: PRÄPOSITIONEN",
+      "exercises": [
+        {
+          "exerciseId": "108",
+          "almanca": "Ich komme aus der Türkei.",
+          "turkce": "Türkiye'den geliyorum.",
+          "ipucu": "Ich = Ben, komme = gelirim, aus = ...'dan, der Türkei = Türkiye'den"
+        },
+        {
+          "exerciseId": "109",
+          "almanca": "Ich fahre mit dem Zug.",
+          "turkce": "Trenle gidiyorum.",
+          "ipucu": "Ich = Ben, fahre = giderim, mit = ile, dem Zug = tren"
+        },
+        {
+          "exerciseId": "110",
+          "almanca": "Ich wohne bei meinen Eltern.",
+          "turkce": "Ailemle birlikte yaşıyorum.",
+          "ipucu": "Ich = Ben, wohne = otururum, bei = ...'de, meinen Eltern = ailem"
+        },
+        {
+          "exerciseId": "111",
+          "almanca": "Ich lerne seit einem Jahr Deutsch.",
+          "turkce": "Bir yıldır Almanca öğreniyorum.",
+          "ipucu": "Ich = Ben, lerne = öğrenirim, seit = ...'den beri, einem = bir, Jahr = yıl, Deutsch = Almanca"
+        },
+        {
+          "exerciseId": "112",
+          "almanca": "Ich gehe zu meinem Freund.",
+          "turkce": "Arkadaşıma gidiyorum.",
+          "ipucu": "Ich = Ben, gehe = giderim, zu = ...'a, meinem = benim, Freund = arkadaş"
+        },
+        {
+          "exerciseId": "113",
+          "almanca": "Das Geschenk ist für dich.",
+          "turkce": "Hediye senin için.",
+          "ipucu": "Das Geschenk = Hediye, ist = -dir, für = için, dich = sen"
+        },
+        {
+          "exerciseId": "114",
+          "almanca": "Ich gehe durch den Park.",
+          "turkce": "Parktan geçiyorum.",
+          "ipucu": "Ich = Ben, gehe = giderim, durch = ... aracılığıyla, den Park = park"
+        },
+        {
+          "exerciseId": "115",
+          "almanca": "Wir treffen uns um 10 Uhr.",
+          "turkce": "Saat 10'da buluşuyoruz.",
+          "ipucu": "Wir = Biz, treffen = buluşuruz, uns = kendimiz, um = saatinde, 10 Uhr = 10"
+        },
+        {
+          "exerciseId": "116",
+          "almanca": "Das Buch liegt auf dem Tisch.",
+          "turkce": "Kitap masanın üstünde.",
+          "ipucu": "Das Buch = Kitap, liegt = yatar, auf = ...'de, dem Tisch = masa"
+        },
+        {
+          "exerciseId": "117",
+          "almanca": "Ich lege das Buch auf den Tisch.",
+          "turkce": "Kitabı masanın üstüne koyuyorum.",
+          "ipucu": "Ich = Ben, lege = koyarım, das Buch = kitabı, auf = ...'e, den Tisch = masa"
+        },
+        {
+          "exerciseId": "118",
+          "almanca": "Ich bin in der Küche.",
+          "turkce": "Mutfaktayım.",
+          "ipucu": "Ich = Ben, bin = -yım, in = ...'de, der Küche = mutfak"
+        },
+        {
+          "exerciseId": "119",
+          "almanca": "Ich gehe in die Küche.",
+          "turkce": "Mutfağa gidiyorum.",
+          "ipucu": "Ich = Ben, gehe = giderim, in = ...'e, die Küche = mutfağa"
+        },
+        {
+          "exerciseId": "120",
+          "almanca": "Der Stuhl steht neben dem Tisch.",
+          "turkce": "Sandalye masanın yanında.",
+          "ipucu": "Der Stuhl = Sandalye, steht = durur, neben = yanında, dem Tisch = masa"
+        }
+      ],
+      "fillBlanks": []
+    }
+  ],
+  "bonusTest": {
+    "title": "BONUS: TÜM KONULAR TOPLU - KENDİNİ TEST ET",
+    "exercises": [
+      {
+        "exerciseId": "B1",
+        "turkce": "İyi Almanca konuşabilirim.",
+        "ipucu": "können",
+        "answer": "Ich kann gut Deutsch sprechen."
+      },
+      {
+        "exerciseId": "B2",
+        "turkce": "Bugün çalışmak zorundayım.",
+        "ipucu": "müssen",
+        "answer": "Ich muss heute arbeiten."
+      },
+      {
+        "exerciseId": "B3",
+        "turkce": "Dün Berlin'deydim.",
+        "ipucu": "sein - Präteritum",
+        "answer": "Ich war gestern in Berlin."
+      },
+      {
+        "exerciseId": "B4",
+        "turkce": "Almanca öğrendim.",
+        "ipucu": "Perfekt",
+        "answer": "Ich habe Deutsch gelernt."
+      },
+      {
+        "exerciseId": "B5",
+        "turkce": "Evde kalıyorum çünkü hastayım.",
+        "ipucu": "weil",
+        "answer": "Ich bleibe zu Hause, weil ich krank bin."
+      },
+      {
+        "exerciseId": "B6",
+        "turkce": "Yarın geleceğini söylüyor.",
+        "ipucu": "dass",
+        "answer": "Er sagt, dass er morgen kommt."
+      },
+      {
+        "exerciseId": "B7",
+        "turkce": "Zamanım olduğunda seni ararım.",
+        "ipucu": "wenn",
+        "answer": "Ich rufe dich an, wenn ich Zeit habe."
+      },
+      {
+        "exerciseId": "B8",
+        "turkce": "Yıkanıyorum.",
+        "ipucu": "Reflexiv",
+        "answer": "Ich wasche mich."
+      },
+      {
+        "exerciseId": "B9",
+        "turkce": "Türkiye'den geliyorum.",
+        "ipucu": "aus + Dativ",
+        "answer": "Ich komme aus der Türkei."
+      },
+      {
+        "exerciseId": "B10",
+        "turkce": "Hediye senin için.",
+        "ipucu": "für + Akkusativ",
+        "answer": "Das Geschenk ist für dich."
+      }
+    ]
+  }
+}

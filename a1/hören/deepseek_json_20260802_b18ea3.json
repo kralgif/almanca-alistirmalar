@@ -1,0 +1,43 @@
+{
+  "title": "GOETHE A2 - HÖREN (TELEFONANSAGE)",
+  "subtitle": "TELEFONANSAGE",
+  "sectionId": 23,
+  "sectionName": "TELEFONANSAGE",
+  "exercises": [
+    {
+      "exerciseId": "1",
+      "type": "multiple_choice",
+      "frage": "Die Firma ist geöffnet...",
+      "turkce": "Firma açık...",
+      "ipucu": "Montag bis Freitag von 8:00 bis 18:00 Uhr.",
+      "options": ["von Montag bis Samstag", "von Montag bis Freitag", "jeden Tag"],
+      "answer": "von Montag bis Freitag"
+    },
+    {
+      "exerciseId": "2",
+      "type": "multiple_choice",
+      "frage": "Am Samstag ist die Firma...",
+      "turkce": "Cumartesi günü firma...",
+      "ipucu": "Samstag und Sonntag sind wir geschlossen.",
+      "options": ["geöffnet", "geschlossen", "nur am Vormittag geöffnet"],
+      "answer": "geschlossen"
+    },
+    {
+      "exerciseId": "3",
+      "type": "multiple_choice",
+      "frage": "Die Notfallnummer ist...",
+      "turkce": "Acil durum numarası...",
+      "ipucu": "0172 / 9876543.",
+      "options": ["0172 / 9876543", "0172 / 9876544", "0172 / 9876534"],
+      "answer": "0172 / 9876543"
+    },
+    {
+      "exerciseId": "4",
+      "type": "fill_in",
+      "frage": "Für einen Rückruf müssen Sie Ihren _______, Ihre _______ und den _______ Ihres Anrufs hinterlassen.",
+      "turkce": "Geri arama için _______, _______ ve arama _______'nizi bırakmalısınız.",
+      "ipucu": "hinterlassen Sie ... Ihren Namen, Ihre Telefonnummer und den Grund Ihres Anrufs.",
+      "answer": "Namen, Telefonnummer, Grund"
+    }
+  ]
+}

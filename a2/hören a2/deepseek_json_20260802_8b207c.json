@@ -1,0 +1,51 @@
+{
+  "title": "GOETHE A2 - HÖREN (URLAUBSGESPRÄCH)",
+  "subtitle": "URLAUBSGESPRÄCH",
+  "sectionId": 34,
+  "sectionName": "URLAUBSGESPRÄCH",
+  "exercises": [
+    {
+      "exerciseId": "25",
+      "type": "multiple_choice",
+      "frage": "Wo war B im Urlaub?",
+      "turkce": "B tatilde neredeydi?",
+      "ipucu": "zwei Wochen in Spanien.",
+      "options": ["in Italien", "in Spanien", "in Griechenland"],
+      "answer": "in Spanien"
+    },
+    {
+      "exerciseId": "26",
+      "type": "multiple_choice",
+      "frage": "Wie lange war B in Spanien?",
+      "turkce": "B İspanya'da ne kadar kaldı?",
+      "ipucu": "zwei Wochen.",
+      "options": ["eine Woche", "zwei Wochen", "drei Wochen"],
+      "answer": "zwei Wochen"
+    },
+    {
+      "exerciseId": "27",
+      "type": "multiple_choice",
+      "frage": "Was hat B in Granada besichtigt?",
+      "turkce": "B Granada'da ne ziyaret etti?",
+      "ipucu": "die Alhambra besichtigt.",
+      "options": ["das Kolosseum", "die Alhambra", "den Eiffelturm"],
+      "answer": "die Alhambra"
+    },
+    {
+      "exerciseId": "28",
+      "type": "richtig_falsch",
+      "frage": "Das Hotel hatte kein Schwimmbad.",
+      "turkce": "Otelin havuzu yoktu.",
+      "ipucu": "Das Hotel hatte ein großes Schwimmbad - vardı.",
+      "answer": "Falsch"
+    },
+    {
+      "exerciseId": "29",
+      "type": "fill_in",
+      "frage": "B hat am Strand _______ und viel gelesen.",
+      "turkce": "B sahilde _______ ve çok kitap okudu.",
+      "ipucu": "Ich habe geschwommen.",
+      "answer": "geschwommen"
+    }
+  ]
+}

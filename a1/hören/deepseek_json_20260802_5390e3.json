@@ -1,0 +1,48 @@
+{
+  "title": "GOETHE A2 - HÖREN (MUSEUM)",
+  "subtitle": "MUSEUM",
+  "sectionId": 15,
+  "sectionName": "MUSEUM",
+  "exercises": [
+    {
+      "exerciseId": "41",
+      "type": "richtig_falsch",
+      "frage": "Das Museum ist täglich geöffnet.",
+      "turkce": "Müze her gün açık.",
+      "ipucu": "Das Museum ist täglich von 10:00 bis 18:00 Uhr geöffnet.",
+      "answer": "Richtig"
+    },
+    {
+      "exerciseId": "42",
+      "type": "richtig_falsch",
+      "frage": "Der Eintritt kostet 8 Euro.",
+      "turkce": "Giriş 8 Euro.",
+      "ipucu": "Der Eintritt kostet 8 Euro.",
+      "answer": "Richtig"
+    },
+    {
+      "exerciseId": "43",
+      "type": "richtig_falsch",
+      "frage": "Kinder unter 12 Jahren zahlen 4 Euro.",
+      "turkce": "12 yaş altı çocuklar 4 Euro ödüyor.",
+      "ipucu": "Kinder unter 12 Jahren zahlen nichts - ücretsiz.",
+      "answer": "Falsch"
+    },
+    {
+      "exerciseId": "44",
+      "type": "richtig_falsch",
+      "frage": "Die Sonderführung beginnt um 14:00 Uhr.",
+      "turkce": "Özel tur 14:00'te başlıyor.",
+      "ipucu": "Die Führung beginnt um 14:00 Uhr.",
+      "answer": "Richtig"
+    },
+    {
+      "exerciseId": "45",
+      "type": "richtig_falsch",
+      "frage": "Die Führung kostet extra.",
+      "turkce": "Tur ekstra ücretli.",
+      "ipucu": "Die Führung ist kostenlos - ücretsiz.",
+      "answer": "Falsch"
+    }
+  ]
+}

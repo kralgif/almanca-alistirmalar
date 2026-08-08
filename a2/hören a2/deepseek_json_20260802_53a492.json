@@ -1,0 +1,51 @@
+{
+  "title": "GOETHE A2 - HÖREN (EINKAUFEN 4)",
+  "subtitle": "EINKAUFEN 4",
+  "sectionId": 36,
+  "sectionName": "EINKAUFEN 4",
+  "exercises": [
+    {
+      "exerciseId": "40",
+      "type": "multiple_choice",
+      "frage": "Was sucht die Kundin?",
+      "turkce": "Müşteri ne arıyor?",
+      "ipucu": "eine Winterjacke in Größe M.",
+      "options": ["eine Winterjacke in Größe M", "einen Pullover in Größe L", "eine Hose in Größe S"],
+      "answer": "eine Winterjacke in Größe M"
+    },
+    {
+      "exerciseId": "41",
+      "type": "multiple_choice",
+      "frage": "Wie viel kostet die Jacke jetzt?",
+      "turkce": "Ceket şimdi ne kadar?",
+      "ipucu": "79,95 Euro.",
+      "options": ["49,95 Euro", "79,95 Euro", "99,95 Euro"],
+      "answer": "79,95 Euro"
+    },
+    {
+      "exerciseId": "42",
+      "type": "richtig_falsch",
+      "frage": "Die Jacke ist im Angebot.",
+      "turkce": "Ceket indirimde.",
+      "ipucu": "Die ist im Angebot.",
+      "answer": "Richtig"
+    },
+    {
+      "exerciseId": "43",
+      "type": "multiple_choice",
+      "frage": "Wo ist die Umkleide?",
+      "turkce": "Soyunma kabini nerede?",
+      "ipucu": "Die Umkleide ist dort links.",
+      "options": ["dort rechts", "dort links", "geradeaus"],
+      "answer": "dort links"
+    },
+    {
+      "exerciseId": "44",
+      "type": "fill_in",
+      "frage": "Die Kundin bezahlt mit _______.",
+      "turkce": "Müşteri _______ ile ödüyor.",
+      "ipucu": "mit Karte.",
+      "answer": "Karte"
+    }
+  ]
+}

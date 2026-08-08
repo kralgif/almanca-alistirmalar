@@ -1,0 +1,51 @@
+{
+  "title": "GOETHE A2 - HÖREN (TELEFONAT 4)",
+  "subtitle": "TELEFONAT 4",
+  "sectionId": 31,
+  "sectionName": "TELEFONAT 4",
+  "exercises": [
+    {
+      "exerciseId": "45",
+      "type": "multiple_choice",
+      "frage": "Wer ruft an?",
+      "turkce": "Kim arıyor?",
+      "ipucu": "Hier spricht Thomas.",
+      "options": ["Anna", "Thomas", "Max"],
+      "answer": "Thomas"
+    },
+    {
+      "exerciseId": "46",
+      "type": "multiple_choice",
+      "frage": "Wo ist Anna?",
+      "turkce": "Anna nerede?",
+      "ipucu": "Sie ist im Supermarkt.",
+      "options": ["im Kino", "im Supermarkt", "bei der Arbeit"],
+      "answer": "im Supermarkt"
+    },
+    {
+      "exerciseId": "47",
+      "type": "multiple_choice",
+      "frage": "Wann wollten sich Thomas und Anna treffen?",
+      "turkce": "Thomas ve Anna ne zaman buluşacaklardı?",
+      "ipucu": "heute Abend um 19:00 Uhr.",
+      "options": ["heute Abend um 19:00 Uhr", "morgen um 18:00 Uhr", "heute Abend um 20:00 Uhr"],
+      "answer": "heute Abend um 19:00 Uhr"
+    },
+    {
+      "exerciseId": "48",
+      "type": "richtig_falsch",
+      "frage": "Thomas kann heute Abend kommen.",
+      "turkce": "Thomas bu akşam gelebilir.",
+      "ipucu": "Aber ich kann leider nicht.",
+      "answer": "Falsch"
+    },
+    {
+      "exerciseId": "49",
+      "type": "fill_in",
+      "frage": "Thomas und Anna treffen sich morgen um _______ Uhr.",
+      "turkce": "Thomas ve Anna yarın _______'da buluşuyor.",
+      "ipucu": "morgen um 18:00 Uhr.",
+      "answer": "18:00"
+    }
+  ]
+}

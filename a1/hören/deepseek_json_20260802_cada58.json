@@ -1,0 +1,69 @@
+{
+  "title": "GOETHE A2 - HÖREN (ANMELDUNG ZUM DEUTSCHKURS)",
+  "subtitle": "ANMELDUNG ZUM DEUTSCHKURS",
+  "sectionId": 1,
+  "sectionName": "ANMELDUNG ZUM DEUTSCHKURS",
+  "exercises": [
+    {
+      "exerciseId": "24",
+      "type": "multiple_choice",
+      "frage": "Der Student möchte sich anmelden für...",
+      "turkce": "Öğrenci ... kayıt yaptırmak istiyor.",
+      "ipucu": "Der Student sagt: 'Ich brauche A1. Ich bin Anfänger.'",
+      "options": ["A1", "A2", "B1"],
+      "answer": "A1"
+    },
+    {
+      "exerciseId": "25",
+      "type": "multiple_choice",
+      "frage": "Der Abendkurs ist...",
+      "turkce": "Akşam kursu...",
+      "ipucu": "Der Abendkurs ist Montag und Mittwoch von 18:00 bis 20:00 Uhr.",
+      "options": ["Montag und Mittwoch", "Dienstag und Donnerstag", "Freitag und Samstag"],
+      "answer": "Montag und Mittwoch"
+    },
+    {
+      "exerciseId": "26",
+      "type": "multiple_choice",
+      "frage": "Der Kurs beginnt am...",
+      "turkce": "Kurs ... başlıyor.",
+      "ipucu": "Der Kurs beginnt am 5. September.",
+      "options": ["1. September", "5. September", "10. September"],
+      "answer": "5. September"
+    },
+    {
+      "exerciseId": "27",
+      "type": "multiple_choice",
+      "frage": "Die Kursgebühr beträgt...",
+      "turkce": "Kurs ücreti...",
+      "ipucu": "Die Kursgebühr beträgt 280 Euro.",
+      "options": ["140 Euro", "280 Euro", "350 Euro"],
+      "answer": "280 Euro"
+    },
+    {
+      "exerciseId": "28",
+      "type": "multiple_choice",
+      "frage": "Der Student zahlt jetzt...",
+      "turkce": "Öğrenci şimdi ... ödüyor.",
+      "ipucu": "Sie zahlen die Hälfte jetzt, 140 Euro.",
+      "options": ["140 Euro", "280 Euro", "200 Euro"],
+      "answer": "140 Euro"
+    },
+    {
+      "exerciseId": "29",
+      "type": "fill_in",
+      "frage": "Der Kurs findet in Raum _______ im _______ Stock statt.",
+      "turkce": "Kurs _______ numaralı odada, _______ katta yapılıyor.",
+      "ipucu": "Raum 204 im ersten Stock.",
+      "answer": "204, ersten"
+    },
+    {
+      "exerciseId": "30",
+      "type": "fill_in",
+      "frage": "Was muss der Student mitbringen? Formular: _______, Passfoto: _______, Ausweis: _______",
+      "turkce": "Öğrenci ne getirmeli? Form: _______, Fotoğraf: _______, Kimlik: _______",
+      "ipucu": "Füllen Sie bitte dieses Formular aus. Sie brauchen noch ein Passfoto und Ihren Ausweis.",
+      "answer": "ausgefüllt, ein, seinen"
+    }
+  ]
+}

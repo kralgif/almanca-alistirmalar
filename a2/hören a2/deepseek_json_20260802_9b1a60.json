@@ -1,0 +1,51 @@
+{
+  "title": "GOETHE A2 - HÖREN (TERMIN BEIM ARZT 4)",
+  "subtitle": "TERMIN BEIM ARZT 4",
+  "sectionId": 33,
+  "sectionName": "TERMIN BEIM ARZT 4",
+  "exercises": [
+    {
+      "exerciseId": "35",
+      "type": "multiple_choice",
+      "frage": "Was hat der Patient?",
+      "turkce": "Hastanın ne şikayeti var?",
+      "ipucu": "Kopfschmerzen und Halsschmerzen.",
+      "options": ["Kopfschmerzen und Halsschmerzen", "Rückenschmerzen und Fieber", "Zahnschmerzen und Kopfschmerzen"],
+      "answer": "Kopfschmerzen und Halsschmerzen"
+    },
+    {
+      "exerciseId": "36",
+      "type": "multiple_choice",
+      "frage": "Wie lange hat der Patient die Schmerzen?",
+      "turkce": "Hastanın ağrıları ne kadar süredir?",
+      "ipucu": "seit zwei Tagen.",
+      "options": ["seit zwei Tagen", "seit drei Tagen", "seit einer Woche"],
+      "answer": "seit zwei Tagen"
+    },
+    {
+      "exerciseId": "37",
+      "type": "multiple_choice",
+      "frage": "Wann ist der Termin?",
+      "turkce": "Randevu ne zaman?",
+      "ipucu": "um 11:30 Uhr.",
+      "options": ["um 10:30 Uhr", "um 11:30 Uhr", "um 12:30 Uhr"],
+      "answer": "um 11:30 Uhr"
+    },
+    {
+      "exerciseId": "38",
+      "type": "richtig_falsch",
+      "frage": "Der Patient muss 10 Minuten früher kommen.",
+      "turkce": "Hasta 10 dakika erken gelmeli.",
+      "ipucu": "10 Minuten früher.",
+      "answer": "Richtig"
+    },
+    {
+      "exerciseId": "39",
+      "type": "fill_in",
+      "frage": "Der Patient soll seine _______ mitbringen.",
+      "turkce": "Hasta _______'ını getirmeli.",
+      "ipucu": "Versichertenkarte.",
+      "answer": "Versichertenkarte"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "baslik": "Bahnhofsdurchsage",
+  "sürüm": "1.0",
+  "tarih": "2024-08-02",
+  "aciklama": "Bahnhofsdurchsage - Zug nach Nürnberg ve diğer trenler",
+  "transkript": "Guten Tag, liebe Fahrgäste! Der Regionalzug nach Nürnberg, Abfahrt um 10:15 Uhr von Gleis 2, hat 10 Minuten Verspätung. Die neue Abfahrt ist um 10:25 Uhr. Der Zug nach München fährt planmäßig um 10:30 Uhr von Gleis 5. Reisende nach Stuttgart, bitte beachten Sie: Ihr Zug fährt heute von Gleis 7 statt von Gleis 3. Wir bitten um Entschuldigung.",
+  "transkript_enthalten": false,
+  "uygulama_kurallari": {
+    "cevap_kontrol": {
+      "dogru_cevap": "Öğrenci cevabı 'dogru_cevap' alanı ile birebir eşleşirse doğru.",
+      "oneri_mesaji": "Yanlış cevap durumunda 'oneri' alanını göster."
+    },
+    "soru_tipleri": {
+      "coktan_secmeli": "Öğrenci a, b, c şıklarından birini seçer."
+    }
+  },
+  "alistirmalar": [
+    {
+      "id": "bh_001",
+      "soru": "Der Zug nach Nürnberg hat...",
+      "tip": "coktan_secmeli",
+      "secenekler": {
+        "a": "5 Minuten Verspätung",
+        "b": "10 Minuten Verspätung",
+        "c": "keine Verspätung"
+      },
+      "dogru_cevap": "b",
+      "synonyme": [],
+      "anahtar_kelimeler": [],
+      "oneri": "10 Minuten Verspätung"
+    },
+    {
+      "id": "bh_002",
+      "soru": "Der Zug nach Nürnberg fährt jetzt um...",
+      "tip": "coktan_secmeli",
+      "secenekler": {
+        "a": "10:15 Uhr",
+        "b": "10:25 Uhr",
+        "c": "10:30 Uhr"
+      },
+      "dogru_cevap": "b",
+      "synonyme": [],
+      "anahtar_kelimeler": [],
+      "oneri": "10:25 Uhr"
+    },
+    {
+      "id": "bh_003",
+      "soru": "Der Zug nach München fährt von Gleis...",
+      "tip": "coktan_secmeli",
+      "secenekler": {
+        "a": "Gleis 2",
+        "b": "Gleis 5",
+        "c": "Gleis 7"
+      },
+      "dogru_cevap": "b",
+      "synonyme": [],
+      "anahtar_kelimeler": [],
+      "oneri": "Gleis 5"
+    }
+  ]
+}

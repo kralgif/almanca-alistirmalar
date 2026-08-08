@@ -1,0 +1,51 @@
+{
+  "title": "GOETHE A2 - HÖREN (NEUE MITARBEITERIN 4)",
+  "subtitle": "NEUE MITARBEITERIN 4",
+  "sectionId": 40,
+  "sectionName": "NEUE MITARBEITERIN 4",
+  "exercises": [
+    {
+      "exerciseId": "30",
+      "type": "multiple_choice",
+      "frage": "Wie alt ist Frau Meier?",
+      "turkce": "Bayan Meier kaç yaşında?",
+      "ipucu": "28 Jahre alt.",
+      "options": ["26 Jahre alt", "28 Jahre alt", "30 Jahre alt"],
+      "answer": "28 Jahre alt"
+    },
+    {
+      "exerciseId": "31",
+      "type": "multiple_choice",
+      "frage": "Woher kommt Frau Meier?",
+      "turkce": "Bayan Meier nereden geliyor?",
+      "ipucu": "aus Österreich, aus Wien.",
+      "options": ["aus Deutschland", "aus Österreich", "aus der Schweiz"],
+      "answer": "aus Österreich"
+    },
+    {
+      "exerciseId": "32",
+      "type": "multiple_choice",
+      "frage": "Was ist Frau Meiers Beruf?",
+      "turkce": "Bayan Meier'in mesleği ne?",
+      "ipucu": "als Ingenieurin.",
+      "options": ["Ärztin", "Lehrerin", "Ingenieurin"],
+      "answer": "Ingenieurin"
+    },
+    {
+      "exerciseId": "33",
+      "type": "richtig_falsch",
+      "frage": "Frau Meier spricht drei Sprachen.",
+      "turkce": "Bayan Meier üç dil konuşuyor.",
+      "ipucu": "Deutsch, Englisch und ein bisschen Französisch - 3 dil.",
+      "answer": "Richtig"
+    },
+    {
+      "exerciseId": "34",
+      "type": "fill_in",
+      "frage": "Frau Meier hat einen Sohn, er ist _______ Jahre alt.",
+      "turkce": "Bayan Meier'in bir oğlu var, o _______ yaşında.",
+      "ipucu": "Er ist 5 Jahre alt.",
+      "answer": "5"
+    }
+  ]
+}

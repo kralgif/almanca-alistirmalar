@@ -1,0 +1,71 @@
+{
+  "title": "GOETHE A2 - HÖREN (NEUE MITARBEITERIN)",
+  "subtitle": "NEUE MITARBEITERIN",
+  "sectionId": 16,
+  "sectionName": "NEUE MITARBEITERIN",
+  "exercises": [
+    {
+      "exerciseId": "1",
+      "type": "multiple_choice",
+      "frage": "Die Frau heißt...",
+      "turkce": "Kadının adı...",
+      "ipucu": "Ich heiße Anna Meier.",
+      "options": ["Anna Müller", "Anna Meier", "Anna Schmidt"],
+      "answer": "Anna Meier"
+    },
+    {
+      "exerciseId": "2",
+      "type": "multiple_choice",
+      "frage": "Frau Meier kommt aus...",
+      "turkce": "Bayan Meier ...'dan geliyor.",
+      "ipucu": "Ich komme aus der Schweiz.",
+      "options": ["Deutschland", "Österreich", "der Schweiz"],
+      "answer": "der Schweiz"
+    },
+    {
+      "exerciseId": "3",
+      "type": "multiple_choice",
+      "frage": "Frau Meier wohnt jetzt in...",
+      "turkce": "Bayan Meier şimdi ...'de yaşıyor.",
+      "ipucu": "Ich wohne jetzt aber in Berlin.",
+      "options": ["Zürich", "Berlin", "Wien"],
+      "answer": "Berlin"
+    },
+    {
+      "exerciseId": "4",
+      "type": "multiple_choice",
+      "frage": "Frau Meier ist...",
+      "turkce": "Bayan Meier...",
+      "ipucu": "Ich bin 32 Jahre alt.",
+      "options": ["30 Jahre alt", "32 Jahre alt", "35 Jahre alt"],
+      "answer": "32 Jahre alt"
+    },
+    {
+      "exerciseId": "5",
+      "type": "multiple_choice",
+      "frage": "Frau Meier arbeitet als...",
+      "turkce": "Bayan Meier ... olarak çalışıyor.",
+      "ipucu": "Ich arbeite als Ingenieurin.",
+      "options": ["Ärztin", "Lehrerin", "Ingenieurin"],
+      "answer": "Ingenieurin"
+    },
+    {
+      "exerciseId": "6",
+      "type": "multiple_choice",
+      "frage": "Frau Meier hat...",
+      "turkce": "Bayan Meier'in ... var.",
+      "ipucu": "Ich habe einen Sohn.",
+      "options": ["eine Tochter", "einen Sohn", "zwei Kinder"],
+      "answer": "einen Sohn"
+    },
+    {
+      "exerciseId": "7",
+      "type": "multiple_choice",
+      "frage": "In ihrer Freizeit spielt Frau Meier...",
+      "turkce": "Bayan Meier boş zamanında ... oynuyor.",
+      "ipucu": "spiele ich Tennis.",
+      "options": ["Fußball", "Tennis", "Klavier"],
+      "answer": "Tennis"
+    }
+  ]
+}

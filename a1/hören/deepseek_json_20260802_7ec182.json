@@ -1,0 +1,70 @@
+{
+  "title": "GOETHE A2 - HÖREN (TELEFONINTERVIEW)",
+  "subtitle": "TELEFONINTERVIEW",
+  "sectionId": 25,
+  "sectionName": "TELEFONINTERVIEW",
+  "exercises": [
+    {
+      "exerciseId": "17",
+      "type": "multiple_choice",
+      "frage": "Der Mann heißt...",
+      "turkce": "Adamın adı...",
+      "ipucu": "Mein Name ist Thomas Weber.",
+      "options": ["Thomas Weber", "Thomas Wagner", "Thomas Meier"],
+      "answer": "Thomas Weber"
+    },
+    {
+      "exerciseId": "18",
+      "type": "multiple_choice",
+      "frage": "Herr Weber ist...",
+      "turkce": "Bay Weber...",
+      "ipucu": "Ich bin 45 Jahre alt.",
+      "options": ["40 Jahre alt", "45 Jahre alt", "50 Jahre alt"],
+      "answer": "45 Jahre alt"
+    },
+    {
+      "exerciseId": "19",
+      "type": "multiple_choice",
+      "frage": "Herr Weber kommt aus...",
+      "turkce": "Bay Weber ...'dan geliyor.",
+      "ipucu": "Ich komme aus Österreich.",
+      "options": ["Deutschland", "Österreich", "der Schweiz"],
+      "answer": "Österreich"
+    },
+    {
+      "exerciseId": "20",
+      "type": "multiple_choice",
+      "frage": "Herr Weber arbeitet als...",
+      "turkce": "Bay Weber ... olarak çalışıyor.",
+      "ipucu": "Ich arbeite als Arzt.",
+      "options": ["Arzt", "Krankenpfleger", "Lehrer"],
+      "answer": "Arzt"
+    },
+    {
+      "exerciseId": "21",
+      "type": "multiple_choice",
+      "frage": "Herr Weber hat...",
+      "turkce": "Bay Weber'in ... var.",
+      "ipucu": "wir haben zwei Kinder.",
+      "options": ["einen Sohn", "eine Tochter", "zwei Kinder"],
+      "answer": "zwei Kinder"
+    },
+    {
+      "exerciseId": "22",
+      "type": "multiple_choice",
+      "frage": "In seiner Freizeit fährt Herr Weber...",
+      "turkce": "Bay Weber boş zamanında ... biniyor.",
+      "ipucu": "fahre ich gern Fahrrad.",
+      "options": ["Auto", "Fahrrad", "Motorrad"],
+      "answer": "Fahrrad"
+    },
+    {
+      "exerciseId": "23",
+      "type": "fill_in",
+      "frage": "Name: _______, Alter: _______, Herkunft: _______, Wohnort: _______, Beruf: _______, Familie: _______",
+      "turkce": "Ad: _______, Yaş: _______, Memleket: _______, Yaşadığı Yer: _______, Meslek: _______, Aile: _______",
+      "ipucu": "Thomas Weber, 45, Österreich, München, Arzt, verheiratet, 2 Kinder.",
+      "answer": "Thomas Weber, 45, Österreich, München, Arzt, verheiratet, 2 Kinder"
+    }
+  ]
+}

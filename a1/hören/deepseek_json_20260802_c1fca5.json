@@ -1,0 +1,48 @@
+{
+  "title": "GOETHE A2 - HÖREN (EINKAUFEN)",
+  "subtitle": "EINKAUFEN",
+  "sectionId": 7,
+  "sectionName": "EINKAUFEN",
+  "exercises": [
+    {
+      "exerciseId": "26",
+      "type": "richtig_falsch",
+      "frage": "Die Kundin sucht eine Winterjacke.",
+      "turkce": "Müşteri bir kış ceketi arıyor.",
+      "ipucu": "Ich suche eine Winterjacke.",
+      "answer": "Richtig"
+    },
+    {
+      "exerciseId": "27",
+      "type": "richtig_falsch",
+      "frage": "Die Kundin braucht Größe S.",
+      "turkce": "Müşteri S beden istiyor.",
+      "ipucu": "in Größe M - M beden.",
+      "answer": "Falsch"
+    },
+    {
+      "exerciseId": "28",
+      "type": "richtig_falsch",
+      "frage": "Die Jacke kostet 79,95 Euro.",
+      "turkce": "Ceket 79,95 Euro.",
+      "ipucu": "Sie kostet jetzt 79,95 Euro.",
+      "answer": "Richtig"
+    },
+    {
+      "exerciseId": "29",
+      "type": "richtig_falsch",
+      "frage": "Die Jacke ist im Angebot.",
+      "turkce": "Ceket indirimde.",
+      "ipucu": "Die ist im Angebot.",
+      "answer": "Richtig"
+    },
+    {
+      "exerciseId": "30",
+      "type": "richtig_falsch",
+      "frage": "Die Kundin bezahlt bar.",
+      "turkce": "Müşteri nakit ödüyor.",
+      "ipucu": "Kann ich mit Karte bezahlen? - kartla.",
+      "answer": "Falsch"
+    }
+  ]
+}

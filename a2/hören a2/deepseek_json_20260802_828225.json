@@ -1,0 +1,43 @@
+{
+  "title": "GOETHE A2 - HÖREN (ZAHNARZTTERMIN 4)",
+  "subtitle": "ZAHNARZTTERMIN 4",
+  "sectionId": 35,
+  "sectionName": "ZAHNARZTTERMIN 4",
+  "exercises": [
+    {
+      "exerciseId": "21",
+      "type": "multiple_choice",
+      "frage": "Was hat die Patientin?",
+      "turkce": "Hasta ne şikayeti var?",
+      "ipucu": "Ich habe starke Zahnschmerzen.",
+      "options": ["Kopfschmerzen", "Zahnschmerzen", "Rückenschmerzen"],
+      "answer": "Zahnschmerzen"
+    },
+    {
+      "exerciseId": "22",
+      "type": "multiple_choice",
+      "frage": "Wie lange hat die Patientin die Schmerzen?",
+      "turkce": "Hastanın ağrıları ne kadar süredir?",
+      "ipucu": "seit drei Tagen.",
+      "options": ["seit drei Tagen", "seit einer Woche", "seit einem Monat"],
+      "answer": "seit drei Tagen"
+    },
+    {
+      "exerciseId": "23",
+      "type": "multiple_choice",
+      "frage": "Wann ist der Termin?",
+      "turkce": "Randevu ne zaman?",
+      "ipucu": "am Donnerstag um 14:00 Uhr.",
+      "options": ["am Mittwoch um 14:00 Uhr", "am Donnerstag um 14:00 Uhr", "am Freitag um 14:00 Uhr"],
+      "answer": "am Donnerstag um 14:00 Uhr"
+    },
+    {
+      "exerciseId": "24",
+      "type": "fill_in",
+      "frage": "Die Patientin soll ihre _______ mitbringen.",
+      "turkce": "Hasta _______'ını getirmeli.",
+      "ipucu": "Ihre Versichertenkarte.",
+      "answer": "Versichertenkarte"
+    }
+  ]
+}

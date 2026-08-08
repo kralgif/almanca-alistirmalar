@@ -1,0 +1,885 @@
+{
+  "baslik": "A1 Leseverstehen - Tüm Alıştırmalar",
+  "sürüm": "1.0",
+  "tarih": "2024-08-01",
+  "aciklama": "Goethe A1 Leseverstehen alıştırmaları - Tüm metinler ve sorular",
+  "transkript_enthalten": false,
+  "uygulama_kurallari": {
+    "cevap_kontrol": {
+      "dogru_cevap": "Öğrenci cevabı 'dogru_cevap' alanı ile birebir eşleşirse doğru.",
+      "synonyme_kontrolu": "Öğrenci cevabı 'synonyme' listesindeki herhangi bir kelimeyle eşleşirse doğru.",
+      "oneri_mesaji": "Yanlış cevap durumunda 'oneri' alanını göster."
+    },
+    "soru_tipleri": {
+      "dogru_yanlis": "Öğrenci Richtig (Doğru) veya Falsch (Yanlış) seçer.",
+      "bosluk_doldurma": "Öğrenci boşluğa uygun kelimeyi yazar.",
+      "coktan_secmeli": "Öğrenci a, b, c şıklarından birini seçer."
+    }
+  },
+  "metinler": [
+    {
+      "id": "metin_1",
+      "baslik": "Einladung zum Geburtstag",
+      "metin": "Liebe Carmen,\nam kommenden Sonntag habe ich Geburtstag. Ich möchte gerne mit dir feiern und lade dich herzlich zu meiner Party am Samstagabend ein. Wir fangen um 21 Uhr an. Ist das okay für dich? Es werden viele Leute da sein, die du auch kennst. Kannst du vielleicht einen Salat mitbringen? Und vergiss bitte nicht einen Pullover oder eine Jacke! Wir wollen nämlich draußen im Garten feiern. Ich freue mich sehr auf dich!\nBis zum Wochenende\nRalf",
+      "sorular": [
+        {
+          "soru_no": 1,
+          "soru": "Ralf hatte am letzten Wochenende Geburtstag.",
+          "tip": "dogru_yanlis",
+          "dogru_cevap": "Falsch",
+          "synonyme": [],
+          "anahtar_kelimeler": [],
+          "oneri": "Falsch (am kommenden Sonntag - gelecek pazar)"
+        },
+        {
+          "soru_no": 2,
+          "soru": "Ralf hat nur zwei oder drei Leute eingeladen.",
+          "tip": "dogru_yanlis",
+          "dogru_cevap": "Falsch",
+          "synonyme": [],
+          "anahtar_kelimeler": [],
+          "oneri": "Falsch (viele Leute - çok kişi)"
+        },
+        {
+          "soru_no": 3,
+          "soru": "Die Party findet draußen statt.",
+          "tip": "dogru_yanlis",
+          "dogru_cevap": "Richtig",
+          "synonyme": [],
+          "anahtar_kelimeler": [],
+          "oneri": "Richtig (draußen im Garten - dışarıda bahçede)"
+        },
+        {
+          "soru_no": 4,
+          "soru": "Carmen soll einen Pullover mitbringen.",
+          "tip": "dogru_yanlis",
+          "dogru_cevap": "Richtig",
+          "synonyme": [],
+          "anahtar_kelimeler": [],
+          "oneri": "Richtig (Vergiss bitte nicht einen Pullover - kazak unutma)"
+        },
+        {
+          "soru_no": 5,
+          "soru": "Die Party beginnt um 20 Uhr.",
+          "tip": "dogru_yanlis",
+          "dogru_cevap": "Falsch",
+          "synonyme": [],
+          "anahtar_kelimeler": [],
+          "oneri": "Falsch (21 Uhr - 21:00)"
+        },
+        {
+          "soru_no": 6,
+          "soru": "Carmen soll einen Salat mitbringen.",
+          "tip": "dogru_yanlis",
+          "dogru_cevap": "Richtig",
+          "synonyme": [],
+          "anahtar_kelimeler": [],
+          "oneri": "Richtig (Kannst du einen Salat mitbringen? - salata getirebilir misin?)"
+        }
+      ]
+    },
+    {
+      "id": "metin_2",
+      "baslik": "Webseite - Rüdesheimer Schiffahrt",
+      "metin": "www.schiff-ruedesheim.de\n\nRüdesheimer Schiffahrt\n\nTäglich Fahrten auf dem Rhein\n\nDauer: 1,5 Stunden\n\nPreise: Erwachsene 12 €, Kinder 6 €\n\nAbfahrt: Rüdesheim, Rheinstraße 2\n\nÖffnungszeiten: täglich 10:00 - 18:00 Uhr",
+      "sorular": [
+        {
+          "soru_no": 7,
+          "soru": "Die Schiffe fahren auf dem Rhein.",
+          "tip": "dogru_yanlis",
+          "dogru_cevap": "Richtig",
+          "synonyme": [],
+          "anahtar_kelimeler": [],
+          "oneri": "Richtig (Fahrten auf dem Rhein - Ren'de gezintiler)"
+        },
+        {
+          "soru_no": 8,
+          "soru": "Eine Fahrt dauert 2 Stunden.",
+          "tip": "dogru_yanlis",
+          "dogru_cevap": "Falsch",
+          "synonyme": [],
+          "anahtar_kelimeler": [],
+          "oneri": "Falsch (1,5 Stunden - 1,5 saat)"
+        },
+        {
+          "soru_no": 9,
+          "soru": "Erwachsene bezahlen 12 Euro.",
+          "tip": "dogru_yanlis",
+          "dogru_cevap": "Richtig",
+          "synonyme": [],
+          "anahtar_kelimeler": [],
+          "oneri": "Richtig (Erwachsene 12 € - yetişkinler 12 Euro)"
+        },
+        {
+          "soru_no": 10,
+          "soru": "Die Schiffe fahren nur am Wochenende.",
+          "tip": "dogru_yanlis",
+          "dogru_cevap": "Falsch",
+          "synonyme": [],
+          "anahtar_kelimeler": [],
+          "oneri": "Falsch (täglich - her gün)"
+        }
+      ]
+    },
+    {
+      "id": "metin_3",
+      "baslik": "Post - Öffnungszeiten",
+      "metin": "An der Post\n\nÖffnungszeiten:\n\nMontag - Freitag: 8:00 - 12:00 und 13:00 - 18:00 Uhr\n\nSamstag: 8:00 - 12:00 Uhr\n\nSonntag: geschlossen",
+      "sorular": [
+        {
+          "soru_no": 11,
+          "soru": "Die Post ist am Montag von 8 bis 18 Uhr geöffnet.",
+          "tip": "dogru_yanlis",
+          "dogru_cevap": "Richtig",
+          "synonyme": [],
+          "anahtar_kelimeler": [],
+          "oneri": "Richtig (Montag - Freitag: 8:00 - 12:00 und 13:00 - 18:00)"
+        },
+        {
+          "soru_no": 12,
+          "soru": "Am Samstag ist die Post geschlossen.",
+          "tip": "dogru_yanlis",
+          "dogru_cevap": "Falsch",
+          "synonyme": [],
+          "anahtar_kelimeler": [],
+          "oneri": "Falsch (Samstag: 8:00 - 12:00 Uhr - cumartesi açık)"
+        },
+        {
+          "soru_no": 13,
+          "soru": "Am Sonntag ist die Post geschlossen.",
+          "tip": "dogru_yanlis",
+          "dogru_cevap": "Richtig",
+          "synonyme": [],
+          "anahtar_kelimeler": [],
+          "oneri": "Richtig (Sonntag: geschlossen - pazar kapalı)"
+        }
+      ]
+    },
+    {
+      "id": "metin_4",
+      "baslik": "Restaurant - Bayerischer Abend",
+      "metin": "Eingang Restaurant\n\nHeute im Bavaria: Bayerischer Abend\n\nBrezeln, Weißwürste, Sauerkraut\n\nVolksmusik, ab 20 Uhr Tanz\n\nReservierung empfohlen\n\nTelefon: 089 / 123456",
+      "sorular": [
+        {
+          "soru_no": 14,
+          "soru": "Heute gibt es bayerische Spezialitäten.",
+          "tip": "dogru_yanlis",
+          "dogru_cevap": "Richtig",
+          "synonyme": [],
+          "anahtar_kelimeler": [],
+          "oneri": "Richtig (Bayerischer Abend - Bavyera akşamı)"
+        },
+        {
+          "soru_no": 15,
+          "soru": "Man kann ab 20 Uhr tanzen.",
+          "tip": "dogru_yanlis",
+          "dogru_cevap": "Richtig",
+          "synonyme": [],
+          "anahtar_kelimeler": [],
+          "oneri": "Richtig (ab 20 Uhr Tanz - 20:00'den itibaren dans)"
+        },
+        {
+          "soru_no": 16,
+          "soru": "Eine Reservierung ist nicht nötig.",
+          "tip": "dogru_yanlis",
+          "dogru_cevap": "Falsch",
+          "synonyme": [],
+          "anahtar_kelimeler": [],
+          "oneri": "Falsch (Reservierung empfohlen - rezervasyon tavsiye edilir)"
+        }
+      ]
+    },
+    {
+      "id": "metin_5",
+      "baslik": "Bahnhof - Rauchen verboten",
+      "metin": "Am Bahnhof\n\nRauchen verboten!\nAuf dem gesamten Bahnhof ist das Rauchen verboten.\n\nBitte beachten: Die Züge nach München fahren von Gleis 3, nach Hamburg von Gleis 8.",
+      "sorular": [
+        {
+          "soru_no": 17,
+          "soru": "Rauchen ist am Bahnhof verboten.",
+          "tip": "dogru_yanlis",
+          "dogru_cevap": "Richtig",
+          "synonyme": [],
+          "anahtar_kelimeler": [],
+          "oneri": "Richtig (Rauchen verboten! - sigara içmek yasak)"
+        },
+        {
+          "soru_no": 18,
+          "soru": "Der Zug nach München fährt von Gleis 8.",
+          "tip": "dogru_yanlis",
+          "dogru_cevap": "Falsch",
+          "synonyme": [],
+          "anahtar_kelimeler": [],
+          "oneri": "Falsch (München von Gleis 3 - Münih 3. peron)"
+        }
+      ]
+    },
+    {
+      "id": "metin_6",
+      "baslik": "Haltestelle - Busfahrplan",
+      "metin": "An der Haltestelle\n\nFahrplan:\n\nMontag - Freitag: alle 15 Minuten von 6:00 - 20:00 Uhr\n\nSamstag: alle 30 Minuten von 7:00 - 18:00 Uhr\n\nSonntag: kein Busverkehr",
+      "sorular": [
+        {
+          "soru_no": 19,
+          "soru": "Am Montag fährt der Bus alle 15 Minuten.",
+          "tip": "dogru_yanlis",
+          "dogru_cevap": "Richtig",
+          "synonyme": [],
+          "anahtar_kelimeler": [],
+          "oneri": "Richtig (Montag - Freitag: alle 15 Minuten)"
+        },
+        {
+          "soru_no": 20,
+          "soru": "Am Sonntag fahren die Busse auch.",
+          "tip": "dogru_yanlis",
+          "dogru_cevap": "Falsch",
+          "synonyme": [],
+          "anahtar_kelimeler": [],
+          "oneri": "Falsch (Sonntag: kein Busverkehr - pazar otobüs yok)"
+        }
+      ]
+    },
+    {
+      "id": "metin_7",
+      "baslik": "Lückentext - Einladung",
+      "metin": "Liebe Anna,\n\nich _______ (1) am Samstag Geburtstag. Ich _______ (2) eine Party. Die Party _______ (3) um 20 Uhr _______ (4). Kannst du _______ (5) ? Bitte _______ (6) du einen Salat _______ (7) ? Wir _______ (8) im Garten _______ (9). Bitte _______ (10) du eine Jacke _______ (11) !\n\nBis _______ (12)\nThomas",
+      "sorular": [
+        {
+          "soru_no": 21,
+          "soru": "ich _______ (1) am Samstag Geburtstag.",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "habe",
+          "synonyme": [],
+          "anahtar_kelimeler": ["habe"],
+          "oneri": "habe"
+        },
+        {
+          "soru_no": 22,
+          "soru": "Ich _______ (2) eine Party.",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "mache",
+          "synonyme": [],
+          "anahtar_kelimeler": ["mache"],
+          "oneri": "mache"
+        },
+        {
+          "soru_no": 23,
+          "soru": "Die Party _______ (3) um 20 Uhr",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "beginnt",
+          "synonyme": ["fängt"],
+          "anahtar_kelimeler": ["beginnt", "fängt"],
+          "oneri": "beginnt"
+        },
+        {
+          "soru_no": 24,
+          "soru": "um 20 Uhr _______ (4)",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "an",
+          "synonyme": [],
+          "anahtar_kelimeler": ["an"],
+          "oneri": "an"
+        },
+        {
+          "soru_no": 25,
+          "soru": "Kannst du _______ (5) ?",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "kommen",
+          "synonyme": [],
+          "anahtar_kelimeler": ["kommen"],
+          "oneri": "kommen"
+        },
+        {
+          "soru_no": 26,
+          "soru": "Bitte _______ (6) du einen Salat",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "bringst",
+          "synonyme": [],
+          "anahtar_kelimeler": ["bringst"],
+          "oneri": "bringst"
+        },
+        {
+          "soru_no": 27,
+          "soru": "einen Salat _______ (7)",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "mit",
+          "synonyme": [],
+          "anahtar_kelimeler": ["mit"],
+          "oneri": "mit"
+        },
+        {
+          "soru_no": 28,
+          "soru": "Wir _______ (8) im Garten",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "feiern",
+          "synonyme": [],
+          "anahtar_kelimeler": ["feiern"],
+          "oneri": "feiern"
+        },
+        {
+          "soru_no": 29,
+          "soru": "im Garten _______ (9)",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "draußen",
+          "synonyme": [],
+          "anahtar_kelimeler": ["draußen"],
+          "oneri": "draußen"
+        },
+        {
+          "soru_no": 30,
+          "soru": "Bitte _______ (10) du eine Jacke",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "bringst",
+          "synonyme": [],
+          "anahtar_kelimeler": ["bringst"],
+          "oneri": "bringst"
+        },
+        {
+          "soru_no": 31,
+          "soru": "eine Jacke _______ (11)",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "mit",
+          "synonyme": [],
+          "anahtar_kelimeler": ["mit"],
+          "oneri": "mit"
+        },
+        {
+          "soru_no": 32,
+          "soru": "Bis _______ (12)",
+          "tip": "bosluk_doldurma",
+          "dogru_cevap": "Wochenende",
+          "synonyme": [],
+          "anahtar_kelimeler": ["Wochenende"],
+          "oneri": "Wochenende"
+        }
+      ]
+    },
+    {
+      "id": "metin_8",
+      "baslik": "Einladung zum Geburtstag - Julia",
+      "metin": "Liebe Petra,\n\nam 15. Mai habe ich Geburtstag. Ich möchte mit dir und ein paar Freunden feiern. Wir treffen uns am Samstag um 18 Uhr in meiner Wohnung. Ich koche Spaghetti. Bitte bring etwas zu trinken mit! Wir hören Musik und spielen Spiele. Ich freue mich auf dich!\n\nDeine Julia",
+      "sorular": [
+        {
+          "soru_no": 33,
+          "soru": "Julia hat am 15. Mai Geburtstag.",
+          "tip": "dogru_yanlis",
+          "dogru_cevap": "Richtig",
+          "synonyme": [],
+          "anahtar_kelimeler": [],
+          "oneri": "Richtig (am 15. Mai habe ich Geburtstag)"
+        },
+        {
+          "soru_no": 34,
+          "soru": "Die Party ist am Sonntag.",
+          "tip": "dogru_yanlis",
+          "dogru_cevap": "Falsch",
+          "synonyme": [],
+          "anahtar_kelimeler": [],
+          "oneri": "Falsch (am Samstag - cumartesi)"
+        },
+        {
+          "soru_no": 35,
+          "soru": "Die Feier beginnt um 18 Uhr.",
+          "tip": "dogru_yanlis",
+          "dogru_cevap": "Richtig",
+          "synonyme": [],
+          "anahtar_kelimeler": [],
+          "oneri": "Richtig (um 18 Uhr)"
+        },
+        {
+          "soru_no": 36,
+          "soru": "Julia kocht Pizza.",
+          "tip": "dogru_yanlis",
+          "dogru_cevap": "Falsch",
+          "synonyme": [],
+          "anahtar_kelimeler": [],
+          "oneri": "Falsch (Julia kocht Spaghetti)"
+        },
+        {
+          "soru_no": 37,
+          "soru": "Petra soll etwas zu essen mitbringen.",
+          "tip": "dogru_yanlis",
+          "dogru_cevap": "Falsch",
+          "synonyme": [],
+          "anahtar_kelimeler": [],
+          "oneri": "Falsch (Bitte bring etwas zu trinken mit! - içecek getir)"
+        },
+        {
+          "soru_no": 38,
+          "soru": "Julia freut sich auf Petra.",
+          "tip": "dogru_yanlis",
+          "dogru_cevap": "Richtig",
+          "synonyme": [],
+          "anahtar_kelimeler": [],
+          "oneri": "Richtig (Ich freue mich auf dich!)"
+        }
+      ]
+    },
+    {
+      "id": "metin_9",
+      "baslik": "Kleinanzeige - Zimmer zu vermieten",
+      "metin": "Zimmer zu vermieten\n\nGroße, helle Wohnung in Berlin-Mitte\n\n2 Zimmer, Küche, Bad, Balkon\n\nMiete: 450 Euro warm\n\nKaution: 900 Euro\n\nAb sofort frei\n\nTelefon: 030 / 987654",
+      "sorular": [
+        {
+          "soru_no": 39,
+          "soru": "Die Wohnung hat 2 Zimmer.",
+          "tip": "dogru_yanlis",
+          "dogru_cevap": "Richtig",
+          "synonyme": [],
+          "anahtar_kelimeler": [],
+          "oneri": "Richtig (2 Zimmer)"
+        },
+        {
+          "soru_no": 40,
+          "soru": "Die Wohnung ist in München.",
+          "tip": "dogru_yanlis",
+          "dogru_cevap": "Falsch",
+          "synonyme": [],
+          "anahtar_kelimeler": [],
+          "oneri": "Falsch (Berlin-Mitte)"
+        },
+        {
+          "soru_no": 41,
+          "soru": "Die Miete kostet 450 Euro.",
+          "tip": "dogru_yanlis",
+          "dogru_cevap": "Richtig",
+          "synonyme": [],
+          "anahtar_kelimeler": [],
+          "oneri": "Richtig (Miete: 450 Euro)"
+        },
+        {
+          "soru_no": 42,
+          "soru": "Die Wohnung hat einen Balkon.",
+          "tip": "dogru_yanlis",
+          "dogru_cevap": "Richtig",
+          "synonyme": [],
+          "anahtar_kelimeler": [],
+          "oneri": "Richtig (Balkon)"
+        },
+        {
+          "soru_no": 43,
+          "soru": "Die Wohnung ist ab nächster Woche frei.",
+          "tip": "dogru_yanlis",
+          "dogru_cevap": "Falsch",
+          "synonyme": [],
+          "anahtar_kelimeler": [],
+          "oneri": "Falsch (Ab sofort - hemen)"
+        }
+      ]
+    },
+    {
+      "id": "metin_10",
+      "baslik": "Bahnhof - Zugansage",
+      "metin": "Achtung!\n\nDer Zug nach Berlin, Abfahrt 14:30 Uhr von Gleis 7, hat 20 Minuten Verspätung. Die Abfahrt ist jetzt um 14:50 Uhr.\nDer Zug nach München fährt planmäßig um 15:15 Uhr von Gleis 2.",
+      "sorular": [
+        {
+          "soru_no": 44,
+          "soru": "Der Zug nach Berlin hat Verspätung.",
+          "tip": "dogru_yanlis",
+          "dogru_cevap": "Richtig",
+          "synonyme": [],
+          "anahtar_kelimeler": [],
+          "oneri": "Richtig (hat 20 Minuten Verspätung)"
+        },
+        {
+          "soru_no": 45,
+          "soru": "Der Zug nach Berlin fährt um 14:30 Uhr ab.",
+          "tip": "dogru_yanlis",
+          "dogru_cevap": "Falsch",
+          "synonyme": [],
+          "anahtar_kelimeler": [],
+          "oneri": "Falsch (jetzt um 14:50 Uhr)"
+        },
+        {
+          "soru_no": 46,
+          "soru": "Der Zug nach Berlin fährt jetzt um 14:50 Uhr ab.",
+          "tip": "dogru_yanlis",
+          "dogru_cevap": "Richtig",
+          "synonyme": [],
+          "anahtar_kelimeler": [],
+          "oneri": "Richtig (Die Abfahrt ist jetzt um 14:50 Uhr)"
+        },
+        {
+          "soru_no": 47,
+          "soru": "Der Zug nach München fährt von Gleis 7.",
+          "tip": "dogru_yanlis",
+          "dogru_cevap": "Falsch",
+          "synonyme": [],
+          "anahtar_kelimeler": [],
+          "oneri": "Falsch (von Gleis 2)"
+        }
+      ]
+    },
+    {
+      "id": "metin_11",
+      "baslik": "Speisekarte - Restaurant Goldener Löwe",
+      "metin": "Speisekarte - Restaurant 'Goldener Löwe'\n\nVorspeisen:\n- Tomatensuppe 4,50 €\n- Gemischter Salat 5,00 €\n\nHauptgerichte:\n- Schnitzel mit Pommes 12,50 €\n- Fisch mit Reis 14,00 €\n- Pasta mit Gemüse 10,00 €\n\nGetränke:\n- Wasser 2,50 €\n- Bier 3,00 €\n- Wein 4,50 €",
+      "sorular": [
+        {
+          "soru_no": 48,
+          "soru": "Die Tomatensuppe kostet 4,50 €.",
+          "tip": "dogru_yanlis",
+          "dogru_cevap": "Richtig",
+          "synonyme": [],
+          "anahtar_kelimeler": [],
+          "oneri": "Richtig (Tomatensuppe 4,50 €)"
+        },
+        {
+          "soru_no": 49,
+          "soru": "Das Schnitzel kostet 14,00 €.",
+          "tip": "dogru_yanlis",
+          "dogru_cevap": "Falsch",
+          "synonyme": [],
+          "anahtar_kelimeler": [],
+          "oneri": "Falsch (Schnitzel mit Pommes 12,50 €)"
+        },
+        {
+          "soru_no": 50,
+          "soru": "Der Fisch kostet 14,00 €.",
+          "tip": "dogru_yanlis",
+          "dogru_cevap": "Richtig",
+          "synonyme": [],
+          "anahtar_kelimeler": [],
+          "oneri": "Richtig (Fisch mit Reis 14,00 €)"
+        },
+        {
+          "soru_no": 51,
+          "soru": "Das Bier kostet 3,00 €.",
+          "tip": "dogru_yanlis",
+          "dogru_cevap": "Richtig",
+          "synonyme": [],
+          "anahtar_kelimeler": [],
+          "oneri": "Richtig (Bier 3,00 €)"
+        },
+        {
+          "soru_no": 52,
+          "soru": "Die Pasta kostet 12,50 €.",
+          "tip": "dogru_yanlis",
+          "dogru_cevap": "Falsch",
+          "synonyme": [],
+          "anahtar_kelimeler": [],
+          "oneri": "Falsch (Pasta mit Gemüse 10,00 €)"
+        }
+      ]
+    },
+    {
+      "id": "metin_12",
+      "baslik": "Deutsches Museum - Öffnungszeiten",
+      "metin": "Deutsches Museum\n\nÖffnungszeiten:\n- Täglich: 9:00 - 17:00 Uhr\n\nEintrittspreise:\n- Erwachsene: 7,00 €\n- Kinder (6-15 Jahre): 3,00 €\n- Studenten: 4,00 €\n\nSonderführungen:\n- Jeden Samstag um 14:00 Uhr\n- Jeden Sonntag um 11:00 Uhr",
+      "sorular": [
+        {
+          "soru_no": 53,
+          "soru": "Das Museum ist täglich geöffnet.",
+          "tip": "dogru_yanlis",
+          "dogru_cevap": "Richtig",
+          "synonyme": [],
+          "anahtar_kelimeler": [],
+          "oneri": "Richtig (Täglich: 9:00 - 17:00 Uhr)"
+        },
+        {
+          "soru_no": 54,
+          "soru": "Das Museum schließt um 18:00 Uhr.",
+          "tip": "dogru_yanlis",
+          "dogru_cevap": "Falsch",
+          "synonyme": [],
+          "anahtar_kelimeler": [],
+          "oneri": "Falsch (9:00 - 17:00 Uhr - 17:00'de kapanıyor)"
+        },
+        {
+          "soru_no": 55,
+          "soru": "Erwachsene zahlen 7,00 Euro.",
+          "tip": "dogru_yanlis",
+          "dogru_cevap": "Richtig",
+          "synonyme": [],
+          "anahtar_kelimeler": [],
+          "oneri": "Richtig (Erwachsene: 7,00 €)"
+        },
+        {
+          "soru_no": 56,
+          "soru": "Kinder unter 6 Jahren zahlen nichts.",
+          "tip": "dogru_yanlis",
+          "dogru_cevap": "Falsch",
+          "synonyme": [],
+          "anahtar_kelimeler": [],
+          "oneri": "Falsch (6 yaş altı hakkında bilgi yok)"
+        },
+        {
+          "soru_no": 57,
+          "soru": "Es gibt Führungen am Samstag.",
+          "tip": "dogru_yanlis",
+          "dogru_cevap": "Richtig",
+          "synonyme": [],
+          "anahtar_kelimeler": [],
+          "oneri": "Richtig (Jeden Samstag um 14:00 Uhr)"
+        }
+      ]
+    },
+    {
+      "id": "metin_13",
+      "baslik": "Email vom Lehrer - Deutschkurs",
+      "metin": "Betreff: Deutschkurs\n\nLiebe Kursteilnehmer,\n\nder Deutschkurs beginnt am 5. September. Wir treffen uns jeden Montag und Mittwoch von 18:00 bis 20:00 Uhr im Raum 204. Bitte bringen Sie Ihr Buch mit. Der Kurs kostet 120 Euro pro Monat. Bei Fragen schreiben Sie mir eine E-Mail.\n\nIhr Herr Müller",
+      "sorular": [
+        {
+          "soru_no": 58,
+          "soru": "Der Kurs beginnt am 5. September.",
+          "tip": "dogru_yanlis",
+          "dogru_cevap": "Richtig",
+          "synonyme": [],
+          "anahtar_kelimeler": [],
+          "oneri": "Richtig (beginnt am 5. September)"
+        },
+        {
+          "soru_no": 59,
+          "soru": "Der Kurs findet jeden Tag statt.",
+          "tip": "dogru_yanlis",
+          "dogru_cevap": "Falsch",
+          "synonyme": [],
+          "anahtar_kelimeler": [],
+          "oneri": "Falsch (jeden Montag und Mittwoch - her pazartesi ve çarşamba)"
+        },
+        {
+          "soru_no": 60,
+          "soru": "Der Kurs dauert von 18:00 bis 20:00 Uhr.",
+          "tip": "dogru_yanlis",
+          "dogru_cevap": "Richtig",
+          "synonyme": [],
+          "anahtar_kelimeler": [],
+          "oneri": "Richtig (von 18:00 bis 20:00 Uhr)"
+        },
+        {
+          "soru_no": 61,
+          "soru": "Der Kurs findet in Raum 204 statt.",
+          "tip": "dogru_yanlis",
+          "dogru_cevap": "Richtig",
+          "synonyme": [],
+          "anahtar_kelimeler": [],
+          "oneri": "Richtig (im Raum 204)"
+        },
+        {
+          "soru_no": 62,
+          "soru": "Der Kurs kostet 100 Euro.",
+          "tip": "dogru_yanlis",
+          "dogru_cevap": "Falsch",
+          "synonyme": [],
+          "anahtar_kelimeler": [],
+          "oneri": "Falsch (120 Euro pro Monat)"
+        }
+      ]
+    },
+    {
+      "id": "metin_14",
+      "baslik": "Buslinie 42 - Fahrplan",
+      "metin": "Buslinie 42\n\nFahrplan:\n- Mo - Fr: 6:00 - 20:00 Uhr alle 10 Minuten\n- Sa: 7:00 - 18:00 Uhr alle 20 Minuten\n- So: 8:00 - 12:00 Uhr alle 30 Minuten\n- Nachts: kein Busverkehr",
+      "sorular": [
+        {
+          "soru_no": 63,
+          "soru": "Am Montag fährt der Bus alle 10 Minuten.",
+          "tip": "dogru_yanlis",
+          "dogru_cevap": "Richtig",
+          "synonyme": [],
+          "anahtar_kelimeler": [],
+          "oneri": "Richtig (Mo - Fr: alle 10 Minuten)"
+        },
+        {
+          "soru_no": 64,
+          "soru": "Am Samstag fährt der Bus alle 15 Minuten.",
+          "tip": "dogru_yanlis",
+          "dogru_cevap": "Falsch",
+          "synonyme": [],
+          "anahtar_kelimeler": [],
+          "oneri": "Falsch (Sa: alle 20 Minuten)"
+        },
+        {
+          "soru_no": 65,
+          "soru": "Am Sonntag fährt der Bus von 8:00 bis 12:00 Uhr.",
+          "tip": "dogru_yanlis",
+          "dogru_cevap": "Richtig",
+          "synonyme": [],
+          "anahtar_kelimeler": [],
+          "oneri": "Richtig (So: 8:00 - 12:00 Uhr)"
+        },
+        {
+          "soru_no": 66,
+          "soru": "Nachts fährt der Bus auch.",
+          "tip": "dogru_yanlis",
+          "dogru_cevap": "Falsch",
+          "synonyme": [],
+          "anahtar_kelimeler": [],
+          "oneri": "Falsch (Nachts: kein Busverkehr)"
+        }
+      ]
+    },
+    {
+      "id": "metin_15",
+      "baslik": "Sommer-Sale - Angebot",
+      "metin": "Sommer-Sale!\n\n- Alle Pullover: 50 % Rabatt\n- Alle Hosen: 30 % Rabatt\n- Alle Taschen: 20 % Rabatt\n\nNur vom 1. bis 15. August.\nAb 16. August gelten die normalen Preise.",
+      "sorular": [
+        {
+          "soru_no": 67,
+          "soru": "Pullover haben 50 % Rabatt.",
+          "tip": "dogru_yanlis",
+          "dogru_cevap": "Richtig",
+          "synonyme": [],
+          "anahtar_kelimeler": [],
+          "oneri": "Richtig (Alle Pullover: 50 % Rabatt)"
+        },
+        {
+          "soru_no": 68,
+          "soru": "Hosen haben 40 % Rabatt.",
+          "tip": "dogru_yanlis",
+          "dogru_cevap": "Falsch",
+          "synonyme": [],
+          "anahtar_kelimeler": [],
+          "oneri": "Falsch (Alle Hosen: 30 % Rabatt)"
+        },
+        {
+          "soru_no": 69,
+          "soru": "Der Sale ist vom 1. bis 15. August.",
+          "tip": "dogru_yanlis",
+          "dogru_cevap": "Richtig",
+          "synonyme": [],
+          "anahtar_kelimeler": [],
+          "oneri": "Richtig (Nur vom 1. bis 15. August)"
+        },
+        {
+          "soru_no": 70,
+          "soru": "Ab 16. August gibt es auch Rabatt.",
+          "tip": "dogru_yanlis",
+          "dogru_cevap": "Falsch",
+          "synonyme": [],
+          "anahtar_kelimeler": [],
+          "oneri": "Falsch (Ab 16. August gelten die normalen Preise)"
+        }
+      ]
+    },
+    {
+      "id": "metin_16",
+      "baslik": "Urlaubsplan",
+      "metin": "Mein Urlaub\n\nIch fahre im August für 2 Wochen ans Meer. Ich bleibe in einem Hotel am Strand. Jeden Tag gehe ich schwimmen und lese ein Buch. Am Abend esse ich im Restaurant. Ich besichtige auch die Stadt.",
+      "sorular": [
+        {
+          "soru_no": 71,
+          "soru": "Er fährt im August in den Urlaub.",
+          "tip": "dogru_yanlis",
+          "dogru_cevap": "Richtig",
+          "synonyme": [],
+          "anahtar_kelimeler": [],
+          "oneri": "Richtig (Ich fahre im August)"
+        },
+        {
+          "soru_no": 72,
+          "soru": "Er bleibt 3 Wochen.",
+          "tip": "dogru_yanlis",
+          "dogru_cevap": "Falsch",
+          "synonyme": [],
+          "anahtar_kelimeler": [],
+          "oneri": "Falsch (für 2 Wochen)"
+        },
+        {
+          "soru_no": 73,
+          "soru": "Er wohnt in einem Hotel.",
+          "tip": "dogru_yanlis",
+          "dogru_cevap": "Richtig",
+          "synonyme": [],
+          "anahtar_kelimeler": [],
+          "oneri": "Richtig (Ich bleibe in einem Hotel)"
+        },
+        {
+          "soru_no": 74,
+          "soru": "Er besichtigt die Berge.",
+          "tip": "dogru_yanlis",
+          "dogru_cevap": "Falsch",
+          "synonyme": [],
+          "anahtar_kelimeler": [],
+          "oneri": "Falsch (Ich besichtige auch die Stadt - şehri geziyor)"
+        }
+      ]
+    },
+    {
+      "id": "metin_17",
+      "baslik": "Parkplatz",
+      "metin": "Parkplatz\n\n- Parken: 1 Stunde kostenlos\n- 2 Stunden: 2,00 €\n- 3 Stunden: 4,00 €\n- Tageskarte: 10,00 €\n- Nur mit Parkschein!",
+      "sorular": [
+        {
+          "soru_no": 75,
+          "soru": "Parken ist 1 Stunde kostenlos.",
+          "tip": "dogru_yanlis",
+          "dogru_cevap": "Richtig",
+          "synonyme": [],
+          "anahtar_kelimeler": [],
+          "oneri": "Richtig (1 Stunde kostenlos)"
+        },
+        {
+          "soru_no": 76,
+          "soru": "3 Stunden parken kostet 4,00 €.",
+          "tip": "dogru_yanlis",
+          "dogru_cevap": "Richtig",
+          "synonyme": [],
+          "anahtar_kelimeler": [],
+          "oneri": "Richtig (3 Stunden: 4,00 €)"
+        },
+        {
+          "soru_no": 77,
+          "soru": "Die Tageskarte kostet 15,00 €.",
+          "tip": "dogru_yanlis",
+          "dogru_cevap": "Falsch",
+          "synonyme": [],
+          "anahtar_kelimeler": [],
+          "oneri": "Falsch (Tageskarte: 10,00 €)"
+        },
+        {
+          "soru_no": 78,
+          "soru": "Man braucht keinen Parkschein.",
+          "tip": "dogru_yanlis",
+          "dogru_cevap": "Falsch",
+          "synonyme": [],
+          "anahtar_kelimeler": [],
+          "oneri": "Falsch (Nur mit Parkschein!)"
+        }
+      ]
+    },
+    {
+      "id": "metin_18",
+      "baslik": "Stadtfest am Wochenende",
+      "metin": "Stadtfest am Wochenende\n\n- Samstag: 10:00 - 22:00 Uhr, Live-Musik im Park\n- Sonntag: 11:00 - 20:00 Uhr, Kinderprogramm\n\nEintritt frei!",
+      "sorular": [
+        {
+          "soru_no": 79,
+          "soru": "Das Stadtfest ist am Samstag und Sonntag.",
+          "tip": "dogru_yanlis",
+          "dogru_cevap": "Richtig",
+          "synonyme": [],
+          "anahtar_kelimeler": [],
+          "oneri": "Richtig (Samstag: ... Sonntag: ...)"
+        },
+        {
+          "soru_no": 80,
+          "soru": "Am Samstag gibt es Live-Musik.",
+          "tip": "dogru_yanlis",
+          "dogru_cevap": "Richtig",
+          "synonyme": [],
+          "anahtar_kelimeler": [],
+          "oneri": "Richtig (Samstag: Live-Musik im Park)"
+        },
+        {
+          "soru_no": 81,
+          "soru": "Das Fest beginnt am Sonntag um 10:00 Uhr.",
+          "tip": "dogru_yanlis",
+          "dogru_cevap": "Falsch",
+          "synonyme": [],
+          "anahtar_kelimeler": [],
+          "oneri": "Falsch (Sonntag: 11:00 - 20:00 - 11:00'de başlıyor)"
+        },
+        {
+          "soru_no": 82,
+          "soru": "Der Eintritt ist frei.",
+          "tip": "dogru_yanlis",
+          "dogru_cevap": "Richtig",
+          "synonyme": [],
+          "anahtar_kelimeler": [],
+          "oneri": "Richtig (Eintritt frei!)"
+        }
+      ]
+    }
+  ]
+}

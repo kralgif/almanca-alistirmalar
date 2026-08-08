@@ -1,0 +1,70 @@
+{
+  "title": "GOETHE A2 - HÖREN (KURSVORSTELLUNG)",
+  "subtitle": "KURSVORSTELLUNG",
+  "sectionId": 13,
+  "sectionName": "KURSVORSTELLUNG",
+  "exercises": [
+    {
+      "exerciseId": "24",
+      "type": "multiple_choice",
+      "frage": "Die Teilnehmerin heißt...",
+      "turkce": "Katılımcının adı...",
+      "ipucu": "Ich heiße Elena Kowalski.",
+      "options": ["Elena Schmidt", "Elena Kowalski", "Elena Meier"],
+      "answer": "Elena Kowalski"
+    },
+    {
+      "exerciseId": "25",
+      "type": "multiple_choice",
+      "frage": "Elena ist...",
+      "turkce": "Elena...",
+      "ipucu": "Ich bin 29 Jahre alt.",
+      "options": ["25 Jahre alt", "27 Jahre alt", "29 Jahre alt"],
+      "answer": "29 Jahre alt"
+    },
+    {
+      "exerciseId": "26",
+      "type": "multiple_choice",
+      "frage": "Elena kommt aus...",
+      "turkce": "Elena ...'dan geliyor.",
+      "ipucu": "Ich komme aus Polen.",
+      "options": ["Polen", "Russland", "Deutschland"],
+      "answer": "Polen"
+    },
+    {
+      "exerciseId": "27",
+      "type": "multiple_choice",
+      "frage": "Elena wohnt jetzt in...",
+      "turkce": "Elena şimdi ...'de yaşıyor.",
+      "ipucu": "Ich wohne ... in Köln.",
+      "options": ["Warschau", "Berlin", "Köln"],
+      "answer": "Köln"
+    },
+    {
+      "exerciseId": "28",
+      "type": "multiple_choice",
+      "frage": "Elena arbeitet als...",
+      "turkce": "Elena ... olarak çalışıyor.",
+      "ipucu": "Ich arbeite als Verkäuferin.",
+      "options": ["Ärztin", "Verkäuferin", "Lehrerin"],
+      "answer": "Verkäuferin"
+    },
+    {
+      "exerciseId": "29",
+      "type": "multiple_choice",
+      "frage": "Elena spricht... Sprachen.",
+      "turkce": "Elena ... dil konuşuyor.",
+      "ipucu": "Polnisch, Russisch und ein bisschen Deutsch - 3 dil.",
+      "options": ["zwei", "drei", "vier"],
+      "answer": "drei"
+    },
+    {
+      "exerciseId": "30",
+      "type": "fill_in",
+      "frage": "Elena ist _______ und hat _______.",
+      "turkce": "Elena _______ ve _______.",
+      "ipucu": "Ich bin verheiratet. ... Wir haben noch keine Kinder.",
+      "answer": "verheiratet, keine Kinder"
+    }
+  ]
+}

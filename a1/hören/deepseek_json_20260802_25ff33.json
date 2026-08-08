@@ -1,0 +1,72 @@
+{
+  "title": "GOETHE A2 - HÖREN (ANSAGE IM KAUFHAUS)",
+  "subtitle": "ANSAGE IM KAUFHAUS",
+  "sectionId": 2,
+  "sectionName": "ANSAGE IM KAUFHAUS",
+  "exercises": [
+    {
+      "exerciseId": "9",
+      "type": "richtig_falsch",
+      "frage": "Die Durchsage ist in einem Kaufhaus.",
+      "turkce": "Anons bir alışveriş merkezinde.",
+      "ipucu": "Metinde 'Durchsage im Kaufhaus' yazıyor.",
+      "answer": "Richtig"
+    },
+    {
+      "exerciseId": "10",
+      "type": "richtig_falsch",
+      "frage": "Die Sommerkollektion ist im 1. Stock.",
+      "turkce": "Yaz koleksiyonu 1. katta.",
+      "ipucu": "Im Erdgeschoss finden Sie unsere Sommerkollektion - zemin kat.",
+      "answer": "Falsch"
+    },
+    {
+      "exerciseId": "11",
+      "type": "richtig_falsch",
+      "frage": "Kleider und Röcke haben 30 % Rabatt.",
+      "turkce": "Elbiseler ve eteklerde %30 indirim var.",
+      "ipucu": "Alle Kleider und Röcke sind 30 Prozent günstiger.",
+      "answer": "Richtig"
+    },
+    {
+      "exerciseId": "12",
+      "type": "richtig_falsch",
+      "frage": "Schuhe und Taschen haben 30 % Rabatt.",
+      "turkce": "Ayakkabı ve çantalarda %30 indirim var.",
+      "ipucu": "Hier sparen Sie 20 Prozent - %20.",
+      "answer": "Falsch"
+    },
+    {
+      "exerciseId": "13",
+      "type": "richtig_falsch",
+      "frage": "Laptops sind heute 15 % reduziert.",
+      "turkce": "Bugün laptoplar %15 indirimli.",
+      "ipucu": "Laptops und Tablets sind heute 15 Prozent reduziert.",
+      "answer": "Richtig"
+    },
+    {
+      "exerciseId": "14",
+      "type": "richtig_falsch",
+      "frage": "Das Angebot gilt nur heute.",
+      "turkce": "İndirim sadece bugün geçerli.",
+      "ipucu": "Das Angebot gilt nur heute, am Samstag.",
+      "answer": "Richtig"
+    },
+    {
+      "exerciseId": "15",
+      "type": "richtig_falsch",
+      "frage": "Morgen ist das Kaufhaus geöffnet.",
+      "turkce": "Yarın alışveriş merkezi açık.",
+      "ipucu": "Morgen, am Sonntag, hat unser Kaufhaus geschlossen.",
+      "answer": "Falsch"
+    },
+    {
+      "exerciseId": "16",
+      "type": "richtig_falsch",
+      "frage": "Die Spielzone für Kinder ist im 3. Stock.",
+      "turkce": "Çocuklar için oyun alanı 3. katta.",
+      "ipucu": "im dritten Stock eine Spielzone.",
+      "answer": "Richtig"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "title": "GOETHE A2 - HÖREN (IM RESTAURANT 2)",
+  "subtitle": "IM RESTAURANT 2",
+  "sectionId": 11,
+  "sectionName": "IM RESTAURANT 2",
+  "exercises": [
+    {
+      "exerciseId": "6",
+      "type": "multiple_choice",
+      "frage": "Die Gäste haben...",
+      "turkce": "Misafirler...",
+      "ipucu": "Nein, wir haben nicht reserviert.",
+      "options": ["reserviert", "nicht reserviert", "einen Tisch für vier Personen"],
+      "answer": "nicht reserviert"
+    },
+    {
+      "exerciseId": "7",
+      "type": "multiple_choice",
+      "frage": "Der Tisch ist...",
+      "turkce": "Masa...",
+      "ipucu": "am Fenster ist noch ein Tisch frei.",
+      "options": ["in der Mitte", "am Fenster", "draußen"],
+      "answer": "am Fenster"
+    },
+    {
+      "exerciseId": "8",
+      "type": "multiple_choice",
+      "frage": "Der Gast trinkt...",
+      "turkce": "Misafir içiyor...",
+      "ipucu": "Ich hätte gern ein Glas Weißwein.",
+      "options": ["Bier", "Weißwein", "Wasser"],
+      "answer": "Weißwein"
+    },
+    {
+      "exerciseId": "9",
+      "type": "fill_in",
+      "frage": "Der Gast nimmt als Vorspeise die _______ und als Hauptgericht das _______ mit _______.",
+      "turkce": "Misafir başlangıç olarak _______, ana yemek olarak _______ ve _______ alıyor.",
+      "ipucu": "Tomatensuppe als Vorspeise und dann das Rindersteak mit Pommes.",
+      "answer": "Tomatensuppe, Rindersteak, Pommes"
+    },
+    {
+      "exerciseId": "10",
+      "type": "fill_in",
+      "frage": "Was bestellt die Gastfrau? Vorspeise: _______, Hauptgericht: _______, Nachtisch: _______",
+      "turkce": "Kadın misafir ne sipariş ediyor? Başlangıç: _______, Ana Yemek: _______, Tatlı: _______",
+      "ipucu": "gemischten Salat, Fisch mit Reis, Eis mit Schokoladensauce.",
+      "answer": "gemischten Salat, Fisch mit Reis, Eis mit Schokoladensauce"
+    }
+  ]
+}

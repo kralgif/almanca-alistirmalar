@@ -1,0 +1,42 @@
+{
+  "title": "GOETHE A2 - HÖREN (RADIO - WETTERBERICHT)",
+  "subtitle": "RADIO - WETTERBERICHT",
+  "sectionId": 30,
+  "sectionName": "RADIO - WETTERBERICHT",
+  "exercises": [
+    {
+      "exerciseId": "5",
+      "type": "multiple_choice",
+      "frage": "Wie ist das Wetter im Norden?",
+      "turkce": "Kuzeyde hava nasıl?",
+      "ipucu": "Im Norden ist es sonnig und warm.",
+      "options": ["sonnig und warm", "bewölkt und kühl", "regnerisch und stürmisch"],
+      "answer": "sonnig und warm"
+    },
+    {
+      "exerciseId": "6",
+      "type": "multiple_choice",
+      "frage": "Wann gibt es Gewitter im Süden?",
+      "turkce": "Güneyde ne zaman fırtına var?",
+      "ipucu": "am Nachmittag gibt es Gewitter.",
+      "options": ["am Vormittag", "am Nachmittag", "am Abend"],
+      "answer": "am Nachmittag"
+    },
+    {
+      "exerciseId": "7",
+      "type": "richtig_falsch",
+      "frage": "Morgen wird es im ganzen Land wärmer.",
+      "turkce": "Yarın tüm ülkede hava ısınacak.",
+      "ipucu": "Morgen wird es im ganzen Land wärmer.",
+      "answer": "Richtig"
+    },
+    {
+      "exerciseId": "8",
+      "type": "fill_in",
+      "frage": "In der Mitte Deutschlands gibt es _______ und leichten Regen bei 18 Grad.",
+      "turkce": "Almanya'nın ortasında _______ ve hafif yağmur var.",
+      "ipucu": "In der Mitte gibt es Wolken und leichten Regen.",
+      "answer": "Wolken"
+    }
+  ]
+}
