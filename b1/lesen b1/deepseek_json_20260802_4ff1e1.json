@@ -1,0 +1,287 @@
+{
+  "title": "GOETHE B1 - LESERVERSTEHEN (KONU BAZLI, 100 ALIŞTIRMA)",
+  "subtitle": "B1 SEVİYESİ OKUMA ANLAMA ALIŞTIRMALARI",
+  "sections": [
+    {
+      "sectionId": 1,
+      "sectionName": "VEGETARISCHES ESSEN - VOR- UND NACHTEILE",
+      "text": "Immer mehr Menschen entscheiden sich dafür, kein Fleisch zu essen. Vegetarische Ernährung hat viele Vorteile: Sie ist gesünder, schützt die Umwelt und hilft den Tieren. Studien zeigen, dass Vegetarier seltener an Herzkrankheiten leiden. Außerdem braucht die Produktion von Fleisch viel Wasser und Energie.\n\nEs gibt aber auch Nachteile. Vegetarische Produkte sind oft teurer als Fleisch. Außerdem haben Vegetarier manchmal Probleme, in Restaurants genug Auswahl zu finden. Manche Menschen haben auch Angst, dass sie nicht genug Nährstoffe bekommen. Trotzdem wird vegetarisches Essen in Deutschland immer beliebter.\n\nViele junge Leute essen heute lieber vegetarisch oder sogar vegan. Auch die Supermärkte bieten mehr vegetarische Produkte an. In einigen Städten gibt es sogar rein vegetarische Restaurants.",
+      "exercises": [
+        {"exerciseId": "1", "type": "multiple_choice", "frage": "Warum wird vegetarisches Essen in Deutschland immer beliebter?", "options": ["Weil es immer billig ist.", "Weil es gesünder ist und die Umwelt schützt.", "Weil es keine Nachteile gibt."], "answer": "Weil es gesünder ist und die Umwelt schützt."},
+        {"exerciseId": "2", "type": "multiple_choice", "frage": "Was ist ein Nachteil von vegetarischem Essen?", "options": ["Es ist immer ungesund.", "Es ist oft teurer.", "Es gibt keine Restaurants."], "answer": "Es ist oft teurer."},
+        {"exerciseId": "3", "type": "multiple_choice", "frage": "Was machen Supermärkte heute?", "options": ["Sie verkaufen kein Fleisch mehr.", "Sie bieten mehr vegetarische Produkte an.", "Sie sind nur für Vegetarier."], "answer": "Sie bieten mehr vegetarische Produkte an."},
+        {"exerciseId": "4", "type": "fill_in", "frage": "Vegetarier haben manchmal Probleme, in Restaurants genug _______ zu finden.", "answer": "Auswahl"},
+        {"exerciseId": "5", "type": "richtig_falsch", "frage": "Vegetarier leiden seltener an Herzkrankheiten.", "answer": "Richtig"}
+      ]
+    },
+    {
+      "sectionId": 2,
+      "sectionName": "WARUM VEGETARISCH ESSEN?",
+      "text": "Die Entscheidung, vegetarisch zu essen, ist heute einfacher als je zuvor. In den meisten Supermärkten gibt es eine große Auswahl an vegetarischen und veganen Produkten. Viele Menschen entscheiden sich aus ethischen Gründen für eine vegetarische Ernährung. Sie möchten nicht, dass Tiere für ihr Essen sterben müssen.\n\nAndere denken an die Umwelt. Die Fleischproduktion verbraucht viel Wasser und erzeugt viele Treibhausgase. Wer weniger Fleisch isst, hilft dem Klima. Auch die Gesundheit spielt eine Rolle. Vegetarier haben ein geringeres Risiko für Übergewicht und einige Krankheiten.\n\nEs gibt jedoch auch Kritik. Manche Experten sagen, dass eine vegetarische Ernährung nicht automatisch gesund ist. Wer nur vegetarisch isst, muss darauf achten, genug Eiweiß und Eisen zu bekommen. Außerdem sind vegetarische Ersatzprodukte oft stark verarbeitet und enthalten viele Zusatzstoffe.\n\nTrotzdem ist der Trend klar: Immer mehr Deutsche essen weniger Fleisch. Besonders junge Menschen zwischen 18 und 30 Jahren sind begeistert von vegetarischer und veganer Küche. Viele Restaurants und Kantinen bieten heute extra vegetarische Gerichte an.",
+      "exercises": [
+        {"exerciseId": "6", "type": "multiple_choice", "frage": "Aus welchen Gründen entscheiden sich Menschen für vegetarische Ernährung?", "options": ["Nur aus gesundheitlichen Gründen", "Aus ethischen, Umwelt- und Gesundheitsgründen", "Nur wegen des Geschmacks"], "answer": "Aus ethischen, Umwelt- und Gesundheitsgründen"},
+        {"exerciseId": "7", "type": "multiple_choice", "frage": "Was ist ein Problem bei vegetarischen Ersatzprodukten?", "options": ["Sie sind immer teuer.", "Sie sind oft stark verarbeitet.", "Sie schmecken nicht."], "answer": "Sie sind oft stark verarbeitet."},
+        {"exerciseId": "8", "type": "multiple_choice", "frage": "Wer isst besonders gern vegetarisch?", "options": ["Ältere Menschen", "Junge Menschen zwischen 18 und 30 Jahren", "Kinder"], "answer": "Junge Menschen zwischen 18 und 30 Jahren"},
+        {"exerciseId": "9", "type": "fill_in", "frage": "Wer vegetarisch isst, muss auf genug _______ und Eisen achten.", "answer": "Eiweiß"},
+        {"exerciseId": "10", "type": "richtig_falsch", "frage": "Die Fleischproduktion verbraucht viel Wasser.", "answer": "Richtig"}
+      ]
+    },
+    {
+      "sectionId": 3,
+      "sectionName": "FAST FOOD - VOR- UND NACHTEILE",
+      "text": "Fast Food ist heute aus dem Alltag vieler Menschen nicht mehr wegzudenken. Burger, Pommes und Pizza sind schnell, günstig und schmecken den meisten Menschen. Besonders für Berufstätige und Studenten ist Fast Food eine praktische Lösung, wenn sie wenig Zeit haben.\n\nAllerdings hat Fast Food auch viele Nachteile. Es enthält oft viel Fett, Salz und Zucker. Wer regelmäßig Fast Food isst, hat ein höheres Risiko für Übergewicht, Diabetes und Herzkrankheiten. Außerdem produziert Fast Food viel Verpackungsmüll, der die Umwelt belastet.\n\nViele Fast-Food-Ketten haben jedoch reagiert. Sie bieten heute auch Salate, Wasser und gesündere Alternativen an. Trotzdem bleibt Fast Food für viele Menschen eine beliebte Wahl, besonders am Wochenende oder bei Partys.",
+      "exercises": [
+        {"exerciseId": "11", "type": "multiple_choice", "frage": "Warum ist Fast Food bei Berufstätigen beliebt?", "options": ["Weil es gesund ist.", "Weil es schnell und günstig ist.", "Weil es keine Kalorien hat."], "answer": "Weil es schnell und günstig ist."},
+        {"exerciseId": "12", "type": "multiple_choice", "frage": "Was ist ein Nachteil von Fast Food?", "options": ["Es ist immer teuer.", "Es enthält viel Fett, Salz und Zucker.", "Es gibt keine Restaurants."], "answer": "Es enthält viel Fett, Salz und Zucker."},
+        {"exerciseId": "13", "type": "multiple_choice", "frage": "Was haben Fast-Food-Ketten heute verändert?", "options": ["Sie verkaufen kein Fast Food mehr.", "Sie bieten auch gesündere Alternativen an.", "Sie sind nur für Kinder."], "answer": "Sie bieten auch gesündere Alternativen an."},
+        {"exerciseId": "14", "type": "fill_in", "frage": "Fast Food produziert viel Verpackungsmüll, der die _______ belastet.", "answer": "Umwelt"},
+        {"exerciseId": "15", "type": "richtig_falsch", "frage": "Fast Food ist immer ungesund und hat keine Vorteile.", "answer": "Falsch"}
+      ]
+    },
+    {
+      "sectionId": 4,
+      "sectionName": "FAST FOOD - TREND ODER PROBLEM?",
+      "text": "In Deutschland gibt es immer mehr Fast-Food-Restaurants. Besonders in großen Städten findet man Burger-Ketten und Döner-Läden fast an jeder Ecke. Für viele Menschen ist Fast Food eine einfache und schnelle Mahlzeit, vor allem wenn sie wenig Zeit haben.\n\nDie Fast-Food-Industrie ist jedoch nicht nur praktisch. Sie hat auch negative Auswirkungen auf die Gesundheit. Viele Fast-Food-Gerichte enthalten zu viel Kalorien, Zucker und Fett. Wer täglich Fast Food isst, hat oft Probleme mit dem Gewicht und kann ernsthaft krank werden.\n\nAuch die Umwelt leidet unter Fast Food. Millionen von Verpackungen landen jeden Tag im Müll. Viele Unternehmen versuchen jedoch, umweltfreundlichere Verpackungen zu benutzen.\n\nEs gibt auch eine wachsende Bewegung, die für Slow Food wirbt. Dabei geht es darum, bewusster und langsamer zu essen, mit frischen Zutaten und mehr Genuss. Trotzdem bleibt Fast Food für viele Menschen eine schnelle und preiswerte Alternative.",
+      "exercises": [
+        {"exerciseId": "16", "type": "multiple_choice", "frage": "Wo findet man besonders viele Fast-Food-Restaurants?", "options": ["auf dem Land", "in großen Städten", "in Krankenhäusern"], "answer": "in großen Städten"},
+        {"exerciseId": "17", "type": "multiple_choice", "frage": "Welches Problem verursacht Fast Food für die Umwelt?", "options": ["Weniger Müll", "Recycling-Programme", "Millionen von Verpackungen im Müll"], "answer": "Millionen von Verpackungen im Müll"},
+        {"exerciseId": "18", "type": "multiple_choice", "frage": "Was ist Slow Food?", "options": ["eine Fast-Food-Kette", "eine Bewegung für bewusstes und langsames Essen", "eine neue Diät"], "answer": "eine Bewegung für bewusstes und langsames Essen"},
+        {"exerciseId": "19", "type": "fill_in", "frage": "Wer täglich Fast Food isst, hat oft Probleme mit dem _______.", "answer": "Gewicht"},
+        {"exerciseId": "20", "type": "richtig_falsch", "frage": "Alle Fast-Food-Unternehmen verwenden umweltfreundliche Verpackungen.", "answer": "Falsch"}
+      ]
+    },
+    {
+      "sectionId": 5,
+      "sectionName": "SOZIALE NETZWERKE - VOR- UND NACHTEILE",
+      "text": "Soziale Netzwerke wie Instagram, Facebook und TikTok sind aus dem Leben vieler Menschen nicht mehr wegzudenken. Sie helfen uns, mit Freunden in Kontakt zu bleiben und neue Leute kennenzulernen. Außerdem kann man sich über aktuelle Nachrichten informieren und seine Meinung teilen.\n\nAllerdings gibt es auch negative Seiten. Viele Menschen verbringen zu viel Zeit auf sozialen Netzwerken und vernachlässigen ihr reales Leben. Es gibt auch Probleme mit Datenschutz und Cybermobbing. Private Daten werden oft an Werbefirmen verkauft. Immer mehr Menschen warnen vor den Gefahren sozialer Netzwerke.\n\nTrotzdem sind soziale Netzwerke nicht nur schlecht. Man kann damit kreativ sein, lernen und sich mit Gleichgesinnten austauschen. Es kommt also darauf an, wie man sie nutzt.",
+      "exercises": [
+        {"exerciseId": "21", "type": "multiple_choice", "frage": "Was ist ein Vorteil von sozialen Netzwerken?", "options": ["Man kann immer einsam sein.", "Man kann mit Freunden in Kontakt bleiben.", "Man verliert alle Freunde."], "answer": "Man kann mit Freunden in Kontakt bleiben."},
+        {"exerciseId": "22", "type": "multiple_choice", "frage": "Welches Problem gibt es bei sozialen Netzwerken?", "options": ["Sie sind immer sicher.", "Es gibt Datenschutzprobleme und Cybermobbing.", "Sie sind kostenlos."], "answer": "Es gibt Datenschutzprobleme und Cybermobbing."},
+        {"exerciseId": "23", "type": "multiple_choice", "frage": "Was warnen immer mehr Menschen vor?", "options": ["den Vorteilen von sozialen Netzwerken", "den Gefahren von sozialen Netzwerken", "dem Lernen mit sozialen Netzwerken"], "answer": "den Gefahren von sozialen Netzwerken"},
+        {"exerciseId": "24", "type": "fill_in", "frage": "Private Daten werden oft an Werbefirmen _______.", "answer": "verkauft"},
+        {"exerciseId": "25", "type": "richtig_falsch", "frage": "Soziale Netzwerke haben nur negative Seiten.", "answer": "Falsch"}
+      ]
+    },
+    {
+      "sectionId": 6,
+      "sectionName": "SOZIALE NETZWERKE - JA ODER NEIN?",
+      "text": "Soziale Netzwerke sind heute allgegenwärtig. Sie ermöglichen es, jederzeit mit Freunden und Familie zu kommunizieren, Fotos zu teilen und sich zu informieren. Besonders für Jugendliche sind Plattformen wie Instagram und TikTok sehr wichtig.\n\nKritiker warnen jedoch vor den Gefahren. Soziale Netzwerke können süchtig machen und die Konzentration beeinträchtigen. Viele Jugendliche vergleichen sich mit anderen und fühlen sich unsicher oder unglücklich. Auch die Gefahr von Cybermobbing ist groß.\n\nEin weiteres Problem sind die Algorithmen, die zeigen, was wir sehen. Sie zeigen oft nur das, was uns gefällt, und verstärken damit Vorurteile. Manche sprechen von einer Filterblase, in der man andere Meinungen nicht mehr sieht.\n\nTrotz aller Kritik nutzen viele Menschen soziale Netzwerke täglich. Sie sind ein Teil unseres Lebens geworden. Man sollte sich aber bewusst machen, wie viel Zeit man damit verbringt und welche Informationen man teilt.",
+      "exercises": [
+        {"exerciseId": "26", "type": "multiple_choice", "frage": "Was ist ein Problem von sozialen Netzwerken für Jugendliche?", "options": ["Sie haben keine Freunde.", "Sie fühlen sich unsicher oder unglücklich durch Vergleiche.", "Sie sind immer glücklich."], "answer": "Sie fühlen sich unsicher oder unglücklich durch Vergleiche."},
+        {"exerciseId": "27", "type": "multiple_choice", "frage": "Was ist eine Filterblase?", "options": ["eine neue App", "eine Situation, in der man nur Meinungen sieht, die einem gefallen", "ein Computerspiel"], "answer": "eine Situation, in der man nur Meinungen sieht, die einem gefallen"},
+        {"exerciseId": "28", "type": "multiple_choice", "frage": "Was raten die Kritiker?", "options": ["Soziale Netzwerke ganz zu verbieten", "Bewusst mit sozialen Netzwerken umzugehen", "Nur Instagram zu nutzen"], "answer": "Bewusst mit sozialen Netzwerken umzugehen"},
+        {"exerciseId": "29", "type": "fill_in", "frage": "Algorithmen zeigen oft nur das, was uns gefällt, und verstärken damit _______.", "answer": "Vorurteile"},
+        {"exerciseId": "30", "type": "richtig_falsch", "frage": "Soziale Netzwerke können süchtig machen.", "answer": "Richtig"}
+      ]
+    },
+    {
+      "sectionId": 7,
+      "sectionName": "ONLINE SHOPPING - VOR- UND NACHTEILE",
+      "text": "Online Shopping ist heute sehr beliebt. Fast jeder kauft ab und zu etwas im Internet. Die Vorteile sind klar: Man kann bequem von zu Hause aus einkaufen, hat eine große Auswahl und vergleicht Preise schnell. Auch die Lieferung nach Hause ist sehr praktisch.\n\nAllerdings gibt es auch Nachteile. Man kann die Produkte nicht anfassen oder anprobieren. Oft passen Kleidung oder Schuhe nicht richtig. Auch die Rücksendung kann umständlich sein. Außerdem besteht die Gefahr von Betrug und Datenmissbrauch.\n\nTrotzdem wächst der Online-Handel weiter. Viele Menschen schätzen die Bequemlichkeit und Zeitersparnis. In der Zukunft wird Online Shopping wahrscheinlich noch wichtiger werden.",
+      "exercises": [
+        {"exerciseId": "31", "type": "multiple_choice", "frage": "Was ist ein Vorteil von Online Shopping?", "options": ["Man kann die Produkte anfassen.", "Man kann bequem von zu Hause aus einkaufen.", "Die Rücksendung ist einfach."], "answer": "Man kann bequem von zu Hause aus einkaufen."},
+        {"exerciseId": "32", "type": "multiple_choice", "frage": "Was ist ein Nachteil von Online Shopping?", "options": ["Die Lieferung ist immer teuer.", "Man kann die Produkte nicht anprobieren.", "Es gibt keine Auswahl."], "answer": "Man kann die Produkte nicht anprobieren."},
+        {"exerciseId": "33", "type": "multiple_choice", "frage": "Warum wächst der Online-Handel weiter?", "options": ["Weil es immer teuer ist.", "Weil die Leute Bequemlichkeit und Zeitersparnis schätzen.", "Weil es keine Nachteile gibt."], "answer": "Weil die Leute Bequemlichkeit und Zeitersparnis schätzen."},
+        {"exerciseId": "34", "type": "fill_in", "frage": "Beim Online Shopping besteht die Gefahr von Betrug und _______.", "answer": "Datenmissbrauch"},
+        {"exerciseId": "35", "type": "richtig_falsch", "frage": "Beim Online Shopping kann man alles anprobieren.", "answer": "Falsch"}
+      ]
+    },
+    {
+      "sectionId": 8,
+      "sectionName": "ONLINE SHOPPING - EIN TREND?",
+      "text": "Online Shopping hat in den letzten Jahren einen Boom erlebt. Vor allem während der Pandemie haben viele Menschen zum ersten Mal online eingekauft. Heute bestellen sie nicht nur Kleidung, sondern auch Lebensmittel, Möbel und Elektronik online.\n\nDie Vorteile sind offensichtlich: Man kann 24 Stunden am Tag einkaufen, die Preise vergleichen und Bewertungen lesen. Viele Online-Shops bieten außerdem kostenlosen Versand und einfache Rückgaben an.\n\nAber es gibt auch Schattenseiten. Die Verpackungen erzeugen viel Müll. Außerdem werden viele Produkte in Billiglohnländern hergestellt und verschicken, was die Umwelt belastet. Der stationäre Einzelhandel leidet unter der Konkurrenz durch das Internet.\n\nViele Menschen kaufen dennoch lieber im Geschäft ein, weil sie die Ware anfassen wollen und den persönlichen Service schätzen. Eine Kombination aus Online- und Offline-Shopping wird immer beliebter.",
+      "exercises": [
+        {"exerciseId": "36", "type": "multiple_choice", "frage": "Was bestellen Menschen heute online?", "options": ["Nur Kleidung", "Kleidung, Lebensmittel, Möbel und Elektronik", "Nur Bücher"], "answer": "Kleidung, Lebensmittel, Möbel und Elektronik"},
+        {"exerciseId": "37", "type": "multiple_choice", "frage": "Was ist ein Nachteil von Online Shopping?", "options": ["Die Preise sind immer höher.", "Die Verpackungen erzeugen viel Müll.", "Man kann immer zurückgeben."], "answer": "Die Verpackungen erzeugen viel Müll."},
+        {"exerciseId": "38", "type": "multiple_choice", "frage": "Warum kaufen viele lieber im Geschäft ein?", "options": ["Weil es günstiger ist.", "Weil sie die Ware anfassen und persönlichen Service möchten.", "Weil es keine Warteschlangen gibt."], "answer": "Weil sie die Ware anfassen und persönlichen Service möchten."},
+        {"exerciseId": "39", "type": "fill_in", "frage": "Der stationäre Einzelhandel leidet unter der Konkurrenz durch das _______.", "answer": "Internet"},
+        {"exerciseId": "40", "type": "richtig_falsch", "frage": "Online Shopping ist während der Pandemie weniger geworden.", "answer": "Falsch"}
+      ]
+    },
+    {
+      "sectionId": 9,
+      "sectionName": "MARKENKLEIDUNG - PRO UND CONTRA",
+      "text": "Markenkleidung ist bei vielen Jugendlichen und jungen Erwachsenen sehr beliebt. Sie tragen gern T-Shirts und Schuhe von bekannten Marken wie Nike, Adidas oder Gucci. Die Marken stehen oft für Status, Qualität und Style.\n\nDie Vorteile von Markenkleidung sind die hohe Qualität und das gute Design. Viele Markenprodukte halten länger und sehen besser aus als billige Kleidung. Außerdem fühlen sich viele Menschen selbstbewusster, wenn sie Markenkleidung tragen.\n\nEs gibt jedoch auch Nachteile. Markenkleidung ist sehr teuer. Oft bezahlt man nur für den Namen und nicht für die Qualität. Außerdem produzieren viele Marken in Billiglohnländern unter schlechten Arbeitsbedingungen. Das ist ein wichtiges Argument für viele Kritiker.\n\nManche Menschen kaufen deshalb lieber Second-Hand-Kleidung oder nachhaltige Mode, um die Umwelt zu schonen und die Arbeiter zu unterstützen.",
+      "exercises": [
+        {"exerciseId": "41", "type": "multiple_choice", "frage": "Warum tragen viele junge Leute gern Markenkleidung?", "options": ["Weil sie billig ist.", "Weil sie für Status, Qualität und Style steht.", "Weil sie keine andere Kleidung haben."], "answer": "Weil sie für Status, Qualität und Style steht."},
+        {"exerciseId": "42", "type": "multiple_choice", "frage": "Was ist ein Vorteil von Markenkleidung?", "options": ["Sie ist immer billig.", "Sie hat hohe Qualität und gutes Design.", "Sie ist in allen Läden verfügbar."], "answer": "Sie hat hohe Qualität und gutes Design."},
+        {"exerciseId": "43", "type": "multiple_choice", "frage": "Was ist ein Nachteil von Markenkleidung?", "options": ["Sie ist immer günstig.", "Sie wird oft in Billiglohnländern produziert.", "Sie ist immer nachhaltig."], "answer": "Sie wird oft in Billiglohnländern produziert."},
+        {"exerciseId": "44", "type": "fill_in", "frage": "Manche Menschen kaufen lieber Second-Hand-Kleidung oder nachhaltige Mode, um die _______ zu schonen.", "answer": "Umwelt"},
+        {"exerciseId": "45", "type": "richtig_falsch", "frage": "Markenkleidung ist immer teuer und von schlechter Qualität.", "answer": "Falsch"}
+      ]
+    },
+    {
+      "sectionId": 10,
+      "sectionName": "SECOND-HAND-KLEIDUNG - EIN TREND?",
+      "text": "Second-Hand-Kleidung wird immer beliebter. Immer mehr Menschen kaufen gebrauchte Kleidung in Vintage-Shops, auf Flohmärkten oder online. Das hat mehrere Vorteile: Es ist günstiger, umweltfreundlicher und oft einzigartig.\n\nDie Modeindustrie produziert jedes Jahr riesige Mengen an Kleidung, die oft nach kurzer Zeit wieder weggeworfen wird. Second-Hand-Kleidung hilft, diesen Müll zu reduzieren. Außerdem kann man mit Second-Hand-Kleidung seinen eigenen Stil finden und sich von der Masse abheben.\n\nEin Nachteil ist, dass man Zeit braucht, um schöne Stücke zu finden. Die Größen können auch ungewöhnlich sein. Trotzdem wächst der Second-Hand-Markt schnell.",
+      "exercises": [
+        {"exerciseId": "46", "type": "multiple_choice", "frage": "Wo kann man Second-Hand-Kleidung kaufen?", "options": ["nur online", "in Vintage-Shops, auf Flohmärkten oder online", "nur in teuren Boutiquen"], "answer": "in Vintage-Shops, auf Flohmärkten oder online"},
+        {"exerciseId": "47", "type": "multiple_choice", "frage": "Was ist ein Vorteil von Second-Hand-Kleidung?", "options": ["Sie ist immer neu.", "Sie ist günstiger und umweltfreundlicher.", "Sie ist immer von bekannten Marken."], "answer": "Sie ist günstiger und umweltfreundlicher."},
+        {"exerciseId": "48", "type": "multiple_choice", "frage": "Warum ist Second-Hand-Kleidung umweltfreundlich?", "options": ["Weil sie neu produziert wird.", "Weil sie hilft, Müll zu reduzieren.", "Weil sie im Ausland hergestellt wird."], "answer": "Weil sie hilft, Müll zu reduzieren."},
+        {"exerciseId": "49", "type": "fill_in", "frage": "Second-Hand-Kleidung hilft, den Müll zu reduzieren, der von der _______ produziert wird.", "answer": "Modeindustrie"},
+        {"exerciseId": "50", "type": "richtig_falsch", "frage": "Second-Hand-Kleidung ist immer von schlechter Qualität.", "answer": "Falsch"}
+      ]
+    },
+    {
+      "sectionId": 11,
+      "sectionName": "SCHULUNIFORM - PRO UND CONTRA",
+      "text": "In vielen Ländern wie Großbritannien oder Japan ist die Schuluniform selbstverständlich. In Deutschland wird darüber immer wieder diskutiert. Die Befürworter argumentieren, dass Schuluniformen den Zusammenhalt stärken und soziale Unterschiede verschwinden lassen. Wenn alle das Gleiche tragen, gibt es keinen Druck, teure Markenkleidung zu kaufen.\n\nKritiker finden Schuluniformen jedoch einschränkend. Sie sagen, dass die individuelle Entfaltung der Schüler eingeschränkt wird. Außerdem sind die Uniformen oft unbequem oder altmodisch. Manche Schüler fühlen sich in Uniform unwohl.\n\nDie Diskussion wird in Deutschland wahrscheinlich weitergehen. Bisher gibt es nur wenige Schulen mit Schuluniform.",
+      "exercises": [
+        {"exerciseId": "51", "type": "multiple_choice", "frage": "Was ist ein Argument für Schuluniformen?", "options": ["Sie schränken die Schüler ein.", "Sie stärken den Zusammenhalt und verringern soziale Unterschiede.", "Sie sind immer teuer."], "answer": "Sie stärken den Zusammenhalt und verringern soziale Unterschiede."},
+        {"exerciseId": "52", "type": "multiple_choice", "frage": "Was ist ein Argument gegen Schuluniformen?", "options": ["Sie machen alle Schüler gleich.", "Sie schränken die individuelle Entfaltung ein.", "Sie sind immer günstig."], "answer": "Sie schränken die individuelle Entfaltung ein."},
+        {"exerciseId": "53", "type": "multiple_choice", "frage": "Wie ist die Situation mit Schuluniformen in Deutschland?", "options": ["Alle Schulen haben Schuluniformen.", "Nur wenige Schulen haben Schuluniformen.", "Es gibt keine Diskussion."], "answer": "Nur wenige Schulen haben Schuluniformen."},
+        {"exerciseId": "54", "type": "fill_in", "frage": "Kritiker finden Schuluniformen einschränkend, weil sie die _______ Entfaltung der Schüler einschränken.", "answer": "individuelle"},
+        {"exerciseId": "55", "type": "richtig_falsch", "frage": "Schuluniformen sind in Deutschland sehr verbreitet.", "answer": "Falsch"}
+      ]
+    },
+    {
+      "sectionId": 12,
+      "sectionName": "TECHNOLOGIE IM UNTERRICHT - SEGEN ODER FLUCH?",
+      "text": "Computer, Tablets und Smartphones sind heute aus dem Unterricht nicht mehr wegzudenken. Viele Schulen nutzen digitale Medien, um den Unterricht interaktiver zu gestalten. Schüler können damit recherchieren, lernen und präsentieren.\n\nDie Vorteile sind klar: Digitaler Unterricht macht den Unterricht interessanter und kann Schüler motivieren. Lehrer können mit Lern-Apps und Videos den Stoff besser vermitteln. Außerdem bereitet der Umgang mit Technologie auf die Arbeitswelt vor.\n\nEs gibt jedoch auch Nachteile. Die Nutzung von Geräten kann ablenken und die Konzentration stören. Außerdem brauchen Schulen viel Geld, um alle Schüler mit Geräten auszustatten. Manche Lehrer sind auch nicht gut genug ausgebildet im Umgang mit Technologie.\n\nDie Debatte über den Einsatz von Technologie im Klassenzimmer wird sicherlich weitergehen.",
+      "exercises": [
+        {"exerciseId": "56", "type": "multiple_choice", "frage": "Warum nutzen Schulen digitale Medien?", "options": ["Um den Unterricht interaktiver zu gestalten.", "Um die Schüler zu langweilen.", "Um Geld zu sparen."], "answer": "Um den Unterricht interaktiver zu gestalten."},
+        {"exerciseId": "57", "type": "multiple_choice", "frage": "Was ist ein Vorteil von Technologie im Unterricht?", "options": ["Es ist immer ablenkend.", "Es kann Schüler motivieren.", "Es ist immer teuer."], "answer": "Es kann Schüler motivieren."},
+        {"exerciseId": "58", "type": "multiple_choice", "frage": "Was ist ein Nachteil von Technologie im Unterricht?", "options": ["Es ist immer kostenlos.", "Es kann ablenken und die Konzentration stören.", "Es ist immer einfach zu benutzen."], "answer": "Es kann ablenken und die Konzentration stören."},
+        {"exerciseId": "59", "type": "fill_in", "frage": "Die Nutzung von Geräten kann ablenken und die _______ stören.", "answer": "Konzentration"},
+        {"exerciseId": "60", "type": "richtig_falsch", "frage": "Technologie im Unterricht ist immer gut für alle Schüler.", "answer": "Falsch"}
+      ]
+    },
+    {
+      "sectionId": 13,
+      "sectionName": "STUDENTENLEBEN - ESSEN",
+      "text": "Das Leben als Student ist oft hektisch. Viele Studenten haben wenig Zeit und Geld. Deshalb essen viele von ihnen Fast Food oder Fertiggerichte. Das ist schnell und günstig.\n\nAllerdings wird Fast Food oft kritisiert. Es enthält viele Kalorien und wenig Nährstoffe. Studenten, die sich gesund ernähren wollen, kochen selbst oder essen in der Mensa. Viele Unis bieten heute auch vegetarische Gerichte an.\n\nDie Mensa ist für viele Studenten die wichtigste Anlaufstelle für das Mittagessen. Dort gibt es meist mehrere Gerichte zur Auswahl. Das Essen ist relativ günstig und oft auch gesund.",
+      "exercises": [
+        {"exerciseId": "61", "type": "multiple_choice", "frage": "Warum essen viele Studenten Fast Food?", "options": ["Weil es gesund ist.", "Weil es schnell und günstig ist.", "Weil es im Restaurant serviert wird."], "answer": "Weil es schnell und günstig ist."},
+        {"exerciseId": "62", "type": "multiple_choice", "frage": "Was ist ein Problem bei Fast Food?", "options": ["Es ist immer teuer.", "Es enthält viele Kalorien und wenig Nährstoffe.", "Es ist immer frisch."], "answer": "Es enthält viele Kalorien und wenig Nährstoffe."},
+        {"exerciseId": "63", "type": "fill_in", "frage": "Viele Unis bieten heute auch _______ Gerichte an.", "answer": "vegetarische"}
+      ]
+    },
+    {
+      "sectionId": 14,
+      "sectionName": "SOCIAL MEDIA UND ARBEIT",
+      "text": "Social Media ist nicht nur für private Zwecke wichtig, sondern auch für die Arbeit. Viele Unternehmen nutzen Plattformen wie LinkedIn, um neue Mitarbeiter zu finden. Auch für die Bewerbung ist ein professionelles Online-Profil heute oft wichtig.\n\nAllerdings kann Social Media auch Probleme bei der Arbeit verursachen. Mitarbeiter, die zu viel Zeit auf sozialen Netzwerken verbringen, arbeiten weniger effizient. Außerdem können unbedachte Posts zu Konflikten führen.\n\nViele Firmen haben deshalb Regeln für die Nutzung von Social Media am Arbeitsplatz. Sie verbieten oft die private Nutzung während der Arbeitszeit.",
+      "exercises": [
+        {"exerciseId": "64", "type": "multiple_choice", "frage": "Warum nutzen Unternehmen soziale Netzwerke?", "options": ["Um Mitarbeiter zu finden.", "Um Spiele zu spielen.", "Um private Nachrichten zu senden."], "answer": "Um Mitarbeiter zu finden."},
+        {"exerciseId": "65", "type": "multiple_choice", "frage": "Was ist ein Problem bei Social Media und Arbeit?", "options": ["Es ist immer hilfreich.", "Es kann zu Konflikten führen.", "Es ist immer produktiv."], "answer": "Es kann zu Konflikten führen."},
+        {"exerciseId": "66", "type": "richtig_falsch", "frage": "Social Media wird auch für Bewerbungen genutzt.", "answer": "Richtig"}
+      ]
+    },
+    {
+      "sectionId": 15,
+      "sectionName": "NACHHALTIGE MODE - DIE ZUKUNFT?",
+      "text": "Nachhaltige Mode ist ein wachsender Trend. Immer mehr Menschen achten darauf, wo ihre Kleidung herkommt. Sie kaufen lieber Marken, die auf faire Arbeitsbedingungen und Umweltschutz achten.\n\nNachhaltige Mode ist oft teurer als Fast Fashion. Aber viele Verbraucher sind bereit, mehr zu bezahlen, wenn sie wissen, dass die Kleidung unter guten Bedingungen produziert wurde.\n\nEs gibt jedoch auch Kritik. Manche argumentieren, dass nachhaltige Mode nur ein Marketing-Trick ist. Trotzdem steigt die Nachfrage nach umweltfreundlicher Kleidung.",
+      "exercises": [
+        {"exerciseId": "67", "type": "multiple_choice", "frage": "Was ist nachhaltige Mode?", "options": ["Mode, die in Billiglohnländern produziert wird.", "Mode, die auf faire Arbeitsbedingungen und Umweltschutz achtet.", "Mode, die immer billig ist."], "answer": "Mode, die auf faire Arbeitsbedingungen und Umweltschutz achtet."},
+        {"exerciseId": "68", "type": "multiple_choice", "frage": "Warum ist nachhaltige Mode oft teurer?", "options": ["Weil sie immer von schlechter Qualität ist.", "Weil sie unter fairen Bedingungen produziert wird.", "Weil sie im Ausland hergestellt wird."], "answer": "Weil sie unter fairen Bedingungen produziert wird."},
+        {"exerciseId": "69", "type": "fill_in", "frage": "Die Nachfrage nach umweltfreundlicher Kleidung _______.", "answer": "steigt"},
+        {"exerciseId": "70", "type": "richtig_falsch", "frage": "Nachhaltige Mode ist immer ein Marketing-Trick.", "answer": "Falsch"}
+      ]
+    },
+    {
+      "sectionId": 16,
+      "sectionName": "ONLINEPLATTFORMEN FÜR KLEIDUNG",
+      "text": "Immer mehr Menschen kaufen Kleidung online. Plattformen wie Zalando, About You und Vinted sind sehr beliebt. Sie bieten eine große Auswahl und oft kostenlose Rücksendung.\n\nEin Problem ist jedoch, dass viele Kunden die Kleidung zurücksenden, weil sie nicht passt. Das verursacht viel Müll und ist schlecht für die Umwelt. Die Plattformen versuchen, dieses Problem zu lösen, indem sie genauere Größenangaben machen.\n\nDer Online-Handel mit Kleidung wird in Zukunft wahrscheinlich noch weiter wachsen.",
+      "exercises": [
+        {"exerciseId": "71", "type": "multiple_choice", "frage": "Warum kaufen viele Menschen Kleidung online?", "options": ["Weil es immer günstiger ist.", "Weil es eine große Auswahl und oft kostenlose Rücksendung gibt.", "Weil die Kleidung immer passt."], "answer": "Weil es eine große Auswahl und oft kostenlose Rücksendung gibt."},
+        {"exerciseId": "72", "type": "multiple_choice", "frage": "Was ist ein Problem beim Online-Kauf von Kleidung?", "options": ["Die Kleidung passt immer.", "Die Rücksendung verursacht viel Müll.", "Es gibt keine Auswahl."], "answer": "Die Rücksendung verursacht viel Müll."},
+        {"exerciseId": "73", "type": "fill_in", "frage": "Die Plattformen versuchen, das Problem zu lösen, indem sie genauere _______ machen.", "answer": "Größenangaben"}
+      ]
+    },
+    {
+      "sectionId": 17,
+      "sectionName": "VEGETARISCH IN DER KANTINE",
+      "text": "In vielen Firmen und Schulen gibt es heute Kantinen, die auch vegetarische Gerichte anbieten. Das ist ein großer Schritt für Vegetarier, die früher oft nur Salat oder Beilagen essen konnten.\n\nDie Nachfrage nach vegetarischem Essen in Kantinen steigt. Viele Menschen achten auf ihre Gesundheit und die Umwelt. Deshalb bieten immer mehr Kantinen täglich ein vegetarisches Hauptgericht an.\n\nDie Preise für vegetarische Gerichte sind oft ähnlich wie für Fleischgerichte. In einigen Kantinen sind sie sogar günstiger.",
+      "exercises": [
+        {"exerciseId": "74", "type": "multiple_choice", "frage": "Was bieten immer mehr Kantinen an?", "options": ["Nur Fleischgerichte", "Täglich ein vegetarisches Hauptgericht", "Kein Essen"], "answer": "Täglich ein vegetarisches Hauptgericht"},
+        {"exerciseId": "75", "type": "richtig_falsch", "frage": "Vegetarische Gerichte in Kantinen sind immer teurer.", "answer": "Falsch"}
+      ]
+    },
+    {
+      "sectionId": 18,
+      "sectionName": "SOCIAL MEDIA UND SELBSTBILD",
+      "text": "Soziale Netzwerke beeinflussen, wie wir uns selbst sehen. Viele Jugendliche vergleichen sich mit den perfekten Bildern und Leben, die sie auf Instagram oder TikTok sehen. Das kann zu Unsicherheit und Unzufriedenheit führen.\n\nExperten warnen vor den negativen Auswirkungen von Social Media auf das Selbstbild. Sie empfehlen, weniger Zeit auf diesen Plattformen zu verbringen und sich bewusst zu machen, dass die Bilder oft bearbeitet sind.\n\nTrotz der Risiken nutzen viele Jugendliche soziale Netzwerke weiterhin täglich. Sie sehen sie als wichtigen Teil ihres Lebens.",
+      "exercises": [
+        {"exerciseId": "76", "type": "multiple_choice", "frage": "Wie beeinflussen soziale Netzwerke das Selbstbild?", "options": ["Sie machen alle selbstbewusster.", "Sie können zu Unsicherheit und Unzufriedenheit führen.", "Sie haben keine Auswirkungen."], "answer": "Sie können zu Unsicherheit und Unzufriedenheit führen."},
+        {"exerciseId": "77", "type": "multiple_choice", "frage": "Was empfehlen Experten?", "options": ["Mehr Zeit auf Social Media zu verbringen", "Weniger Zeit auf Social Media zu verbringen", "Keine Social Media zu nutzen"], "answer": "Weniger Zeit auf Social Media zu verbringen"},
+        {"exerciseId": "78", "type": "fill_in", "frage": "Die Bilder auf Social Media sind oft _______.", "answer": "bearbeitet"}
+      ]
+    },
+    {
+      "sectionId": 19,
+      "sectionName": "FAST FOOD WERBUNG - EINFLUSS AUF KINDER",
+      "text": "Fast-Food-Werbung richtet sich oft gezielt an Kinder und Jugendliche. Mit bunten Farben, Spielzeugen und coolen Figuren wird Fast Food attraktiv gemacht. Das hat einen großen Einfluss auf das Essverhalten.\n\nExperten kritisieren diese Werbung, weil sie zu ungesundem Essen führt. Sie fordern strengere Regeln für die Werbung von ungesunden Lebensmitteln. Einige Länder haben bereits Verbote eingeführt.\n\nDie Fast-Food-Industrie argumentiert jedoch, dass sie nur ihr Angebot präsentiert und dass die Eltern verantwortlich sind für das Essverhalten ihrer Kinder.",
+      "exercises": [
+        {"exerciseId": "79", "type": "multiple_choice", "frage": "Wie wird Fast Food in der Werbung dargestellt?", "options": ["Gesund und nahrhaft", "Mit bunten Farben, Spielzeugen und coolen Figuren", "Langweilig und teuer"], "answer": "Mit bunten Farben, Spielzeugen und coolen Figuren"},
+        {"exerciseId": "80", "type": "multiple_choice", "frage": "Was fordern Experten?", "options": ["Mehr Fast-Food-Werbung", "Strengere Regeln für Fast-Food-Werbung", "Keine Veränderungen"], "answer": "Strengere Regeln für Fast-Food-Werbung"},
+        {"exerciseId": "81", "type": "richtig_falsch", "frage": "Einige Länder haben Fast-Food-Werbung bereits verboten.", "answer": "Richtig"}
+      ]
+    },
+    {
+      "sectionId": 20,
+      "sectionName": "ONLINE SHOPPING - VOR- UND NACHTEILE 2",
+      "text": "Der Online-Handel boomt. Immer mehr Menschen kaufen Produkte im Internet. Die Vorteile sind die große Auswahl, die einfache Preisvergleichsmöglichkeit und die Bequemlichkeit.\n\nEs gibt jedoch auch Nachteile. Die Lieferzeit kann lang sein, und die Rücksendung ist manchmal kompliziert. Außerdem ist es schwer, die Qualität der Produkte zu beurteilen, bevor man sie sieht.\n\nTrotzdem wird Online Shopping in Zukunft wahrscheinlich noch weiter wachsen. Der Einzelhandel muss sich anpassen.",
+      "exercises": [
+        {"exerciseId": "82", "type": "multiple_choice", "frage": "Was ist ein Vorteil von Online Shopping?", "options": ["Die Lieferung ist immer schnell.", "Man kann Preise einfach vergleichen.", "Die Rücksendung ist immer einfach."], "answer": "Man kann Preise einfach vergleichen."},
+        {"exerciseId": "83", "type": "multiple_choice", "frage": "Was ist ein Nachteil von Online Shopping?", "options": ["Die Auswahl ist begrenzt.", "Die Rücksendung ist manchmal kompliziert.", "Die Produkte sind immer teuer."], "answer": "Die Rücksendung ist manchmal kompliziert."},
+        {"exerciseId": "84", "type": "fill_in", "frage": "Es ist schwer, die _______ der Produkte zu beurteilen, bevor man sie sieht.", "answer": "Qualität"}
+      ]
+    },
+    {
+      "sectionId": 21,
+      "sectionName": "TECHNOLOGIE IM UNTERRICHT - FALLBEISPIEL",
+      "text": "Die Schule am Stadtpark hat vor zwei Jahren alle Schüler mit Tablets ausgestattet. Die Lehrer berichten, dass der Unterricht abwechslungsreicher geworden ist. Schüler können online recherchieren, Lernvideos ansehen und interaktive Übungen machen.\n\nAllerdings hat die Einführung der Tablets auch Probleme gebracht. Einige Schüler nutzen die Geräte für private Zwecke während des Unterrichts. Die Schule hat deshalb Regeln aufgestellt: Die Tablets dürfen nur für schulische Aufgaben verwendet werden.\n\nDie meisten Schüler sind zufrieden mit der neuen Technologie. Sie finden den Unterricht interessanter.",
+      "exercises": [
+        {"exerciseId": "85", "type": "multiple_choice", "frage": "Wie hat sich der Unterricht seit der Einführung der Tablets verändert?", "options": ["Der Unterricht ist langweiliger geworden.", "Der Unterricht ist abwechslungsreicher geworden.", "Der Unterricht ist kürzer geworden."], "answer": "Der Unterricht ist abwechslungsreicher geworden."},
+        {"exerciseId": "86", "type": "multiple_choice", "frage": "Warum hat die Schule Regeln aufgestellt?", "options": ["Weil die Tablets kaputt waren.", "Weil Schüler die Tablets für private Zwecke nutzten.", "Weil die Lehrer keine Tablets wollten."], "answer": "Weil Schüler die Tablets für private Zwecke nutzten."},
+        {"exerciseId": "87", "type": "richtig_falsch", "frage": "Alle Schüler sind unzufrieden mit der neuen Technologie.", "answer": "Falsch"}
+      ]
+    },
+    {
+      "sectionId": 22,
+      "sectionName": "SECOND-HAND - EIN NACHHALTIGER TREND",
+      "text": "Second-Hand-Kleidung ist nicht nur für Umweltbewusste interessant. Auch viele junge Leute entdecken den Vintage-Look für sich. Sie möchten nicht immer das gleiche tragen wie alle anderen und suchen nach individuellen Stücken.\n\nDer Second-Hand-Markt wächst rasant. Online-Plattformen wie Vinted machen es einfach, gebrauchte Kleidung zu kaufen und zu verkaufen. Viele Menschen nutzen diese Möglichkeit, um ihr Einkommen aufzubessern.\n\nEin Problem bleibt jedoch: Auch Second-Hand-Kleidung muss transportiert werden, was CO2 verursacht. Und nicht alle Second-Hand-Kleidung ist von guter Qualität.",
+      "exercises": [
+        {"exerciseId": "88", "type": "multiple_choice", "frage": "Warum kaufen junge Leute Second-Hand-Kleidung?", "options": ["Weil sie immer neu ist.", "Weil sie nach individuellen Stücken suchen.", "Weil sie immer von bekannten Marken ist."], "answer": "Weil sie nach individuellen Stücken suchen."},
+        {"exerciseId": "89", "type": "multiple_choice", "frage": "Was ist ein Problem bei Second-Hand-Kleidung?", "options": ["Sie ist immer teuer.", "Der Transport verursacht CO2.", "Sie ist immer von schlechter Qualität."], "answer": "Der Transport verursacht CO2."},
+        {"exerciseId": "90", "type": "fill_in", "frage": "Online-Plattformen wie Vinted machen es einfach, gebrauchte Kleidung zu kaufen und zu _______.", "answer": "verkaufen"}
+      ]
+    },
+    {
+      "sectionId": 23,
+      "sectionName": "FAST FOOD AM ARBEITSPLATZ",
+      "text": "Viele Büros bieten ihren Mitarbeitern kostenloses Obst, Wasser und Kaffee an. Aber auch Fast Food ist in Büros beliebt. Pizza, Burger und Snacks werden oft bestellt, besonders bei Besprechungen oder langen Arbeitstagen.\n\nGesundheitsexperten warnen vor dieser Entwicklung. Sie empfehlen, mehr Obst und Gemüse in den Büroalltag zu integrieren. Einige Unternehmen haben bereits umgestellt und bieten nur noch gesunde Snacks an.\n\nDie Mitarbeiter schätzen die kostenlosen Snacks. Sie fördern das Wohlbefinden und die Produktivität.",
+      "exercises": [
+        {"exerciseId": "91", "type": "multiple_choice", "frage": "Was bieten viele Büros ihren Mitarbeitern an?", "options": ["Nur Fast Food", "Kostenloses Obst, Wasser und Kaffee", "Nur Fleischgerichte"], "answer": "Kostenloses Obst, Wasser und Kaffee"},
+        {"exerciseId": "92", "type": "multiple_choice", "frage": "Was empfehlen Gesundheitsexperten?", "options": ["Mehr Fast Food am Arbeitsplatz", "Mehr Obst und Gemüse im Büroalltag", "Keine Snacks am Arbeitsplatz"], "answer": "Mehr Obst und Gemüse im Büroalltag"},
+        {"exerciseId": "93", "type": "richtig_falsch", "frage": "Alle Unternehmen haben nur noch gesunde Snacks.", "answer": "Falsch"}
+      ]
+    },
+    {
+      "sectionId": 24,
+      "sectionName": "SOCIAL MEDIA - TRENDS",
+      "text": "Social Media Trends ändern sich schnell. Was heute auf TikTok viral geht, kann morgen schon vergessen sein. Viele Jugendliche versuchen, immer auf dem neuesten Stand zu bleiben.\n\nDas kann Stress verursachen. Manche Jugendliche fühlen sich unter Druck, immer neue Trends mitzumachen. Experten raten, nicht jeden Trend mitzumachen und sich auf das zu konzentrieren, was einem wirklich gefällt.\n\nDie sozialen Medien werden immer ein Teil der Jugendkultur bleiben.",
+      "exercises": [
+        {"exerciseId": "94", "type": "multiple_choice", "frage": "Wie schnell ändern sich Social Media Trends?", "options": ["Gar nicht", "Langsam", "Schnell"], "answer": "Schnell"},
+        {"exerciseId": "95", "type": "multiple_choice", "frage": "Was raten Experten?", "options": ["Jeden Trend mitzumachen", "Nicht jeden Trend mitzumachen", "Alle Trends zu ignorieren"], "answer": "Nicht jeden Trend mitzumachen"},
+        {"exerciseId": "96", "type": "fill_in", "frage": "Viele Jugendliche versuchen, immer auf dem neuesten _______ zu bleiben.", "answer": "Stand"}
+      ]
+    },
+    {
+      "sectionId": 25,
+      "sectionName": "VEGETARISCH - EIN JUGENDTREND?",
+      "text": "Vegetarische Ernährung ist besonders bei Jugendlichen beliebt. Viele Teenager entscheiden sich bewusst für eine fleischlose Ernährung. Sie achten auf ihre Gesundheit, die Umwelt und das Tierwohl.\n\nIn Schulkantinen steigt die Nachfrage nach vegetarischen Gerichten. Immer mehr Jugendliche essen auch vegan. Sie probieren neue Produkte und Rezepte aus.\n\nDie Ernährungsgewohnheiten der Jugendlichen ändern sich. Das hat auch Auswirkungen auf die Lebensmittelindustrie.",
+      "exercises": [
+        {"exerciseId": "97", "type": "multiple_choice", "frage": "Warum entscheiden sich Jugendliche für vegetarische Ernährung?", "options": ["Nur weil es billig ist.", "Wegen Gesundheit, Umwelt und Tierwohl.", "Weil sie kein Fleisch mögen."], "answer": "Wegen Gesundheit, Umwelt und Tierwohl."},
+        {"exerciseId": "98", "type": "multiple_choice", "frage": "Was steigt in Schulkantinen?", "options": ["Die Preise", "Die Nachfrage nach vegetarischen Gerichten", "Die Anzahl der Fleischgerichte"], "answer": "Die Nachfrage nach vegetarischen Gerichten"},
+        {"exerciseId": "99", "type": "fill_in", "frage": "Die Ernährungsgewohnheiten der Jugendlichen haben auch Auswirkungen auf die _______.", "answer": "Lebensmittelindustrie"}
+      ]
+    }
+  ],
+  "bonus": {
+    "exerciseId": "100",
+    "type": "free_answer",
+    "frage": "Schreiben Sie 3 Sätze über Ihre Meinung zu vegetarischer Ernährung.",
+    "turkce": "Vejetaryen beslenme hakkındaki görüşünüzü 3 cümleyle yazın.",
+    "ipucu": "Meiner Meinung nach ... / Ich finde ... / Ein Vorteil ist ..."
+  }
+}

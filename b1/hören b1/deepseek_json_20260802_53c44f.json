@@ -1,0 +1,51 @@
+{
+  "title": "GOETHE B1 - HÖREN (FAST FOOD GEWOHNHEITEN)",
+  "subtitle": "FAST FOOD GEWOHNHEITEN",
+  "sectionId": 45,
+  "sectionName": "FAST FOOD GEWOHNHEITEN",
+  "exercises": [
+    {
+      "exerciseId": "25",
+      "type": "multiple_choice",
+      "frage": "Wie oft isst Max Fast Food?",
+      "turkce": "Max ne sıklıkla fast food yiyor?",
+      "ipucu": "etwa einmal pro Woche.",
+      "options": ["jeden Tag", "einmal pro Woche", "einmal pro Monat"],
+      "answer": "einmal pro Woche"
+    },
+    {
+      "exerciseId": "26",
+      "type": "multiple_choice",
+      "frage": "Wann isst Max meistens Fast Food?",
+      "turkce": "Max genellikle ne zaman fast food yiyor?",
+      "ipucu": "am Wochenende.",
+      "options": ["unter der Woche", "am Wochenende", "im Urlaub"],
+      "answer": "am Wochenende"
+    },
+    {
+      "exerciseId": "27",
+      "type": "multiple_choice",
+      "frage": "Was isst Max am liebsten?",
+      "turkce": "Max en çok ne yemeyi seviyor?",
+      "ipucu": "Meistens Burger oder Pizza.",
+      "options": ["Salat", "Burger oder Pizza", "Suppe"],
+      "answer": "Burger oder Pizza"
+    },
+    {
+      "exerciseId": "28",
+      "type": "richtig_falsch",
+      "frage": "Max hat schon versucht, mehr selbst zu kochen.",
+      "turkce": "Max daha fazla kendi yemeğini yapmayı denedi.",
+      "ipucu": "Ich habe versucht, öfter selbst zu kochen.",
+      "answer": "Richtig"
+    },
+    {
+      "exerciseId": "29",
+      "type": "fill_in",
+      "frage": "Max empfiehlt, Fast Food nur _______ zu essen und mehr selbst zu kochen.",
+      "turkce": "Max, fast food'u sadece _______ yemeyi ve daha fazla kendi yemeğini yapmayı tavsiye ediyor.",
+      "ipucu": "gelegentlich - ara sıra.",
+      "answer": "gelegentlich"
+    }
+  ]
+}

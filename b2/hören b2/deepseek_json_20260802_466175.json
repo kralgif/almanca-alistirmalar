@@ -1,0 +1,78 @@
+{
+  "title": "GOETHE B2 - HÖREN (AUTOFREIE INNENSTADT)",
+  "subtitle": "AUTOFREIE INNENSTADT",
+  "sectionId": 57,
+  "sectionName": "AUTOFREIE INNENSTADT",
+  "exercises": [
+    {
+      "exerciseId": "6",
+      "type": "multiple_choice",
+      "frage": "Was ist ein Problem in vielen deutschen Innenstädten?",
+      "turkce": "Birçok Alman şehir merkezinde sorun nedir?",
+      "ipucu": "Staus, Lärm und Luftverschmutzung.",
+      "options": [
+        "Zu wenige Autos",
+        "Staus, Lärm und Luftverschmutzung",
+        "Zu viele Fußgänger",
+        "Zu wenige Parkplätze"
+      ],
+      "answer": "Staus, Lärm und Luftverschmutzung"
+    },
+    {
+      "exerciseId": "7",
+      "type": "multiple_choice",
+      "frage": "Welche Städte zeigen, dass eine autofreie Stadt möglich ist?",
+      "turkce": "Hangi şehirler araçsız bir şehrin mümkün olduğunu gösteriyor?",
+      "ipucu": "Kopenhagen und Amsterdam.",
+      "options": [
+        "Berlin und München",
+        "Kopenhagen und Amsterdam",
+        "London und Paris",
+        "Wien und Zürich"
+      ],
+      "answer": "Kopenhagen und Amsterdam"
+    },
+    {
+      "exerciseId": "8",
+      "type": "multiple_choice",
+      "frage": "Was befürchten Kritiker einer autofreien Innenstadt?",
+      "turkce": "Araçsız şehir merkezi eleştirmenleri neyden endişe ediyor?",
+      "ipucu": "Negative wirtschaftliche Auswirkungen.",
+      "options": [
+        "Weniger Touristen",
+        "Negative wirtschaftliche Auswirkungen",
+        "Mehr Fußgängerunfälle",
+        "Höhere Mieten"
+      ],
+      "answer": "Negative wirtschaftliche Auswirkungen"
+    },
+    {
+      "exerciseId": "9",
+      "type": "multiple_choice",
+      "frage": "Was könnte als Alternative zum Autoverkehr dienen?",
+      "turkce": "Otomobil trafiğine alternatif ne olabilir?",
+      "ipucu": "Verbesserter öffentlicher Nahverkehr und Fahrradverleih.",
+      "options": [
+        "Nur noch Taxis",
+        "Verbesserter öffentlicher Nahverkehr und Fahrradverleih",
+        "Mehr Parkhäuser",
+        "Keine Alternativen"
+      ],
+      "answer": "Verbesserter öffentlicher Nahverkehr und Fahrradverleih"
+    },
+    {
+      "exerciseId": "10",
+      "type": "multiple_choice",
+      "frage": "Warum sind Geschäfte und Restaurants besorgt?",
+      "turkce": "Mağazalar ve restoranlar neden endişeli?",
+      "ipucu": "Sie könnten weniger Kunden bekommen.",
+      "options": [
+        "Sie könnten weniger Kunden bekommen.",
+        "Sie müssen schließen.",
+        "Sie werden teurer.",
+        "Sie haben zu viel Konkurrenz."
+      ],
+      "answer": "Sie könnten weniger Kunden bekommen."
+    }
+  ]
+}

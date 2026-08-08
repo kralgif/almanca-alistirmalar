@@ -1,0 +1,25 @@
+{
+  "title": "GOETHE B1 - HÖREN (FAST FOOD AN DER SCHULE)",
+  "subtitle": "FAST FOOD AN DER SCHULE",
+  "sectionId": 46,
+  "sectionName": "FAST FOOD AN DER SCHULE",
+  "exercises": [
+    {
+      "exerciseId": "30",
+      "type": "multiple_choice",
+      "frage": "Was bietet die Mensa ab nächstem Monat nicht mehr an?",
+      "turkce": "Kantin gelecek aydan itibaren ne sunmayacak?",
+      "ipucu": "keine Pommes und Burger mehr.",
+      "options": ["Salat", "Pommes und Burger", "Obst"],
+      "answer": "Pommes und Burger"
+    },
+    {
+      "exerciseId": "31",
+      "type": "richtig_falsch",
+      "frage": "Die Preise werden teurer.",
+      "turkce": "Fiyatlar artacak.",
+      "ipucu": "Die Preise bleiben gleich - fiyatlar aynı.",
+      "answer": "Falsch"
+    }
+  ]
+}

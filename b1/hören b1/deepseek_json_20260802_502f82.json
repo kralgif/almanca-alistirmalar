@@ -1,0 +1,67 @@
+{
+  "title": "GOETHE B1 - HÖREN (SOZIALE NETZWERKE)",
+  "subtitle": "RADIOBEITRAG - SOZIALE NETZWERKE",
+  "sectionId": 47,
+  "sectionName": "RADIOBEITRAG - SOZIALE NETZWERKE",
+  "exercises": [
+    {
+      "exerciseId": "32",
+      "type": "multiple_choice",
+      "frage": "Was ist ein Vorteil von sozialen Netzwerken?",
+      "turkce": "Sosyal ağların avantajı nedir?",
+      "ipucu": "mit Freunden in Kontakt bleiben.",
+      "options": ["Man kann immer einsam sein.", "Man kann mit Freunden in Kontakt bleiben.", "Man verliert alle Freunde."],
+      "answer": "Man kann mit Freunden in Kontakt bleiben."
+    },
+    {
+      "exerciseId": "33",
+      "type": "multiple_choice",
+      "frage": "Welches Problem gibt es bei sozialen Netzwerken?",
+      "turkce": "Sosyal ağlarda hangi sorun var?",
+      "ipucu": "Datenschutz und Cybermobbing.",
+      "options": ["Sie sind immer sicher.", "Es gibt Datenschutzprobleme und Cybermobbing.", "Sie sind kostenlos."],
+      "answer": "Es gibt Datenschutzprobleme und Cybermobbing."
+    },
+    {
+      "exerciseId": "34",
+      "type": "multiple_choice",
+      "frage": "Was warnen immer mehr Menschen vor?",
+      "turkce": "Giderek daha fazla insan neye karşı uyarıyor?",
+      "ipucu": "vor den Gefahren sozialer Netzwerke.",
+      "options": ["den Vorteilen von sozialen Netzwerken", "den Gefahren von sozialen Netzwerken", "dem Lernen mit sozialen Netzwerken"],
+      "answer": "den Gefahren von sozialen Netzwerken"
+    },
+    {
+      "exerciseId": "35",
+      "type": "richtig_falsch",
+      "frage": "Soziale Netzwerke haben nur negative Seiten.",
+      "turkce": "Sosyal ağların sadece olumsuz yönleri vardır.",
+      "ipucu": "Soziale Netzwerke sind nicht nur schlecht.",
+      "answer": "Falsch"
+    },
+    {
+      "exerciseId": "36",
+      "type": "fill_in",
+      "frage": "Private Daten werden oft an Werbefirmen _______ .",
+      "turkce": "Kişisel veriler genellikle reklam şirketlerine _______ .",
+      "ipucu": "verkauft - satılıyor.",
+      "answer": "verkauft"
+    },
+    {
+      "exerciseId": "37",
+      "type": "multiple_choice",
+      "frage": "Was empfehlen Experten?",
+      "turkce": "Uzmanlar ne tavsiye ediyor?",
+      "ipucu": "Nutzungszeit zu begrenzen.",
+      "options": ["Mehr Zeit auf sozialen Netzwerken zu verbringen", "Die Nutzungszeit zu begrenzen", "Keine sozialen Netzwerke zu nutzen"],
+      "answer": "Die Nutzungszeit zu begrenzen"
+    },
+    {
+      "exerciseId": "38",
+      "type": "free_answer",
+      "frage": "Wie nutzen Sie soziale Netzwerke? Schreiben Sie einen Satz.",
+      "turkce": "Sosyal ağları nasıl kullanıyorsunuz? Bir cümle yazın.",
+      "ipucu": "Ich nutze soziale Netzwerke, um... / Ich verbringe... Zeit auf..."
+    }
+  ]
+}

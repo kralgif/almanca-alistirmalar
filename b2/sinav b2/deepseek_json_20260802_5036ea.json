@@ -1,0 +1,74 @@
+{
+  "title": "GOETHE B2 - HÖREN (DENEME SINAVI)",
+  "subtitle": "RADIOBEITRAG - DEMOGRAFISCHER WANDEL",
+  "sectionId": 1,
+  "sectionName": "HÖREN - DEMOGRAFISCHER WANDEL",
+  "exercises": [
+    {
+      "exerciseId": "1",
+      "type": "multiple_choice",
+      "frage": "Was ist das Hauptproblem des demografischen Wandels in Deutschland?",
+      "options": [
+        "Die Bevölkerung wird jünger.",
+        "Die Bevölkerung wird älter und es gibt weniger junge Menschen.",
+        "Die Bevölkerung bleibt gleich."
+      ],
+      "answer": "Die Bevölkerung wird älter und es gibt weniger junge Menschen."
+    },
+    {
+      "exerciseId": "2",
+      "type": "multiple_choice",
+      "frage": "Welche Folge hat der demografische Wandel für das Rentensystem?",
+      "options": [
+        "Das Rentensystem wird stabiler.",
+        "Das Rentensystem gerät unter Druck.",
+        "Das Rentensystem wird abgeschafft."
+      ],
+      "answer": "Das Rentensystem gerät unter Druck."
+    },
+    {
+      "exerciseId": "3",
+      "type": "multiple_choice",
+      "frage": "Was könnte eine Lösung für den demografischen Wandel sein?",
+      "options": [
+        "Nur die Digitalisierung",
+        "Zuwanderung von qualifizierten Fachkräften",
+        "Höhere Steuern"
+      ],
+      "answer": "Zuwanderung von qualifizierten Fachkräften"
+    },
+    {
+      "exerciseId": "4",
+      "type": "multiple_choice",
+      "frage": "Was könnte die Geburtenrate erhöhen?",
+      "options": [
+        "Höhere Gehälter",
+        "Bessere Vereinbarkeit von Familie und Beruf",
+        "Mehr Steuervorteile"
+      ],
+      "answer": "Bessere Vereinbarkeit von Familie und Beruf"
+    },
+    {
+      "exerciseId": "5",
+      "type": "multiple_choice",
+      "frage": "Wie könnte die Digitalisierung helfen?",
+      "options": [
+        "Sie könnte Arbeitsprozesse effizienter gestalten.",
+        "Sie könnte die Geburtenrate erhöhen.",
+        "Sie könnte die Rente erhöhen."
+      ],
+      "answer": "Sie könnte Arbeitsprozesse effizienter gestalten."
+    },
+    {
+      "exerciseId": "6",
+      "type": "multiple_choice",
+      "frage": "Was ist die Meinung der Radiosprecherin?",
+      "options": [
+        "Der demografische Wandel ist kein Problem.",
+        "Es ist eine gesamtgesellschaftliche Aufgabe.",
+        "Die Politik allein muss Lösungen finden."
+      ],
+      "answer": "Es ist eine gesamtgesellschaftliche Aufgabe."
+    }
+  ]
+}

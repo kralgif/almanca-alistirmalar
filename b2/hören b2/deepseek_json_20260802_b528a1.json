@@ -1,0 +1,78 @@
+{
+  "title": "GOETHE B2 - HÖREN (ONLINE SHOPPING - LOKALE GESCHÄFTE)",
+  "subtitle": "ONLINE SHOPPING - FLUCH ODER SEGEN FÜR LOKALE GESCHÄFTE",
+  "sectionId": 63,
+  "sectionName": "ONLINE SHOPPING - LOKALE GESCHÄFTE",
+  "exercises": [
+    {
+      "exerciseId": "41",
+      "type": "multiple_choice",
+      "frage": "Welche Herausforderung stellt der Online-Handel für lokale Geschäfte dar?",
+      "turkce": "Online alışveriş yerel mağazalar için ne gibi bir zorluk oluşturuyor?",
+      "ipucu": "Sie können mit großen Online-Plattformen nicht mithalten.",
+      "options": [
+        "Sie haben mehr Kunden.",
+        "Sie können mit großen Online-Plattformen nicht mithalten.",
+        "Sie haben weniger Konkurrenz.",
+        "Sie sind günstiger."
+      ],
+      "answer": "Sie können mit großen Online-Plattformen nicht mithalten."
+    },
+    {
+      "exerciseId": "42",
+      "type": "multiple_choice",
+      "frage": "Was ist ein Vorteil des Online-Handels?",
+      "turkce": "Online alışverişin avantajı nedir?",
+      "ipucu": "Große Auswahl und Lieferung nach Hause.",
+      "options": [
+        "Persönliche Beratung",
+        "Große Auswahl und Lieferung nach Hause",
+        "Lokale Wirtschaft unterstützen",
+        "Das Erlebnis des Einkaufens"
+      ],
+      "answer": "Große Auswahl und Lieferung nach Hause"
+    },
+    {
+      "exerciseId": "43",
+      "type": "multiple_choice",
+      "frage": "Was bietet der lokale Einzelhandel, was Online-Shops nicht haben?",
+      "turkce": "Yerel perakende, online mağazaların sahip olmadığı neyi sunuyor?",
+      "ipucu": "Persönliche Beratung und das Erlebnis des Einkaufens.",
+      "options": [
+        "Günstigere Preise",
+        "Persönliche Beratung und das Erlebnis des Einkaufens",
+        "Größere Auswahl",
+        "Lieferung nach Hause"
+      ],
+      "answer": "Persönliche Beratung und das Erlebnis des Einkaufens"
+    },
+    {
+      "exerciseId": "44",
+      "type": "multiple_choice",
+      "frage": "Was könnte eine Lösung für lokale Geschäfte sein?",
+      "turkce": "Yerel mağazalar için çözüm ne olabilir?",
+      "ipucu": "Die Kombination von Online- und Offline-Angeboten.",
+      "options": [
+        "Nur Online verkaufen",
+        "Die Kombination von Online- und Offline-Angeboten",
+        "Nur lokal verkaufen",
+        "Schließen"
+      ],
+      "answer": "Die Kombination von Online- und Offline-Angeboten"
+    },
+    {
+      "exerciseId": "45",
+      "type": "multiple_choice",
+      "frage": "Was nutzen viele Geschäfte heute, um Kunden zu erreichen?",
+      "turkce": "Bugün birçok mağaza müşterilere ulaşmak için ne kullanıyor?",
+      "ipucu": "Das Internet.",
+      "options": [
+        "Nur Werbung im Fernsehen",
+        "Das Internet",
+        "Nur Flyer",
+        "Nur Radio"
+      ],
+      "answer": "Das Internet"
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "title": "GOETHE B2 - SCHREIBEN (100 ALIŞTIRMA)",
+  "subtitle": "B2 SEVİYESİ YAZMA ALIŞTIRMALARI",
+  "sections": [
+    {
+      "sectionId": 1,
+      "sectionName": "FÜHRERSCHEIN AB 16",
+      "exercises": [
+        {
+          "exerciseId": "1",
+          "type": "writing",
+          "aufgabe": "Schreiben Sie einen Forumsbeitrag zum Thema 'Führerschein schon ab 16 Jahren' (ca. 60-80 Wörter):\n1. Äußern Sie Ihre Meinung zum Führerschein ab 16.\n2. Nennen Sie Gründe, warum Jugendliche mit 16 schon Auto fahren sollten.\n3. Nennen Sie andere Möglichkeiten für Jugendliche, mobil zu sein.\n4. Nennen Sie Vorteile anderer Mobilitätsarten.",
+          "keywords": ["Meiner Meinung nach", "Führerschein", "16 Jahre", "Mobilität", "ländliche Gebiete", "Unfallrisiko", "öffentliche Verkehrsmittel", "Carsharing", "begleiteter Führerschein", "Umwelt", "Sicherheit", "Verantwortung", "Busverbindungen", "Fahrrad"],
+          "min_matches": 5,
+          "solution_example": "Meiner Meinung nach sollte der Führerschein nicht ab 16 Jahren erteilt werden. Zwar wären Jugendliche in ländlichen Gebieten mobiler, aber das Unfallrisiko ist zu hoch. Bessere Alternativen wären der Ausbau von Bus- und Bahnverbindungen oder Carsharing-Angebote. Diese Optionen sind sicherer und umweltfreundlicher. Außerdem fördern sie die Nutzung öffentlicher Verkehrsmittel und reduzieren den Verkehr.",
+          "feedback_correct": "Gut gemacht! Dein Text enthält die wichtigsten Argumente zum Thema Führerschein ab 16.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'Führerschein', 'Mobilität', 'Unfallrisiko', 'öffentliche Verkehrsmittel' und 'begleiteter Führerschein'."
+        },
+        {
+          "exerciseId": "2",
+          "type": "writing",
+          "aufgabe": "Schreiben Sie einen Forumsbeitrag zum Thema 'Führerschein ab 16 – Pro und Contra' (ca. 60-80 Wörter):\n1. Was ist Ihre Meinung zu dieser Idee?\n2. Welche Vorteile hat der Führerschein ab 16?\n3. Welche Nachteile sehen Sie?\n4. Was wäre Ihrer Meinung nach eine bessere Lösung?",
+          "keywords": ["Ich bin der Meinung", "Führerschein", "16 Jahre", "Vorteile", "Nachteile", "Mobilität", "Unfallrisiko", "begleiteter Führerschein", "Sicherheit", "Erfahrung", "ländliche Gegenden", "öffentliche Verkehrsmittel", "Selbstständigkeit", "Kosten"],
+          "min_matches": 5,
+          "solution_example": "Ich bin der Meinung, dass der Führerschein ab 16 sowohl Vor- als auch Nachteile hat. Ein großer Vorteil wäre die erhöhte Mobilität für Jugendliche auf dem Land. Sie könnten selbstständiger zur Schule oder zur Arbeit fahren. Jedoch muss man auch bedenken, dass das Unfallrisiko bei jungen Fahrern deutlich höher ist. Eine bessere Lösung wäre der begleitete Führerschein, bei dem Jugendliche nur mit einem erfahrenen Fahrer fahren dürfen. So könnte man Sicherheit und Mobilität besser vereinen.",
+          "feedback_correct": "Ausgezeichnet! Du hast die Vor- und Nachteile gut dargestellt.",
+          "feedback_wrong": "Versuche, mehr Begriffe wie 'Führerschein', 'Mobilität', 'Unfallrisiko' und 'begleiteter Führerschein' zu verwenden."
+        },
+        {
+          "exerciseId": "3",
+          "type": "writing",
+          "aufgabe": "Sie haben in der Zeitung einen Artikel über den Führerschein ab 16 gelesen. Schreiben Sie einen Kommentar (ca. 60-80 Wörter):\n1. Was ist Ihre Meinung zu dem Artikel?\n2. Stimmen Sie dem Autor zu oder nicht?\n3. Welche Argumente haben Sie?\n4. Wie könnte man das Problem der Jugendmobilität lösen?",
+          "keywords": ["Artikel", "Führerschein", "16 Jahre", "zustimmen", "Mobilität", "ländliche Gebiete", "öffentliche Verkehrsmittel", "Lösung", "Sicherheit", "begleiteter Führerschein", "Unfallrisiko", "Bus", "Bahn", "umweltfreundlich"],
+          "min_matches": 5,
+          "solution_example": "Ich habe den Artikel gelesen und finde, dass der Autor einige gute Punkte anspricht. Der Autor hat recht, dass Jugendliche auf dem Land auf ein Auto angewiesen sind, aber ich bin anderer Meinung, was die Sicherheit betrifft. Das Unfallrisiko ist einfach zu hoch. Man könnte das Problem der Jugendmobilität durch bessere Busverbindungen und günstige Fahrkarten lösen. Auch der begleitete Führerschein wäre eine sinnvolle Alternative, um die Sicherheit zu erhöhen.",
+          "feedback_correct": "Perfekt! Du hast eine ausgewogene Meinung zum Artikel geäußert.",
+          "feedback_wrong": "Bitte beziehe dich mehr auf den Artikel und verwende Wörter wie 'Führerschein', 'Mobilität', 'Sicherheit' und 'begleiteter Führerschein'."
+        },
+        {
+          "exerciseId": "4",
+          "type": "writing",
+          "aufgabe": "Schreiben Sie einen Leserbrief an die Lokalzeitung zum Thema Führerschein ab 16 (ca. 70-90 Wörter):\n1. Warum schreiben Sie?\n2. Was ist Ihre Meinung zu der aktuellen Diskussion?\n3. Welche Argumente unterstützen Ihre Position?\n4. Was schlagen Sie vor?",
+          "keywords": ["Sehr geehrte Redaktion", "Leserbrief", "Führerschein", "16 Jahre", "Diskussion", "Meiner Meinung nach", "Unfallrisiko", "öffentliche Verkehrsmittel", "vorschlagen", "begleiteter Führerschein", "Mobilität", "Sicherheit", "Jugendliche", "ländliche Gegenden"],
+          "min_matches": 5,
+          "solution_example": "Sehr geehrte Redaktion,\nich schreibe Ihnen, weil ich die aktuelle Diskussion um den Führerschein ab 16 für wichtig halte. Meiner Meinung nach sollte das Alter nicht gesenkt werden, da junge Fahrer ein viel höheres Unfallrisiko haben. Studien belegen dies eindeutig. Ich schlage vor, den Ausbau öffentlicher Verkehrsmittel zu fördern und den begleiteten Führerschein für 16-Jährige einzuführen. So könnten Jugendliche mehr Mobilität gewinnen, ohne die Sicherheit zu gefährden.\n\nMit freundlichen Grüßen\nMax Mustermann",
+          "feedback_correct": "Hervorragend! Dein Leserbrief ist gut strukturiert und überzeugend.",
+          "feedback_wrong": "Achte auf die richtige Anrede und verwende Schlüsselbegriffe wie 'Führerschein', 'Unfallrisiko', 'öffentliche Verkehrsmittel' und 'begleiteter Führerschein'."
+        },
+        {
+          "exerciseId": "5",
+          "type": "writing",
+          "aufgabe": "Ihr Freund möchte mit 16 den Führerschein machen und fragt Sie um Rat. Schreiben Sie eine E-Mail (ca. 50-70 Wörter):\n1. Warum schreiben Sie?\n2. Was ist Ihre Meinung dazu?\n3. Welche Vor- und Nachteile sehen Sie?\n4. Was würden Sie ihm raten?",
+          "keywords": ["Lieber", "schreibe", "Führerschein", "16 Jahre", "Meinung", "Vorteile", "Nachteile", "raten", "begleiteter Führerschein", "Kosten", "Unfallrisiko", "Selbstständigkeit", "Eltern", "Übung"],
+          "min_matches": 5,
+          "solution_example": "Lieber Max,\nich schreibe dir, weil du mich nach meiner Meinung zum Führerschein ab 16 gefragt hast. Ich finde es gut, dass du mobil sein möchtest. Die Vorteile sind, dass du unabhängiger bist und früher Verantwortung lernst. Nachteile sind die hohen Kosten und das Unfallrisiko. Ich würde dir raten, den begleiteten Führerschein zu machen und viel zu üben. So kannst du sicherer werden und sammelst wertvolle Erfahrung.\n\nViele Grüße\nTom",
+          "feedback_correct": "Sehr gut! Du hast eine persönliche und hilfreiche Antwort geschrieben.",
+          "feedback_wrong": "Versuche, mehr über Vor- und Nachteile zu schreiben und verwende Wörter wie 'Führerschein', 'begleiteter Führerschein', 'Kosten' und 'Unfallrisiko'."
+        },
+        {
+          "exerciseId": "6",
+          "type": "writing",
+          "aufgabe": "Schreiben Sie einen Diskussionsbeitrag für ein Schülerforum zum Thema Führerschein ab 16 (ca. 60-80 Wörter):\n1. Was ist Ihre Position zum Führerschein ab 16?\n2. Welche Argumente haben Befürworter?\n3. Welche Argumente haben Gegner?\n4. Was ist Ihr persönliches Fazit?",
+          "keywords": ["Diskussion", "Führerschein", "16 Jahre", "Position", "Befürworter", "Gegner", "Mobilität", "Unfallrisiko", "Fazit", "Sicherheit", "ländliche Gegenden", "begleiteter Führerschein", "Verantwortung", "Umwelt"],
+          "min_matches": 5,
+          "solution_example": "Ich möchte mich an der Diskussion beteiligen. Meine Position ist, dass der Führerschein ab 16 nicht eingeführt werden sollte. Befürworter sagen, dass Jugendliche auf dem Land ein Auto brauchen und so früher Verantwortung lernen. Gegner weisen auf das hohe Unfallrisiko hin und betonen die mangelnde Erfahrung junger Fahrer. Abschließend möchte ich sagen, dass die Sicherheit wichtiger ist als die Mobilität. Bessere Busverbindungen wären die Lösung.",
+          "feedback_correct": "Gut gemacht! Du hast beide Seiten der Diskussion dargestellt.",
+          "feedback_wrong": "Bitte nenne mehr Argumente von Befürwortern und Gegnern. Verwende 'Führerschein', 'Mobilität', 'Unfallrisiko' und 'begleiteter Führerschein'."
+        },
+        {
+          "exerciseId": "7",
+          "type": "writing",
+          "aufgabe": "Schreiben Sie einen Blogbeitrag über Mobilität für Jugendliche (ca. 60-80 Wörter):\n1. Wie sehen Sie die Mobilität von Jugendlichen heute?\n2. Welche Möglichkeiten haben Jugendliche, mobil zu sein?\n3. Was sind die Vor- und Nachteile der verschiedenen Optionen?\n4. Was würden Sie verbessern?",
+          "keywords": ["Blog", "Mobilität", "Jugendliche", "Fahrrad", "Bus", "Bahn", "Auto", "Umwelt", "Verbesserung", "öffentliche Verkehrsmittel", "Kosten", "Flexibilität", "unabhängig", "nachhaltig"],
+          "min_matches": 5,
+          "solution_example": "In meinem Blog möchte ich heute über die Mobilität von Jugendlichen sprechen. Jugendliche haben viele Möglichkeiten, mobil zu sein: Fahrrad, Bus, Bahn oder das Auto der Eltern. Ein interessanter Aspekt ist, dass das Fahrrad umweltfreundlich ist, aber bei schlechtem Wetter unpraktisch. Die öffentlichen Verkehrsmittel sind günstig, aber nicht immer zuverlässig. Ich würde mehr günstige Bustickets für Schüler einführen und die Fahrradinfrastruktur ausbauen, um nachhaltige Mobilität zu fördern.",
+          "feedback_correct": "Ausgezeichnet! Du hast das Thema umfassend behandelt.",
+          "feedback_wrong": "Bitte verwende mehr Begriffe wie 'Mobilität', 'Jugendliche', 'Fahrrad', 'öffentliche Verkehrsmittel' und 'Umwelt'."
+        },
+        {
+          "exerciseId": "8",
+          "type": "writing",
+          "aufgabe": "Schreiben Sie eine Zusammenfassung der wichtigsten Argumente zum Thema Führerschein ab 16 (ca. 50-70 Wörter):\n1. Was sind die Hauptargumente der Befürworter?\n2. Was sind die Hauptargumente der Gegner?\n3. Welche Alternativen gibt es?\n4. Wie ist Ihr persönliches Fazit?",
+          "keywords": ["Zusammenfassung", "Führerschein", "16 Jahre", "Befürworter", "Gegner", "Alternativen", "begleiteter Führerschein", "Fazit", "Mobilität", "Sicherheit", "ländliche Gebiete", "Unfallrisiko"],
+          "min_matches": 5,
+          "solution_example": "Die Diskussion um den Führerschein ab 16 wird kontrovers geführt. Befürworter argumentieren mit der Mobilität auf dem Land und der frühen Verantwortungsübernahme. Gegner weisen auf das hohe Unfallrisiko hin und betonen die mangelnde Erfahrung. Alternativen sind der begleitete Führerschein und bessere öffentliche Verkehrsmittel. Zusammenfassend lässt sich sagen, dass die Sicherheit im Vordergrund stehen sollte, aber Mobilität für Jugendliche wichtig ist. Eine Kombination aus begleitetem Fahren und gutem ÖPNV wäre ideal.",
+          "feedback_correct": "Perfekt! Du hast die wichtigsten Punkte klar zusammengefasst.",
+          "feedback_wrong": "Versuche, die Hauptargumente beider Seiten zusammenzufassen und 'Führerschein', 'Mobilität', 'Sicherheit' und 'begleiteter Führerschein' zu verwenden."
+        }
+      ]
+    },
+    {
+      "sectionId": 2,
+      "sectionName": "AUTOFREIE INNENSTADT",
+      "exercises": [
+        {
+          "exerciseId": "9",
+          "type": "writing",
+          "aufgabe": "Schreiben Sie einen Forumsbeitrag zum Thema 'Autofreie Innenstadt' (ca. 60-80 Wörter):\n1. Äußern Sie Ihre Meinung zur Verkehrssituation in den Innenstädten.\n2. Nennen Sie Gründe, warum der Verkehr verringert werden sollte.\n3. Nennen Sie andere Möglichkeiten gegen zu große Verkehrsbelastung.\n4. Nennen Sie Vorteile anderer Möglichkeiten.",
+          "keywords": ["Innenstadt", "Verkehr", "Staus", "Lärm", "Luftverschmutzung", "autofrei", "Fahrradwege", "Park-and-Ride", "Lebensqualität", "öffentliche Verkehrsmittel", "Fußgänger", "Umwelt", "Abgase", "nachhaltig"],
+          "min_matches": 5,
+          "solution_example": "Die Verkehrssituation in vielen Innenstädten ist katastrophal. Staus, Lärm und Luftverschmutzung sind allgegenwärtig und beeinträchtigen die Lebensqualität der Anwohner. Eine autofreie Innenstadt würde die Situation erheblich verbessern. Alternativen wie der Ausbau von Fahrradwegen und Park-and-Ride-Systemen könnten den Autoverkehr reduzieren. Das würde nicht nur die Umwelt schonen, sondern auch die Attraktivität der Innenstadt für Fußgänger und Touristen steigern. Nachhaltige Mobilität ist der Schlüssel für lebenswerte Städte.",
+          "feedback_correct": "Gut gemacht! Du hast die Probleme und Lösungen gut beschrieben.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'Innenstadt', 'Verkehr', 'autofrei', 'Lebensqualität' und 'öffentliche Verkehrsmittel'."
+        },
+        {
+          "exerciseId": "10",
+          "type": "writing",
+          "aufgabe": "Schreiben Sie einen Forumsbeitrag zum Thema 'Autofreie Innenstadt – Vision oder Utopie?' (ca. 60-80 Wörter):\n1. Was ist Ihre Meinung zur autofreien Innenstadt?\n2. Welche Vorteile hätte eine autofreie Innenstadt?\n3. Welche Nachteile sehen Sie?\n4. Wie könnte man die Umsetzung gestalten?",
+          "keywords": ["autofreie Innenstadt", "Vision", "Vorteile", "Lärm", "Abgase", "Nachteile", "Wirtschaft", "Fußgänger", "Umsetzung", "Radfahrer", "öffentliche Verkehrsmittel", "Park-and-Ride", "schrittweise", "Lebensqualität"],
+          "min_matches": 5,
+          "solution_example": "Ich halte eine autofreie Innenstadt für eine gute Vision, die in vielen europäischen Städten bereits Realität ist. Ein großer Vorteil wäre weniger Lärm und sauberere Luft, was die Lebensqualität deutlich verbessern würde. Nachteile sind die schwierige Erreichbarkeit für Autofahrer und die wirtschaftlichen Einbußen für Geschäfte. Man könnte die Umsetzung schrittweise gestalten, zuerst mit verkehrsberuhigten Zonen und temporären autofreien Tagen. So könnten sich Bürger und Geschäfte langsam an die Veränderung gewöhnen.",
+          "feedback_correct": "Ausgezeichnet! Du hast beide Seiten der Medaille betrachtet.",
+          "feedback_wrong": "Bitte nenne mehr Vor- und Nachteile und verwende 'autofreie Innenstadt', 'Lärm', 'Wirtschaft', 'Lebensqualität' und 'Umsetzung'."
+        },
+        {
+          "exerciseId": "11",
+          "type": "writing",
+          "aufgabe": "Schreiben Sie einen Brief an den Bürgermeister Ihrer Stadt zum Thema Verkehr (ca. 70-90 Wörter):\n1. Warum schreiben Sie?\n2. Was ist Ihre Meinung zur Verkehrssituation?\n3. Welche Vorschläge haben Sie?\n4. Warum sind Ihre Vorschläge gut?",
+          "keywords": ["Sehr geehrter Herr Bürgermeister", "Verkehrssituation", "Innenstadt", "Fahrradwege", "Park-and-Ride", "öffentliche Verkehrsmittel", "Verbesserung", "Lebensqualität", "Umwelt", "Staus", "Luftverschmutzung", "autofrei", "nachhaltig"],
+          "min_matches": 5,
+          "solution_example": "Sehr geehrter Herr Bürgermeister,\nich schreibe Ihnen, weil ich die Verkehrssituation in unserer Stadt für verbesserungswürdig halte. Die Innenstadt ist oft verstopft und die Luft ist stark verschmutzt. Ich schlage vor, mehr Fahrradwege zu bauen und Park-and-Ride-Systeme auszubauen. Zudem sollten wir den öffentlichen Nahverkehr attraktiver gestalten. Diese Maßnahmen würden den Verkehr reduzieren, die Umwelt schonen und die Lebensqualität der Bürger erhöhen.\n\nMit freundlichen Grüßen\nMax Mustermann",
+          "feedback_correct": "Hervorragend! Dein Brief ist gut strukturiert und überzeugend.",
+          "feedback_wrong": "Achte auf die richtige Anrede und verwende Schlüsselbegriffe wie 'Verkehrssituation', 'Fahrradwege', 'öffentliche Verkehrsmittel' und 'Lebensqualität'."
+        },
+        {
+          "exerciseId": "12",
+          "type": "writing",
+          "aufgabe": "Sie haben einen Artikel über Verkehrsbelastung in Innenstädten gelesen. Schreiben Sie einen Leserbrief (ca. 60-80 Wörter):\n1. Warum schreiben Sie?\n2. Stimmen Sie dem Artikel zu?\n3. Welche eigenen Erfahrungen haben Sie?\n4. Was schlagen Sie vor?",
+          "keywords": ["Leserbrief", "Artikel", "Verkehrsbelastung", "Innenstadt", "zustimmen", "Erfahrung", "Parkplatz", "Luftverschmutzung", "autofreie Zonen", "öffentliche Verkehrsmittel", "Lebensqualität", "Staus"],
+          "min_matches": 5,
+          "solution_example": "Ich habe den Artikel mit großem Interesse gelesen. Ich stimme dem Autor voll und ganz zu. Die Verkehrsbelastung in Innenstädten ist ein ernstes Problem, das dringend gelöst werden muss. Meiner Erfahrung nach ist es oft unmöglich, einen Parkplatz zu finden, und die Luft ist schlecht. Meiner Meinung nach sollten wir mehr autofreie Zonen schaffen und den öffentlichen Nahverkehr verbessern, um die Lebensqualität in unseren Städten zu erhöhen.",
+          "feedback_correct": "Gut gemacht! Du hast deine Meinung klar formuliert.",
+          "feedback_wrong": "Bitte beziehe dich mehr auf den Artikel und verwende 'Verkehrsbelastung', 'Innenstadt', 'autofreie Zonen' und 'öffentliche Verkehrsmittel'."
+        },
+        {
+          "exerciseId": "13",
+          "type": "writing",
+          "aufgabe": "In einem Forum schreibt jemand: 'Die autofreie Innenstadt ist eine gute Idee.' Antworten Sie mit einem Kommentar (ca. 50-70 Wörter):\n1. Stimmen Sie zu oder nicht?\n2. Geben Sie Ihre Argumente.\n3. Nennen Sie Beispiele.\n4. Was ist Ihr Fazit?",
+          "keywords": ["autofreie Innenstadt", "zustimmen", "Lebensqualität", "Kopenhagen", "Lieferverkehr", "Vorteile", "Beispiel", "Umwelt", "Fußgänger", "Radfahrer", "öffentliche Verkehrsmittel", "nachhaltig"],
+          "min_matches": 4,
+          "solution_example": "Ich stimme dir voll und ganz zu. Eine autofreie Innenstadt würde die Lebensqualität enorm verbessern und die Umwelt schonen. In Städten wie Kopenhagen und Amsterdam funktioniert es bereits hervorragend. Allerdings muss man auch bedenken, dass Geschäfte Lieferverkehr benötigen, der gut organisiert werden muss. Trotzdem bin ich überzeugt, dass die Vorteile wie saubere Luft und mehr Platz für Fußgänger und Radfahrer überwiegen.",
+          "feedback_correct": "Ausgezeichnet! Du hast überzeugend argumentiert.",
+          "feedback_wrong": "Versuche, mehr Argumente für die autofreie Innenstadt zu nennen und Beispiele wie Kopenhagen zu geben."
+        },
+        {
+          "exerciseId": "14",
+          "type": "writing",
+          "aufgabe": "Schreiben Sie einen Bericht über die Verkehrssituation in Ihrer Stadt (ca. 60-80 Wörter):\n1. Wie ist die Verkehrssituation?\n2. Welche Probleme gibt es?\n3. Was könnte man verbessern?\n4. Was sind Ihre Vorschläge?",
+          "keywords": ["Verkehrssituation", "Stadt", "Staus", "Berufsverkehr", "Luftverschmutzung", "Parkplatzsuche", "öffentliche Verkehrsmittel", "Fahrradwege", "Park-and-Ride", "Verbesserung", "Umwelt", "Lebensqualität"],
+          "min_matches": 5,
+          "solution_example": "Die Verkehrssituation in meiner Stadt ist angespannt. Ein großes Problem ist der Berufsverkehr, der täglich zu langen Staus führt. Die Luftverschmutzung ist hoch und die Parkplatzsuche ist in der Innenstadt fast unmöglich. Man könnte die Situation verbessern, indem man mehr Fahrradwege baut, den öffentlichen Nahverkehr attraktiver gestaltet und Park-and-Ride-Angebote ausbaut. Ich schlage vor, die Parkgebühren zu erhöhen und gleichzeitig die Bus- und Bahntickets zu verbilligen.",
+          "feedback_correct": "Gut gemacht! Du hast die Probleme und Lösungen klar dargestellt.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'Verkehrssituation', 'Staus', 'öffentliche Verkehrsmittel' und 'Fahrradwege'."
+        },
+        {
+          "exerciseId": "15",
+          "type": "writing",
+          "aufgabe": "Schreiben Sie einen Blogbeitrag über nachhaltige Mobilität in Städten (ca. 60-80 Wörter):\n1. Warum ist nachhaltige Mobilität wichtig?\n2. Welche Maßnahmen gibt es bereits?\n3. Was könnte man noch tun?\n4. Was ist Ihre Meinung?",
+          "keywords": ["Blog", "nachhaltige Mobilität", "Städte", "Umwelt", "Fahrradverleih", "Elektrobusse", "autofreie Zonen", "öffentliche Verkehrsmittel", "Klimaschutz", "Lebensqualität", "Verkehrswende"],
+          "min_matches": 5,
+          "solution_example": "Nachhaltige Mobilität ist ein zentrales Thema für die Zukunft unserer Städte. Es gibt bereits Maßnahmen wie Fahrradverleihsysteme, Elektrobusse und Carsharing-Angebote. Ich bin der Meinung, dass wir mehr autofreie Zonen schaffen und den öffentlichen Nahverkehr ausbauen sollten. Jeder sollte überlegen, ob er wirklich mit dem Auto fahren muss. Das Bewusstsein für nachhaltige Mobilität muss gestärkt werden, um den Klimaschutz voranzutreiben und die Lebensqualität in den Städten zu verbessern.",
+          "feedback_correct": "Hervorragend! Du hast das Thema umfassend behandelt.",
+          "feedback_wrong": "Bitte verwende mehr Begriffe wie 'nachhaltige Mobilität', 'autofreie Zonen', 'öffentliche Verkehrsmittel' und 'Klimaschutz'."
+        },
+        {
+          "exerciseId": "16",
+          "type": "writing",
+          "aufgabe": "Schreiben Sie einen Vorschlag für die Stadtverwaltung zur Verbesserung der Verkehrssituation (ca. 70-90 Wörter):\n1. Was ist das Problem?\n2. Welche Lösungen schlagen Sie vor?\n3. Warum sind Ihre Vorschläge sinnvoll?\n4. Was würden Sie sich wünschen?",
+          "keywords": ["Sehr geehrte Damen und Herren", "Verkehrsproblem", "autofreie Sonntage", "Fahrradinfrastruktur", "öffentlicher Nahverkehr", "Umwelt", "Lebensqualität", "Park-and-Ride", "nachhaltig", "Verkehrspolitik"],
+          "min_matches": 5,
+          "solution_example": "Sehr geehrte Damen und Herren,\ndas Verkehrsproblem in unserer Stadt wird immer größer. Ich möchte folgende Vorschläge machen: Einführung von autofreien Sonntagen, Ausbau der Fahrradinfrastruktur und Verbesserung des öffentlichen Nahverkehrs. Diese Maßnahmen würden die Umwelt entlasten, die Lebensqualität steigern und die Innenstadt attraktiver machen. Ich wünsche mir eine mutige Verkehrspolitik, die den Bürger in den Mittelpunkt stellt und nachhaltige Mobilität fördert.\n\nMit freundlichen Grüßen\nMax Mustermann",
+          "feedback_correct": "Ausgezeichnet! Dein Vorschlag ist gut durchdacht und überzeugend.",
+          "feedback_wrong": "Achte auf die richtige Anrede und verwende Schlüsselbegriffe wie 'Verkehrsproblem', 'autofreie Sonntage', 'öffentlicher Nahverkehr' und 'Lebensqualität'."
+        }
+      ]
+    }
+  ]
+}

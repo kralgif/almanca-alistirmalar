@@ -1,0 +1,1628 @@
+[
+  {
+    "Almanca": "die Studiengebühren",
+    "Türkçe": "öğrenim ücretleri",
+    "Artikel": "die",
+    "Konu": "Eğitim Sistemleri"
+  },
+  {
+    "Almanca": "das Stipendium",
+    "Türkçe": "burs",
+    "Artikel": "das",
+    "Konu": "Eğitim Sistemleri"
+  },
+  {
+    "Almanca": "die Chancengleichheit",
+    "Türkçe": "fırsat eşitliği",
+    "Artikel": "die",
+    "Konu": "Toplumsal Değişimler"
+  },
+  {
+    "Almanca": "die Studienfinanzierung",
+    "Türkçe": "öğrenim finansmanı",
+    "Artikel": "die",
+    "Konu": "Eğitim Sistemleri"
+  },
+  {
+    "Almanca": "der Studienkredit",
+    "Türkçe": "öğrenim kredisi",
+    "Artikel": "der",
+    "Konu": "Eğitim Sistemleri"
+  },
+  {
+    "Almanca": "das BAföG",
+    "Türkçe": "Almanya'da öğrenci bursu/kredisi",
+    "Artikel": "das",
+    "Konu": "Eğitim Sistemleri"
+  },
+  {
+    "Almanca": "die Lehrveranstaltung",
+    "Türkçe": "ders (üniversite)",
+    "Artikel": "die",
+    "Konu": "Eğitim Sistemleri"
+  },
+  {
+    "Almanca": "die Vorlesung",
+    "Türkçe": "konferans dersi",
+    "Artikel": "die",
+    "Konu": "Eğitim Sistemleri"
+  },
+  {
+    "Almanca": "das Seminar",
+    "Türkçe": "seminer",
+    "Artikel": "das",
+    "Konu": "Eğitim Sistemleri"
+  },
+  {
+    "Almanca": "die Dozentin",
+    "Türkçe": "öğretim görevlisi (kadın)",
+    "Artikel": "die",
+    "Konu": "Eğitim Sistemleri"
+  },
+  {
+    "Almanca": "der Dozent",
+    "Türkçe": "öğretim görevlisi (erkek)",
+    "Artikel": "der",
+    "Konu": "Eğitim Sistemleri"
+  },
+  {
+    "Almanca": "die Hausaufgabenbenotung",
+    "Türkçe": "ödev notlandırması",
+    "Artikel": "die",
+    "Konu": "Eğitim Sistemleri"
+  },
+  {
+    "Almanca": "die Leistungsbewertung",
+    "Türkçe": "performans değerlendirmesi",
+    "Artikel": "die",
+    "Konu": "Eğitim Sistemleri"
+  },
+  {
+    "Almanca": "die Medienkompetenz",
+    "Türkçe": "medya okuryazarlığı",
+    "Artikel": "die",
+    "Konu": "Medya ve Teknoloji"
+  },
+  {
+    "Almanca": "die Bildschirmzeit",
+    "Türkçe": "ekran süresi",
+    "Artikel": "die",
+    "Konu": "Medya ve Teknoloji"
+  },
+  {
+    "Almanca": "die Lernapp",
+    "Türkçe": "öğrenme uygulaması",
+    "Artikel": "die",
+    "Konu": "Medya ve Teknoloji"
+  },
+  {
+    "Almanca": "die Fremdsprachenkenntnisse",
+    "Türkçe": "yabancı dil bilgisi",
+    "Artikel": "die",
+    "Konu": "Eğitim Sistemleri"
+  },
+  {
+    "Almanca": "die Sprachreise",
+    "Türkçe": "dil seyahati",
+    "Artikel": "die",
+    "Konu": "Eğitim Sistemleri"
+  },
+  {
+    "Almanca": "das Sprachtandem",
+    "Türkçe": "dil eşleşmesi (karşılıklı öğrenme)",
+    "Artikel": "das",
+    "Konu": "Eğitim Sistemleri"
+  },
+  {
+    "Almanca": "die Sprachschule",
+    "Türkçe": "dil okulu",
+    "Artikel": "die",
+    "Konu": "Eğitim Sistemleri"
+  },
+  {
+    "Almanca": "die Software",
+    "Türkçe": "yazılım",
+    "Artikel": "die",
+    "Konu": "Medya ve Teknoloji"
+  },
+  {
+    "Almanca": "die Hardware",
+    "Türkçe": "donanım",
+    "Artikel": "die",
+    "Konu": "Medya ve Teknoloji"
+  },
+  {
+    "Almanca": "die Plastikverpackung",
+    "Türkçe": "plastik ambalaj",
+    "Artikel": "die",
+    "Konu": "Çevre ve Doğa"
+  },
+  {
+    "Almanca": "der Plastikmüll",
+    "Türkçe": "plastik çöp",
+    "Artikel": "der",
+    "Konu": "Çevre ve Doğa"
+  },
+  {
+    "Almanca": "die Einwegplastik",
+    "Türkçe": "tek kullanımlık plastik",
+    "Artikel": "die",
+    "Konu": "Çevre ve Doğa"
+  },
+  {
+    "Almanca": "die Verpackungsindustrie",
+    "Türkçe": "ambalaj endüstrisi",
+    "Artikel": "die",
+    "Konu": "Çevre ve Doğa"
+  },
+  {
+    "Almanca": "das Mehrwegsystem",
+    "Türkçe": "yeniden kullanım sistemi",
+    "Artikel": "das",
+    "Konu": "Çevre ve Doğa"
+  },
+  {
+    "Almanca": "die Papiertüte",
+    "Türkçe": "kağıt torba",
+    "Artikel": "die",
+    "Konu": "Çevre ve Doğa"
+  },
+  {
+    "Almanca": "die Stofftasche",
+    "Türkçe": "bez çanta",
+    "Artikel": "die",
+    "Konu": "Çevre ve Doğa"
+  },
+  {
+    "Almanca": "die Umweltverschmutzung",
+    "Türkçe": "çevre kirliliği",
+    "Artikel": "die",
+    "Konu": "Çevre ve Doğa"
+  },
+  {
+    "Almanca": "die Mülltrennung",
+    "Türkçe": "çöp ayrıştırma",
+    "Artikel": "die",
+    "Konu": "Çevre ve Doğa"
+  },
+  {
+    "Almanca": "die Bioabfälle",
+    "Türkçe": "organik atıklar",
+    "Artikel": "die",
+    "Konu": "Çevre ve Doğa"
+  },
+  {
+    "Almanca": "der Klimawandel",
+    "Türkçe": "iklim değişikliği",
+    "Artikel": "der",
+    "Konu": "Çevre ve Doğa"
+  },
+  {
+    "Almanca": "die Erderwärmung",
+    "Türkçe": "küresel ısınma",
+    "Artikel": "die",
+    "Konu": "Çevre ve Doğa"
+  },
+  {
+    "Almanca": "die Treibhausgase",
+    "Türkçe": "sera gazları",
+    "Artikel": "die",
+    "Konu": "Çevre ve Doğa"
+  },
+  {
+    "Almanca": "der CO2-Ausstoß",
+    "Türkçe": "karbondioksit salınımı",
+    "Artikel": "der",
+    "Konu": "Çevre ve Doğa"
+  },
+  {
+    "Almanca": "die Verkehrsbelastung",
+    "Türkçe": "trafik yükü",
+    "Artikel": "die",
+    "Konu": "Ulaşım"
+  },
+  {
+    "Almanca": "der Verkehrsinfarkt",
+    "Türkçe": "trafik felci",
+    "Artikel": "der",
+    "Konu": "Ulaşım"
+  },
+  {
+    "Almanca": "die Fußgängerzone",
+    "Türkçe": "yaya bölgesi",
+    "Artikel": "die",
+    "Konu": "Ulaşım"
+  },
+  {
+    "Almanca": "die Fahrradstraße",
+    "Türkçe": "bisiklet yolu",
+    "Artikel": "die",
+    "Konu": "Ulaşım"
+  },
+  {
+    "Almanca": "der Fahrradverleih",
+    "Türkçe": "bisiklet kiralama",
+    "Artikel": "der",
+    "Konu": "Ulaşım"
+  },
+  {
+    "Almanca": "das E-Auto",
+    "Türkçe": "elektrikli araba",
+    "Artikel": "das",
+    "Konu": "Ulaşım"
+  },
+  {
+    "Almanca": "die Ladesäule",
+    "Türkçe": "şarj istasyonu",
+    "Artikel": "die",
+    "Konu": "Ulaşım"
+  },
+  {
+    "Almanca": "der öffentliche Nahverkehr",
+    "Türkçe": "toplu taşıma",
+    "Artikel": "der",
+    "Konu": "Ulaşım"
+  },
+  {
+    "Almanca": "das Monatsticket",
+    "Türkçe": "aylık bilet",
+    "Artikel": "das",
+    "Konu": "Ulaşım"
+  },
+  {
+    "Almanca": "die Bahncard",
+    "Türkçe": "tren indirim kartı",
+    "Artikel": "die",
+    "Konu": "Ulaşım"
+  },
+  {
+    "Almanca": "der Flugverkehr",
+    "Türkçe": "hava trafiği",
+    "Artikel": "der",
+    "Konu": "Ulaşım"
+  },
+  {
+    "Almanca": "die Billigfluglinie",
+    "Türkçe": "ucuz havayolu",
+    "Artikel": "die",
+    "Konu": "Ulaşım"
+  },
+  {
+    "Almanca": "der Low-Cost-Carrier",
+    "Türkçe": "düşük maliyetli havayolu",
+    "Artikel": "der",
+    "Konu": "Ulaşım"
+  },
+  {
+    "Almanca": "die Umweltsteuer",
+    "Türkçe": "çevre vergisi",
+    "Artikel": "die",
+    "Konu": "Çevre ve Doğa"
+  },
+  {
+    "Almanca": "die Kerosinsteuer",
+    "Türkçe": "uçak yakıtı vergisi",
+    "Artikel": "die",
+    "Konu": "Çevre ve Doğa"
+  },
+  {
+    "Almanca": "die Flugscham",
+    "Türkçe": "uçakla seyahat etme utancı",
+    "Artikel": "die",
+    "Konu": "Çevre ve Doğa"
+  },
+  {
+    "Almanca": "der Zugverkehr",
+    "Türkçe": "tren trafiği",
+    "Artikel": "der",
+    "Konu": "Ulaşım"
+  },
+  {
+    "Almanca": "die Fernreise",
+    "Türkçe": "uzak mesafe seyahat",
+    "Artikel": "die",
+    "Konu": "Ulaşım"
+  },
+  {
+    "Almanca": "der Urlaubsort",
+    "Türkçe": "tatil yeri",
+    "Artikel": "der",
+    "Konu": "Ulaşım"
+  },
+  {
+    "Almanca": "die vegetarische Ernährung",
+    "Türkçe": "vejetaryen beslenme",
+    "Artikel": "die",
+    "Konu": "Sağlık ve Beslenme"
+  },
+  {
+    "Almanca": "die vegane Ernährung",
+    "Türkçe": "vegan beslenme",
+    "Artikel": "die",
+    "Konu": "Sağlık ve Beslenme"
+  },
+  {
+    "Almanca": "die fleischreiche Ernährung",
+    "Türkçe": "et ağırlıklı beslenme",
+    "Artikel": "die",
+    "Konu": "Sağlık ve Beslenme"
+  },
+  {
+    "Almanca": "der Fleischkonsum",
+    "Türkçe": "et tüketimi",
+    "Artikel": "der",
+    "Konu": "Sağlık ve Beslenme"
+  },
+  {
+    "Almanca": "der Tierwohl",
+    "Türkçe": "hayvan refahı",
+    "Artikel": "der",
+    "Konu": "Sağlık ve Beslenme"
+  },
+  {
+    "Almanca": "die Massentierhaltung",
+    "Türkçe": "endüstriyel hayvan yetiştiriciliği",
+    "Artikel": "die",
+    "Konu": "Çevre ve Doğa"
+  },
+  {
+    "Almanca": "die Bio-Qualität",
+    "Türkçe": "organik kalite",
+    "Artikel": "die",
+    "Konu": "Sağlık ve Beslenme"
+  },
+  {
+    "Almanca": "das regionale Produkt",
+    "Türkçe": "yerel ürün",
+    "Artikel": "das",
+    "Konu": "Sağlık ve Beslenme"
+  },
+  {
+    "Almanca": "die Saisonware",
+    "Türkçe": "mevsimlik ürün",
+    "Artikel": "die",
+    "Konu": "Sağlık ve Beslenme"
+  },
+  {
+    "Almanca": "die Lebensmittelverschwendung",
+    "Türkçe": "gıda israfı",
+    "Artikel": "die",
+    "Konu": "Sağlık ve Beslenme"
+  },
+  {
+    "Almanca": "das Mindesthaltbarkeitsdatum",
+    "Türkçe": "son tüketim tarihi",
+    "Artikel": "das",
+    "Konu": "Sağlık ve Beslenme"
+  },
+  {
+    "Almanca": "die Nahrungsmittelindustrie",
+    "Türkçe": "gıda endüstrisi",
+    "Artikel": "die",
+    "Konu": "Sağlık ve Beslenme"
+  },
+  {
+    "Almanca": "die ausgewogene Ernährung",
+    "Türkçe": "dengeli beslenme",
+    "Artikel": "die",
+    "Konu": "Sağlık ve Beslenme"
+  },
+  {
+    "Almanca": "die Mangelernährung",
+    "Türkçe": "yetersiz beslenme",
+    "Artikel": "die",
+    "Konu": "Sağlık ve Beslenme"
+  },
+  {
+    "Almanca": "die Übergewicht",
+    "Türkçe": "aşırı kilo",
+    "Artikel": "die",
+    "Konu": "Sağlık ve Beslenme"
+  },
+  {
+    "Almanca": "die Fettleibigkeit",
+    "Türkçe": "obezite",
+    "Artikel": "die",
+    "Konu": "Sağlık ve Beslenme"
+  },
+  {
+    "Almanca": "die Bewegung",
+    "Türkçe": "hareket, egzersiz",
+    "Artikel": "die",
+    "Konu": "Sağlık ve Beslenme"
+  },
+  {
+    "Almanca": "die Sportart",
+    "Türkçe": "spor dalı",
+    "Artikel": "die",
+    "Konu": "Sağlık ve Beslenme"
+  },
+  {
+    "Almanca": "der Ausdauersport",
+    "Türkçe": "dayanıklılık sporu",
+    "Artikel": "der",
+    "Konu": "Sağlık ve Beslenme"
+  },
+  {
+    "Almanca": "das Fitnesstraining",
+    "Türkçe": "fitness antrenmanı",
+    "Artikel": "das",
+    "Konu": "Sağlık ve Beslenme"
+  },
+  {
+    "Almanca": "die Arbeitsüberlastung",
+    "Türkçe": "iş yükü fazlalığı",
+    "Artikel": "die",
+    "Konu": "İş Dünyası ve Eğitim"
+  },
+  {
+    "Almanca": "der Arbeitsstress",
+    "Türkçe": "iş stresi",
+    "Artikel": "der",
+    "Konu": "İş Dünyası ve Eğitim"
+  },
+  {
+    "Almanca": "die Überstunden",
+    "Türkçe": "fazla mesai",
+    "Artikel": "die",
+    "Konu": "İş Dünyası ve Eğitim"
+  },
+  {
+    "Almanca": "die Arbeitsbelastung",
+    "Türkçe": "iş yükü",
+    "Artikel": "die",
+    "Konu": "İş Dünyası ve Eğitim"
+  },
+  {
+    "Almanca": "die Gehaltsabrechnung",
+    "Türkçe": "maaş bordrosu",
+    "Artikel": "die",
+    "Konu": "İş Dünyası ve Eğitim"
+  },
+  {
+    "Almanca": "der Lohn",
+    "Türkçe": "ücret, maaş",
+    "Artikel": "der",
+    "Konu": "İş Dünyası ve Eğitim"
+  },
+  {
+    "Almanca": "die Vergütung",
+    "Türkçe": "ödeme, ücret",
+    "Artikel": "die",
+    "Konu": "İş Dünyası ve Eğitim"
+  },
+  {
+    "Almanca": "die Bestellung",
+    "Türkçe": "sipariş",
+    "Artikel": "die",
+    "Konu": "İş Dünyası ve Eğitim"
+  },
+  {
+    "Almanca": "die Auftragsbestätigung",
+    "Türkçe": "sipariş onayı",
+    "Artikel": "die",
+    "Konu": "İş Dünyası ve Eğitim"
+  },
+  {
+    "Almanca": "die Einladungsmail",
+    "Türkçe": "davet e-postası",
+    "Artikel": "die",
+    "Konu": "İş Dünyası ve Eğitim"
+  },
+  {
+    "Almanca": "die Sitzung",
+    "Türkçe": "toplantı",
+    "Artikel": "die",
+    "Konu": "İş Dünyası ve Eğitim"
+  },
+  {
+    "Almanca": "die Mahnung",
+    "Türkçe": "ihtar, uyarı",
+    "Artikel": "die",
+    "Konu": "İş Dünyası ve Eğitim"
+  },
+  {
+    "Almanca": "die Abmahnung",
+    "Türkçe": "resmi uyarı, ihtar",
+    "Artikel": "die",
+    "Konu": "İş Dünyası ve Eğitim"
+  },
+  {
+    "Almanca": "die Vorgesetzte",
+    "Türkçe": "amir (kadın)",
+    "Artikel": "die",
+    "Konu": "İş Dünyası ve Eğitim"
+  },
+  {
+    "Almanca": "der Vorgesetzte",
+    "Türkçe": "amir (erkek)",
+    "Artikel": "der",
+    "Konu": "İş Dünyası ve Eğitim"
+  },
+  {
+    "Almanca": "die Chefin",
+    "Türkçe": "patron (kadın)",
+    "Artikel": "die",
+    "Konu": "İş Dünyası ve Eğitim"
+  },
+  {
+    "Almanca": "der Chef",
+    "Türkçe": "patron (erkek)",
+    "Artikel": "der",
+    "Konu": "İş Dünyası ve Eğitim"
+  },
+  {
+    "Almanca": "das Praktikum",
+    "Türkçe": "staj",
+    "Artikel": "das",
+    "Konu": "İş Dünyası ve Eğitim"
+  },
+  {
+    "Almanca": "die Praktikantin",
+    "Türkçe": "stajyer (kadın)",
+    "Artikel": "die",
+    "Konu": "İş Dünyası ve Eğitim"
+  },
+  {
+    "Almanca": "der Praktikant",
+    "Türkçe": "stajyer (erkek)",
+    "Artikel": "der",
+    "Konu": "İş Dünyası ve Eğitim"
+  },
+  {
+    "Almanca": "die Aushilfe",
+    "Türkçe": "yardımcı, geçici işçi",
+    "Artikel": "die",
+    "Konu": "İş Dünyası ve Eğitim"
+  },
+  {
+    "Almanca": "der Job",
+    "Türkçe": "iş",
+    "Artikel": "der",
+    "Konu": "İş Dünyası ve Eğitim"
+  },
+  {
+    "Almanca": "die Selbstständigkeit",
+    "Türkçe": "bağımsız çalışma, serbestlik",
+    "Artikel": "die",
+    "Konu": "İş Dünyası ve Eğitim"
+  },
+  {
+    "Almanca": "der Freiberufler",
+    "Türkçe": "serbest meslek sahibi",
+    "Artikel": "der",
+    "Konu": "İş Dünyası ve Eğitim"
+  },
+  {
+    "Almanca": "die Festanstellung",
+    "Türkçe": "sürekli iş, kadrolu iş",
+    "Artikel": "die",
+    "Konu": "İş Dünyası ve Eğitim"
+  },
+  {
+    "Almanca": "die Teilzeitarbeit",
+    "Türkçe": "yarı zamanlı çalışma",
+    "Artikel": "die",
+    "Konu": "İş Dünyası ve Eğitim"
+  },
+  {
+    "Almanca": "die Vollzeitarbeit",
+    "Türkçe": "tam zamanlı çalışma",
+    "Artikel": "die",
+    "Konu": "İş Dünyası ve Eğitim"
+  },
+  {
+    "Almanca": "das Homeoffice",
+    "Türkçe": "evden çalışma",
+    "Artikel": "das",
+    "Konu": "İş Dünyası ve Eğitim"
+  },
+  {
+    "Almanca": "die Work-Life-Balance",
+    "Türkçe": "iş-yaşam dengesi",
+    "Artikel": "die",
+    "Konu": "İş Dünyası ve Eğitim"
+  },
+  {
+    "Almanca": "die Elternzeit",
+    "Türkçe": "ebeveyn izni",
+    "Artikel": "die",
+    "Konu": "İş Dünyası ve Eğitim"
+  },
+  {
+    "Almanca": "die Geschlechtergleichstellung",
+    "Türkçe": "cinsiyet eşitliği",
+    "Artikel": "die",
+    "Konu": "Toplumsal Değişimler"
+  },
+  {
+    "Almanca": "die Gleichberechtigung",
+    "Türkçe": "eşit haklar",
+    "Artikel": "die",
+    "Konu": "Toplumsal Değişimler"
+  },
+  {
+    "Almanca": "die Diskriminierung",
+    "Türkçe": "ayrımcılık",
+    "Artikel": "die",
+    "Konu": "Toplumsal Değişimler"
+  },
+  {
+    "Almanca": "die Integration",
+    "Türkçe": "entegrasyon, kaynaşma",
+    "Artikel": "die",
+    "Konu": "Toplumsal Değişimler"
+  },
+  {
+    "Almanca": "die Zuwanderung",
+    "Türkçe": "göç, göçmen alımı",
+    "Artikel": "die",
+    "Konu": "Toplumsal Değişimler"
+  },
+  {
+    "Almanca": "die Auswanderung",
+    "Türkçe": "dış göç",
+    "Artikel": "die",
+    "Konu": "Toplumsal Değişimler"
+  },
+  {
+    "Almanca": "der Migrationshintergrund",
+    "Türkçe": "göçmen kökeni",
+    "Artikel": "der",
+    "Konu": "Toplumsal Değişimler"
+  },
+  {
+    "Almanca": "die Alterspflege",
+    "Türkçe": "yaşlı bakımı",
+    "Artikel": "die",
+    "Konu": "Toplumsal Değişimler"
+  },
+  {
+    "Almanca": "die Seniorenbetreuung",
+    "Türkçe": "yaşlı bakım hizmeti",
+    "Artikel": "die",
+    "Konu": "Toplumsal Değişimler"
+  },
+  {
+    "Almanca": "das Pflegeheim",
+    "Türkçe": "huzurevi, bakımevi",
+    "Artikel": "das",
+    "Konu": "Toplumsal Değişimler"
+  },
+  {
+    "Almanca": "die Demenz",
+    "Türkçe": "demans, bunama",
+    "Artikel": "die",
+    "Konu": "Sağlık ve Beslenme"
+  },
+  {
+    "Almanca": "die ehrenamtliche Arbeit",
+    "Türkçe": "gönüllü çalışma",
+    "Artikel": "die",
+    "Konu": "Toplumsal Değişimler"
+  },
+  {
+    "Almanca": "das Freiwillige Soziale Jahr",
+    "Türkçe": "gönüllü sosyal hizmet yılı",
+    "Artikel": "das",
+    "Konu": "Toplumsal Değişimler"
+  },
+  {
+    "Almanca": "die Spende",
+    "Türkçe": "bağış",
+    "Artikel": "die",
+    "Konu": "Toplumsal Değişimler"
+  },
+  {
+    "Almanca": "die Wohltätigkeit",
+    "Türkçe": "hayır işleri",
+    "Artikel": "die",
+    "Konu": "Toplumsal Değişimler"
+  },
+  {
+    "Almanca": "das Ehrenamt",
+    "Türkçe": "gönüllü görev",
+    "Artikel": "das",
+    "Konu": "Toplumsal Değişimler"
+  },
+  {
+    "Almanca": "der Verein",
+    "Türkçe": "dernek",
+    "Artikel": "der",
+    "Konu": "Toplumsal Değişimler"
+  },
+  {
+    "Almanca": "die Mitgliedschaft",
+    "Türkçe": "üyelik",
+    "Artikel": "die",
+    "Konu": "Toplumsal Değişimler"
+  },
+  {
+    "Almanca": "das Engagement",
+    "Türkçe": "katılım, bağlılık",
+    "Artikel": "das",
+    "Konu": "Toplumsal Değişimler"
+  },
+  {
+    "Almanca": "die Solidarität",
+    "Türkçe": "dayanışma",
+    "Artikel": "die",
+    "Konu": "Toplumsal Değişimler"
+  },
+  {
+    "Almanca": "die Toleranz",
+    "Türkçe": "hoşgörü",
+    "Artikel": "die",
+    "Konu": "Toplumsal Değişimler"
+  },
+  {
+    "Almanca": "die Vorurteile",
+    "Türkçe": "önyargılar",
+    "Artikel": "die",
+    "Konu": "Toplumsal Değişimler"
+  },
+  {
+    "Almanca": "die Akzeptanz",
+    "Türkçe": "kabul görme",
+    "Artikel": "die",
+    "Konu": "Toplumsal Değişimler"
+  },
+  {
+    "Almanca": "die Vielfalt",
+    "Türkçe": "çeşitlilik",
+    "Artikel": "die",
+    "Konu": "Toplumsal Değişimler"
+  },
+  {
+    "Almanca": "der Lebensstandard",
+    "Türkçe": "yaşam standardı",
+    "Artikel": "der",
+    "Konu": "Toplumsal Değişimler"
+  },
+  {
+    "Almanca": "die soziale Ungleichheit",
+    "Türkçe": "sosyal eşitsizlik",
+    "Artikel": "die",
+    "Konu": "Toplumsal Değişimler"
+  },
+  {
+    "Almanca": "die Armut",
+    "Türkçe": "yoksulluk",
+    "Artikel": "die",
+    "Konu": "Toplumsal Değişimler"
+  },
+  {
+    "Almanca": "der Wohlstand",
+    "Türkçe": "refah",
+    "Artikel": "der",
+    "Konu": "Toplumsal Değişimler"
+  },
+  {
+    "Almanca": "die Globalisierung",
+    "Türkçe": "küreselleşme",
+    "Artikel": "die",
+    "Konu": "Küreselleşme ve Tüketim"
+  },
+  {
+    "Almanca": "der Onlinehandel",
+    "Türkçe": "çevrimiçi ticaret",
+    "Artikel": "der",
+    "Konu": "Küreselleşme ve Tüketim"
+  },
+  {
+    "Almanca": "der Einzelhandel",
+    "Türkçe": "perakende ticaret",
+    "Artikel": "der",
+    "Konu": "Küreselleşme ve Tüketim"
+  },
+  {
+    "Almanca": "das Ladengeschäft",
+    "Türkçe": "mağaza, dükkan",
+    "Artikel": "das",
+    "Konu": "Küreselleşme ve Tüketim"
+  },
+  {
+    "Almanca": "das Konsumverhalten",
+    "Türkçe": "tüketim davranışı",
+    "Artikel": "das",
+    "Konu": "Küreselleşme ve Tüketim"
+  },
+  {
+    "Almanca": "die Wegwerfgesellschaft",
+    "Türkçe": "atık toplumu",
+    "Artikel": "die",
+    "Konu": "Küreselleşme ve Tüketim"
+  },
+  {
+    "Almanca": "der bewusste Konsum",
+    "Türkçe": "bilinçli tüketim",
+    "Artikel": "der",
+    "Konu": "Küreselleşme ve Tüketim"
+  },
+  {
+    "Almanca": "die Werbung",
+    "Türkçe": "reklam",
+    "Artikel": "die",
+    "Konu": "Küreselleşme ve Tüketim"
+  },
+  {
+    "Almanca": "die Marke",
+    "Türkçe": "marka",
+    "Artikel": "die",
+    "Konu": "Küreselleşme ve Tüketim"
+  },
+  {
+    "Almanca": "das Markenprodukt",
+    "Türkçe": "markalı ürün",
+    "Artikel": "das",
+    "Konu": "Küreselleşme ve Tüketim"
+  },
+  {
+    "Almanca": "das Billigprodukt",
+    "Türkçe": "ucuz ürün",
+    "Artikel": "das",
+    "Konu": "Küreselleşme ve Tüketim"
+  },
+  {
+    "Almanca": "die Preisentwicklung",
+    "Türkçe": "fiyat gelişimi",
+    "Artikel": "die",
+    "Konu": "Küreselleşme ve Tüketim"
+  },
+  {
+    "Almanca": "das Einkaufszentrum",
+    "Türkçe": "alışveriş merkezi",
+    "Artikel": "das",
+    "Konu": "Küreselleşme ve Tüketim"
+  },
+  {
+    "Almanca": "das Online-Shopping",
+    "Türkçe": "çevrimiçi alışveriş",
+    "Artikel": "das",
+    "Konu": "Küreselleşme ve Tüketim"
+  },
+  {
+    "Almanca": "der Lieferservice",
+    "Türkçe": "teslimat hizmeti",
+    "Artikel": "der",
+    "Konu": "Küreselleşme ve Tüketim"
+  },
+  {
+    "Almanca": "die Lieferung",
+    "Türkçe": "teslimat",
+    "Artikel": "die",
+    "Konu": "Küreselleşme ve Tüketim"
+  },
+  {
+    "Almanca": "die Rücksendung",
+    "Türkçe": "iade",
+    "Artikel": "die",
+    "Konu": "Küreselleşme ve Tüketim"
+  },
+  {
+    "Almanca": "das Umtauschrecht",
+    "Türkçe": "değişim hakkı",
+    "Artikel": "das",
+    "Konu": "Küreselleşme ve Tüketim"
+  },
+  {
+    "Almanca": "die Garantie",
+    "Türkçe": "garanti",
+    "Artikel": "die",
+    "Konu": "Küreselleşme ve Tüketim"
+  },
+  {
+    "Almanca": "die Kundenbewertung",
+    "Türkçe": "müşteri değerlendirmesi",
+    "Artikel": "die",
+    "Konu": "Küreselleşme ve Tüketim"
+  },
+  {
+    "Almanca": "die Meinungsfreiheit",
+    "Türkçe": "ifade özgürlüğü",
+    "Artikel": "die",
+    "Konu": "Toplumsal Değişimler"
+  },
+  {
+    "Almanca": "die Pressefreiheit",
+    "Türkçe": "basın özgürlüğü",
+    "Artikel": "die",
+    "Konu": "Toplumsal Değişimler"
+  },
+  {
+    "Almanca": "die Datenschutzgrundverordnung",
+    "Türkçe": "veri koruma tüzüğü",
+    "Artikel": "die",
+    "Konu": "Medya ve Teknoloji"
+  },
+  {
+    "Almanca": "die Privatsphäre",
+    "Türkçe": "özel hayat, gizlilik",
+    "Artikel": "die",
+    "Konu": "Medya ve Teknoloji"
+  },
+  {
+    "Almanca": "die Anonymität",
+    "Türkçe": "anonimlik",
+    "Artikel": "die",
+    "Konu": "Medya ve Teknoloji"
+  },
+  {
+    "Almanca": "die Fakes",
+    "Türkçe": "sahtekarlıklar",
+    "Artikel": "die",
+    "Konu": "Medya ve Teknoloji"
+  },
+  {
+    "Almanca": "die Desinformation",
+    "Türkçe": "yanlış bilgi",
+    "Artikel": "die",
+    "Konu": "Medya ve Teknoloji"
+  },
+  {
+    "Almanca": "die Cybermobbing",
+    "Türkçe": "siber zorbalık",
+    "Artikel": "die",
+    "Konu": "Medya ve Teknoloji"
+  },
+  {
+    "Almanca": "die Sucht",
+    "Türkçe": "bağımlılık",
+    "Artikel": "die",
+    "Konu": "Sağlık ve Beslenme"
+  },
+  {
+    "Almanca": "die Handysucht",
+    "Türkçe": "telefon bağımlılığı",
+    "Artikel": "die",
+    "Konu": "Medya ve Teknoloji"
+  },
+  {
+    "Almanca": "die Internetsucht",
+    "Türkçe": "internet bağımlılığı",
+    "Artikel": "die",
+    "Konu": "Medya ve Teknoloji"
+  },
+  {
+    "Almanca": "der digitale Detox",
+    "Türkçe": "dijital detoks",
+    "Artikel": "der",
+    "Konu": "Medya ve Teknoloji"
+  },
+  {
+    "Almanca": "die Bildschirmpause",
+    "Türkçe": "ekran molası",
+    "Artikel": "die",
+    "Konu": "Medya ve Teknoloji"
+  },
+  {
+    "Almanca": "die Konzentrationsfähigkeit",
+    "Türkçe": "konsantrasyon yeteneği",
+    "Artikel": "die",
+    "Konu": "Genel"
+  },
+  {
+    "Almanca": "die Aufmerksamkeit",
+    "Türkçe": "dikkat",
+    "Artikel": "die",
+    "Konu": "Genel"
+  },
+  {
+    "Almanca": "die Ablenkung",
+    "Türkçe": "dikkat dağınıklığı",
+    "Artikel": "die",
+    "Konu": "Genel"
+  },
+  {
+    "Almanca": "die Lernmethode",
+    "Türkçe": "öğrenme yöntemi",
+    "Artikel": "die",
+    "Konu": "Eğitim Sistemleri"
+  },
+  {
+    "Almanca": "die Lerntechnik",
+    "Türkçe": "öğrenme tekniği",
+    "Artikel": "die",
+    "Konu": "Eğitim Sistemleri"
+  },
+  {
+    "Almanca": "das Lernziel",
+    "Türkçe": "öğrenme hedefi",
+    "Artikel": "das",
+    "Konu": "Eğitim Sistemleri"
+  },
+  {
+    "Almanca": "der Fortschritt",
+    "Türkçe": "ilerleme",
+    "Artikel": "der",
+    "Konu": "Eğitim Sistemleri"
+  },
+  {
+    "Almanca": "die Leistungssteigerung",
+    "Türkçe": "performans artışı",
+    "Artikel": "die",
+    "Konu": "Eğitim Sistemleri"
+  },
+  {
+    "Almanca": "die Motivation",
+    "Türkçe": "motivasyon",
+    "Artikel": "die",
+    "Konu": "Genel"
+  },
+  {
+    "Almanca": "die Frustration",
+    "Türkçe": "hayal kırıklığı",
+    "Artikel": "die",
+    "Konu": "Genel"
+  },
+  {
+    "Almanca": "die Zufriedenheit",
+    "Türkçe": "memnuniyet",
+    "Artikel": "die",
+    "Konu": "Genel"
+  },
+  {
+    "Almanca": "die Unzufriedenheit",
+    "Türkçe": "memnuniyetsizlik",
+    "Artikel": "die",
+    "Konu": "Genel"
+  },
+  {
+    "Almanca": "die Work-Life-Balance",
+    "Türkçe": "iş-yaşam dengesi",
+    "Artikel": "die",
+    "Konu": "İş Dünyası ve Eğitim"
+  },
+  {
+    "Almanca": "der Stressabbau",
+    "Türkçe": "stres azaltma",
+    "Artikel": "der",
+    "Konu": "Sağlık ve Beslenme"
+  },
+  {
+    "Almanca": "die Entspannung",
+    "Türkçe": "rahatlama",
+    "Artikel": "die",
+    "Konu": "Sağlık ve Beslenme"
+  },
+  {
+    "Almanca": "das Burnout",
+    "Türkçe": "tükenmişlik sendromu",
+    "Artikel": "das",
+    "Konu": "Sağlık ve Beslenme"
+  },
+  {
+    "Almanca": "die psychische Gesundheit",
+    "Türkçe": "ruh sağlığı",
+    "Artikel": "die",
+    "Konu": "Sağlık ve Beslenme"
+  },
+  {
+    "Almanca": "die Depression",
+    "Türkçe": "depresyon",
+    "Artikel": "die",
+    "Konu": "Sağlık ve Beslenme"
+  },
+  {
+    "Almanca": "die Angststörung",
+    "Türkçe": "anksiyete bozukluğu",
+    "Artikel": "die",
+    "Konu": "Sağlık ve Beslenme"
+  },
+  {
+    "Almanca": "die Therapie",
+    "Türkçe": "terapi",
+    "Artikel": "die",
+    "Konu": "Sağlık ve Beslenme"
+  },
+  {
+    "Almanca": "die Beratung",
+    "Türkçe": "danışmanlık",
+    "Artikel": "die",
+    "Konu": "Sağlık ve Beslenme"
+  },
+  {
+    "Almanca": "die Prävention",
+    "Türkçe": "önleme, korunma",
+    "Artikel": "die",
+    "Konu": "Sağlık ve Beslenme"
+  },
+  {
+    "Almanca": "die Vorsorge",
+    "Türkçe": "önlem, tedbir",
+    "Artikel": "die",
+    "Konu": "Sağlık ve Beslenme"
+  },
+  {
+    "Almanca": "die Impfung",
+    "Türkçe": "aşı",
+    "Artikel": "die",
+    "Konu": "Sağlık ve Beslenme"
+  },
+  {
+    "Almanca": "das Medikament",
+    "Türkçe": "ilaç",
+    "Artikel": "das",
+    "Konu": "Sağlık ve Beslenme"
+  },
+  {
+    "Almanca": "die Verschreibung",
+    "Türkçe": "reçete",
+    "Artikel": "die",
+    "Konu": "Sağlık ve Beslenme"
+  },
+  {
+    "Almanca": "die Behandlung",
+    "Türkçe": "tedavi",
+    "Artikel": "die",
+    "Konu": "Sağlık ve Beslenme"
+  },
+  {
+    "Almanca": "die Diagnose",
+    "Türkçe": "teşhis",
+    "Artikel": "die",
+    "Konu": "Sağlık ve Beslenme"
+  },
+  {
+    "Almanca": "die Untersuchung",
+    "Türkçe": "muayene",
+    "Artikel": "die",
+    "Konu": "Sağlık ve Beslenme"
+  },
+  {
+    "Almanca": "das Krankenhaus",
+    "Türkçe": "hastane",
+    "Artikel": "das",
+    "Konu": "Sağlık ve Beslenme"
+  },
+  {
+    "Almanca": "die Klinik",
+    "Türkçe": "klinik",
+    "Artikel": "die",
+    "Konu": "Sağlık ve Beslenme"
+  },
+  {
+    "Almanca": "der Hausarzt",
+    "Türkçe": "aile doktoru",
+    "Artikel": "der",
+    "Konu": "Sağlık ve Beslenme"
+  },
+  {
+    "Almanca": "der Facharzt",
+    "Türkçe": "uzman doktor",
+    "Artikel": "der",
+    "Konu": "Sağlık ve Beslenme"
+  },
+  {
+    "Almanca": "die Krankenversicherung",
+    "Türkçe": "sağlık sigortası",
+    "Artikel": "die",
+    "Konu": "Sağlık ve Beslenme"
+  },
+  {
+    "Almanca": "die private Krankenversicherung",
+    "Türkçe": "özel sağlık sigortası",
+    "Artikel": "die",
+    "Konu": "Sağlık ve Beslenme"
+  },
+  {
+    "Almanca": "die gesetzliche Krankenversicherung",
+    "Türkçe": "yasal sağlık sigortası",
+    "Artikel": "die",
+    "Konu": "Sağlık ve Beslenme"
+  },
+  {
+    "Almanca": "die Nachhaltigkeit",
+    "Türkçe": "sürdürülebilirlik",
+    "Artikel": "die",
+    "Konu": "Çevre ve Doğa"
+  },
+  {
+    "Almanca": "der ökologische Fußabdruck",
+    "Türkçe": "ekolojik ayak izi",
+    "Artikel": "der",
+    "Konu": "Çevre ve Doğa"
+  },
+  {
+    "Almanca": "der Klimaschutz",
+    "Türkçe": "iklim koruma",
+    "Artikel": "der",
+    "Konu": "Çevre ve Doğa"
+  },
+  {
+    "Almanca": "die erneuerbare Energie",
+    "Türkçe": "yenilenebilir enerji",
+    "Artikel": "die",
+    "Konu": "Çevre ve Doğa"
+  },
+  {
+    "Almanca": "die Solarenergie",
+    "Türkçe": "güneş enerjisi",
+    "Artikel": "die",
+    "Konu": "Çevre ve Doğa"
+  },
+  {
+    "Almanca": "die Windenergie",
+    "Türkçe": "rüzgar enerjisi",
+    "Artikel": "die",
+    "Konu": "Çevre ve Doğa"
+  },
+  {
+    "Almanca": "die Wasserkraft",
+    "Türkçe": "hidroelektrik enerji",
+    "Artikel": "die",
+    "Konu": "Çevre ve Doğa"
+  },
+  {
+    "Almanca": "die Biomasse",
+    "Türkçe": "biyokütle",
+    "Artikel": "die",
+    "Konu": "Çevre ve Doğa"
+  },
+  {
+    "Almanca": "der Energiesparen",
+    "Türkçe": "enerji tasarrufu",
+    "Artikel": "der",
+    "Konu": "Çevre ve Doğa"
+  },
+  {
+    "Almanca": "der Stromverbrauch",
+    "Türkçe": "elektrik tüketimi",
+    "Artikel": "der",
+    "Konu": "Çevre ve Doğa"
+  },
+  {
+    "Almanca": "der Wasserverbrauch",
+    "Türkçe": "su tüketimi",
+    "Artikel": "der",
+    "Konu": "Çevre ve Doğa"
+  },
+  {
+    "Almanca": "die Abfallvermeidung",
+    "Türkçe": "atık önleme",
+    "Artikel": "die",
+    "Konu": "Çevre ve Doğa"
+  },
+  {
+    "Almanca": "die Wiederverwertung",
+    "Türkçe": "yeniden kullanma",
+    "Artikel": "die",
+    "Konu": "Çevre ve Doğa"
+  },
+  {
+    "Almanca": "der Kompost",
+    "Türkçe": "kompost",
+    "Artikel": "der",
+    "Konu": "Çevre ve Doğa"
+  },
+  {
+    "Almanca": "die Müllverbrennung",
+    "Türkçe": "çöp yakma",
+    "Artikel": "die",
+    "Konu": "Çevre ve Doğa"
+  },
+  {
+    "Almanca": "die Deponie",
+    "Türkçe": "çöp sahası",
+    "Artikel": "die",
+    "Konu": "Çevre ve Doğa"
+  },
+  {
+    "Almanca": "das Umweltbewusstsein",
+    "Türkçe": "çevre bilinci",
+    "Artikel": "das",
+    "Konu": "Çevre ve Doğa"
+  },
+  {
+    "Almanca": "die Umweltbildung",
+    "Türkçe": "çevre eğitimi",
+    "Artikel": "die",
+    "Konu": "Çevre ve Doğa"
+  },
+  {
+    "Almanca": "die umweltfreundliche Alternative",
+    "Türkçe": "çevre dostu alternatif",
+    "Artikel": "die",
+    "Konu": "Çevre ve Doğa"
+  },
+  {
+    "Almanca": "das Fair-Trade-Produkt",
+    "Türkçe": "adil ticaret ürünü",
+    "Artikel": "das",
+    "Konu": "Küreselleşme ve Tüketim"
+  },
+  {
+    "Almanca": "die Kinderarbeit",
+    "Türkçe": "çocuk işçiliği",
+    "Artikel": "die",
+    "Konu": "Toplumsal Değişimler"
+  },
+  {
+    "Almanca": "die Ausbeutung",
+    "Türkçe": "sömürü",
+    "Artikel": "die",
+    "Konu": "Toplumsal Değişimler"
+  },
+  {
+    "Almanca": "der Mindestlohn",
+    "Türkçe": "asgari ücret",
+    "Artikel": "der",
+    "Konu": "İş Dünyası ve Eğitim"
+  },
+  {
+    "Almanca": "die soziale Gerechtigkeit",
+    "Türkçe": "sosyal adalet",
+    "Artikel": "die",
+    "Konu": "Toplumsal Değişimler"
+  },
+  {
+    "Almanca": "die Umverteilung",
+    "Türkçe": "yeniden dağıtım",
+    "Artikel": "die",
+    "Konu": "Toplumsal Değişimler"
+  },
+  {
+    "Almanca": "das Grundeinkommen",
+    "Türkçe": "temel gelir",
+    "Artikel": "das",
+    "Konu": "Toplumsal Değişimler"
+  },
+  {
+    "Almanca": "die Digitalisierung",
+    "Türkçe": "dijitalleşme",
+    "Artikel": "die",
+    "Konu": "Medya ve Teknoloji"
+  },
+  {
+    "Almanca": "die Automatisierung",
+    "Türkçe": "otomasyon",
+    "Artikel": "die",
+    "Konu": "Medya ve Teknoloji"
+  },
+  {
+    "Almanca": "die künstliche Intelligenz",
+    "Türkçe": "yapay zeka",
+    "Artikel": "die",
+    "Konu": "Medya ve Teknoloji"
+  },
+  {
+    "Almanca": "die Robotik",
+    "Türkçe": "robotik",
+    "Artikel": "die",
+    "Konu": "Medya ve Teknoloji"
+  },
+  {
+    "Almanca": "die Industrie 4.0",
+    "Türkçe": "Endüstri 4.0",
+    "Artikel": "die",
+    "Konu": "Medya ve Teknoloji"
+  },
+  {
+    "Almanca": "der technologische Fortschritt",
+    "Türkçe": "teknolojik ilerleme",
+    "Artikel": "der",
+    "Konu": "Medya ve Teknoloji"
+  },
+  {
+    "Almanca": "die Innovation",
+    "Türkçe": "yenilik",
+    "Artikel": "die",
+    "Konu": "Medya ve Teknoloji"
+  },
+  {
+    "Almanca": "die Start-up",
+    "Türkçe": "girişim",
+    "Artikel": "die",
+    "Konu": "İş Dünyası ve Eğitim"
+  },
+  {
+    "Almanca": "der Unternehmer",
+    "Türkçe": "girişimci",
+    "Artikel": "der",
+    "Konu": "İş Dünyası ve Eğitim"
+  },
+  {
+    "Almanca": "der Geschäftsführer",
+    "Türkçe": "genel müdür",
+    "Artikel": "der",
+    "Konu": "İş Dünyası ve Eğitim"
+  },
+  {
+    "Almanca": "die Vorstandsmitglied",
+    "Türkçe": "yönetim kurulu üyesi",
+    "Artikel": "die",
+    "Konu": "İş Dünyası ve Eğitim"
+  },
+  {
+    "Almanca": "die Personalabteilung",
+    "Türkçe": "insan kaynakları",
+    "Artikel": "die",
+    "Konu": "İş Dünyası ve Eğitim"
+  },
+  {
+    "Almanca": "die Stellenausschreibung",
+    "Türkçe": "iş ilanı",
+    "Artikel": "die",
+    "Konu": "İş Dünyası ve Eğitim"
+  },
+  {
+    "Almanca": "das Vorstellungsgespräch",
+    "Türkçe": "iş görüşmesi",
+    "Artikel": "das",
+    "Konu": "İş Dünyası ve Eğitim"
+  },
+  {
+    "Almanca": "die Bewerbungsunterlagen",
+    "Türkçe": "başvuru belgeleri",
+    "Artikel": "die",
+    "Konu": "İş Dünyası ve Eğitim"
+  },
+  {
+    "Almanca": "das Zeugnis",
+    "Türkçe": "diploma, sertifika",
+    "Artikel": "das",
+    "Konu": "İş Dünyası ve Eğitim"
+  },
+  {
+    "Almanca": "die Referenzen",
+    "Türkçe": "referanslar",
+    "Artikel": "die",
+    "Konu": "İş Dünyası ve Eğitim"
+  },
+  {
+    "Almanca": "die Qualifikation",
+    "Türkçe": "yeterlilik",
+    "Artikel": "die",
+    "Konu": "İş Dünyası ve Eğitim"
+  },
+  {
+    "Almanca": "die Weiterbildung",
+    "Türkçe": "ileri eğitim",
+    "Artikel": "die",
+    "Konu": "İş Dünyası ve Eğitim"
+  },
+  {
+    "Almanca": "die Fortbildung",
+    "Türkçe": "mesleki gelişim",
+    "Artikel": "die",
+    "Konu": "İş Dünyası ve Eğitim"
+  },
+  {
+    "Almanca": "der Lehrgang",
+    "Türkçe": "kurs, eğitim programı",
+    "Artikel": "der",
+    "Konu": "İş Dünyası ve Eğitim"
+  },
+  {
+    "Almanca": "das Zertifikat",
+    "Türkçe": "sertifika",
+    "Artikel": "das",
+    "Konu": "İş Dünyası ve Eğitim"
+  },
+  {
+    "Almanca": "die Prüfung",
+    "Türkçe": "sınav",
+    "Artikel": "die",
+    "Konu": "İş Dünyası ve Eğitim"
+  },
+  {
+    "Almanca": "die Klausur",
+    "Türkçe": "yazılı sınav",
+    "Artikel": "die",
+    "Konu": "İş Dünyası ve Eğitim"
+  },
+  {
+    "Almanca": "die mündliche Prüfung",
+    "Türkçe": "sözlü sınav",
+    "Artikel": "die",
+    "Konu": "İş Dünyası ve Eğitim"
+  },
+  {
+    "Almanca": "die schriftliche Prüfung",
+    "Türkçe": "yazılı sınav",
+    "Artikel": "die",
+    "Konu": "İş Dünyası ve Eğitim"
+  },
+  {
+    "Almanca": "die Wiederholungsprüfung",
+    "Türkçe": "tekrar sınavı",
+    "Artikel": "die",
+    "Konu": "İş Dünyası ve Eğitim"
+  },
+  {
+    "Almanca": "die Studienordnung",
+    "Türkçe": "öğrenim yönetmeliği",
+    "Artikel": "die",
+    "Konu": "İş Dünyası ve Eğitim"
+  },
+  {
+    "Almanca": "die Prüfungsordnung",
+    "Türkçe": "sınav yönetmeliği",
+    "Artikel": "die",
+    "Konu": "İş Dünyası ve Eğitim"
+  },
+  {
+    "Almanca": "die Anmeldefrist",
+    "Türkçe": "kayıt son tarihi",
+    "Artikel": "die",
+    "Konu": "İş Dünyası ve Eğitim"
+  },
+  {
+    "Almanca": "die Abgabefrist",
+    "Türkçe": "teslim son tarihi",
+    "Artikel": "die",
+    "Konu": "İş Dünyası ve Eğitim"
+  },
+  {
+    "Almanca": "die Verschiebung",
+    "Türkçe": "erteletme",
+    "Artikel": "die",
+    "Konu": "Genel"
+  },
+  {
+    "Almanca": "die Verlängerung",
+    "Türkçe": "uzatma",
+    "Artikel": "die",
+    "Konu": "Genel"
+  },
+  {
+    "Almanca": "die Verkürzung",
+    "Türkçe": "kısaltma",
+    "Artikel": "die",
+    "Konu": "Genel"
+  },
+  {
+    "Almanca": "die Änderung",
+    "Türkçe": "değişiklik",
+    "Artikel": "die",
+    "Konu": "Genel"
+  },
+  {
+    "Almanca": "die Verbesserung",
+    "Türkçe": "iyileştirme",
+    "Artikel": "die",
+    "Konu": "Genel"
+  },
+  {
+    "Almanca": "die Verschlechterung",
+    "Türkçe": "kötüleşme",
+    "Artikel": "die",
+    "Konu": "Genel"
+  },
+  {
+    "Almanca": "die Zunahme",
+    "Türkçe": "artış",
+    "Artikel": "die",
+    "Konu": "Genel"
+  },
+  {
+    "Almanca": "die Abnahme",
+    "Türkçe": "azalma",
+    "Artikel": "die",
+    "Konu": "Genel"
+  },
+  {
+    "Almanca": "die Steigerung",
+    "Türkçe": "yükselme",
+    "Artikel": "die",
+    "Konu": "Genel"
+  },
+  {
+    "Almanca": "die Senkung",
+    "Türkçe": "düşürme",
+    "Artikel": "die",
+    "Konu": "Genel"
+  },
+  {
+    "Almanca": "die Erhöhung",
+    "Türkçe": "artırma",
+    "Artikel": "die",
+    "Konu": "Genel"
+  },
+  {
+    "Almanca": "die Reduzierung",
+    "Türkçe": "azaltma",
+    "Artikel": "die",
+    "Konu": "Genel"
+  }
+]

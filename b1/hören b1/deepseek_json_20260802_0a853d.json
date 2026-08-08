@@ -1,0 +1,51 @@
+{
+  "title": "GOETHE B1 - HÖREN (SECOND-HAND)",
+  "subtitle": "RADIOBEITRAG - SECOND-HAND",
+  "sectionId": 50,
+  "sectionName": "RADIOBEITRAG - SECOND-HAND",
+  "exercises": [
+    {
+      "exerciseId": "50",
+      "type": "multiple_choice",
+      "frage": "Wo kann man Second-Hand-Kleidung kaufen?",
+      "turkce": "İkinci el giyim nereden satın alınabilir?",
+      "ipucu": "in Vintage-Shops, auf Flohmärkten oder online.",
+      "options": ["nur online", "in Vintage-Shops, auf Flohmärkten oder online", "nur in teuren Boutiquen"],
+      "answer": "in Vintage-Shops, auf Flohmärkten oder online"
+    },
+    {
+      "exerciseId": "51",
+      "type": "multiple_choice",
+      "frage": "Was ist ein Vorteil von Second-Hand-Kleidung?",
+      "turkce": "İkinci el giyimin avantajı nedir?",
+      "ipucu": "günstiger und umweltfreundlicher.",
+      "options": ["Sie ist immer neu.", "Sie ist günstiger und umweltfreundlicher.", "Sie ist immer von bekannten Marken."],
+      "answer": "Sie ist günstiger und umweltfreundlicher."
+    },
+    {
+      "exerciseId": "52",
+      "type": "multiple_choice",
+      "frage": "Warum ist Second-Hand-Kleidung umweltfreundlich?",
+      "turkce": "İkinci el giyim neden çevre dostu?",
+      "ipucu": "Second-Hand-Kleidung hilft, diesen Müll zu reduzieren.",
+      "options": ["Weil sie neu produziert wird.", "Weil sie hilft, Müll zu reduzieren.", "Weil sie im Ausland hergestellt wird."],
+      "answer": "Weil sie hilft, Müll zu reduzieren."
+    },
+    {
+      "exerciseId": "53",
+      "type": "richtig_falsch",
+      "frage": "Second-Hand-Kleidung ist immer von schlechter Qualität.",
+      "turkce": "İkinci el giyim her zaman kalitesizdir.",
+      "ipucu": "einzigartig - benzersiz, kaliteli olabilir.",
+      "answer": "Falsch"
+    },
+    {
+      "exerciseId": "54",
+      "type": "fill_in",
+      "frage": "Second-Hand-Kleidung hilft, den Müll zu reduzieren, der von der _______ produziert wird.",
+      "turkce": "İkinci el giyim, _______ tarafından üretilen atığı azaltmaya yardımcı olur.",
+      "ipucu": "Modeindustrie - moda endüstrisi.",
+      "answer": "Modeindustrie"
+    }
+  ]
+}

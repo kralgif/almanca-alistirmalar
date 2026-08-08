@@ -1,0 +1,78 @@
+{
+  "title": "GOETHE B2 - HÖREN (UMWELTVERSCHMUTZUNG DURCH PLASTIK)",
+  "subtitle": "UMWELTVERSCHMUTZUNG DURCH PLASTIK",
+  "sectionId": 59,
+  "sectionName": "UMWELTVERSCHMUTZUNG DURCH PLASTIK",
+  "exercises": [
+    {
+      "exerciseId": "16",
+      "type": "multiple_choice",
+      "frage": "Warum sind Plastikverpackungen in der Lebensmittelindustrie weit verbreitet?",
+      "turkce": "Plastik ambalajlar neden gıda endüstrisinde yaygın?",
+      "ipucu": "Sie verpacken Produkte hygienisch und verlängern die Haltbarkeit.",
+      "options": [
+        "Weil sie teuer sind.",
+        "Weil sie Produkte hygienisch verpacken und die Haltbarkeit verlängern.",
+        "Weil sie schwer sind.",
+        "Weil sie aus nachwachsenden Rohstoffen bestehen."
+      ],
+      "answer": "Weil sie Produkte hygienisch verpacken und die Haltbarkeit verlängern."
+    },
+    {
+      "exerciseId": "17",
+      "type": "multiple_choice",
+      "frage": "Was ist ein Nachteil von Plastikverpackungen?",
+      "turkce": "Plastik ambalajların dezavantajı nedir?",
+      "ipucu": "Sie belasten die Umwelt und schaden der Tierwelt.",
+      "options": [
+        "Sie sind zu teuer.",
+        "Sie belasten die Umwelt und schaden der Tierwelt.",
+        "Sie sind zu schwer.",
+        "Sie sind nicht hygienisch."
+      ],
+      "answer": "Sie belasten die Umwelt und schaden der Tierwelt."
+    },
+    {
+      "exerciseId": "18",
+      "type": "multiple_choice",
+      "frage": "Was ist eine Alternative zu Plastikverpackungen?",
+      "turkce": "Plastik ambalajlara alternatif nedir?",
+      "ipucu": "Glas, Papier oder biologisch abbaubare Materialien.",
+      "options": [
+        "Nur noch Plastik",
+        "Glas, Papier oder biologisch abbaubare Materialien",
+        "Nur noch Metall",
+        "Keine Verpackungen"
+      ],
+      "answer": "Glas, Papier oder biologisch abbaubare Materialien"
+    },
+    {
+      "exerciseId": "19",
+      "type": "multiple_choice",
+      "frage": "Was verbraucht die Herstellung von Plastik?",
+      "turkce": "Plastik üretimi ne tüketir?",
+      "ipucu": "Erdöl.",
+      "options": [
+        "Wasser",
+        "Erdöl",
+        "Holz",
+        "Solarstrom"
+      ],
+      "answer": "Erdöl"
+    },
+    {
+      "exerciseId": "20",
+      "type": "multiple_choice",
+      "frage": "Was ist ein Vorteil von Glasflaschen?",
+      "turkce": "Cam şişelerin avantajı nedir?",
+      "ipucu": "Sie können wiederverwendet werden.",
+      "options": [
+        "Sie sind leicht.",
+        "Sie können wiederverwendet werden.",
+        "Sie sind billig.",
+        "Sie sind biologisch abbaubar."
+      ],
+      "answer": "Sie können wiederverwendet werden."
+    }
+  ]
+}

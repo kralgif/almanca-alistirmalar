@@ -1,0 +1,43 @@
+{
+  "title": "GOETHE B1 - HÖREN (MARKENKLEIDUNG)",
+  "subtitle": "MARKENKLEIDUNG",
+  "sectionId": 51,
+  "sectionName": "MARKENKLEIDUNG",
+  "exercises": [
+    {
+      "exerciseId": "55",
+      "type": "multiple_choice",
+      "frage": "Warum trägt Lena gerne Markenkleidung?",
+      "turkce": "Lena neden marka giyim giymeyi seviyor?",
+      "ipucu": "von guter Qualität und sieht gut aus.",
+      "options": ["Weil sie billig ist.", "Weil sie von guter Qualität ist und gut aussieht.", "Weil sie keine andere Kleidung hat."],
+      "answer": "Weil sie von guter Qualität ist und gut aussieht."
+    },
+    {
+      "exerciseId": "56",
+      "type": "multiple_choice",
+      "frage": "Welche Marken mag Lena besonders?",
+      "turkce": "Lena hangi markaları özellikle seviyor?",
+      "ipucu": "Nike und Adidas.",
+      "options": ["Gucci und Prada", "Nike und Adidas", "Zara und H&M"],
+      "answer": "Nike und Adidas"
+    },
+    {
+      "exerciseId": "57",
+      "type": "richtig_falsch",
+      "frage": "Lena kauft Markenkleidung nur im Sale.",
+      "turkce": "Lena marka giyimi sadece indirimde alıyor.",
+      "ipucu": "oft im Sale oder Second-Hand - bazen.",
+      "answer": "Falsch"
+    },
+    {
+      "exerciseId": "58",
+      "type": "multiple_choice",
+      "frage": "Was ist Lena wichtiger?",
+      "turkce": "Lena için hangisi daha önemli?",
+      "ipucu": "Der Stil ist wichtiger.",
+      "options": ["Die Marke", "Der Stil", "Der Preis"],
+      "answer": "Der Stil"
+    }
+  ]
+}

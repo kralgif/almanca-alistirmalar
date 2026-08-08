@@ -1,0 +1,78 @@
+{
+  "title": "GOETHE B2 - HÖREN (BENOTUNG VON HAUSAUFGABEN)",
+  "subtitle": "BENOTUNG VON HAUSAUFGABEN",
+  "sectionId": 58,
+  "sectionName": "BENOTUNG VON HAUSAUFGABEN",
+  "exercises": [
+    {
+      "exerciseId": "11",
+      "type": "multiple_choice",
+      "frage": "Warum benoten viele Lehrer Hausaufgaben?",
+      "turkce": "Birçok öğretmen neden ödevleri notlandırıyor?",
+      "ipucu": "Noten Schüler motivieren und geben Feedback.",
+      "options": [
+        "Weil sie zu viel Zeit haben.",
+        "Weil Noten Schüler motivieren und Feedback geben.",
+        "Weil es gesetzlich vorgeschrieben ist.",
+        "Weil es keine Alternativen gibt."
+      ],
+      "answer": "Weil Noten Schüler motivieren und Feedback geben."
+    },
+    {
+      "exerciseId": "12",
+      "type": "multiple_choice",
+      "frage": "Was ist ein Argument der Kritiker gegen die Benotung?",
+      "turkce": "Eleştirmenlerin notlandırmaya karşı argümanı nedir?",
+      "ipucu": "Noten können Stress und Angst auslösen.",
+      "options": [
+        "Noten sind zu streng.",
+        "Noten können Stress und Angst auslösen.",
+        "Noten sind zu einfach.",
+        "Noten sind nicht fair."
+      ],
+      "answer": "Noten können Stress und Angst auslösen."
+    },
+    {
+      "exerciseId": "13",
+      "type": "multiple_choice",
+      "frage": "Welche Alternative zur Benotung wird genannt?",
+      "turkce": "Notlandırmaya hangi alternatif öneriliyor?",
+      "ipucu": "Schriftliche Rückmeldung ohne Note.",
+      "options": [
+        "Keine Hausaufgaben mehr",
+        "Schriftliche Rückmeldung ohne Note",
+        "Mündliche Prüfungen",
+        "Nur Multiple-Choice-Tests"
+      ],
+      "answer": "Schriftliche Rückmeldung ohne Note"
+    },
+    {
+      "exerciseId": "14",
+      "type": "multiple_choice",
+      "frage": "Was ist der eigentliche Zweck von Hausaufgaben?",
+      "turkce": "Ödevlerin asıl amacı nedir?",
+      "ipucu": "Der Übung und Vertiefung des Lernstoffs.",
+      "options": [
+        "Die Schüler zu bestrafen",
+        "Der Übung und Vertiefung des Lernstoffs",
+        "Die Schüler zu unterhalten",
+        "Die Lehrer zu entlasten"
+      ],
+      "answer": "Der Übung und Vertiefung des Lernstoffs"
+    },
+    {
+      "exerciseId": "15",
+      "type": "multiple_choice",
+      "frage": "Wer wird durch Noten besonders demotiviert?",
+      "turkce": "Notlar özellikle kimleri motivasyon düşürüyor?",
+      "ipucu": "Leistungsschwächere Schüler.",
+      "options": [
+        "Leistungsstarke Schüler",
+        "Leistungsschwächere Schüler",
+        "Alle Schüler",
+        "Nur Jungen"
+      ],
+      "answer": "Leistungsschwächere Schüler"
+    }
+  ]
+}

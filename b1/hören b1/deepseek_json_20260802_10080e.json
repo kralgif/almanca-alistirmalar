@@ -1,0 +1,51 @@
+{
+  "title": "GOETHE B1 - HÖREN (INTERVIEW - VEGETARISCH LEBEN)",
+  "subtitle": "INTERVIEW - VEGETARISCH LEBEN",
+  "sectionId": 42,
+  "sectionName": "INTERVIEW - VEGETARISCH LEBEN",
+  "exercises": [
+    {
+      "exerciseId": "9",
+      "type": "multiple_choice",
+      "frage": "Wie lange lebt Lisa schon vegetarisch?",
+      "turkce": "Lisa ne kadar süredir vejetaryen?",
+      "ipucu": "seit drei Jahren vegetarisch.",
+      "options": ["seit einem Jahr", "seit drei Jahren", "seit fünf Jahren"],
+      "answer": "seit drei Jahren"
+    },
+    {
+      "exerciseId": "10",
+      "type": "multiple_choice",
+      "frage": "Warum hat Lisa sich für vegetarische Ernährung entschieden?",
+      "turkce": "Lisa neden vejetaryen beslenmeyi seçti?",
+      "ipucu": "aus ethischen Gründen und für die Umwelt.",
+      "options": ["Weil sie Fleisch nicht mag.", "Aus ethischen Gründen und für die Umwelt.", "Weil es billiger ist."],
+      "answer": "Aus ethischen Gründen und für die Umwelt."
+    },
+    {
+      "exerciseId": "11",
+      "type": "richtig_falsch",
+      "frage": "Lisa kocht jetzt viel mehr selbst.",
+      "turkce": "Lisa şimdi çok daha fazla kendi yemeğini yapıyor.",
+      "ipucu": "Ich koche viel mehr selbst.",
+      "answer": "Richtig"
+    },
+    {
+      "exerciseId": "12",
+      "type": "multiple_choice",
+      "frage": "Was ist für Lisa das Schwierigste?",
+      "turkce": "Lisa için en zor şey ne?",
+      "ipucu": "Manchmal ist es schwierig, in Restaurants etwas Passendes zu finden.",
+      "options": ["Das Kochen", "In Restaurants etwas Passendes zu finden", "Die Rezepte zu finden"],
+      "answer": "In Restaurants etwas Passendes zu finden"
+    },
+    {
+      "exerciseId": "13",
+      "type": "fill_in",
+      "frage": "Lisa empfiehlt, langsam anzufangen. Man muss nicht von heute auf morgen aufhören, _______ zu essen.",
+      "turkce": "Lisa yavaş başlamayı tavsiye ediyor. Bugünden yarına _______ yemeyi bırakmak zorunda değilsiniz.",
+      "ipucu": "Fleisch - et.",
+      "answer": "Fleisch"
+    }
+  ]
+}

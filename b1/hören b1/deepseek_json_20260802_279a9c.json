@@ -1,0 +1,51 @@
+{
+  "title": "GOETHE B1 - HÖREN (INTERVIEW - SOCIAL MEDIA)",
+  "subtitle": "INTERVIEW - SOCIAL MEDIA",
+  "sectionId": 48,
+  "sectionName": "INTERVIEW - SOCIAL MEDIA",
+  "exercises": [
+    {
+      "exerciseId": "39",
+      "type": "multiple_choice",
+      "frage": "Welche Plattformen nutzt Julia hauptsächlich?",
+      "turkce": "Julia hangi platformları kullanıyor?",
+      "ipucu": "Instagram und TikTok.",
+      "options": ["Facebook und Twitter", "Instagram und TikTok", "LinkedIn und WhatsApp"],
+      "answer": "Instagram und TikTok"
+    },
+    {
+      "exerciseId": "40",
+      "type": "multiple_choice",
+      "frage": "Wie viel Zeit verbringt Julia täglich auf sozialen Netzwerken?",
+      "turkce": "Julia günde ne kadar zamanını sosyal ağlarda geçiriyor?",
+      "ipucu": "Ungefähr zwei Stunden pro Tag.",
+      "options": ["eine Stunde", "zwei Stunden", "drei Stunden"],
+      "answer": "zwei Stunden"
+    },
+    {
+      "exerciseId": "41",
+      "type": "richtig_falsch",
+      "frage": "Julia versucht, weniger Zeit auf sozialen Netzwerken zu verbringen.",
+      "turkce": "Julia sosyal ağlarda daha az zaman geçirmeye çalışıyor.",
+      "ipucu": "Ich versuche, weniger zu nutzen.",
+      "answer": "Richtig"
+    },
+    {
+      "exerciseId": "42",
+      "type": "multiple_choice",
+      "frage": "Was ist für Julia das Negative an sozialen Netzwerken?",
+      "turkce": "Julia için sosyal ağların olumsuz yanı ne?",
+      "ipucu": "vergleiche ich mich mit anderen und fühle mich unsicher.",
+      "options": ["Sie ist immer glücklich.", "Sie vergleicht sich mit anderen und fühlt sich unsicher.", "Sie hat keine Freunde."],
+      "answer": "Sie vergleicht sich mit anderen und fühlt sich unsicher."
+    },
+    {
+      "exerciseId": "43",
+      "type": "fill_in",
+      "frage": "Julia mag die _______ und die Möglichkeit, mit Freunden in Kontakt zu bleiben.",
+      "turkce": "Julia _______ ve arkadaşlarla iletişimde kalma imkanını seviyor.",
+      "ipucu": "Unterhaltung - eğlence.",
+      "answer": "Unterhaltung"
+    }
+  ]
+}

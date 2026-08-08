@@ -1,0 +1,87 @@
+{
+  "title": "GOETHE B2 - DENEME SINAVI (LESEN & SCHREIBEN)",
+  "subtitle": "LESEN - GLOBALISIERUNG & SCHREIBEN - FORUMSBEITRAG",
+  "sections": [
+    {
+      "sectionId": 2,
+      "sectionName": "LESEN - GLOBALISIERUNG UND IHRE AUSWIRKUNGEN",
+      "type": "reading",
+      "text": "Globalisierung und ihre Auswirkungen auf den Arbeitsmarkt\n\nDie Globalisierung hat die Weltwirtschaft in den letzten Jahrzehnten grundlegend verändert. Unternehmen produzieren heute in Ländern, in denen die Arbeitskräfte am günstigsten sind. Das führt dazu, dass viele Arbeitsplätze in Industrieländern verloren gehen, während in Entwicklungsländern neue Arbeitsplätze entstehen.\n\nKritiker der Globalisierung argumentieren, dass sie zu einer Ausbeutung der Arbeitnehmer in Billiglohnländern führt. Die Arbeitsbedingungen sind dort oft schlecht, und die Löhne sind niedrig. Zudem leiden die lokalen Märkte in Entwicklungsländern unter dem Import billiger Waren aus dem Ausland.\n\nBefürworter hingegen betonen die Vorteile der Globalisierung. Sie führt zu einem weltweiten Austausch von Wissen und Technologie. Viele Menschen in Entwicklungsländern haben durch die Globalisierung Zugang zu besseren Arbeitsplätzen und höheren Einkommen. Auch die Verbraucher in Industrieländern profitieren von günstigeren Preisen und einer größeren Auswahl.\n\nEine der größten Herausforderungen der Globalisierung ist jedoch die wachsende Ungleichheit zwischen reichen und armen Ländern. Während einige Länder stark von der Globalisierung profitieren, werden andere zurückgelassen. Die internationale Gemeinschaft ist gefordert, Lösungen für dieses Problem zu finden.\n\nDie Zukunft der Globalisierung wird davon abhängen, ob es gelingt, faire Handelsbedingungen zu schaffen und die negativen Auswirkungen zu minimieren. Nur so kann die Globalisierung zu einer nachhaltigen Entwicklung für alle Länder beitragen.",
+      "exercises": [
+        {
+          "exerciseId": "7",
+          "type": "multiple_choice",
+          "frage": "Was ist ein Effekt der Globalisierung auf Industrieländer?",
+          "options": [
+            "Mehr Arbeitsplätze entstehen.",
+            "Viele Arbeitsplätze gehen verloren.",
+            "Die Löhne steigen."
+          ],
+          "answer": "Viele Arbeitsplätze gehen verloren."
+        },
+        {
+          "exerciseId": "8",
+          "type": "multiple_choice",
+          "frage": "Was ist ein Argument der Kritiker der Globalisierung?",
+          "options": [
+            "Sie führt zu mehr Wohlstand für alle.",
+            "Sie führt zur Ausbeutung von Arbeitnehmern in Billiglohnländern.",
+            "Sie verbessert die Arbeitsbedingungen weltweit."
+          ],
+          "answer": "Sie führt zur Ausbeutung von Arbeitnehmern in Billiglohnländern."
+        },
+        {
+          "exerciseId": "9",
+          "type": "multiple_choice",
+          "frage": "Was ist ein Vorteil der Globalisierung für Verbraucher in Industrieländern?",
+          "options": [
+            "Sie haben weniger Auswahl.",
+            "Sie profitieren von günstigeren Preisen.",
+            "Sie müssen mehr Steuern zahlen."
+          ],
+          "answer": "Sie profitieren von günstigeren Preisen."
+        },
+        {
+          "exerciseId": "10",
+          "type": "multiple_choice",
+          "frage": "Was ist eine der größten Herausforderungen der Globalisierung?",
+          "options": [
+            "Die wachsende Ungleichheit zwischen reichen und armen Ländern",
+            "Der steigende Wohlstand in allen Ländern",
+            "Die bessere Gesundheitsversorgung weltweit"
+          ],
+          "answer": "Die wachsende Ungleichheit zwischen reichen und armen Ländern"
+        },
+        {
+          "exerciseId": "11",
+          "type": "multiple_choice",
+          "frage": "Was benötigt die Globalisierung für eine nachhaltige Entwicklung?",
+          "options": [
+            "Faire Handelsbedingungen",
+            "Höhere Zölle",
+            "Weniger internationaler Austausch"
+          ],
+          "answer": "Faire Handelsbedingungen"
+        },
+        {
+          "exerciseId": "12",
+          "type": "multiple_choice",
+          "frage": "Was ist das Fazit des Textes?",
+          "options": [
+            "Die Globalisierung sollte abgeschafft werden.",
+            "Die Globalisierung hat nur Vorteile.",
+            "Die Globalisierung hat Vor- und Nachteile."
+          ],
+          "answer": "Die Globalisierung hat Vor- und Nachteile."
+        }
+      ]
+    },
+    {
+      "sectionId": 3,
+      "sectionName": "SCHREIBEN - FORUMSBEITRAG",
+      "type": "writing",
+      "aufgabe": "Schreiben Sie einen Forumsbeitrag zum Thema 'Globalisierung und Konsumverhalten' (ca. 80-100 Wörter):\n1. Äußern Sie Ihre Meinung zur Globalisierung.\n2. Nennen Sie Vorteile der Globalisierung für Verbraucher.\n3. Nennen Sie Nachteile der Globalisierung.\n4. Nennen Sie Ihre persönliche Schlussfolgerung.",
+      "solution": "Die Globalisierung hat unser Leben in vielerlei Hinsicht verändert. Für Verbraucher bietet sie viele Vorteile. Wir können heute Produkte aus aller Welt kaufen und profitieren von günstigen Preisen durch internationale Konkurrenz. Außerdem haben wir eine größere Auswahl an Waren und Dienstleistungen.\n\nAllerdings gibt es auch Schattenseiten. Oft werden die Produkte unter schlechten Arbeitsbedingungen hergestellt. Die lokale Wirtschaft leidet unter Billigimporten, und die Umwelt wird durch lange Transportwege belastet.\n\nMeiner Meinung nach sollten wir als Verbraucher bewusster einkaufen. Es ist wichtig, auf Qualität und faire Herstellung zu achten. So können wir dazu beitragen, dass die Globalisierung für alle positiv wird."
+    }
+  ]
+}

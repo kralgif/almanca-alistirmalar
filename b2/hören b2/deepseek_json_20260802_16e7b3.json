@@ -1,0 +1,78 @@
+{
+  "title": "GOETHE B2 - HÖREN (GESUNDE ERNÄHRUNG - VEGETARISCH 2)",
+  "subtitle": "GESUNDE ERNÄHRUNG - VEGETARISCH 2",
+  "sectionId": 61,
+  "sectionName": "GESUNDE ERNÄHRUNG - VEGETARISCH 2",
+  "exercises": [
+    {
+      "exerciseId": "31",
+      "type": "multiple_choice",
+      "frage": "Warum wird vegetarische Ernährung immer beliebter?",
+      "turkce": "Vejetaryen beslenme neden giderek daha popüler oluyor?",
+      "ipucu": "Aus gesundheitlichen, ethischen und Umweltgründen.",
+      "options": [
+        "Weil sie immer billig ist.",
+        "Aus gesundheitlichen, ethischen und Umweltgründen.",
+        "Weil sie keine Nachteile hat.",
+        "Weil sie die einzige Ernährungsform ist."
+      ],
+      "answer": "Aus gesundheitlichen, ethischen und Umweltgründen."
+    },
+    {
+      "exerciseId": "32",
+      "type": "multiple_choice",
+      "frage": "Was ist ein Problem bei vegetarischen Ersatzprodukten?",
+      "turkce": "Vejetaryen ürünlerdeki sorun nedir?",
+      "ipucu": "Sie sind oft stark verarbeitet.",
+      "options": [
+        "Sie sind immer teuer.",
+        "Sie sind oft stark verarbeitet.",
+        "Sie schmecken nicht.",
+        "Sie sind nicht verfügbar."
+      ],
+      "answer": "Sie sind oft stark verarbeitet."
+    },
+    {
+      "exerciseId": "33",
+      "type": "multiple_choice",
+      "frage": "Was empfehlen Experten für eine gesunde Ernährung?",
+      "turkce": "Uzmanlar sağlıklı beslenme için ne tavsiye ediyor?",
+      "ipucu": "Eine ausgewogene Ernährung mit Gemüse, Hülsenfrüchten und Vollkornprodukten.",
+      "options": [
+        "Nur Fleisch essen",
+        "Eine ausgewogene Ernährung mit Gemüse, Hülsenfrüchten und Vollkornprodukten",
+        "Nur vegetarisch essen",
+        "Nur Fast Food essen"
+      ],
+      "answer": "Eine ausgewogene Ernährung mit Gemüse, Hülsenfrüchten und Vollkornprodukten"
+    },
+    {
+      "exerciseId": "34",
+      "type": "multiple_choice",
+      "frage": "Was muss man bei vegetarischer Ernährung besonders beachten?",
+      "turkce": "Vejetaryen beslenmede özellikle neye dikkat edilmeli?",
+      "ipucu": "Genug Eiweiß, Eisen und Vitamin B12 zu sich nehmen.",
+      "options": [
+        "Nur Salat essen",
+        "Genug Eiweiß, Eisen und Vitamin B12 zu sich nehmen",
+        "Viel Fleisch essen",
+        "Nur Obst essen"
+      ],
+      "answer": "Genug Eiweiß, Eisen und Vitamin B12 zu sich nehmen"
+    },
+    {
+      "exerciseId": "35",
+      "type": "multiple_choice",
+      "frage": "Was ist das Fazit des Textes zur gesunden Ernährung?",
+      "turkce": "Metnin sağlıklı beslenmeyle ilgili sonucu nedir?",
+      "ipucu": "Es kommt auf die Qualität und Auswahl der Lebensmittel an.",
+      "options": [
+        "Nur vegetarische Ernährung ist gesund.",
+        "Es kommt auf die Qualität und Auswahl der Lebensmittel an.",
+        "Fleisch ist immer ungesund.",
+        "Man sollte nur Fast Food essen."
+      ],
+      "answer": "Es kommt auf die Qualität und Auswahl der Lebensmittel an."
+    }
+  ]
+}

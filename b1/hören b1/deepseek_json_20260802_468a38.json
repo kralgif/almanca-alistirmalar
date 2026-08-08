@@ -1,0 +1,76 @@
+{
+  "title": "GOETHE B1 - HÖREN (VEGETARISCHE ERNÄHRUNG)",
+  "subtitle": "RADIOBEITRAG - VEGETARISCHE ERNÄHRUNG",
+  "sectionId": 41,
+  "sectionName": "RADIOBEITRAG - VEGETARISCHE ERNÄHRUNG",
+  "exercises": [
+    {
+      "exerciseId": "1",
+      "type": "multiple_choice",
+      "frage": "Warum entscheiden sich immer mehr Menschen für vegetarische Ernährung?",
+      "turkce": "Neden giderek daha fazla insan vejetaryen beslenmeyi tercih ediyor?",
+      "ipucu": "Gründe sind vielfältig: Gesundheit, Umwelt, Tiere.",
+      "options": ["Nur aus gesundheitlichen Gründen", "Aus gesundheitlichen, ethischen und Umweltgründen", "Nur wegen des Geschmacks"],
+      "answer": "Aus gesundheitlichen, ethischen und Umweltgründen"
+    },
+    {
+      "exerciseId": "2",
+      "type": "multiple_choice",
+      "frage": "Was ist ein Vorteil von vegetarischer Ernährung?",
+      "turkce": "Vejetaryen beslenmenin avantajı nedir?",
+      "ipucu": "Vegetarier leiden seltener an Herz-Kreislauf-Erkrankungen.",
+      "options": ["Man kann alles essen.", "Vegetarier leiden seltener an Herz-Kreislauf-Erkrankungen.", "Vegetarisches Essen ist immer billig."],
+      "answer": "Vegetarier leiden seltener an Herz-Kreislauf-Erkrankungen."
+    },
+    {
+      "exerciseId": "3",
+      "type": "multiple_choice",
+      "frage": "Was ist ein Problem bei vegetarischen Ersatzprodukten?",
+      "turkce": "Vejetaryen ürünlerdeki sorun nedir?",
+      "ipucu": "vegetarische Ersatzprodukte sind oft stark verarbeitet.",
+      "options": ["Sie sind immer teuer.", "Sie sind oft stark verarbeitet.", "Sie schmecken nicht."],
+      "answer": "Sie sind oft stark verarbeitet."
+    },
+    {
+      "exerciseId": "4",
+      "type": "multiple_choice",
+      "frage": "Welche Altersgruppe isst besonders gern vegetarisch?",
+      "turkce": "Hangi yaş grubu özellikle vejetaryen yemeyi seviyor?",
+      "ipucu": "Junge Menschen zwischen 18 und 30 Jahren sind begeistert.",
+      "options": ["Menschen über 60", "Menschen zwischen 18 und 30", "Kinder unter 10"],
+      "answer": "Menschen zwischen 18 und 30"
+    },
+    {
+      "exerciseId": "5",
+      "type": "fill_in",
+      "frage": "Wer vegetarisch isst, muss auf genug _______, Eisen und Vitamine achten.",
+      "turkce": "Vejetaryen beslenenler yeterli _______, demir ve vitamin aldıklarından emin olmalı.",
+      "ipucu": "Eiweiß - protein.",
+      "answer": "Eiweiß"
+    },
+    {
+      "exerciseId": "6",
+      "type": "richtig_falsch",
+      "frage": "Die Produktion von Fleisch verbraucht viel Wasser.",
+      "turkce": "Et üretimi çok su tüketir.",
+      "ipucu": "verbraucht die Produktion von Fleisch viel Wasser.",
+      "answer": "Richtig"
+    },
+    {
+      "exerciseId": "7",
+      "type": "multiple_choice",
+      "frage": "Was bietet der Trend bei Restaurants?",
+      "turkce": "Restoranlardaki trend ne sunuyor?",
+      "ipucu": "Restaurants bieten extra vegetarische Gerichte an.",
+      "options": ["Nur Fleischgerichte", "Extra vegetarische Gerichte", "Keine vegetarischen Gerichte"],
+      "answer": "Extra vegetarische Gerichte"
+    },
+    {
+      "exerciseId": "8",
+      "type": "free_answer",
+      "frage": "Würden Sie auf Fleisch verzichten? Schreiben Sie einen Satz.",
+      "turkce": "Eti bırakır mıydınız? Bir cümle yazın.",
+      "ipucu": "Ja, ich würde auf Fleisch verzichten, weil... / Nein, ich würde nicht auf Fleisch verzichten, weil..."
+    }
+  ]
+}

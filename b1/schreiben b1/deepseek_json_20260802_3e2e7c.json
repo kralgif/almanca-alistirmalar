@@ -1,0 +1,818 @@
+{
+  "title": "GOETHE B1 - SCHREIBEN (KONU BAZLI, 100 ALIŞTIRMA)",
+  "subtitle": "B1 SEVİYESİ YAZMA ALIŞTIRMALARI",
+  "sections": [
+    {
+      "sectionId": 1,
+      "sectionName": "VEGETARISCHES ESSEN",
+      "exercises": [
+        {
+          "exerciseId": "1",
+          "type": "writing",
+          "aufgabe": "Schreiben Sie einen Brief an Ihren Freund Max über Ihre Entscheidung, vegetarisch zu essen.",
+          "turkce": "Vejetaryen beslenme kararınız hakkında arkadaşınız Max'a bir mektup yazın.",
+          "keywords": ["Lieber", "schreibe", "entschieden", "vegetarisch", "Fleisch", "Gesundheit", "Umwelt", "Tiere", "Erfahrung", "Meinung", "zurück", "Grüße"],
+          "min_matches": 5,
+          "solution_example": "Lieber Max,\nich schreibe dir, weil ich mich entschieden habe, vegetarisch zu essen. Die Entscheidung war nicht leicht, aber ich finde es wichtig für die Tiere und das Klima. Bisher habe ich gute Erfahrungen gemacht und fühle mich viel energiegeladener. Was ist deine Meinung dazu? Schreib mir bald zurück!\n\nViele Grüße\nAnna",
+          "feedback_correct": "Gut gemacht! Dein Brief enthält alle wichtigen Punkte zum Thema vegetarische Ernährung.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'vegetarisch', 'Fleisch', 'Gesundheit', 'Umwelt' und 'Erfahrung'."
+        },
+        {
+          "exerciseId": "2",
+          "type": "writing",
+          "aufgabe": "Schreiben Sie eine E-Mail an die Schulleitung über mehr vegetarische Gerichte in der Mensa.",
+          "turkce": "Okul yönetimine kantinde daha fazla vejetaryen yemek olması hakkında bir e-posta yazın.",
+          "keywords": ["Sehr geehrte", "schreibe", "Mensa", "vegetarische Gerichte", "gesund", "Umwelt", "Auswahl", "freuen", "antworten", "Grüßen"],
+          "min_matches": 5,
+          "solution_example": "Sehr geehrte Frau Direktorin,\nich schreibe Ihnen, weil ich mir mehr vegetarische Gerichte in unserer Mensa wünsche. Vegetarische Ernährung ist nicht nur gesund, sondern auch gut für die Umwelt. Ich würde mich freuen, wenn wir mehr Auswahl hätten. Bitte antworten Sie mir zu diesem Vorschlag.\n\nMit freundlichen Grüßen\nMax Müller",
+          "feedback_correct": "Hervorragend! Deine E-Mail ist gut strukturiert und überzeugend.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'Mensa', 'vegetarische Gerichte', 'gesund' und 'Umwelt'."
+        },
+        {
+          "exerciseId": "3",
+          "type": "writing",
+          "aufgabe": "Schreiben Sie einen Forenbeitrag über die Vor- und Nachteile von vegetarischem Essen.",
+          "turkce": "Vejetaryen beslenmenin avantaj ve dezavantajları hakkında bir forum yazısı yazın.",
+          "keywords": ["Hallo", "Vorteile", "Nachteile", "vegetarisch", "gesund", "Umwelt", "Tiere", "teurer", "Auswahl", "Restaurants", "Meinung"],
+          "min_matches": 5,
+          "solution_example": "Hallo zusammen,\nvegetarisches Essen hat viele Vorteile: Es ist gesund, schützt die Umwelt und hilft den Tieren. Ein Nachteil ist, dass es oft teurer ist und man in Restaurants nicht immer viel Auswahl hat. Ich esse selbst vegetarisch und finde es eine gute Entscheidung. Was denkt ihr?\n\nViele Grüße\nLisa",
+          "feedback_correct": "Gut gemacht! Du hast die Vor- und Nachteile klar dargestellt.",
+          "feedback_wrong": "Bitte nenne mehr Vor- und Nachteile und verwende 'vegetarisch', 'gesund', 'Umwelt' und 'Auswahl'."
+        },
+        {
+          "exerciseId": "4",
+          "type": "writing",
+          "aufgabe": "Ihre Freundin Anna hat Ihnen eine E-Mail geschrieben und fragt, ob Sie Vegetarier sind. Schreiben Sie eine Antwort.",
+          "turkce": "Arkadaşınız Anna size bir e-posta yazdı ve vejetaryen olup olmadığınızı sordu. Bir cevap yazın.",
+          "keywords": ["Liebe", "danke", "Vegetarier", "ethische Gründe", "Alternativen", "empfehlen", "Gemüse", "Hülsenfrüchte", "Grüße"],
+          "min_matches": 4,
+          "solution_example": "Liebe Anna,\nvielen Dank für deine E-Mail! Ja, ich bin seit drei Monaten Vegetarier. Ich habe mich aus ethischen Gründen dafür entschieden. Es fällt mir gar nicht so schwer, weil es heute viele gute Alternativen gibt. Ich kann dir nur empfehlen, es auch mal zu probieren. Ich esse gerne Gemüsegerichte und Hülsenfrüchte.\n\nLiebe Grüße\nTom",
+          "feedback_correct": "Sehr gut! Du hast eine persönliche und informative Antwort geschrieben.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'Vegetarier', 'ethische Gründe', 'Alternativen' und 'empfehlen'."
+        },
+        {
+          "exerciseId": "5",
+          "type": "writing",
+          "aufgabe": "Sie waren in einem Restaurant, wo es kaum vegetarische Gerichte gab. Schreiben Sie eine Beschwerde-E-Mail.",
+          "turkce": "Neredeyse hiç vejetaryen yemek olmayan bir restorandaydınız. Bir şikayet e-postası yazın.",
+          "keywords": ["Guten Tag", "Restaurant", "enttäuscht", "vegetarische Gerichte", "Speisekarte", "Auswahl", "bitten", "Optionen", "Grüßen"],
+          "min_matches": 4,
+          "solution_example": "Guten Tag,\nich war am Samstag in Ihrem Restaurant und war sehr enttäuscht. Leider gab es kaum vegetarische Gerichte auf der Speisekarte. Als Vegetarier hatte ich fast keine Wahl. Ich bitte Sie, in Zukunft mehr vegetarische Optionen anzubieten. Vielen Dank.\n\nMit freundlichen Grüßen\nAnna Weber",
+          "feedback_correct": "Gut gemacht! Deine Beschwerde ist klar und höflich formuliert.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'Restaurant', 'vegetarische Gerichte', 'Auswahl' und 'Optionen'."
+        },
+        {
+          "exerciseId": "6",
+          "type": "writing",
+          "aufgabe": "Sie möchten Ihre Freunde zu einem vegetarischen Abendessen einladen. Schreiben Sie eine E-Mail.",
+          "turkce": "Arkadaşlarınızı vejetaryen bir akşam yemeğine davet etmek istiyorsunuz. Bir e-posta yazın.",
+          "keywords": ["Liebe Freunde", "lade ein", "vegetarisches Abendessen", "Pasta", "Gemüse", "Dessert", "Bescheid", "freue mich", "Grüße"],
+          "min_matches": 5,
+          "solution_example": "Liebe Freunde,\nich lade euch am Samstag um 19 Uhr zu einem vegetarischen Abendessen bei mir zu Hause ein. Ich werde eine leckere Pasta mit Gemüse und ein selbstgemachtes Dessert kochen. Bitte sagt mir bis Donnerstag Bescheid, ob ihr kommen könnt. Ich freue mich auf euch!\n\nViele Grüße\nLisa",
+          "feedback_correct": "Hervorragend! Deine Einladung ist herzlich und gut strukturiert.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'vegetarisches Abendessen', 'Pasta', 'Gemüse' ve 'Bescheid'."
+        },
+        {
+          "exerciseId": "7",
+          "type": "writing",
+          "aufgabe": "Schreiben Sie einen Artikel für die Schülerzeitung über vegetarische Ernährung.",
+          "turkce": "Okul gazetesi için vejetaryen beslenme hakkında bir makale yazın.",
+          "keywords": ["Titel", "vegetarisch", "gesund", "Umwelt", "Tiere", "Eiweiß", "Eisen", "ausprobieren", "lohnt sich"],
+          "min_matches": 4,
+          "solution_example": "Titel: Vegetarisch essen – gut für dich und die Umwelt\nImmer mehr Menschen essen kein Fleisch mehr. Vegetarische Ernährung ist nicht nur gesund, sondern schützt auch die Umwelt und die Tiere. Man sollte aber darauf achten, genug Eiweiß und Eisen zu essen. Ich finde, jeder sollte es mal ausprobieren. Es lohnt sich!",
+          "feedback_correct": "Gut gemacht! Dein Artikel ist informativ und überzeugend.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'vegetarisch', 'gesund', 'Umwelt', 'Eiweiß' und 'ausprobieren'."
+        },
+        {
+          "exerciseId": "8",
+          "type": "writing",
+          "aufgabe": "Sie sind Restaurantbesitzer und haben eine Beschwerde von einem Vegetarier erhalten. Schreiben Sie eine Antwort.",
+          "turkce": "Restoran sahibisiniz ve bir vejetaryenden şikayet aldınız. Bir cevap yazın.",
+          "keywords": ["Guten Tag", "entschuldige", "Auswahl", "vegetarische Gerichte", "Angebot", "Speisekarte", "Rabatt", "Grüßen"],
+          "min_matches": 4,
+          "solution_example": "Guten Tag,\nvielen Dank für Ihre Nachricht. Ich entschuldige mich für die mangelnde Auswahl an vegetarischen Gerichten. Wir werden unser Angebot überarbeiten und mehr vegetarische Optionen in unsere Speisekarte aufnehmen. Als Entschuldigung möchte ich Ihnen einen 20% Rabatt auf Ihren nächsten Besuch anbieten.\n\nMit freundlichen Grüßen\nPeter Schmidt",
+          "feedback_correct": "Sehr gut! Deine Antwort ist professionell und kundenorientiert.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'entschuldige', 'vegetarische Gerichte', 'Angebot' ve 'Rabatt'."
+        },
+        {
+          "exerciseId": "9",
+          "type": "writing",
+          "aufgabe": "Schreiben Sie einen Erfahrungsbericht über Ihre vegetarische Ernährung.",
+          "turkce": "Vejetaryen beslenme deneyiminiz hakkında bir deneyim raporu yazın.",
+          "keywords": ["Erfahrung", "vegetarisch", "Anfang", "schwer", "einfach", "gesünder", "Energie", "Restaurants", "empfehle"],
+          "min_matches": 4,
+          "solution_example": "Meine Erfahrung mit vegetarischer Ernährung\nIch esse seit einem Jahr vegetarisch. Anfangs war es schwer, aber jetzt finde ich es ganz einfach. Ich fühle mich viel gesünder und habe mehr Energie. Das Schwierigste war, in Restaurants etwas Passendes zu finden. Ich empfehle jedem, es langsam anzugehen.",
+          "feedback_correct": "Gut gemacht! Du hast deine Erfahrungen authentisch beschrieben.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'Erfahrung', 'vegetarisch', 'gesünder' ve 'empfehle'."
+        },
+        {
+          "exerciseId": "10",
+          "type": "writing",
+          "aufgabe": "Schreiben Sie einen Text, in dem Sie für vegetarische Ernährung argumentieren.",
+          "turkce": "Vejetaryen beslenmeyi savunduğunuz bir metin yazın.",
+          "keywords": ["Meiner Meinung nach", "vegetarisch", "Gesundheit", "Herzkrankheiten", "Umwelt", "Wasser", "Energie", "Tiere", "Fleisch"],
+          "min_matches": 5,
+          "solution_example": "Meiner Meinung nach sollte man vegetarisch essen, weil es viele Vorteile hat. Es ist gut für die Gesundheit und senkt das Risiko für Herzkrankheiten. Außerdem schützt es die Umwelt, weil die Fleischproduktion viel Wasser und Energie verbraucht. Auch für die Tiere ist es besser. Ich finde, wir sollten alle weniger Fleisch essen.",
+          "feedback_correct": "Hervorragend! Deine Argumentation ist überzeugend und gut strukturiert.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'vegetarisch', 'Gesundheit', 'Umwelt', 'Tiere' ve 'Fleisch'."
+        }
+      ]
+    },
+    {
+      "sectionId": 2,
+      "sectionName": "FAST FOOD",
+      "exercises": [
+        {
+          "exerciseId": "11",
+          "type": "writing",
+          "aufgabe": "Schreiben Sie einen Forenbeitrag über Fast Food.",
+          "turkce": "Fast food hakkında bir forum yazısı yazın.",
+          "keywords": ["Hallo", "Fast Food", "praktisch", "ungesund", "Vorteile", "Zeitersparnis", "Preise", "Nachteile", "Kalorien", "Fett", "Müll", "Grüße"],
+          "min_matches": 5,
+          "solution_example": "Hallo zusammen,\nFast Food ist praktisch, aber ungesund. Die Vorteile sind die Zeitersparnis und die niedrigen Preise. Die Nachteile sind die vielen Kalorien, das viele Fett und der ganze Müll. Ich esse Fast Food nur selten, etwa einmal im Monat. Wie oft esst ihr Fast Food?\n\nViele Grüße\nTom",
+          "feedback_correct": "Gut gemacht! Du hast die Vor- und Nachteile von Fast Food klar dargestellt.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'Fast Food', 'Vorteile', 'Nachteile', 'Kalorien' ve 'Müll'."
+        },
+        {
+          "exerciseId": "12",
+          "type": "writing",
+          "aufgabe": "Schreiben Sie einen Brief an einen Freund, der jeden Tag Fast Food isst.",
+          "turkce": "Her gün fast food yiyen bir arkadaşa mektup yazın.",
+          "keywords": ["Lieber", "schreibe", "Sorge", "Fast Food", "Gesundheit", "selbst kochen", "gesündere Alternativen", "helfen", "Grüße"],
+          "min_matches": 5,
+          "solution_example": "Lieber Tom,\nich schreibe dir, weil ich mir Sorgen mache. Du isst fast jeden Tag Fast Food. Das ist nicht gut für deine Gesundheit. Vielleicht könntest du mehr selbst kochen oder gesündere Alternativen essen. Ich helfe dir gerne dabei. Was denkst du darüber?\n\nViele Grüße\nAnna",
+          "feedback_correct": "Sehr gut! Dein Brief ist einfühlsam und hilfreich.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'Fast Food', 'Gesundheit', 'selbst kochen' ve 'gesündere Alternativen'."
+        },
+        {
+          "exerciseId": "13",
+          "type": "writing",
+          "aufgabe": "Schreiben Sie eine E-Mail an die Schulleitung über Fast Food in der Mensa.",
+          "turkce": "Okul yönetimine kantindeki fast food hakkında bir e-posta yazın.",
+          "keywords": ["Sehr geehrte", "schreibe", "Fast Food", "Mensa", "ungesund", "Schüler", "gesunde Alternativen", "Salate", "Vollkornprodukte", "vorschlagen", "Grüßen"],
+          "min_matches": 5,
+          "solution_example": "Sehr geehrte Frau Direktorin,\nich schreibe Ihnen, weil ich besorgt bin über das Fast-Food-Angebot in unserer Mensa. Zu viel Fast Food ist ungesund für die Schüler. Ich schlage vor, mehr gesunde Alternativen wie Salate und Vollkornprodukte anzubieten. Bitte antworten Sie mir zu diesem Vorschlag.\n\nMit freundlichen Grüßen\nMax Müller",
+          "feedback_correct": "Hervorragend! Deine E-Mail ist gut strukturiert und überzeugend.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'Fast Food', 'Mensa', 'ungesund', 'gesunde Alternativen' ve 'vorschlagen'."
+        },
+        {
+          "exerciseId": "14",
+          "type": "writing",
+          "aufgabe": "Sie waren in einem Fast-Food-Restaurant und das Essen war kalt. Schreiben Sie eine Beschwerde-E-Mail.",
+          "turkce": "Bir fast food restoranındaydınız ve yemek soğuktu. Bir şikayet e-postası yazın.",
+          "keywords": ["Guten Tag", "Restaurant", "Burger", "kalt", "Pommes", "enttäuscht", "Entschuldigung", "Rückerstattung", "Grüßen"],
+          "min_matches": 4,
+          "solution_example": "Guten Tag,\nich war am Samstag um 19 Uhr in Ihrem Restaurant und habe einen Burger bestellt. Das Essen war kalt und die Pommes waren labbrig. Ich bin sehr enttäuscht. Ich erwarte eine Entschuldigung und eine Rückerstattung.\n\nMit freundlichen Grüßen\nAnna Weber",
+          "feedback_correct": "Gut gemacht! Deine Beschwerde ist klar und höflich formuliert.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'Restaurant', 'kalt', 'enttäuscht' ve 'Rückerstattung'."
+        },
+        {
+          "exerciseId": "15",
+          "type": "writing",
+          "aufgabe": "Schreiben Sie einen Artikel für die Schülerzeitung über Fast Food.",
+          "turkce": "Okul gazetesi için fast food hakkında bir makale yazın.",
+          "keywords": ["Titel", "Fast Food", "schnell", "günstig", "ungesund", "Kalorien", "Übergewicht", "Krankheiten", "frisch kochen", "Salate"],
+          "min_matches": 5,
+          "solution_example": "Titel: Fast Food – praktisch, aber ungesund\nFast Food ist eine schnelle und günstige Mahlzeit. Es wird oft gegessen, weil es einfach ist. Aber es ist ungesund und verursacht viele Kalorien. Wer regelmäßig Fast Food isst, hat ein höheres Risiko für Übergewicht und Krankheiten. Besser ist es, frisch zu kochen oder Salate zu essen.",
+          "feedback_correct": "Sehr gut! Dein Artikel ist informativ und überzeugend.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'Fast Food', 'ungesund', 'Kalorien', 'Übergewicht' ve 'frisch kochen'."
+        },
+        {
+          "exerciseId": "16",
+          "type": "writing",
+          "aufgabe": "Jemand hat geschrieben: 'Fast Food ist nicht so schlimm, wie alle sagen.' Antworten Sie auf diesen Kommentar.",
+          "turkce": "Birisi 'Fast food herkesin dediği kadar kötü değil.' yazdı. Bu yoruma cevap yazın.",
+          "keywords": ["Hallo", "stimme nicht zu", "Fast Food", "Fett", "Salz", "Zucker", "jeden Tag", "krank", "einmal im Monat", "Grüße"],
+          "min_matches": 4,
+          "solution_example": "Hallo,\nich stimme dir nicht ganz zu. Fast Food ist nicht immer schlimm, aber man sollte es nicht zu oft essen. Es enthält viel Fett, Salz und Zucker. Wenn man es jeden Tag isst, wird man krank. Einmal im Monat ist okay. Was denkst du?\n\nViele Grüße\nTom",
+          "feedback_correct": "Gut gemacht! Du hast eine ausgewogene Meinung geäußert.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'Fast Food', 'Fett', 'Salz', 'Zucker' ve 'jeden Tag'."
+        },
+        {
+          "exerciseId": "17",
+          "type": "writing",
+          "aufgabe": "Sie möchten Freunde zu einem gesunden Abendessen einladen, statt Fast Food zu essen.",
+          "turkce": "Arkadaşlarınızı fast food yemek yerine sağlıklı bir akşam yemeğine davet etmek istiyorsunuz.",
+          "keywords": ["Liebe Freunde", "lade ein", "gesundes Abendessen", "Gemüse", "Reis", "Salat", "kein Fast Food", "Bescheid", "Grüße"],
+          "min_matches": 5,
+          "solution_example": "Liebe Freunde,\nich lade euch am Freitag um 19 Uhr zu einem gesunden Abendessen bei mir ein. Ich koche frisches Gemüse mit Reis und einen leckeren Salat. Kein Fast Food! Bitte sagt mir bis Mittwoch Bescheid, ob ihr kommen könnt.\n\nViele Grüße\nLisa",
+          "feedback_correct": "Hervorragend! Deine Einladung ist herzlich und überzeugend.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'gesundes Abendessen', 'Gemüse', 'Salat' ve 'kein Fast Food'."
+        },
+        {
+          "exerciseId": "18",
+          "type": "writing",
+          "aufgabe": "Schreiben Sie einen Erfahrungsbericht über Ihre Fast-Food-Gewohnheiten.",
+          "turkce": "Fast food alışkanlıklarınız hakkında bir deneyim raporu yazın.",
+          "keywords": ["Erfahrung", "Fast Food", "einmal pro Woche", "Wochenende", "träge", "müde", "ungesund", "reduzieren", "selbst kochen"],
+          "min_matches": 4,
+          "solution_example": "Meine Erfahrung mit Fast Food\nIch esse etwa einmal pro Woche Fast Food. Meistens am Wochenende, wenn ich wenig Zeit habe. Danach fühle ich mich oft träge und müde. Ich weiß, dass es ungesund ist, und möchte es reduzieren. Ich versuche jetzt, öfter selbst zu kochen.",
+          "feedback_correct": "Gut gemacht! Du hast deine Erfahrungen authentisch beschrieben.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'Fast Food', 'Wochenende', 'ungesund' ve 'selbst kochen'."
+        },
+        {
+          "exerciseId": "19",
+          "type": "writing",
+          "aufgabe": "Schreiben Sie einen Text, in dem Sie gegen Fast Food argumentieren.",
+          "turkce": "Fast food'a karşı argümanlarınızı sunduğunuz bir metin yazın.",
+          "keywords": ["Meiner Meinung nach", "Fast Food", "Nachteile", "ungesund", "Fett", "Zucker", "Müll", "Umwelt", "frisch kochen"],
+          "min_matches": 5,
+          "solution_example": "Meiner Meinung nach sollte man weniger Fast Food essen, weil es viele Nachteile hat. Es ist ungesund, macht dick und enthält zu viel Fett und Zucker. Außerdem produziert es viel Müll, der die Umwelt belastet. Wer sich gesund ernähren will, sollte lieber frisch kochen.",
+          "feedback_correct": "Hervorragend! Deine Argumentation ist überzeugend.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'Fast Food', 'ungesund', 'Fett', 'Müll' ve 'frisch kochen'."
+        },
+        {
+          "exerciseId": "20",
+          "type": "writing",
+          "aufgabe": "Schreiben Sie einen Blogbeitrag mit Tipps für gesündere Ernährung ohne Fast Food.",
+          "turkce": "Fast food olmadan daha sağlıklı beslenme için tüyolar içeren bir blog yazısı yazın.",
+          "keywords": ["Hallo", "Fast Food", "selbst kochen", "gesund", "Salate", "Vollkornbrote", "Alternativen", "Grüße"],
+          "min_matches": 5,
+          "solution_example": "Hallo zusammen,\nwer Fast Food vermeiden will, kann einfach selbst kochen. Ich koche oft große Portionen und friere sie ein. So habe ich immer etwas Gesundes zu essen. Auch Salate und Vollkornbrote sind gute Alternativen. Probiert es aus!\n\nViele Grüße\nAnna",
+          "feedback_correct": "Sehr gut! Deine Tipps sind praktisch und hilfreich.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'Fast Food', 'selbst kochen', 'Salate' ve 'Alternativen'."
+        }
+      ]
+    },
+    {
+      "sectionId": 3,
+      "sectionName": "SOZIALE NETZWERKE",
+      "exercises": [
+        {
+          "exerciseId": "21",
+          "type": "writing",
+          "aufgabe": "Schreiben Sie einen Forenbeitrag über soziale Netzwerke.",
+          "turkce": "Sosyal ağlar hakkında bir forum yazısı yazın.",
+          "keywords": ["Hallo", "soziale Netzwerke", "täglich", "Freunde", "Vorteile", "Kommunikation", "Unterhaltung", "Nachteile", "Zeit", "Datenschutz", "Grüße"],
+          "min_matches": 5,
+          "solution_example": "Hallo zusammen,\nich nutze soziale Netzwerke täglich, um mit Freunden in Kontakt zu bleiben. Die Vorteile sind die schnelle Kommunikation und die Unterhaltung. Nachteile sind die Zeit, die man verliert, und die Gefahr von Datenschutzproblemen. Ich versuche, nur eine Stunde pro Tag zu nutzen.\n\nViele Grüße\nLisa",
+          "feedback_correct": "Gut gemacht! Du hast die Vor- und Nachteile von sozialen Netzwerken klar dargestellt.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'soziale Netzwerke', 'Vorteile', 'Nachteile', 'Zeit' ve 'Datenschutz'."
+        },
+        {
+          "exerciseId": "22",
+          "type": "writing",
+          "aufgabe": "Schreiben Sie einen Brief an einen Freund, der zu viel Zeit auf Instagram verbringt.",
+          "turkce": "Instagram'da çok fazla zaman geçiren bir arkadaşa mektup yazın.",
+          "keywords": ["Lieber", "schreibe", "Sorge", "Instagram", "viel Zeit", "Pause", "treffen", "helfen", "Grüße"],
+          "min_matches": 4,
+          "solution_example": "Lieber Alex,\nich schreibe dir, weil ich mir Sorgen mache. Du verbringst sehr viel Zeit auf Instagram. Das ist nicht gut für dich. Vielleicht könntest du eine Pause machen und wir könnten uns mal wieder treffen. Ich helfe dir gerne dabei.\n\nViele Grüße\nTom",
+          "feedback_correct": "Sehr gut! Dein Brief ist einfühlsam und hilfreich.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'Instagram', 'viel Zeit', 'Pause' ve 'helfen'."
+        },
+        {
+          "exerciseId": "23",
+          "type": "writing",
+          "aufgabe": "Schreiben Sie eine E-Mail an die Schulleitung über die Nutzung von Social Media in der Schule.",
+          "turkce": "Okul yönetimine okulda sosyal medya kullanımı hakkında bir e-posta yazın.",
+          "keywords": ["Sehr geehrte", "schreibe", "Social Media", "Schule", "problematisch", "Schüler", "Unterricht", "ablenken", "Regeln", "Grüßen"],
+          "min_matches": 5,
+          "solution_example": "Sehr geehrte Frau Direktorin,\nich schreibe Ihnen, weil ich die Nutzung von Social Media in der Schule problematisch finde. Viele Schüler lassen sich dadurch vom Unterricht ablenken. Ich schlage vor, dass wir Regeln für die Nutzung einführen. Bitte antworten Sie mir.\n\nMit freundlichen Grüßen\nMax",
+          "feedback_correct": "Hervorragend! Deine E-Mail ist gut strukturiert und überzeugend.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'Social Media', 'Schule', 'Unterricht', 'ablenken' ve 'Regeln'."
+        },
+        {
+          "exerciseId": "24",
+          "type": "writing",
+          "aufgabe": "Schreiben Sie einen Artikel über die Gefahren von sozialen Netzwerken.",
+          "turkce": "Sosyal ağların tehlikeleri hakkında bir makale yazın.",
+          "keywords": ["Titel", "soziale Netzwerke", "Gefahren", "süchtig", "Privatsphäre", "Cybermobbing", "Datenmissbrauch", "Nutzungszeit", "schützen"],
+          "min_matches": 5,
+          "solution_example": "Titel: Soziale Netzwerke – Fluch oder Segen?\nSoziale Netzwerke sind praktisch, aber sie haben auch Gefahren. Sie können süchtig machen und die Privatsphäre gefährden. Außerdem gibt es Cybermobbing und Datenmissbrauch. Man sollte die Nutzungszeit begrenzen und persönliche Daten schützen.",
+          "feedback_correct": "Sehr gut! Dein Artikel ist informativ und gut strukturiert.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'soziale Netzwerke', 'Gefahren', 'Privatsphäre', 'Cybermobbing' ve 'Datenmissbrauch'."
+        },
+        {
+          "exerciseId": "25",
+          "type": "writing",
+          "aufgabe": "Jemand hat geschrieben: 'Soziale Netzwerke sind großartig. Ich kann nicht ohne sie leben.' Antworten Sie.",
+          "turkce": "Birisi 'Sosyal ağlar harika. Onlarsız yaşayamam.' yazdı. Cevap yazın.",
+          "keywords": ["Hallo", "verstehe", "Begeisterung", "soziale Netzwerke", "Zeit", "reales Leben", "Tag ohne Social Media", "Grüße"],
+          "min_matches": 4,
+          "solution_example": "Hallo,\nich verstehe deine Begeisterung, aber ich finde, man sollte nicht zu viel Zeit in sozialen Netzwerken verbringen. Sie sind zwar praktisch, aber das reale Leben ist wichtiger. Versuche doch mal einen Tag ohne Social Media. Das ist gar nicht so schwer!\n\nViele Grüße\nAnna",
+          "feedback_correct": "Gut gemacht! Du hast eine ausgewogene Meinung geäußert.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'soziale Netzwerke', 'Zeit', 'reales Leben' ve 'Tag ohne Social Media'."
+        },
+        {
+          "exerciseId": "26",
+          "type": "writing",
+          "aufgabe": "Schreiben Sie einen Erfahrungsbericht über Ihre Nutzung von sozialen Netzwerken.",
+          "turkce": "Sosyal ağ kullanım deneyiminiz hakkında bir deneyim raporu yazın.",
+          "keywords": ["Erfahrung", "soziale Netzwerke", "Instagram", "WhatsApp", "täglich", "Zeit", "unruhig", "vergleichen", "reales Leben"],
+          "min_matches": 4,
+          "solution_example": "Meine Erfahrung mit sozialen Netzwerken\nIch nutze Instagram und WhatsApp täglich. Ich verbringe etwa zwei Stunden am Tag damit. Manchmal fühle ich mich danach unruhig und vergleiche mich mit anderen. Ich möchte weniger Zeit darauf verbringen und mehr im realen Leben unternehmen.",
+          "feedback_correct": "Sehr gut! Du hast deine Erfahrungen authentisch beschrieben.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'soziale Netzwerke', 'täglich', 'Zeit' ve 'reales Leben'."
+        },
+        {
+          "exerciseId": "27",
+          "type": "writing",
+          "aufgabe": "Schreiben Sie einen Text, in dem Sie gegen soziale Netzwerke argumentieren.",
+          "turkce": "Sosyal ağlara karşı argümanlarınızı sunduğunuz bir metin yazın.",
+          "keywords": ["Meiner Meinung nach", "soziale Netzwerke", "problematisch", "süchtig", "Konzentration", "persönliche Daten", "missbraucht", "unsicher", "vergleichen"],
+          "min_matches": 5,
+          "solution_example": "Meiner Meinung nach sind soziale Netzwerke problematisch, weil sie süchtig machen und die Konzentration stören. Außerdem werden persönliche Daten oft missbraucht. Viele Menschen fühlen sich unsicher, wenn sie sich mit anderen vergleichen. Ich finde, wir sollten weniger Zeit in sozialen Netzwerken verbringen.",
+          "feedback_correct": "Hervorragend! Deine Argumentation ist überzeugend.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'soziale Netzwerke', 'süchtig', 'Konzentration', 'persönliche Daten' ve 'missbraucht'."
+        },
+        {
+          "exerciseId": "28",
+          "type": "writing",
+          "aufgabe": "Schreiben Sie einen Blogbeitrag mit Tipps für den Umgang mit sozialen Netzwerken.",
+          "turkce": "Sosyal ağlarla başa çıkma tüyoları içeren bir blog yazısı yazın.",
+          "keywords": ["Hallo", "Social Media", "Zeit", "feste Zeiten", "Pause", "Benachrichtigungen", "Freunde", "Grüße"],
+          "min_matches": 5,
+          "solution_example": "Hallo zusammen,\nwer nicht zu viel Zeit auf Social Media verbringen will, sollte sich feste Zeiten setzen. Zum Beispiel nur eine Stunde am Tag. Auch eine Pause von einer Woche hilft. Schaltet die Benachrichtigungen aus und verbringt mehr Zeit mit Freunden. Probiert es aus!\n\nViele Grüße\nTom",
+          "feedback_correct": "Sehr gut! Deine Tipps sind praktisch und hilfreich.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'Social Media', 'feste Zeiten', 'Pause' ve 'Benachrichtigungen'."
+        },
+        {
+          "exerciseId": "29",
+          "type": "writing",
+          "aufgabe": "Sie haben erfahren, dass Ihre Daten von einer Social-Media-Plattform verkauft wurden. Schreiben Sie eine Beschwerde-E-Mail.",
+          "turkce": "Verilerinizin bir sosyal medya platformu tarafından satıldığını öğrendiniz. Bir şikayet e-postası yazın.",
+          "keywords": ["Guten Tag", "persönliche Daten", "verkauft", "Datenschutz", "Erklärung", "Löschung", "rechtliche Schritte", "Grüßen"],
+          "min_matches": 4,
+          "solution_example": "Guten Tag,\nich habe erfahren, dass meine persönlichen Daten von Ihrer Plattform verkauft wurden. Das ist ein Verstoß gegen den Datenschutz. Ich fordere eine sofortige Erklärung und die Löschung meiner Daten. Andernfalls werde ich rechtliche Schritte einleiten.\n\nMit freundlichen Grüßen\nAnna Weber",
+          "feedback_correct": "Gut gemacht! Deine Beschwerde ist klar und deutlich formuliert.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'persönliche Daten', 'verkauft', 'Datenschutz' ve 'Löschung'."
+        },
+        {
+          "exerciseId": "30",
+          "type": "writing",
+          "aufgabe": "Sie möchten einen Abend ohne Social Media verbringen. Schreiben Sie eine Einladung an Ihre Freunde.",
+          "turkce": "Sosyal medyasız bir akşam geçirmek istiyorsunuz. Arkadaşlarınıza bir davetiye yazın.",
+          "keywords": ["Liebe Freunde", "lade ein", "Social-Media-freier Abend", "Spiele", "reden", "essen", "Handys", "Bescheid", "Grüße"],
+          "min_matches": 5,
+          "solution_example": "Liebe Freunde,\nich lade euch zu einem Social-Media-freien Abend ein. Wir treffen uns am Samstag um 19 Uhr bei mir zu Hause. Wir spielen Spiele, reden und essen zusammen. Bitte lasst eure Handys zu Hause! Sagt mir bis Freitag Bescheid.\n\nViele Grüße\nLisa",
+          "feedback_correct": "Hervorragend! Deine Einladung ist kreativ und einladend.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'Social-Media-freier Abend', 'Spiele', 'Handys' ve 'Bescheid'."
+        }
+      ]
+    },
+    {
+      "sectionId": 4,
+      "sectionName": "ONLINE SHOPPING",
+      "exercises": [
+        {
+          "exerciseId": "36",
+          "type": "writing",
+          "aufgabe": "Schreiben Sie einen Forenbeitrag über Online Shopping.",
+          "turkce": "Online alışveriş hakkında bir forum yazısı yazın.",
+          "keywords": ["Hallo", "online", "Kleidung", "Bücher", "Vorteile", "Auswahl", "Zeitersparnis", "Nachteile", "Rücksendung", "Datenschutz", "empfehle", "Grüße"],
+          "min_matches": 5,
+          "solution_example": "Hallo zusammen,\nich kaufe oft Kleidung und Bücher online. Die Vorteile sind die große Auswahl und die Zeitersparnis. Nachteile sind die Rücksendung und der Datenschutz. Meine Erfahrungen sind meist positiv. Ich empfehle, die Preise zu vergleichen und Bewertungen zu lesen.\n\nViele Grüße\nMax",
+          "feedback_correct": "Gut gemacht! Du hast die Vor- und Nachteile von Online Shopping klar dargestellt.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'online', 'Vorteile', 'Nachteile', 'Rücksendung' ve 'empfehle'."
+        },
+        {
+          "exerciseId": "37",
+          "type": "writing",
+          "aufgabe": "Sie haben online etwas bestellt, aber das falsche Produkt erhalten. Schreiben Sie eine Beschwerde-E-Mail.",
+          "turkce": "Online bir şey sipariş ettiniz ama yanlış ürün geldi. Bir şikayet e-postası yazın.",
+          "keywords": ["Guten Tag", "bestellt", "Pullover", "Größe M", "Hemd", "tauschen", "erstatten", "Bestellnummer", "Grüßen"],
+          "min_matches": 4,
+          "solution_example": "Guten Tag,\nich habe einen Pullover in Größe M bestellt, aber ein Hemd erhalten. Bitte tauschen Sie den Artikel um oder erstatten Sie das Geld. Meine Bestellnummer ist 12345. Ich erwarte eine schnelle Lösung.\n\nMit freundlichen Grüßen\nAnna Weber",
+          "feedback_correct": "Gut gemacht! Deine Beschwerde ist klar und höflich formuliert.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'bestellt', 'tauschen', 'erstatten' ve 'Bestellnummer'."
+        },
+        {
+          "exerciseId": "38",
+          "type": "writing",
+          "aufgabe": "Schreiben Sie einen Blogbeitrag mit Tipps für sicheres Online Shopping.",
+          "turkce": "Güvenli online alışveriş için tüyolar içeren bir blog yazısı yazın.",
+          "keywords": ["Hallo", "sicher", "online", "einkaufen", "Bewertungen", "PayPal", "Kreditkarte", "persönliche Daten", "Grüße"],
+          "min_matches": 5,
+          "solution_example": "Hallo zusammen,\nwer sicher online einkaufen will, sollte auf seriöse Seiten achten und Bewertungen lesen. Zahlt nie mit Überweisung, sondern mit PayPal oder Kreditkarte. Gebt nie zu viele persönliche Daten preis. Sicher ist sicher!\n\nViele Grüße\nTom",
+          "feedback_correct": "Sehr gut! Deine Tipps sind praktisch und hilfreich.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'sicher', 'online', 'Bewertungen', 'PayPal' ve 'persönliche Daten'."
+        },
+        {
+          "exerciseId": "39",
+          "type": "writing",
+          "aufgabe": "Ein Kunde fragt: 'Ist Online Shopping sicher?' Schreiben Sie eine Antwort.",
+          "turkce": "Bir müşteri 'Online alışveriş güvenli mi?' diye soruyor. Bir cevap yazın.",
+          "keywords": ["Guten Tag", "Online Shopping", "sicher", "Anbieter", "Schloss-Symbol", "Bewertungen", "Grüßen"],
+          "min_matches": 4,
+          "solution_example": "Guten Tag,\nOnline Shopping kann sicher sein, wenn man einige Regeln beachtet. Kaufen Sie nur bei bekannten Anbietern und achten Sie auf das Schloss-Symbol in der Adressleiste. Lesen Sie die Bewertungen anderer Kunden. So sind Sie auf der sicheren Seite.\n\nMit freundlichen Grüßen\nMax",
+          "feedback_correct": "Gut gemacht! Deine Antwort ist informativ und hilfreich.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'Online Shopping', 'sicher', 'Anbieter' ve 'Bewertungen'."
+        },
+        {
+          "exerciseId": "40",
+          "type": "writing",
+          "aufgabe": "Schreiben Sie einen Text, in dem Sie für Online Shopping argumentieren.",
+          "turkce": "Online alışverişi savunduğunuz bir metin yazın.",
+          "keywords": ["Meiner Meinung nach", "Online Shopping", "praktisch", "von zu Hause", "Zeit", "Auswahl", "Preise vergleichen", "Lieferung", "Zukunft"],
+          "min_matches": 5,
+          "solution_example": "Meiner Meinung nach ist Online Shopping eine gute Sache, weil es sehr praktisch ist. Man kann von zu Hause aus einkaufen und spart Zeit. Außerdem hat man eine riesige Auswahl und kann Preise vergleichen. Auch die Lieferung nach Hause ist ein großer Vorteil. Online Shopping ist die Zukunft.",
+          "feedback_correct": "Hervorragend! Deine Argumentation ist überzeugend.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'Online Shopping', 'praktisch', 'Auswahl', 'Preise vergleichen' ve 'Lieferung'."
+        },
+        {
+          "exerciseId": "41",
+          "type": "writing",
+          "aufgabe": "Schreiben Sie einen Text, in dem Sie gegen Online Shopping argumentieren.",
+          "turkce": "Online alışverişe karşı argümanlarınızı sunduğunuz bir metin yazın.",
+          "keywords": ["Meiner Meinung nach", "Online Shopping", "nicht anfassen", "nicht anprobieren", "Rücksendung", "Müll", "lokaler Einzelhandel", "lieber im Geschäft"],
+          "min_matches": 5,
+          "solution_example": "Meiner Meinung nach ist Online Shopping nicht immer gut, weil man die Produkte nicht anfassen oder anprobieren kann. Die Rücksendung ist oft umständlich und verursacht viel Müll. Außerdem leidet der lokale Einzelhandel darunter. Ich gehe lieber ins Geschäft.",
+          "feedback_correct": "Sehr gut! Deine Argumentation ist überzeugend.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'Online Shopping', 'nicht anprobieren', 'Rücksendung', 'Müll' ve 'lokaler Einzelhandel'."
+        },
+        {
+          "exerciseId": "42",
+          "type": "writing",
+          "aufgabe": "Schreiben Sie einen Erfahrungsbericht über Ihre Erfahrungen mit Online Shopping.",
+          "turkce": "Online alışveriş deneyimleriniz hakkında bir deneyim raporu yazın.",
+          "keywords": ["Erfahrung", "Online Shopping", "einmal im Monat", "Buch", "Kleidung", "Größen", "empfehle"],
+          "min_matches": 4,
+          "solution_example": "Meine Erfahrung mit Online Shopping\nIch kaufe etwa einmal im Monat online ein. Meine beste Erfahrung war mit einem Buch, das günstig und schnell geliefert wurde. Meine schlechteste Erfahrung war mit Kleidung, die nicht passte und umständlich zurückgesendet werden musste. Ich empfehle, Größen genau zu prüfen.",
+          "feedback_correct": "Gut gemacht! Du hast deine Erfahrungen authentisch beschrieben.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'Online Shopping', 'Erfahrung', 'Buch', 'Kleidung' ve 'empfehle'."
+        },
+        {
+          "exerciseId": "43",
+          "type": "writing",
+          "aufgabe": "Sie sind Kundenservice-Mitarbeiter und haben eine Beschwerde erhalten. Schreiben Sie eine Antwort.",
+          "turkce": "Müşteri hizmetleri çalışanısınız ve bir şikayet aldınız. Bir cevap yazın.",
+          "keywords": ["Guten Tag", "danke", "Beschwerde", "Bestellung", "weitergeleitet", "Lösung", "Unannehmlichkeiten", "Grüßen"],
+          "min_matches": 4,
+          "solution_example": "Guten Tag,\nvielen Dank für Ihre Nachricht. Es tut mir leid, dass Sie Probleme mit Ihrer Bestellung hatten. Ich habe Ihr Anliegen an die zuständige Abteilung weitergeleitet. Sie erhalten innerhalb von 24 Stunden eine Lösung. Wir entschuldigen uns für die Unannehmlichkeiten.\n\nMit freundlichen Grüßen\nLisa",
+          "feedback_correct": "Sehr gut! Deine Antwort ist professionell und kundenorientiert.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'Beschwerde', 'Bestellung', 'weitergeleitet' ve 'Lösung'."
+        },
+        {
+          "exerciseId": "44",
+          "type": "writing",
+          "aufgabe": "Schreiben Sie einen Brief an den Einzelhandel über die Konkurrenz durch Online Shopping.",
+          "turkce": "Online alışverişin rekabeti hakkında perakende sektörüne bir mektup yazın.",
+          "keywords": ["Sehr geehrte", "schreibe", "Einzelhandel", "Online Shopping", "beliebter", "lokaler Handel", "Beratung", "Service", "Vorteil", "Grüßen"],
+          "min_matches": 5,
+          "solution_example": "Sehr geehrte Damen und Herren,\nich schreibe Ihnen, weil ich den Einzelhandel in meiner Stadt unterstützen möchte. Online Shopping wird immer beliebter, aber ich finde, dass der lokale Handel bessere Beratung und persönlichen Service bieten kann. Das ist ein großer Vorteil gegenüber dem Internet.\n\nMit freundlichen Grüßen\nMax",
+          "feedback_correct": "Hervorragend! Dein Brief ist gut strukturiert und überzeugend.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'Einzelhandel', 'Online Shopping', 'Beratung', 'Service' ve 'Vorteil'."
+        },
+        {
+          "exerciseId": "45",
+          "type": "writing",
+          "aufgabe": "Sie möchten mit Freunden einen Shopping-Tag in der Stadt machen. Schreiben Sie eine Einladung.",
+          "turkce": "Arkadaşlarınızla şehirde bir alışveriş günü yapmak istiyorsunuz. Bir davetiye yazın.",
+          "keywords": ["Liebe Freunde", "lade ein", "Shopping-Tag", "Stadt", "Hauptbahnhof", "anprobieren", "Mittagessen", "Bescheid", "Grüße"],
+          "min_matches": 5,
+          "solution_example": "Liebe Freunde,\nich lade euch zu einem Shopping-Tag in der Stadt ein. Wir treffen uns am Samstag um 10 Uhr am Hauptbahnhof. Ich möchte lieber im Geschäft einkaufen, weil man die Sachen anprobieren kann. Wir können dann gemeinsam Mittagessen. Sagt mir bis Freitag Bescheid!\n\nViele Grüße\nAnna",
+          "feedback_correct": "Sehr gut! Deine Einladung ist herzlich und gut strukturiert.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'Shopping-Tag', 'Stadt', 'anprobieren', 'Mittagessen' ve 'Bescheid'."
+        }
+      ]
+    },
+    {
+      "sectionId": 5,
+      "sectionName": "MODE",
+      "exercises": [
+        {
+          "exerciseId": "46",
+          "type": "writing",
+          "aufgabe": "Schreiben Sie einen Forenbeitrag über Markenkleidung.",
+          "turkce": "Marka giyim hakkında bir forum yazısı yazın.",
+          "keywords": ["Hallo", "Markenkleidung", "gut aussieht", "lange hält", "teuer", "fair produziert", "Second-Hand", "Meinung", "Grüße"],
+          "min_matches": 4,
+          "solution_example": "Hallo zusammen,\nich trage manchmal Markenkleidung, weil sie gut aussieht und lange hält. Aber sie ist teuer und oft nicht fair produziert. Ich versuche, mehr auf Second-Hand zu achten. Was ist eure Meinung zu Markenkleidung?\n\nViele Grüße\nAnna",
+          "feedback_correct": "Gut gemacht! Du hast die Vor- und Nachteile von Markenkleidung klar dargestellt.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'Markenkleidung', 'teuer', 'fair produziert' ve 'Second-Hand'."
+        },
+        {
+          "exerciseId": "47",
+          "type": "writing",
+          "aufgabe": "Schreiben Sie einen Text, in dem Sie für Second-Hand-Kleidung argumentieren.",
+          "turkce": "İkinci el giyimi savunduğunuz bir metin yazın.",
+          "keywords": ["Meiner Meinung nach", "Second-Hand-Kleidung", "günstig", "umweltfreundlich", "einzigartig", "Müll reduzieren", "Modeindustrie", "kaufen"],
+          "min_matches": 5,
+          "solution_example": "Meiner Meinung nach ist Second-Hand-Kleidung eine gute Wahl, weil sie günstig und umweltfreundlich ist. Man findet oft besondere und einzigartige Stücke. Außerdem hilft man, den Müll in der Modeindustrie zu reduzieren. Ich kaufe meine Kleidung meistens second-hand.",
+          "feedback_correct": "Hervorragend! Deine Argumentation ist überzeugend.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'Second-Hand-Kleidung', 'günstig', 'umweltfreundlich', 'einzigartig' ve 'Müll reduzieren'."
+        },
+        {
+          "exerciseId": "48",
+          "type": "writing",
+          "aufgabe": "Schreiben Sie eine E-Mail an die Schulleitung über Schuluniformen.",
+          "turkce": "Okul yönetimine okul üniformaları hakkında bir e-posta yazın.",
+          "keywords": ["Sehr geehrte", "schreibe", "Schuluniformen", "Markendruck", "unwohl", "Meinung", "Grüßen"],
+          "min_matches": 4,
+          "solution_example": "Sehr geehrte Frau Direktorin,\nich schreibe Ihnen, weil ich über Schuluniformen nachdenke. Ich finde sie gut, weil alle Schüler gleich aussehen und es keinen Markendruck gibt. Aber manche Schüler fühlen sich in Uniform unwohl. Was ist Ihre Meinung dazu?\n\nMit freundlichen Grüßen\nMax",
+          "feedback_correct": "Gut gemacht! Deine E-Mail ist klar und gut strukturiert.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'Schuluniformen', 'Markendruck', 'unwohl' ve 'Meinung'."
+        },
+        {
+          "exerciseId": "49",
+          "type": "writing",
+          "aufgabe": "Schreiben Sie einen Artikel über nachhaltige Mode.",
+          "turkce": "Sürdürülebilir moda hakkında bir makale yazın.",
+          "keywords": ["Titel", "nachhaltige Mode", "faire Bedingungen", "Umwelt", "Qualität", "Masse", "weniger kaufen", "gute Kleidung", "schützen"],
+          "min_matches": 5,
+          "solution_example": "Titel: Nachhaltige Mode – gut für dich und die Umwelt\nNachhaltige Mode wird immer beliebter. Sie wird unter fairen Bedingungen produziert und schont die Umwelt. Man sollte auf Qualität statt auf Masse achten. Kauft lieber weniger, dafür aber gute Kleidung. So schützt ihr die Umwelt und unterstützt faire Arbeitsbedingungen.",
+          "feedback_correct": "Sehr gut! Dein Artikel ist informativ und überzeugend.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'nachhaltige Mode', 'faire Bedingungen', 'Umwelt', 'Qualität' ve 'weniger kaufen'."
+        },
+        {
+          "exerciseId": "50",
+          "type": "writing",
+          "aufgabe": "Jemand hat geschrieben: 'Markenkleidung ist viel besser als Second-Hand-Kleidung.' Antworten Sie.",
+          "turkce": "Birisi 'Marka giyim ikinci el giyimden çok daha iyidir.' yazdı. Cevap yazın.",
+          "keywords": ["Hallo", "Markenkleidung", "Second-Hand", "günstiger", "umweltfreundlicher", "Probier", "Grüße"],
+          "min_matches": 4,
+          "solution_example": "Hallo,\nich finde, dass Markenkleidung nicht immer besser ist. Second-Hand-Kleidung kann genauso gut aussehen und ist viel günstiger. Außerdem ist sie umweltfreundlicher. Man sollte nicht immer das Neueste kaufen. Probier doch mal Second-Hand aus!\n\nViele Grüße\nTom",
+          "feedback_correct": "Gut gemacht! Du hast eine ausgewogene Meinung geäußert.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'Markenkleidung', 'Second-Hand', 'günstiger' ve 'umweltfreundlicher'."
+        },
+        {
+          "exerciseId": "51",
+          "type": "writing",
+          "aufgabe": "Schreiben Sie einen Erfahrungsbericht über Second-Hand-Shopping.",
+          "turkce": "İkinci el alışveriş deneyiminiz hakkında bir deneyim raporu yazın.",
+          "keywords": ["Erfahrung", "Second-Hand", "positiv", "tolle Stücke", "Geld sparen", "nachhaltig", "empfehle", "Geduld"],
+          "min_matches": 4,
+          "solution_example": "Meine Erfahrung mit Second-Hand-Kleidung\nIch kaufe seit zwei Jahren Second-Hand. Meine Erfahrungen sind sehr positiv. Man findet tolle Stücke und spart viel Geld. Das Beste ist, dass es nachhaltig ist. Ich empfehle es jedem, es mal auszuprobieren. Man braucht nur etwas Geduld.",
+          "feedback_correct": "Sehr gut! Du hast deine Erfahrungen authentisch beschrieben.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'Second-Hand', 'positiv', 'Geld sparen', 'nachhaltig' ve 'empfehle'."
+        },
+        {
+          "exerciseId": "52",
+          "type": "writing",
+          "aufgabe": "Schreiben Sie einen Text, in dem Sie für Schuluniformen argumentieren.",
+          "turkce": "Okul üniformalarını savunduğunuz bir metin yazın.",
+          "keywords": ["Meiner Meinung nach", "Schuluniformen", "soziale Unterschiede", "Markenkleidung", "Zusammenhalt", "einführen"],
+          "min_matches": 4,
+          "solution_example": "Meiner Meinung nach sind Schuluniformen eine gute Idee, weil sie soziale Unterschiede verschwinden lassen. Alle Schüler sehen gleich aus und es gibt keinen Druck, teure Markenkleidung zu kaufen. Außerdem stärkt es den Zusammenhalt in der Klasse. Ich finde, wir sollten Schuluniformen einführen.",
+          "feedback_correct": "Hervorragend! Deine Argumentation ist überzeugend.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'Schuluniformen', 'soziale Unterschiede', 'Markenkleidung' ve 'Zusammenhalt'."
+        },
+        {
+          "exerciseId": "53",
+          "type": "writing",
+          "aufgabe": "Schreiben Sie einen Text, in dem Sie gegen Schuluniformen argumentieren.",
+          "turkce": "Okul üniformalarına karşı argümanlarınızı sunduğunuz bir metin yazın.",
+          "keywords": ["Meiner Meinung nach", "Schuluniformen", "individuelle Entfaltung", "selbst entscheiden", "unbequem", "altmodisch", "gegen"],
+          "min_matches": 4,
+          "solution_example": "Meiner Meinung nach sind Schuluniformen keine gute Idee, weil sie die individuelle Entfaltung der Schüler einschränken. Jeder sollte selbst entscheiden können, was er trägt. Außerdem sind Uniformen oft unbequem und altmodisch. Ich bin gegen Schuluniformen.",
+          "feedback_correct": "Sehr gut! Deine Argumentation ist überzeugend.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'Schuluniformen', 'individuelle Entfaltung', 'selbst entscheiden' ve 'unbequem'."
+        },
+        {
+          "exerciseId": "54",
+          "type": "writing",
+          "aufgabe": "Schreiben Sie einen Blogbeitrag mit Tipps für den Kauf von Second-Hand-Kleidung.",
+          "turkce": "İkinci el giyim alışverişi için tüyolar içeren bir blog yazısı yazın.",
+          "keywords": ["Hallo", "Second-Hand", "geduldig", "Vintage-Shops", "Flohmärkte", "online", "Qualität", "anprobieren", "Schätze", "Grüße"],
+          "min_matches": 5,
+          "solution_example": "Hallo zusammen,\nwer Second-Hand kaufen will, sollte geduldig sein. Schaut in Vintage-Shops, auf Flohmärkten oder bei Vinted online. Achtet auf die Qualität und probiert die Sachen an. Oft findet man echte Schätze für wenig Geld. Viel Spaß beim Shoppen!\n\nViele Grüße\nLisa",
+          "feedback_correct": "Sehr gut! Deine Tipps sind praktisch und hilfreich.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'Second-Hand', 'Vintage-Shops', 'Flohmärkte', 'Qualität' ve 'anprobieren'."
+        },
+        {
+          "exerciseId": "55",
+          "type": "writing",
+          "aufgabe": "Schreiben Sie einen Brief an einen Freund, der nur Markenkleidung trägt.",
+          "turkce": "Sadece marka giyim giyen bir arkadaşa mektup yazın.",
+          "keywords": ["Lieber", "schreibe", "Markenkleidung", "teuer", "fair produziert", "Second-Hand", "günstiger", "umweltfreundlicher", "Grüße"],
+          "min_matches": 4,
+          "solution_example": "Lieber Max,\nich schreibe dir, weil ich bemerkt habe, dass du nur Markenkleidung trägst. Das ist sehr teuer und oft nicht fair produziert. Vielleicht könntest du auch mal Second-Hand ausprobieren. Es ist günstiger und umweltfreundlicher. Was denkst du darüber?\n\nViele Grüße\nAnna",
+          "feedback_correct": "Gut gemacht! Dein Brief ist einfühlsam und hilfreich.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'Markenkleidung', 'teuer', 'fair produziert', 'Second-Hand' ve 'umweltfreundlicher'."
+        }
+      ]
+    },
+    {
+      "sectionId": 6,
+      "sectionName": "TECHNOLOGIE IM UNTERRICHT",
+      "exercises": [
+        {
+          "exerciseId": "61",
+          "type": "writing",
+          "aufgabe": "Schreiben Sie einen Forenbeitrag über Technologie im Unterricht.",
+          "turkce": "Sınıfta teknoloji hakkında bir forum yazısı yazın.",
+          "keywords": ["Hallo", "Technologie", "Unterricht", "Tablets", "Computer", "interessanter", "interaktiver", "ablenken", "einsetzen", "Meinung", "Grüße"],
+          "min_matches": 5,
+          "solution_example": "Hallo zusammen,\nTechnologie im Unterricht hat viele Vorteile. Tablets und Computer machen den Unterricht interessanter und interaktiver. Aber sie können auch ablenken. Ich finde, man sollte Technologie sinnvoll einsetzen, aber nicht zu viel. Was ist eure Meinung?\n\nViele Grüße\nTom",
+          "feedback_correct": "Gut gemacht! Du hast die Vor- und Nachteile von Technologie im Unterricht klar dargestellt.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'Technologie', 'Unterricht', 'Tablets', 'ablenken' ve 'einsetzen'."
+        },
+        {
+          "exerciseId": "62",
+          "type": "writing",
+          "aufgabe": "Schreiben Sie eine E-Mail an die Schulleitung über die Nutzung von Tablets im Unterricht.",
+          "turkce": "Okul yönetimine sınıfta tablet kullanımı hakkında bir e-posta yazın.",
+          "keywords": ["Sehr geehrte", "schreibe", "Tablets", "Unterricht", "modern", "interessanter", "ablenken", "Regeln", "vorschlagen", "Grüßen"],
+          "min_matches": 5,
+          "solution_example": "Sehr geehrte Frau Direktorin,\nich schreibe Ihnen, weil ich über die Nutzung von Tablets im Unterricht nachdenke. Tablets sind modern und machen den Unterricht interessanter. Aber sie können auch ablenken. Ich schlage vor, dass wir Regeln für die Nutzung einführen.\n\nMit freundlichen Grüßen\nMax",
+          "feedback_correct": "Hervorragend! Deine E-Mail ist gut strukturiert und überzeugend.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'Tablets', 'Unterricht', 'ablenken' ve 'Regeln'."
+        },
+        {
+          "exerciseId": "63",
+          "type": "writing",
+          "aufgabe": "Schreiben Sie einen Text, in dem Sie für Technologie im Unterricht argumentieren.",
+          "turkce": "Sınıfta teknolojiyi savunduğunuz bir metin yazın.",
+          "keywords": ["Meiner Meinung nach", "Technologie", "Unterricht", "Vorteile", "recherchieren", "interaktive Übungen", "abwechslungsreicher", "Arbeitswelt", "einsetzen"],
+          "min_matches": 5,
+          "solution_example": "Meiner Meinung nach sollte Technologie im Unterricht eingesetzt werden, weil sie viele Vorteile bietet. Schüler können online recherchieren, interaktive Übungen machen und lernen. Der Unterricht wird abwechslungsreicher und interessanter. Außerdem bereitet der Umgang mit Technologie auf die Arbeitswelt vor.",
+          "feedback_correct": "Hervorragend! Deine Argumentation ist überzeugend.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'Technologie', 'Unterricht', 'Vorteile', 'recherchieren' ve 'Arbeitswelt'."
+        },
+        {
+          "exerciseId": "64",
+          "type": "writing",
+          "aufgabe": "Schreiben Sie einen Text, in dem Sie gegen Technologie im Unterricht argumentieren.",
+          "turkce": "Sınıfta teknolojiye karşı argümanlarınızı sunduğunuz bir metin yazın.",
+          "keywords": ["Meiner Meinung nach", "Technologie", "Unterricht", "ablenkt", "surfen", "Nachrichten", "teuer", "traditionelle Methoden"],
+          "min_matches": 4,
+          "solution_example": "Meiner Meinung nach sollte Technologie im Unterricht nicht zu viel eingesetzt werden, weil sie oft ablenkt. Schüler surfen im Internet oder schreiben Nachrichten, statt zu lernen. Außerdem sind die Geräte teuer und nicht alle Schulen können sie finanzieren. Traditionelle Methoden sind manchmal besser.",
+          "feedback_correct": "Sehr gut! Deine Argumentation ist überzeugend.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'Technologie', 'Unterricht', 'ablenkt', 'surfen' ve 'traditionelle Methoden'."
+        },
+        {
+          "exerciseId": "65",
+          "type": "writing",
+          "aufgabe": "Jemand hat geschrieben: 'Smartphones haben im Unterricht nichts zu suchen.' Antworten Sie.",
+          "turkce": "Birisi 'Akıllı telefonların sınıfta yeri yok.' yazdı. Cevap yazın.",
+          "keywords": ["Hallo", "stimme zu", "Smartphones", "Unterricht", "nützlich", "recherchieren", "Lern-App", "Ablenkung", "Regeln", "Grüße"],
+          "min_matches": 4,
+          "solution_example": "Hallo,\nich stimme dir teilweise zu, aber Smartphones können auch nützlich sein. Man kann schnell etwas recherchieren oder eine Lern-App nutzen. Das Problem ist, wenn sie zur Ablenkung werden. Ich finde, man sollte sie erlauben, aber mit klaren Regeln.\n\nViele Grüße\nAnna",
+          "feedback_correct": "Gut gemacht! Du hast eine ausgewogene Meinung geäußert.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'Smartphones', 'Unterricht', 'recherchieren', 'Lern-App' ve 'Regeln'."
+        },
+        {
+          "exerciseId": "66",
+          "type": "writing",
+          "aufgabe": "Schreiben Sie einen Erfahrungsbericht über den Einsatz von Technologie im Unterricht.",
+          "turkce": "Sınıfta teknoloji kullanımı hakkında bir deneyim raporu yazın.",
+          "keywords": ["Erfahrung", "Technologie", "Unterricht", "Tablets", "recherchieren", "Ablenkung", "Regeln", "verbessern"],
+          "min_matches": 4,
+          "solution_example": "Meine Erfahrung mit Technologie im Unterricht\nWir nutzen in der Schule oft Tablets. Ich finde es gut, weil man viel recherchieren kann. Aber manchmal werden die Geräte auch zur Ablenkung. Ich wünsche mir klare Regeln, damit wir sie sinnvoll nutzen können. Technologie kann den Unterricht verbessern.",
+          "feedback_correct": "Sehr gut! Du hast deine Erfahrungen authentisch beschrieben.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'Technologie', 'Unterricht', 'Tablets', 'recherchieren' ve 'Regeln'."
+        },
+        {
+          "exerciseId": "67",
+          "type": "writing",
+          "aufgabe": "Schreiben Sie einen Blogbeitrag mit Tipps für den richtigen Umgang mit Technologie im Unterricht.",
+          "turkce": "Sınıfta teknolojiyle doğru başa çıkma tüyoları içeren bir blog yazısı yazın.",
+          "keywords": ["Hallo", "Technologie", "Unterricht", "Regeln", "schulische Aufgaben", "Benachrichtigungen", "Pause", "effektiv", "Grüße"],
+          "min_matches": 5,
+          "solution_example": "Hallo zusammen,\nwer Technologie im Unterricht sinnvoll nutzen will, sollte klare Regeln haben. Benutzt die Geräte nur für schulische Aufgaben. Schaltet Benachrichtigungen aus, um nicht abgelenkt zu werden. Und macht auch mal eine Pause ohne Bildschirm. So bleibt der Unterricht effektiv!\n\nViele Grüße\nMax",
+          "feedback_correct": "Sehr gut! Deine Tipps sind praktisch und hilfreich.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'Technologie', 'Unterricht', 'Regeln', 'Benachrichtigungen' ve 'effektiv'."
+        },
+        {
+          "exerciseId": "68",
+          "type": "writing",
+          "aufgabe": "Sie sind Lehrer und ärgern sich über Ablenkung durch Smartphones. Schreiben Sie eine E-Mail an die Schulleitung.",
+          "turkce": "Öğretmensiniz ve akıllı telefonların dikkat dağıtmasından rahatsızsınız. Okul yönetimine bir e-posta yazın.",
+          "keywords": ["Sehr geehrte", "schreibe", "Smartphones", "Unterricht", "Konzentration", "Handy-Verbot", "unterstützen", "Grüßen"],
+          "min_matches": 4,
+          "solution_example": "Sehr geehrte Frau Direktorin,\nich schreibe Ihnen, weil ich zunehmend das Problem habe, dass Schüler im Unterricht mit ihren Smartphones spielen. Das stört die Konzentration und den Unterricht. Ich schlage vor, dass wir ein Handy-Verbot im Unterricht einführen. Bitte unterstützen Sie mich dabei.\n\nMit freundlichen Grüßen\nFrau Meier",
+          "feedback_correct": "Gut gemacht! Deine E-Mail ist klar und überzeugend.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'Smartphones', 'Unterricht', 'Konzentration' ve 'Handy-Verbot'."
+        },
+        {
+          "exerciseId": "69",
+          "type": "writing",
+          "aufgabe": "Schreiben Sie einen Text über die Vorteile von digitalen Medien im Unterricht.",
+          "turkce": "Sınıfta dijital medyanın avantajları hakkında bir metin yazın.",
+          "keywords": ["Digitale Medien", "Vorteile", "Unterricht", "interaktive Übungen", "Lernvideos", "Recherche", "selbstständig", "abwechslungsreicher", "Bereicherung"],
+          "min_matches": 5,
+          "solution_example": "Digitale Medien bieten viele Vorteile im Unterricht, wie zum Beispiel interaktive Übungen, Lernvideos und schnelle Recherche. Schüler können selbstständig lernen und ihr Wissen vertiefen. Lehrer können den Unterricht abwechslungsreicher gestalten. Digitale Medien sind eine Bereicherung für den Unterricht.",
+          "feedback_correct": "Hervorragend! Deine Argumentation ist überzeugend.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'Digitale Medien', 'Vorteile', 'interaktive Übungen', 'Lernvideos' ve 'Bereicherung'."
+        },
+        {
+          "exerciseId": "70",
+          "type": "writing",
+          "aufgabe": "Schreiben Sie einen Kommentar zu: 'Sollen Smartphones im Unterricht erlaubt sein?'",
+          "turkce": "'Akıllı telefonlar sınıfta serbest olmalı mı?' sorusuna bir yorum yazın.",
+          "keywords": ["Meiner Meinung nach", "Smartphones", "Unterricht", "nicht erlaubt", "ablenken", "chatten", "surfen", "Ausnahme", "schulische Aufgaben"],
+          "min_matches": 5,
+          "solution_example": "Meiner Meinung nach sollten Smartphones im Unterricht nicht erlaubt sein, weil sie nur ablenken. Schüler chatten oder surfen, statt zuzuhören. Eine Ausnahme könnte es geben, wenn sie für schulische Aufgaben gebraucht werden. Aber generell sollten sie ausgeschaltet bleiben.",
+          "feedback_correct": "Sehr gut! Du hast eine klare Meinung gut argumentiert.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'Smartphones', 'Unterricht', 'ablenken', 'chatten' ve 'schulische Aufgaben'."
+        }
+      ]
+    },
+    {
+      "sectionId": 7,
+      "sectionName": "KARMA KONULAR",
+      "exercises": [
+        {
+          "exerciseId": "71",
+          "type": "writing",
+          "aufgabe": "Schreiben Sie eine E-Mail an die Mensa-Leitung über das Essenangebot.",
+          "turkce": "Kantin yönetimine yemek seçenekleri hakkında bir e-posta yazın.",
+          "keywords": ["Guten Tag", "schreibe", "Mensa", "Auswahl", "frisches Gemüse", "vegetarische Gerichte", "gesund", "antworten", "Grüßen"],
+          "min_matches": 4,
+          "solution_example": "Guten Tag,\nich schreibe Ihnen, weil ich mit dem Essen in der Mensa nicht ganz zufrieden bin. Die Auswahl ist begrenzt und es gibt wenig frisches Gemüse. Vielleicht könnten Sie mehr vegetarische und gesunde Gerichte anbieten. Ich würde mich über eine Antwort freuen.\n\nMit freundlichen Grüßen\nAnna",
+          "feedback_correct": "Gut gemacht! Deine E-Mail ist klar und höflich formuliert.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'Mensa', 'Auswahl', 'frisches Gemüse' ve 'vegetarische Gerichte'."
+        },
+        {
+          "exerciseId": "72",
+          "type": "writing",
+          "aufgabe": "Ihre Freundin hat Sie zum Abendessen eingeladen. Schreiben Sie eine Antwort.",
+          "turkce": "Arkadaşınız sizi akşam yemeğine davet etti. Bir cevap yazın.",
+          "keywords": ["Liebe", "danke", "Einladung", "Abendessen", "gerne", "Salat", "Dessert", "freue mich", "Grüße"],
+          "min_matches": 4,
+          "solution_example": "Liebe Sarah,\nvielen Dank für deine Einladung zum Abendessen! Ich komme sehr gerne. Ich kann einen Salat oder ein Dessert mitbringen. Soll ich um 19 Uhr bei dir sein? Ich freue mich schon auf den Abend!\n\nViele Grüße\nLisa",
+          "feedback_correct": "Sehr gut! Deine Antwort ist herzlich und gut strukturiert.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'danke', 'Einladung', 'Abendessen', 'gerne' ve 'freue mich'."
+        },
+        {
+          "exerciseId": "73",
+          "type": "writing",
+          "aufgabe": "Ihr Internet zu Hause ist sehr langsam. Schreiben Sie eine E-Mail an Ihren Internetanbieter.",
+          "turkce": "Evdeki internetiniz çok yavaş. İnternet sağlayıcınıza bir e-posta yazın.",
+          "keywords": ["Sehr geehrte", "Internet", "langsam", "Videos schauen", "Dateien herunterladen", "Techniker", "Lösung", "Grüßen"],
+          "min_matches": 4,
+          "solution_example": "Sehr geehrte Damen und Herren,\nmein Internet ist seit Tagen sehr langsam. Ich kann kaum Videos schauen oder große Dateien herunterladen. Bitte prüfen Sie das Problem und senden Sie einen Techniker vorbei. Ich erwarte eine schnelle Lösung.\n\nMit freundlichen Grüßen\nMax",
+          "feedback_correct": "Gut gemacht! Deine Beschwerde ist klar und deutlich formuliert.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'Internet', 'langsam', 'Techniker' ve 'Lösung'."
+        },
+        {
+          "exerciseId": "74",
+          "type": "writing",
+          "aufgabe": "Schreiben Sie einen Brief an die Schulleitung mit Vorschlägen für eine gesündere Mensa.",
+          "turkce": "Okul yönetimine daha sağlıklı bir kantin için öneriler içeren bir mektup yazın.",
+          "keywords": ["Sehr geehrte", "schreibe", "Mensa", "gesündere", "Obst", "Gemüse", "Vollkornprodukte", "vegetarische Gerichte", "umweltfreundlicher", "antworten", "Grüßen"],
+          "min_matches": 5,
+          "solution_example": "Sehr geehrte Frau Direktorin,\nich schreibe Ihnen, um Vorschläge für eine gesündere Mensa zu machen. Mehr Obst, Gemüse und Vollkornprodukte wären gut. Bieten Sie auch vegetarische Gerichte an. Das wäre nicht nur gesünder, sondern auch umweltfreundlicher. Bitte antworten Sie mir.\n\nMit freundlichen Grüßen\nAnna",
+          "feedback_correct": "Hervorragend! Deine Vorschläge sind gut durchdacht und überzeugend.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'Mensa', 'gesündere', 'Obst', 'Gemüse' ve 'vegetarische Gerichte'."
+        },
+        {
+          "exerciseId": "75",
+          "type": "writing",
+          "aufgabe": "Sie sind Mensa-Leiter und haben eine Beschwerde erhalten. Schreiben Sie eine Antwort.",
+          "turkce": "Kantin müdürüsünüz ve bir şikayet aldınız. Bir cevap yazın.",
+          "keywords": ["Guten Tag", "danke", "Beschwerde", "Essen", "Angebot", "gesunde Gerichte", "Hinweis", "Grüßen"],
+          "min_matches": 4,
+          "solution_example": "Guten Tag,\nvielen Dank für Ihre Beschwerde. Es tut mir leid, dass Sie mit dem Essen nicht zufrieden waren. Wir werden unser Angebot überprüfen und mehr gesunde Gerichte anbieten. Wir danken für Ihren Hinweis.\n\nMit freundlichen Grüßen\nHerr Weber",
+          "feedback_correct": "Sehr gut! Deine Antwort ist professionell und kundenorientiert.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'Beschwerde', 'Essen', 'Angebot' ve 'gesunde Gerichte'."
+        },
+        {
+          "exerciseId": "76",
+          "type": "writing",
+          "aufgabe": "Sie organisieren einen nachhaltigen Kleidertausch an Ihrer Schule. Schreiben Sie eine Einladung.",
+          "turkce": "Okulunuzda sürdürülebilir bir kıyafet takası organize ediyorsunuz. Bir davetiye yazın.",
+          "keywords": ["Liebe Schüler", "veranstalten", "Kleidertausch", "Kleidung", "tauscht", "Umwelt", "Geld sparen", "Grüße"],
+          "min_matches": 4,
+          "solution_example": "Liebe Schülerinnen und Schüler,\nwir veranstalten am 15. Mai einen nachhaltigen Kleidertausch in der Aula. Bringt Kleidung mit, die ihr nicht mehr tragt, und tauscht sie gegen andere tolle Stücke. So schont ihr die Umwelt und spart Geld. Kommt vorbei!\n\nViele Grüße\nEure AG Nachhaltigkeit",
+          "feedback_correct": "Gut gemacht! Deine Einladung ist motivierend und gut strukturiert.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'Kleidertausch', 'Kleidung', 'tauscht', 'Umwelt' ve 'Geld sparen'."
+        },
+        {
+          "exerciseId": "77",
+          "type": "writing",
+          "aufgabe": "Schreiben Sie einen Bericht über ein Schulprojekt zum Thema nachhaltige Mode.",
+          "turkce": "Sürdürülebilir moda konulu bir okul projesi hakkında rapor yazın.",
+          "keywords": ["Bericht", "Projekt", "nachhaltige Mode", "Wasser", "Energie", "Modeindustrie", "Kleidertausch", "Erfolg", "faire Mode"],
+          "min_matches": 4,
+          "solution_example": "Bericht über unser Projekt: Nachhaltige Mode\nWir haben ein Projekt zum Thema nachhaltige Mode durchgeführt. Wir haben gelernt, wie viel Wasser und Energie die Modeindustrie verbraucht. Wir haben auch eine Kleidertausch-Aktion organisiert. Es war ein großer Erfolg. Ich habe viel über faire Mode gelernt.",
+          "feedback_correct": "Sehr gut! Dein Bericht ist informativ und gut strukturiert.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'Projekt', 'nachhaltige Mode', 'Modeindustrie', 'Kleidertausch' ve 'faire Mode'."
+        },
+        {
+          "exerciseId": "78",
+          "type": "writing",
+          "aufgabe": "Ein Austauschschüler fragt: 'Welche Kleidung ist in Deutschland beliebt?' Schreiben Sie eine Antwort.",
+          "turkce": "Bir değişim öğrencisi 'Almanya'da hangi kıyafetler popüler?' diye soruyor. Bir cevap yazın.",
+          "keywords": ["Hallo", "Deutschland", "Jugendliche", "Jeans", "T-Shirts", "Sneaker", "Adidas", "Nike", "Winter", "Jacken", "Pullover", "Stil", "Grüße"],
+          "min_matches": 4,
+          "solution_example": "Hallo,\nin Deutschland tragen viele Jugendliche Jeans, T-Shirts und Sneaker. Auch Marken wie Adidas und Nike sind beliebt. Im Winter trägt man warme Jacken und Pullover. Jeder hat seinen eigenen Stil. Viel Spaß beim Einkaufen!\n\nViele Grüße\nAnna",
+          "feedback_correct": "Gut gemacht! Deine Antwort ist informativ und hilfreich.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'Jeans', 'T-Shirts', 'Sneaker', 'Adidas' ve 'Nike'."
+        },
+        {
+          "exerciseId": "79",
+          "type": "writing",
+          "aufgabe": "Sie haben online ein Produkt gekauft, das kaputt ist. Schreiben Sie eine Beschwerde-E-Mail.",
+          "turkce": "Online bir ürün satın aldınız ve ürün bozuk çıktı. Bir şikayet e-postası yazın.",
+          "keywords": ["Guten Tag", "bestellt", "Kopfhörer", "kaputt", "funktioniert nicht", "Rückerstattung", "Ersatz", "Grüßen"],
+          "min_matches": 4,
+          "solution_example": "Guten Tag,\nich habe bei Ihnen einen Kopfhörer bestellt (Bestellnummer 67890). Leider ist das Produkt kaputt und funktioniert nicht. Ich bitte um eine Rückerstattung oder einen Ersatz. Bitte antworten Sie schnell.\n\nMit freundlichen Grüßen\nTom",
+          "feedback_correct": "Gut gemacht! Deine Beschwerde ist klar und höflich formuliert.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'bestellt', 'kaputt', 'funktioniert nicht', 'Rückerstattung' ve 'Ersatz'."
+        },
+        {
+          "exerciseId": "80",
+          "type": "writing",
+          "aufgabe": "Schreiben Sie einen Blogbeitrag mit Tipps für eine gesündere Ernährung.",
+          "turkce": "Daha sağlıklı beslenme için tüyolar içeren bir blog yazısı yazın.",
+          "keywords": ["Hallo", "gesündere Ernährung", "Gemüse", "Obst", "Wasser", "Zucker vermeiden", "selbst kochen", "Abwechslung", "Rezepte", "Grüße"],
+          "min_matches": 5,
+          "solution_example": "Hallo zusammen,\nwer sich gesünder ernähren will, sollte mehr Gemüse und Obst essen. Trinkt viel Wasser und vermeidet Zucker. Kocht selbst, dann wisst ihr, was drin ist. Und vergesst nicht: Abwechslung ist wichtig! Probiert neue Rezepte aus.\n\nViele Grüße\nLisa",
+          "feedback_correct": "Sehr gut! Deine Tipps sind praktisch und hilfreich.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'Gemüse', 'Obst', 'Wasser', 'selbst kochen' ve 'Abwechslung'."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "title": "GOETHE B1 - HÖREN (VEGETARISCHE MENSA)",
+  "subtitle": "VEGETARISCHE MENSA",
+  "sectionId": 43,
+  "sectionName": "VEGETARISCHE MENSA",
+  "exercises": [
+    {
+      "exerciseId": "14",
+      "type": "multiple_choice",
+      "frage": "Was bietet die Mensa ab nächster Woche an?",
+      "turkce": "Kantin gelecek haftadan itibaren ne sunuyor?",
+      "ipucu": "täglich ein vegetarisches Hauptgericht.",
+      "options": ["Nur Fleischgerichte", "Täglich ein vegetarisches Hauptgericht", "Keine Gerichte"],
+      "answer": "Täglich ein vegetarisches Hauptgericht"
+    },
+    {
+      "exerciseId": "15",
+      "type": "richtig_falsch",
+      "frage": "Die Preise für vegetarische Gerichte werden teurer.",
+      "turkce": "Vejetaryen yemeklerin fiyatları artacak.",
+      "ipucu": "Die Preise bleiben gleich - fiyatlar aynı kalıyor.",
+      "answer": "Falsch"
+    },
+    {
+      "exerciseId": "16",
+      "type": "fill_in",
+      "frage": "Es gibt einen neuen _______-Bar, wo Sie sich Ihren eigenen Salat zusammenstellen können.",
+      "turkce": "Kendi salatanızı oluşturabileceğiniz yeni bir _______ bar var.",
+      "ipucu": "Salat-Bar - salata bar.",
+      "answer": "Salat"
+    }
+  ]
+}

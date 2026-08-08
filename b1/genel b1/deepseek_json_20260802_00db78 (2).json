@@ -1,0 +1,646 @@
+{
+  "title": "GOETHE B1 - ALLE GRAMMATIKTHEMEN (400 ALIŞTIRMA)",
+  "subtitle": "B1 SEVİYESİ TÜM GRAMMATİK KONULARI",
+  "sections": [
+    {
+      "sectionId": 1,
+      "sectionName": "PRÄTERITUM",
+      "exercises": [
+        {"exerciseId": "1", "type": "fill_in", "frage": "Er _______ gestern zu spät. (kommen)", "answer": "kam"},
+        {"exerciseId": "2", "type": "fill_in", "frage": "Ich _______ ins Kino. (gehen)", "answer": "ging"},
+        {"exerciseId": "3", "type": "fill_in", "frage": "Sie _______ 'Hallo'. (sagen)", "answer": "sagte"},
+        {"exerciseId": "4", "type": "fill_in", "frage": "Wir _______ lange. (warten)", "answer": "warteten"},
+        {"exerciseId": "5", "type": "fill_in", "frage": "Ihr _______ viel. (arbeiten)", "answer": "arbeitetet"},
+        {"exerciseId": "6", "type": "fill_in", "frage": "Ich _______ gestern im Park. (sein)", "answer": "war"},
+        {"exerciseId": "7", "type": "fill_in", "frage": "Du _______ Glück. (haben)", "answer": "hattest"},
+        {"exerciseId": "8", "type": "fill_in", "frage": "Er _______ das Buch. (lesen)", "answer": "las"},
+        {"exerciseId": "9", "type": "fill_in", "frage": "Wir _______ das Essen. (essen)", "answer": "aßen"},
+        {"exerciseId": "10", "type": "fill_in", "frage": "Sie _______ den Film. (sehen)", "answer": "sahen"}
+      ]
+    },
+    {
+      "sectionId": 2,
+      "sectionName": "PLUSQUAMPERFEKT",
+      "exercises": [
+        {"exerciseId": "11", "type": "fill_in", "frage": "Ich _______ lange _______ . (schlafen)", "answer": "hatte geschlafen"},
+        {"exerciseId": "12", "type": "fill_in", "frage": "Er _______ schon _______ . (gehen)", "answer": "war gegangen"},
+        {"exerciseId": "13", "type": "fill_in", "frage": "Sie _______ das Buch _______ . (lesen)", "answer": "hatte gelesen"},
+        {"exerciseId": "14", "type": "fill_in", "frage": "Wir _______ schon _______ . (essen)", "answer": "hatten gegessen"},
+        {"exerciseId": "15", "type": "fill_in", "frage": "Ihr _______ nicht _______ . (kommen)", "answer": "wart nicht gekommen"},
+        {"exerciseId": "16", "type": "fill_in", "frage": "Ich _______ mein Handy _______ . (vergessen)", "answer": "hatte vergessen"},
+        {"exerciseId": "17", "type": "fill_in", "frage": "Er _______ den Schlüssel _______ . (finden)", "answer": "hatte gefunden"},
+        {"exerciseId": "18", "type": "fill_in", "frage": "Sie _______ schon _______ . (aufwachen)", "answer": "war aufgewacht"},
+        {"exerciseId": "19", "type": "fill_in", "frage": "Wir _______ alles _______ . (vorbereiten)", "answer": "hatten vorbereitet"},
+        {"exerciseId": "20", "type": "fill_in", "frage": "Ich _______ vorher nicht _______ . (essen)", "answer": "hatte nicht gegessen"}
+      ]
+    },
+    {
+      "sectionId": 3,
+      "sectionName": "REFLEXIVPRONOMEN IM DATIV",
+      "exercises": [
+        {"exerciseId": "21", "type": "fill_in", "frage": "Ich wasche _______ die Hände.", "answer": "mir"},
+        {"exerciseId": "22", "type": "fill_in", "frage": "Du putzt _______ die Zähne.", "answer": "dir"},
+        {"exerciseId": "23", "type": "fill_in", "frage": "Er wäscht _______ die Haare.", "answer": "sich"},
+        {"exerciseId": "24", "type": "fill_in", "frage": "Wir putzen _______ die Schuhe.", "answer": "uns"},
+        {"exerciseId": "25", "type": "fill_in", "frage": "Ihr macht _______ das Frühstück.", "answer": "euch"},
+        {"exerciseId": "26", "type": "fill_in", "frage": "Sie kauft _______ ein neues Kleid.", "answer": "sich"},
+        {"exerciseId": "27", "type": "fill_in", "frage": "Ich hole _______ einen Kaffee.", "answer": "mir"},
+        {"exerciseId": "28", "type": "fill_in", "frage": "Du nimmst _______ ein Buch.", "answer": "dir"},
+        {"exerciseId": "29", "type": "fill_in", "frage": "Wir gönnen _______ eine Pause.", "answer": "uns"},
+        {"exerciseId": "30", "type": "fill_in", "frage": "Ihr kocht _______ eine Suppe.", "answer": "euch"}
+      ]
+    },
+    {
+      "sectionId": 4,
+      "sectionName": "TRENNBARE UND UNTRENNBARE VERBEN",
+      "exercises": [
+        {"exerciseId": "31", "type": "fill_in", "frage": "Ich _______ um 7 Uhr _______ . (aufstehen)", "answer": "stehe auf"},
+        {"exerciseId": "32", "type": "fill_in", "frage": "Er _______ mich _______ . (anrufen)", "answer": "ruft an"},
+        {"exerciseId": "33", "type": "fill_in", "frage": "Wir _______ am Samstag _______ . (ausgehen)", "answer": "gehen aus"},
+        {"exerciseId": "34", "type": "fill_in", "frage": "Ich _______ im Supermarkt _______ . (einkaufen)", "answer": "kaufe ein"},
+        {"exerciseId": "35", "type": "fill_in", "frage": "_______ du mich _______ ? (mitkommen)", "answer": "Kommst mit"},
+        {"exerciseId": "36", "type": "fill_in", "frage": "Ich _______ ein Geschenk. (bekommen)", "answer": "bekomme"},
+        {"exerciseId": "37", "type": "fill_in", "frage": "Er _______ seinen Pass. (vergessen)", "answer": "vergisst"},
+        {"exerciseId": "38", "type": "fill_in", "frage": "Wir _______ eine Geschichte. (erzählen)", "answer": "erzählen"},
+        {"exerciseId": "39", "type": "fill_in", "frage": "Sie _______ schnell. (entscheiden)", "answer": "entscheidet"},
+        {"exerciseId": "40", "type": "fill_in", "frage": "Ich _______ das Glas. (zerstören)", "answer": "zerstöre"}
+      ]
+    },
+    {
+      "sectionId": 5,
+      "sectionName": "VERBEN MIT PRÄPOSITIONEN",
+      "exercises": [
+        {"exerciseId": "41", "type": "fill_in", "frage": "Ich freue mich _______ die Blumen.", "answer": "über"},
+        {"exerciseId": "42", "type": "fill_in", "frage": "Ich interessiere mich _______ Kunst.", "answer": "für"},
+        {"exerciseId": "43", "type": "fill_in", "frage": "Ich ärgere mich _______ den Lärm.", "answer": "über"},
+        {"exerciseId": "44", "type": "fill_in", "frage": "Ich warte _______ den Bus.", "answer": "auf"},
+        {"exerciseId": "45", "type": "fill_in", "frage": "Ich spreche _______ meinem Freund.", "answer": "mit"},
+        {"exerciseId": "46", "type": "fill_in", "frage": "Ich helfe _______ der Arbeit.", "answer": "bei"},
+        {"exerciseId": "47", "type": "fill_in", "frage": "Er bedankt sich _______ das Geschenk.", "answer": "für"},
+        {"exerciseId": "48", "type": "fill_in", "frage": "Sie denkt _______ ihre Familie.", "answer": "an"},
+        {"exerciseId": "49", "type": "fill_in", "frage": "Wir kümmern uns _______ das Kind.", "answer": "um"},
+        {"exerciseId": "50", "type": "fill_in", "frage": "Ich glaube _______ Gott.", "answer": "an"}
+      ]
+    },
+    {
+      "sectionId": 6,
+      "sectionName": "PRÄPOSITIONALADVERBIEN",
+      "exercises": [
+        {"exerciseId": "51", "type": "fill_in", "frage": "Ich warte _______ .", "answer": "darauf"},
+        {"exerciseId": "52", "type": "fill_in", "frage": "Ich bin _______ .", "answer": "dafür"},
+        {"exerciseId": "53", "type": "fill_in", "frage": "_______ gehe ich nach Hause.", "answer": "Danach"},
+        {"exerciseId": "54", "type": "fill_in", "frage": "Ich bin _______ .", "answer": "dagegen"},
+        {"exerciseId": "55", "type": "fill_in", "frage": "Ich kann _______ arbeiten.", "answer": "damit"},
+        {"exerciseId": "56", "type": "fill_in", "frage": "Ich freue mich _______ .", "answer": "darüber"},
+        {"exerciseId": "57", "type": "fill_in", "frage": "Ich interessiere mich _______ .", "answer": "dafür"},
+        {"exerciseId": "58", "type": "fill_in", "frage": "Ich warte _______ .", "answer": "darauf"},
+        {"exerciseId": "59", "type": "fill_in", "frage": "Ich ärgere mich _______ .", "answer": "darüber"},
+        {"exerciseId": "60", "type": "fill_in", "frage": "Ich spreche _______ .", "answer": "darüber"}
+      ]
+    },
+    {
+      "sectionId": 7,
+      "sectionName": "KONJUNKTIV II - FORMEN",
+      "exercises": [
+        {"exerciseId": "61", "type": "fill_in", "frage": "Ich _______ gern reich.", "answer": "wäre"},
+        {"exerciseId": "62", "type": "fill_in", "frage": "Ich _______ gern ein Auto.", "answer": "hätte"},
+        {"exerciseId": "63", "type": "fill_in", "frage": "Ich _______ kommen.", "answer": "würde"},
+        {"exerciseId": "64", "type": "fill_in", "frage": "Ich _______ dir helfen.", "answer": "könnte"},
+        {"exerciseId": "65", "type": "fill_in", "frage": "Ich _______ heute arbeiten.", "answer": "müsste"},
+        {"exerciseId": "66", "type": "fill_in", "frage": "Er _______ gern Arzt.", "answer": "wäre"},
+        {"exerciseId": "67", "type": "fill_in", "frage": "Sie _______ gern mehr Zeit.", "answer": "hätte"},
+        {"exerciseId": "68", "type": "fill_in", "frage": "Wir _______ früher kommen.", "answer": "könnten"},
+        {"exerciseId": "69", "type": "fill_in", "frage": "Ihr _______ mehr schlafen.", "answer": "solltet"},
+        {"exerciseId": "70", "type": "fill_in", "frage": "Sie _______ das besser machen.", "answer": "würden"}
+      ]
+    },
+    {
+      "sectionId": 8,
+      "sectionName": "KONJUNKTIV II - GEBRAUCH",
+      "exercises": [
+        {"exerciseId": "71", "type": "fill_in", "frage": "Wenn ich viel Geld _______ .", "answer": "hätte"},
+        {"exerciseId": "72", "type": "fill_in", "frage": "Wenn ich du _______ .", "answer": "wäre"},
+        {"exerciseId": "73", "type": "fill_in", "frage": "_______ ich bitte das Fenster öffnen?", "answer": "Könnte"},
+        {"exerciseId": "74", "type": "fill_in", "frage": "Ich _______ gern einen Kaffee.", "answer": "hätte"},
+        {"exerciseId": "75", "type": "fill_in", "frage": "Wenn es morgen nicht regnen _______ .", "answer": "würde"},
+        {"exerciseId": "76", "type": "fill_in", "frage": "Ich _______ gern nach Italien reisen.", "answer": "würde"},
+        {"exerciseId": "77", "type": "fill_in", "frage": "_______ Sie mir bitte helfen?", "answer": "Könnten"},
+        {"exerciseId": "78", "type": "fill_in", "frage": "Wenn ich mehr Zeit _______ .", "answer": "hätte"},
+        {"exerciseId": "79", "type": "fill_in", "frage": "Er _______ gern reisen.", "answer": "würde"},
+        {"exerciseId": "80", "type": "fill_in", "frage": "Wenn ich studieren _______ .", "answer": "würde"}
+      ]
+    },
+    {
+      "sectionId": 9,
+      "sectionName": "PASSIV - TEIL 1 (PRÄSENS)",
+      "exercises": [
+        {"exerciseId": "81", "type": "fill_in", "frage": "Das Auto _______ gebaut.", "answer": "wird"},
+        {"exerciseId": "82", "type": "fill_in", "frage": "Die Briefe _______ geschrieben.", "answer": "werden"},
+        {"exerciseId": "83", "type": "fill_in", "frage": "Das Essen _______ gekocht.", "answer": "wird"},
+        {"exerciseId": "84", "type": "fill_in", "frage": "Die Häuser _______ gebaut.", "answer": "werden"},
+        {"exerciseId": "85", "type": "fill_in", "frage": "Der Film _______ gezeigt.", "answer": "wird"},
+        {"exerciseId": "86", "type": "fill_in", "frage": "Die Blumen _______ gegossen.", "answer": "werden"},
+        {"exerciseId": "87", "type": "fill_in", "frage": "Das Buch _______ gelesen.", "answer": "wird"},
+        {"exerciseId": "88", "type": "fill_in", "frage": "Die Fenster _______ geputzt.", "answer": "werden"},
+        {"exerciseId": "89", "type": "fill_in", "frage": "Der Tisch _______ gedeckt.", "answer": "wird"},
+        {"exerciseId": "90", "type": "fill_in", "frage": "Die Kinder _______ abgeholt.", "answer": "werden"}
+      ]
+    },
+    {
+      "sectionId": 10,
+      "sectionName": "PASSIV - TEIL 2 (PRÄTERITUM)",
+      "exercises": [
+        {"exerciseId": "91", "type": "fill_in", "frage": "Das Haus _______ gebaut.", "answer": "wurde"},
+        {"exerciseId": "92", "type": "fill_in", "frage": "Die Briefe _______ geschrieben.", "answer": "wurden"},
+        {"exerciseId": "93", "type": "fill_in", "frage": "Der Kölner Dom _______ gebaut.", "answer": "wurde"},
+        {"exerciseId": "94", "type": "fill_in", "frage": "Die Häuser _______ gebaut.", "answer": "wurden"},
+        {"exerciseId": "95", "type": "fill_in", "frage": "Der Film _______ gezeigt.", "answer": "wurde"},
+        {"exerciseId": "96", "type": "fill_in", "frage": "Die Blumen _______ gegossen.", "answer": "wurden"},
+        {"exerciseId": "97", "type": "fill_in", "frage": "Das Buch _______ gelesen.", "answer": "wurde"},
+        {"exerciseId": "98", "type": "fill_in", "frage": "Die Fenster _______ geputzt.", "answer": "wurden"},
+        {"exerciseId": "99", "type": "fill_in", "frage": "Der Tisch _______ gedeckt.", "answer": "wurde"},
+        {"exerciseId": "100", "type": "fill_in", "frage": "Die Kinder _______ abgeholt.", "answer": "wurden"}
+      ]
+    },
+    {
+      "sectionId": 11,
+      "sectionName": "FUTUR I",
+      "exercises": [
+        {"exerciseId": "101", "type": "fill_in", "frage": "Der Präsident _______ kommen.", "answer": "wird"},
+        {"exerciseId": "102", "type": "fill_in", "frage": "Es morgen _______ regnen.", "answer": "wird"},
+        {"exerciseId": "103", "type": "fill_in", "frage": "Ich _______ nach Berlin fahren.", "answer": "werde"},
+        {"exerciseId": "104", "type": "fill_in", "frage": "Wir _______ ins Kino gehen.", "answer": "werden"},
+        {"exerciseId": "105", "type": "fill_in", "frage": "Du _______ deine Arbeit beenden.", "answer": "wirst"},
+        {"exerciseId": "106", "type": "fill_in", "frage": "Sie _______ morgen ankommen.", "answer": "wird"},
+        {"exerciseId": "107", "type": "fill_in", "frage": "Ich _______ das Buch kaufen.", "answer": "werde"},
+        {"exerciseId": "108", "type": "fill_in", "frage": "Wir _______ das Essen bestellen.", "answer": "werden"},
+        {"exerciseId": "109", "type": "fill_in", "frage": "Es _______ schneien.", "answer": "wird"},
+        {"exerciseId": "110", "type": "fill_in", "frage": "Ihr _______ den Film sehen.", "answer": "werdet"}
+      ]
+    },
+    {
+      "sectionId": 12,
+      "sectionName": "FUNKTIONEN VON WERDEN",
+      "exercises": [
+        {"exerciseId": "111", "type": "fill_in", "frage": "Er _______ Lehrer.", "answer": "wird"},
+        {"exerciseId": "112", "type": "fill_in", "frage": "Das Auto _______ gebaut.", "answer": "wird"},
+        {"exerciseId": "113", "type": "fill_in", "frage": "Ich _______ kommen.", "answer": "werde"},
+        {"exerciseId": "114", "type": "fill_in", "frage": "Ich _______ dir helfen.", "answer": "würde"},
+        {"exerciseId": "115", "type": "fill_in", "frage": "Es _______ morgen regnen.", "answer": "wird"},
+        {"exerciseId": "116", "type": "fill_in", "frage": "Die Hausaufgaben _______ gemacht.", "answer": "werden"},
+        {"exerciseId": "117", "type": "fill_in", "frage": "Sie _______ Ärztin.", "answer": "wird"},
+        {"exerciseId": "118", "type": "fill_in", "frage": "Ich _______ gerne reisen.", "answer": "würde"},
+        {"exerciseId": "119", "type": "fill_in", "frage": "Die Briefe _______ geschrieben.", "answer": "werden"},
+        {"exerciseId": "120", "type": "fill_in", "frage": "Wir _______ nächstes Jahr umziehen.", "answer": "werden"}
+      ]
+    },
+    {
+      "sectionId": 13,
+      "sectionName": "DAS VERB LASSEN",
+      "exercises": [
+        {"exerciseId": "121", "type": "fill_in", "frage": "Ich _______ mein Auto reparieren.", "answer": "lasse"},
+        {"exerciseId": "122", "type": "fill_in", "frage": "Er _______ ihn gehen.", "answer": "lässt"},
+        {"exerciseId": "123", "type": "fill_in", "frage": "Wir _______ das Buch auf dem Tisch.", "answer": "lassen"},
+        {"exerciseId": "124", "type": "fill_in", "frage": "Sie _______ ihre Haare schneiden.", "answer": "lässt"},
+        {"exerciseId": "125", "type": "fill_in", "frage": "Ich _______ dich nicht allein.", "answer": "lasse"},
+        {"exerciseId": "126", "type": "fill_in", "frage": "Er _______ die Tür auf.", "answer": "lässt"},
+        {"exerciseId": "127", "type": "fill_in", "frage": "Wir _______ das Fenster geöffnet.", "answer": "lassen"},
+        {"exerciseId": "128", "type": "fill_in", "frage": "Sie _______ die Blumen gießen.", "answer": "lässt"},
+        {"exerciseId": "129", "type": "fill_in", "frage": "Ich _______ mir helfen.", "answer": "lasse"},
+        {"exerciseId": "130", "type": "fill_in", "frage": "Ihr _______ die Kinder spielen.", "answer": "lasst"}
+      ]
+    },
+    {
+      "sectionId": 14,
+      "sectionName": "POSITIONS- UND DIREKTIONSVERBEN",
+      "exercises": [
+        {"exerciseId": "131", "type": "fill_in", "frage": "Ich _______ auf dem Stuhl.", "answer": "sitze"},
+        {"exerciseId": "132", "type": "fill_in", "frage": "Ich _______ mich auf den Stuhl.", "answer": "setze"},
+        {"exerciseId": "133", "type": "fill_in", "frage": "Das Buch _______ auf dem Tisch.", "answer": "liegt"},
+        {"exerciseId": "134", "type": "fill_in", "frage": "Ich _______ das Buch auf den Tisch.", "answer": "lege"},
+        {"exerciseId": "135", "type": "fill_in", "frage": "Die Vase _______ auf dem Tisch.", "answer": "steht"},
+        {"exerciseId": "136", "type": "fill_in", "frage": "Ich _______ die Vase auf den Tisch.", "answer": "stelle"},
+        {"exerciseId": "137", "type": "fill_in", "frage": "Das Bild _______ an der Wand.", "answer": "hängt"},
+        {"exerciseId": "138", "type": "fill_in", "frage": "Ich _______ das Bild an die Wand.", "answer": "hänge"},
+        {"exerciseId": "139", "type": "fill_in", "frage": "Die Kinder _______ auf dem Boden.", "answer": "sitzen"},
+        {"exerciseId": "140", "type": "fill_in", "frage": "Die Mutter _______ das Kind auf den Boden.", "answer": "setzt"}
+      ]
+    },
+    {
+      "sectionId": 15,
+      "sectionName": "GENITIV",
+      "exercises": [
+        {"exerciseId": "141", "type": "fill_in", "frage": "Das ist das Auto _______ .", "answer": "seines Vaters"},
+        {"exerciseId": "142", "type": "fill_in", "frage": "Das ist das Buch _______ .", "answer": "meiner Mutter"},
+        {"exerciseId": "143", "type": "fill_in", "frage": "Die Tasche _______ ist rot.", "answer": "des Mädchens"},
+        {"exerciseId": "144", "type": "fill_in", "frage": "Das Haus _______ ist groß.", "answer": "des Nachbarn"},
+        {"exerciseId": "145", "type": "fill_in", "frage": "Die Blumen _______ sind schön.", "answer": "meiner Schwester"},
+        {"exerciseId": "146", "type": "fill_in", "frage": "Das ist der Hund _______ .", "answer": "meines Freundes"},
+        {"exerciseId": "147", "type": "fill_in", "frage": "Die Tür _______ ist offen.", "answer": "des Autos"},
+        {"exerciseId": "148", "type": "fill_in", "frage": "Das ist das Spielzeug _______ .", "answer": "des Kindes"},
+        {"exerciseId": "149", "type": "fill_in", "frage": "Die Meinung _______ ist wichtig.", "answer": "des Experten"},
+        {"exerciseId": "150", "type": "fill_in", "frage": "Das ist die Arbeit _______ .", "answer": "des Schülers"}
+      ]
+    },
+    {
+      "sectionId": 16,
+      "sectionName": "N-DEKLINATION",
+      "exercises": [
+        {"exerciseId": "151", "type": "fill_in", "frage": "Kennen Sie den _______ ?", "answer": "Herrn"},
+        {"exerciseId": "152", "type": "fill_in", "frage": "Ich helfe dem _______ .", "answer": "Studenten"},
+        {"exerciseId": "153", "type": "fill_in", "frage": "Das ist der Hund des _______ .", "answer": "Professors"},
+        {"exerciseId": "154", "type": "fill_in", "frage": "Ich sehe den _______ .", "answer": "Kollegen"},
+        {"exerciseId": "155", "type": "fill_in", "frage": "Er spricht mit dem _______ .", "answer": "Freund"},
+        {"exerciseId": "156", "type": "fill_in", "frage": "Ich gebe dem _______ das Buch.", "answer": "Herrn"},
+        {"exerciseId": "157", "type": "fill_in", "frage": "Wir helfen den _______ .", "answer": "Studenten"},
+        {"exerciseId": "158", "type": "fill_in", "frage": "Das ist das Auto des _______ .", "answer": "Herrn"},
+        {"exerciseId": "159", "type": "fill_in", "frage": "Ich sehe die _______ .", "answer": "Kollegen"},
+        {"exerciseId": "160", "type": "fill_in", "frage": "Er gibt dem _______ den Stift.", "answer": "Studenten"}
+      ]
+    },
+    {
+      "sectionId": 17,
+      "sectionName": "ADJEKTIVE FÜR PERSONEN ALS NOMEN",
+      "exercises": [
+        {"exerciseId": "161", "type": "fill_in", "frage": "Der _______ liest ein Buch.", "answer": "Jugendliche"},
+        {"exerciseId": "162", "type": "fill_in", "frage": "Die _______ wartet auf den Bus.", "answer": "Alte"},
+        {"exerciseId": "163", "type": "fill_in", "frage": "Der _______ geht zum Arzt.", "answer": "Kranke"},
+        {"exerciseId": "164", "type": "fill_in", "frage": "Die _______ sucht eine Stelle.", "answer": "Arbeitslose"},
+        {"exerciseId": "165", "type": "fill_in", "frage": "Der _______ hat einen Hund.", "answer": "Alte"},
+        {"exerciseId": "166", "type": "fill_in", "frage": "Die _______ geht zur Schule.", "answer": "Jugendliche"},
+        {"exerciseId": "167", "type": "fill_in", "frage": "Der _______ braucht Hilfe.", "answer": "Kranke"},
+        {"exerciseId": "168", "type": "fill_in", "frage": "Die _______ ist Mutter.", "answer": "Arbeitslose"},
+        {"exerciseId": "169", "type": "fill_in", "frage": "Der _______ fährt Fahrrad.", "answer": "Jugendliche"},
+        {"exerciseId": "170", "type": "fill_in", "frage": "Die _______ hat einen Enkel.", "answer": "Alte"}
+      ]
+    },
+    {
+      "sectionId": 18,
+      "sectionName": "ADJEKTIVE ALS NEUTRALE NOMEN",
+      "exercises": [
+        {"exerciseId": "171", "type": "fill_in", "frage": "Das _______ siegt.", "answer": "Gute"},
+        {"exerciseId": "172", "type": "fill_in", "frage": "Das _______ existiert.", "answer": "Böse"},
+        {"exerciseId": "173", "type": "fill_in", "frage": "Das _______ im Leben.", "answer": "Schöne"},
+        {"exerciseId": "174", "type": "fill_in", "frage": "Das _______ zuerst.", "answer": "Wichtigste"},
+        {"exerciseId": "175", "type": "fill_in", "frage": "Das _______ ist schwer.", "answer": "Schwere"},
+        {"exerciseId": "176", "type": "fill_in", "frage": "Das _______ kann man lernen.", "answer": "Gute"},
+        {"exerciseId": "177", "type": "fill_in", "frage": "Das _______ ist nicht immer klar.", "answer": "Richtige"},
+        {"exerciseId": "178", "type": "fill_in", "frage": "Das _______ kommt später.", "answer": "Weniger Wichtige"},
+        {"exerciseId": "179", "type": "fill_in", "frage": "Das _______ verstehen wir.", "answer": "Einfache"},
+        {"exerciseId": "180", "type": "fill_in", "frage": "Das _______ ist vergänglich.", "answer": "Schöne"}
+      ]
+    },
+    {
+      "sectionId": 19,
+      "sectionName": "INDIREKTE FRAGEN",
+      "exercises": [
+        {"exerciseId": "181", "type": "fill_in", "frage": "Ich weiß nicht, _______ er kommt.", "answer": "ob"},
+        {"exerciseId": "182", "type": "fill_in", "frage": "Ich frage mich, _______ du Zeit hast.", "answer": "ob"},
+        {"exerciseId": "183", "type": "fill_in", "frage": "Er möchte wissen, _______ sie kommt.", "answer": "ob"},
+        {"exerciseId": "184", "type": "fill_in", "frage": "Weißt du, _______ der Film beginnt?", "answer": "wann"},
+        {"exerciseId": "185", "type": "fill_in", "frage": "Ich weiß nicht, _______ er wohnt.", "answer": "wo"},
+        {"exerciseId": "186", "type": "fill_in", "frage": "Sie fragt, _______ das Buch kostet.", "answer": "wie viel"},
+        {"exerciseId": "187", "type": "fill_in", "frage": "Wir wissen nicht, _______ er kommt.", "answer": "ob"},
+        {"exerciseId": "188", "type": "fill_in", "frage": "Kannst du mir sagen, _______ der Zug abfährt?", "answer": "wann"},
+        {"exerciseId": "189", "type": "fill_in", "frage": "Ich frage mich, _______ sie kommt.", "answer": "ob"},
+        {"exerciseId": "190", "type": "fill_in", "frage": "Er möchte wissen, _______ das Wetter morgen ist.", "answer": "wie"}
+      ]
+    },
+    {
+      "sectionId": 20,
+      "sectionName": "INFINITIV MIT ZU",
+      "exercises": [
+        {"exerciseId": "191", "type": "fill_in", "frage": "Es ist schön, hier _______ .", "answer": "zu sein"},
+        {"exerciseId": "192", "type": "fill_in", "frage": "Ich habe keine Zeit, _______ .", "answer": "zu gehen"},
+        {"exerciseId": "193", "type": "fill_in", "frage": "Es ist wichtig, Deutsch _______ .", "answer": "zu lernen"},
+        {"exerciseId": "194", "type": "fill_in", "frage": "Ich habe vergessen, das Licht _______ .", "answer": "auszuschalten"},
+        {"exerciseId": "195", "type": "fill_in", "frage": "Es ist nicht leicht, einen Job _______ .", "answer": "zu finden"},
+        {"exerciseId": "196", "type": "fill_in", "frage": "Ich plane, nächstes Jahr nach Deutschland _______ .", "answer": "zu fahren"},
+        {"exerciseId": "197", "type": "fill_in", "frage": "Es ist schön, dich _______ .", "answer": "zu sehen"},
+        {"exerciseId": "198", "type": "fill_in", "frage": "Ich habe keine Lust, heute _______ .", "answer": "zu arbeiten"},
+        {"exerciseId": "199", "type": "fill_in", "frage": "Es ist gefährlich, so schnell _______ .", "answer": "zu fahren"},
+        {"exerciseId": "200", "type": "fill_in", "frage": "Ich habe gelernt, Deutsch _______ .", "answer": "zu sprechen"}
+      ]
+    },
+    {
+      "sectionId": 21,
+      "sectionName": "INFINITIV OHNE ZU",
+      "exercises": [
+        {"exerciseId": "201", "type": "fill_in", "frage": "Ich will _______ .", "answer": "singen"},
+        {"exerciseId": "202", "type": "fill_in", "frage": "Er kann gut _______ .", "answer": "schwimmen"},
+        {"exerciseId": "203", "type": "fill_in", "frage": "Ich lasse ihn _______ .", "answer": "kommen"},
+        {"exerciseId": "204", "type": "fill_in", "frage": "Ich sehe ihn _______ .", "answer": "kommen"},
+        {"exerciseId": "205", "type": "fill_in", "frage": "Wir hören sie _______ .", "answer": "singen"},
+        {"exerciseId": "206", "type": "fill_in", "frage": "Ich helfe ihm, das Buch _______ .", "answer": "finden"},
+        {"exerciseId": "207", "type": "fill_in", "frage": "Er muss heute _______ .", "answer": "arbeiten"},
+        {"exerciseId": "208", "type": "fill_in", "frage": "Darf ich _______ ?", "answer": "reinkommen"},
+        {"exerciseId": "209", "type": "fill_in", "frage": "Ich werde morgen _______ .", "answer": "kommen"},
+        {"exerciseId": "210", "type": "fill_in", "frage": "Er lässt das Auto _______ .", "answer": "waschen"}
+      ]
+    },
+    {
+      "sectionId": 22,
+      "sectionName": "RELATIVSÄTZE 1",
+      "exercises": [
+        {"exerciseId": "211", "type": "fill_in", "frage": "Das ist der Mann, _______ immer lacht.", "answer": "der"},
+        {"exerciseId": "212", "type": "fill_in", "frage": "Das ist die Frau, _______ hier arbeitet.", "answer": "die"},
+        {"exerciseId": "213", "type": "fill_in", "frage": "Das ist das Kind, _______ weint.", "answer": "das"},
+        {"exerciseId": "214", "type": "fill_in", "frage": "Das sind die Leute, _______ ich kenne.", "answer": "die"},
+        {"exerciseId": "215", "type": "fill_in", "frage": "Das ist der Hund, _______ ich habe.", "answer": "den"},
+        {"exerciseId": "216", "type": "fill_in", "frage": "Das ist die Blume, _______ schön ist.", "answer": "die"},
+        {"exerciseId": "217", "type": "fill_in", "frage": "Das ist der Tisch, _______ groß ist.", "answer": "der"},
+        {"exerciseId": "218", "type": "fill_in", "frage": "Das ist die Frau, _______ ich helfe.", "answer": "der"},
+        {"exerciseId": "219", "type": "fill_in", "frage": "Das ist das Buch, _______ ich lese.", "answer": "das"},
+        {"exerciseId": "220", "type": "fill_in", "frage": "Das sind die Kinder, _______ spielen.", "answer": "die"}
+      ]
+    },
+    {
+      "sectionId": 23,
+      "sectionName": "RELATIVSÄTZE 2",
+      "exercises": [
+        {"exerciseId": "221", "type": "fill_in", "frage": "Wie heißt das Ding, _______ man schreibt?", "answer": "mit dem"},
+        {"exerciseId": "222", "type": "fill_in", "frage": "Das ist der Freund, _______ ich reise.", "answer": "mit dem"},
+        {"exerciseId": "223", "type": "fill_in", "frage": "Das ist die Frau, _______ ich spreche.", "answer": "mit der"},
+        {"exerciseId": "224", "type": "fill_in", "frage": "Das ist das Haus, _______ ich wohne.", "answer": "in dem"},
+        {"exerciseId": "225", "type": "fill_in", "frage": "Das ist der Mann, _______ ich arbeite.", "answer": "mit dem"},
+        {"exerciseId": "226", "type": "fill_in", "frage": "Kennst du die Frau, _______ ich heute gesprochen habe?", "answer": "mit der"},
+        {"exerciseId": "227", "type": "fill_in", "frage": "Das ist der Ort, _______ ich geboren bin.", "answer": "wo"},
+        {"exerciseId": "228", "type": "fill_in", "frage": "Das ist das Restaurant, _______ wir essen.", "answer": "in dem"},
+        {"exerciseId": "229", "type": "fill_in", "frage": "Das ist der Schlüssel, _______ ich die Tür öffne.", "answer": "mit dem"},
+        {"exerciseId": "230", "type": "fill_in", "frage": "Das ist der Arzt, _______ ich vertraue.", "answer": "dem"}
+      ]
+    },
+    {
+      "sectionId": 24,
+      "sectionName": "TEMPORALE NEBENSÄTZE - WENN / ALS",
+      "exercises": [
+        {"exerciseId": "231", "type": "fill_in", "frage": "Ich gehe, _______ es regnet.", "answer": "wenn"},
+        {"exerciseId": "232", "type": "fill_in", "frage": "Ich ging, _______ es regnete.", "answer": "als"},
+        {"exerciseId": "233", "type": "fill_in", "frage": "Er kommt, _______ er Zeit hat.", "answer": "wenn"},
+        {"exerciseId": "234", "type": "fill_in", "frage": "Er kam, _______ er Zeit hatte.", "answer": "als"},
+        {"exerciseId": "235", "type": "fill_in", "frage": "Ich rufe dich an, _______ ich zu Hause bin.", "answer": "wenn"},
+        {"exerciseId": "236", "type": "fill_in", "frage": "Ich rief dich an, _______ ich zu Hause war.", "answer": "als"},
+        {"exerciseId": "237", "type": "fill_in", "frage": "Wir gehen spazieren, _______ die Sonne scheint.", "answer": "wenn"},
+        {"exerciseId": "238", "type": "fill_in", "frage": "Wir gingen spazieren, _______ die Sonne schien.", "answer": "als"},
+        {"exerciseId": "239", "type": "fill_in", "frage": "Ich koche, _______ ich Hunger habe.", "answer": "wenn"},
+        {"exerciseId": "240", "type": "fill_in", "frage": "Ich kochte, _______ ich Hunger hatte.", "answer": "als"}
+      ]
+    },
+    {
+      "sectionId": 25,
+      "sectionName": "TEMPORALE NEBENSÄTZE 2",
+      "exercises": [
+        {"exerciseId": "241", "type": "fill_in", "frage": "_______ ich arbeite, höre ich Musik.", "answer": "Während"},
+        {"exerciseId": "242", "type": "fill_in", "frage": "_______ ich gehe, rufe ich an.", "answer": "Bevor"},
+        {"exerciseId": "243", "type": "fill_in", "frage": "_______ ich gegessen habe, gehe ich.", "answer": "Nachdem"},
+        {"exerciseId": "244", "type": "fill_in", "frage": "_______ ich in Berlin bin, lerne ich Deutsch.", "answer": "Seit"},
+        {"exerciseId": "245", "type": "fill_in", "frage": "_______ ich koche, höre ich Radio.", "answer": "Während"},
+        {"exerciseId": "246", "type": "fill_in", "frage": "_______ ich ins Bett gehe, lese ich ein Buch.", "answer": "Bevor"},
+        {"exerciseId": "247", "type": "fill_in", "frage": "_______ ich aufgestanden bin, dusche ich mich.", "answer": "Nachdem"},
+        {"exerciseId": "248", "type": "fill_in", "frage": "_______ ich in Deutschland wohne, esse ich mehr Brot.", "answer": "Seit"},
+        {"exerciseId": "249", "type": "fill_in", "frage": "_______ ich fahre, höre ich Musik.", "answer": "Während"},
+        {"exerciseId": "250", "type": "fill_in", "frage": "_______ ich ins Kino gehe, kaufe ich Popcorn.", "answer": "Bevor"}
+      ]
+    },
+    {
+      "sectionId": 26,
+      "sectionName": "FINALSÄTZE",
+      "exercises": [
+        {"exerciseId": "251", "type": "fill_in", "frage": "Ich lerne Deutsch, _______ in Deutschland zu arbeiten.", "answer": "um"},
+        {"exerciseId": "252", "type": "fill_in", "frage": "Ich helfe ihm, _______ er gut lernen kann.", "answer": "damit"},
+        {"exerciseId": "253", "type": "fill_in", "frage": "Ich gehe in die Stadt, _______ neue Schuhe zu kaufen.", "answer": "um"},
+        {"exerciseId": "254", "type": "fill_in", "frage": "Sie sagt es laut, _______ alle es hören können.", "answer": "damit"},
+        {"exerciseId": "255", "type": "fill_in", "frage": "Ich spare Geld, _______ ein Auto zu kaufen.", "answer": "um"},
+        {"exerciseId": "256", "type": "fill_in", "frage": "Der Lehrer erklärt langsam, _______ die Schüler verstehen können.", "answer": "damit"},
+        {"exerciseId": "257", "type": "fill_in", "frage": "Ich frühstücke, _______ fit zu sein.", "answer": "um"},
+        {"exerciseId": "258", "type": "fill_in", "frage": "Er schreibt es auf, _______ er es nicht vergisst.", "answer": "damit"},
+        {"exerciseId": "259", "type": "fill_in", "frage": "Ich rufe an, _______ den Termin zu bestätigen.", "answer": "um"},
+        {"exerciseId": "260", "type": "fill_in", "frage": "Die Mutter bleibt zu Hause, _______ sie sich um das Kind kümmern kann.", "answer": "damit"}
+      ]
+    },
+    {
+      "sectionId": 27,
+      "sectionName": "DOPPELKONNEKTOREN",
+      "exercises": [
+        {"exerciseId": "261", "type": "fill_in", "frage": "Wir gehen _______ ins Kino _______ ins Theater.", "answer": "entweder ... oder"},
+        {"exerciseId": "262", "type": "fill_in", "frage": "Ich habe _______ Zeit _______ Geld.", "answer": "weder ... noch"},
+        {"exerciseId": "263", "type": "fill_in", "frage": "Er spricht _______ Deutsch _______ Englisch.", "answer": "sowohl ... als auch"},
+        {"exerciseId": "264", "type": "fill_in", "frage": "Ich kaufe _______ Brot _______ Milch.", "answer": "entweder ... oder"},
+        {"exerciseId": "265", "type": "fill_in", "frage": "Er hat _______ Hunger _______ Durst.", "answer": "weder ... noch"},
+        {"exerciseId": "266", "type": "fill_in", "frage": "Sie ist _______ klug _______ fleißig.", "answer": "sowohl ... als auch"},
+        {"exerciseId": "267", "type": "fill_in", "frage": "Ich fahre _______ mit dem Zug _______ mit dem Bus.", "answer": "entweder ... oder"},
+        {"exerciseId": "268", "type": "fill_in", "frage": "Er liest _______ Zeitung _______ Bücher.", "answer": "weder ... noch"},
+        {"exerciseId": "269", "type": "fill_in", "frage": "Ich esse _______ Obst _______ Gemüse.", "answer": "sowohl ... als auch"},
+        {"exerciseId": "270", "type": "fill_in", "frage": "Sie wohnt _______ in Berlin _______ in München.", "answer": "entweder ... oder"}
+      ]
+    },
+    {
+      "sectionId": 28,
+      "sectionName": "VERGLEICHSSÄTZE",
+      "exercises": [
+        {"exerciseId": "271", "type": "fill_in", "frage": "_______ größer, _______ besser!", "answer": "Je ... desto"},
+        {"exerciseId": "272", "type": "fill_in", "frage": "_______ mehr du lernst, _______ besser wirst du.", "answer": "Je ... desto"},
+        {"exerciseId": "273", "type": "fill_in", "frage": "_______ schneller du läufst, _______ früher kommst du an.", "answer": "Je ... desto"},
+        {"exerciseId": "274", "type": "fill_in", "frage": "_______ mehr ich schlafe, _______ weniger müde bin ich.", "answer": "Je ... desto"},
+        {"exerciseId": "275", "type": "fill_in", "frage": "_______ weniger er arbeitet, _______ weniger Geld hat er.", "answer": "Je ... desto"},
+        {"exerciseId": "276", "type": "fill_in", "frage": "_______ besser du kochst, _______ mehr Gäste kommen.", "answer": "Je ... desto"},
+        {"exerciseId": "277", "type": "fill_in", "frage": "_______ älter ich werde, _______ weiser werde ich.", "answer": "Je ... desto"},
+        {"exerciseId": "278", "type": "fill_in", "frage": "_______ mehr du isst, _______ dicker wirst du.", "answer": "Je ... desto"},
+        {"exerciseId": "279", "type": "fill_in", "frage": "_______ schwerer das Problem, _______ mehr Hilfe brauchen wir.", "answer": "Je ... desto"},
+        {"exerciseId": "280", "type": "fill_in", "frage": "_______ früher du kommst, _______ besser.", "answer": "Je ... desto"}
+      ]
+    },
+    {
+      "sectionId": 29,
+      "sectionName": "PRÄPOSITIONEN MIT GENITIV",
+      "exercises": [
+        {"exerciseId": "281", "type": "fill_in", "frage": "_______ des Essens schweigen wir.", "answer": "Während"},
+        {"exerciseId": "282", "type": "fill_in", "frage": "_______ des Regens bleiben wir zu Hause.", "answer": "Wegen"},
+        {"exerciseId": "283", "type": "fill_in", "frage": "_______ des Regens gehen wir spazieren.", "answer": "Trotz"},
+        {"exerciseId": "284", "type": "fill_in", "frage": "_______ der Stadt gibt es viele Geschäfte.", "answer": "Innerhalb"},
+        {"exerciseId": "285", "type": "fill_in", "frage": "_______ der Stadt ist es ruhig.", "answer": "Außerhalb"},
+        {"exerciseId": "286", "type": "fill_in", "frage": "_______ des Films war es still.", "answer": "Während"},
+        {"exerciseId": "287", "type": "fill_in", "frage": "_______ der Arbeit kann ich nicht kommen.", "answer": "Wegen"},
+        {"exerciseId": "288", "type": "fill_in", "frage": "_______ der Kälte bleiben wir drinnen.", "answer": "Trotz"},
+        {"exerciseId": "289", "type": "fill_in", "frage": "_______ des Hauses ist der Garten.", "answer": "Außerhalb"},
+        {"exerciseId": "290", "type": "fill_in", "frage": "_______ der Schule ist ein Park.", "answer": "Innerhalb"}
+      ]
+    },
+    {
+      "sectionId": 30,
+      "sectionName": "ADJEKTIVDEKLINATION",
+      "exercises": [
+        {"exerciseId": "291", "type": "fill_in", "frage": "Der _______ Wein ist gut.", "answer": "gute"},
+        {"exerciseId": "292", "type": "fill_in", "frage": "Die _______ Frau arbeitet.", "answer": "gute"},
+        {"exerciseId": "293", "type": "fill_in", "frage": "Das _______ Bier schmeckt.", "answer": "gute"},
+        {"exerciseId": "294", "type": "fill_in", "frage": "Ich trinke _______ Wein.", "answer": "guten"},
+        {"exerciseId": "295", "type": "fill_in", "frage": "Ich helfe der _______ Frau.", "answer": "guten"},
+        {"exerciseId": "296", "type": "fill_in", "frage": "Das ist _______ Bier.", "answer": "gutes"},
+        {"exerciseId": "297", "type": "fill_in", "frage": "Ich habe _______ Wein.", "answer": "guten"},
+        {"exerciseId": "298", "type": "fill_in", "frage": "Die _______ Frau ist nett.", "answer": "gute"},
+        {"exerciseId": "299", "type": "fill_in", "frage": "Er trinkt _______ Bier.", "answer": "gutes"},
+        {"exerciseId": "300", "type": "fill_in", "frage": "Ich kaufe der _______ Frau Blumen.", "answer": "guten"}
+      ]
+    },
+    {
+      "sectionId": 31,
+      "sectionName": "PARTIZIP I ALS ADJEKTIV",
+      "exercises": [
+        {"exerciseId": "301", "type": "fill_in", "frage": "Die _______ Vögel singen.", "answer": "singenden"},
+        {"exerciseId": "302", "type": "fill_in", "frage": "Die _______ Fische sind bunt.", "answer": "fliegenden"},
+        {"exerciseId": "303", "type": "fill_in", "frage": "Der _______ Student hört Musik.", "answer": "lesende"},
+        {"exerciseId": "304", "type": "fill_in", "frage": "Die _______ Kinder spielen.", "answer": "laufenden"},
+        {"exerciseId": "305", "type": "fill_in", "frage": "Der _______ Mann trinkt Kaffee.", "answer": "lächelnde"},
+        {"exerciseId": "306", "type": "fill_in", "frage": "Die _______ Frau liest ein Buch.", "answer": "sitzende"},
+        {"exerciseId": "307", "type": "fill_in", "frage": "Das _______ Kind weint.", "answer": "weinende"},
+        {"exerciseId": "308", "type": "fill_in", "frage": "Die _______ Vögel fliegen weg.", "answer": "fliegenden"},
+        {"exerciseId": "309", "type": "fill_in", "frage": "Der _______ Arbeiter ruht sich aus.", "answer": "arbeitende"},
+        {"exerciseId": "310", "type": "fill_in", "frage": "Die _______ Schüler schreiben einen Test.", "answer": "lächelnden"}
+      ]
+    },
+    {
+      "sectionId": 32,
+      "sectionName": "KARMA - PRÄTERITUM & PLUSQUAMPERFEKT",
+      "exercises": [
+        {"exerciseId": "311", "type": "fill_in", "frage": "Ich _______ gestern im Park. (sein)", "answer": "war"},
+        {"exerciseId": "312", "type": "fill_in", "frage": "Er _______ schon gegangen. (sein)", "answer": "war"},
+        {"exerciseId": "313", "type": "fill_in", "frage": "Wir _______ das Buch gelesen. (haben)", "answer": "hatten"},
+        {"exerciseId": "314", "type": "fill_in", "frage": "Sie _______ viel gearbeitet. (haben)", "answer": "hatte"},
+        {"exerciseId": "315", "type": "fill_in", "frage": "Ich _______ nach Hause gegangen. (sein)", "answer": "war"},
+        {"exerciseId": "316", "type": "fill_in", "frage": "Du _______ viel Glück. (haben - Präteritum)", "answer": "hattest"},
+        {"exerciseId": "317", "type": "fill_in", "frage": "Er _______ gestern nicht. (kommen - Präteritum)", "answer": "kam"},
+        {"exerciseId": "318", "type": "fill_in", "frage": "Wir _______ das Essen schon. (essen - Plusquamperfekt)", "answer": "hatten gegessen"},
+        {"exerciseId": "319", "type": "fill_in", "frage": "Ihr _______ mich nicht. (hören - Präteritum)", "answer": "hörtet"},
+        {"exerciseId": "320", "type": "fill_in", "frage": "Sie _______ schon aufgestanden. (sein - Plusquamperfekt)", "answer": "waren aufgestanden"}
+      ]
+    },
+    {
+      "sectionId": 33,
+      "sectionName": "KARMA - REFLEXIVPRONOMEN & VERBEN MIT PRÄPOSITIONEN",
+      "exercises": [
+        {"exerciseId": "321", "type": "fill_in", "frage": "Ich wasche _______ die Hände.", "answer": "mir"},
+        {"exerciseId": "322", "type": "fill_in", "frage": "Ich interessiere mich _______ Kunst.", "answer": "für"},
+        {"exerciseId": "323", "type": "fill_in", "frage": "Du putzt _______ die Zähne.", "answer": "dir"},
+        {"exerciseId": "324", "type": "fill_in", "frage": "Ich ärgere mich _______ den Lärm.", "answer": "über"},
+        {"exerciseId": "325", "type": "fill_in", "frage": "Wir freuen uns _______ das Geschenk.", "answer": "über"},
+        {"exerciseId": "326", "type": "fill_in", "frage": "Sie kauft _______ ein neues Kleid.", "answer": "sich"},
+        {"exerciseId": "327", "type": "fill_in", "frage": "Ich warte _______ den Bus.", "answer": "auf"},
+        {"exerciseId": "328", "type": "fill_in", "frage": "Er bedankt sich _______ das Geschenk.", "answer": "für"},
+        {"exerciseId": "329", "type": "fill_in", "frage": "Wir kümmern uns _______ das Kind.", "answer": "um"},
+        {"exerciseId": "330", "type": "fill_in", "frage": "Ich spreche _______ meinem Freund.", "answer": "mit"}
+      ]
+    },
+    {
+      "sectionId": 34,
+      "sectionName": "KARMA - KONJUNKTIV II & PASSIV",
+      "exercises": [
+        {"exerciseId": "331", "type": "fill_in", "frage": "Wenn ich viel Geld _______ .", "answer": "hätte"},
+        {"exerciseId": "332", "type": "fill_in", "frage": "Das Auto _______ gebaut.", "answer": "wird"},
+        {"exerciseId": "333", "type": "fill_in", "frage": "Wenn ich du _______ .", "answer": "wäre"},
+        {"exerciseId": "334", "type": "fill_in", "frage": "Der Kölner Dom _______ gebaut.", "answer": "wurde"},
+        {"exerciseId": "335", "type": "fill_in", "frage": "Ich _______ gerne reisen.", "answer": "würde"},
+        {"exerciseId": "336", "type": "fill_in", "frage": "Die Briefe _______ geschrieben.", "answer": "werden"},
+        {"exerciseId": "337", "type": "fill_in", "frage": "Wenn es morgen nicht regnen _______ .", "answer": "würde"},
+        {"exerciseId": "338", "type": "fill_in", "frage": "Die Fenster _______ geputzt.", "answer": "wurden"},
+        {"exerciseId": "339", "type": "fill_in", "frage": "Ich _______ dir helfen.", "answer": "könnte"},
+        {"exerciseId": "340", "type": "fill_in", "frage": "Das Buch _______ gelesen.", "answer": "wird"}
+      ]
+    },
+    {
+      "sectionId": 35,
+      "sectionName": "KARMA - INFINITIV & RELATIVSÄTZE",
+      "exercises": [
+        {"exerciseId": "341", "type": "fill_in", "frage": "Es ist schön, hier _______ .", "answer": "zu sein"},
+        {"exerciseId": "342", "type": "fill_in", "frage": "Das ist der Mann, _______ immer lacht.", "answer": "der"},
+        {"exerciseId": "343", "type": "fill_in", "frage": "Ich will _______ .", "answer": "singen"},
+        {"exerciseId": "344", "type": "fill_in", "frage": "Das ist die Frau, _______ hier arbeitet.", "answer": "die"},
+        {"exerciseId": "345", "type": "fill_in", "frage": "Ich habe keine Zeit, _______ .", "answer": "zu gehen"},
+        {"exerciseId": "346", "type": "fill_in", "frage": "Das ist das Kind, _______ weint.", "answer": "das"},
+        {"exerciseId": "347", "type": "fill_in", "frage": "Ich lasse ihn _______ .", "answer": "kommen"},
+        {"exerciseId": "348", "type": "fill_in", "frage": "Das ist der Freund, _______ ich reise.", "answer": "mit dem"},
+        {"exerciseId": "349", "type": "fill_in", "frage": "Es ist wichtig, Deutsch _______ .", "answer": "zu lernen"},
+        {"exerciseId": "350", "type": "fill_in", "frage": "Das sind die Leute, _______ ich kenne.", "answer": "die"}
+      ]
+    },
+    {
+      "sectionId": 36,
+      "sectionName": "KARMA - TEMPORALE NEBENSÄTZE & FINALSÄTZE",
+      "exercises": [
+        {"exerciseId": "351", "type": "fill_in", "frage": "Ich gehe, _______ es regnet.", "answer": "wenn"},
+        {"exerciseId": "352", "type": "fill_in", "frage": "Ich lerne Deutsch, _______ in Deutschland zu arbeiten.", "answer": "um"},
+        {"exerciseId": "353", "type": "fill_in", "frage": "Ich ging, _______ es regnete.", "answer": "als"},
+        {"exerciseId": "354", "type": "fill_in", "frage": "Ich helfe ihm, _______ er gut lernen kann.", "answer": "damit"},
+        {"exerciseId": "355", "type": "fill_in", "frage": "_______ ich arbeite, höre ich Musik.", "answer": "Während"},
+        {"exerciseId": "356", "type": "fill_in", "frage": "Ich gehe in die Stadt, _______ neue Schuhe zu kaufen.", "answer": "um"},
+        {"exerciseId": "357", "type": "fill_in", "frage": "_______ ich gehe, rufe ich an.", "answer": "Bevor"},
+        {"exerciseId": "358", "type": "fill_in", "frage": "Sie sagt es laut, _______ alle es hören können.", "answer": "damit"},
+        {"exerciseId": "359", "type": "fill_in", "frage": "_______ ich gegessen habe, gehe ich.", "answer": "Nachdem"},
+        {"exerciseId": "360", "type": "fill_in", "frage": "Ich spare Geld, _______ ein Auto zu kaufen.", "answer": "um"}
+      ]
+    },
+    {
+      "sectionId": 37,
+      "sectionName": "KARMA - DOPPELKONNEKTOREN & VERGLEICHSSÄTZE",
+      "exercises": [
+        {"exerciseId": "361", "type": "fill_in", "frage": "Wir gehen _______ ins Kino _______ ins Theater.", "answer": "entweder ... oder"},
+        {"exerciseId": "362", "type": "fill_in", "frage": "_______ größer, _______ besser!", "answer": "Je ... desto"},
+        {"exerciseId": "363", "type": "fill_in", "frage": "Ich habe _______ Zeit _______ Geld.", "answer": "weder ... noch"},
+        {"exerciseId": "364", "type": "fill_in", "frage": "_______ mehr du lernst, _______ besser wirst du.", "answer": "Je ... desto"},
+        {"exerciseId": "365", "type": "fill_in", "frage": "Er spricht _______ Deutsch _______ Englisch.", "answer": "sowohl ... als auch"},
+        {"exerciseId": "366", "type": "fill_in", "frage": "_______ schneller du läufst, _______ früher kommst du an.", "answer": "Je ... desto"},
+        {"exerciseId": "367", "type": "fill_in", "frage": "Ich kaufe _______ Brot _______ Milch.", "answer": "entweder ... oder"},
+        {"exerciseId": "368", "type": "fill_in", "frage": "_______ mehr ich schlafe, _______ weniger müde bin ich.", "answer": "Je ... desto"},
+        {"exerciseId": "369", "type": "fill_in", "frage": "Er hat _______ Hunger _______ Durst.", "answer": "weder ... noch"},
+        {"exerciseId": "370", "type": "fill_in", "frage": "_______ besser du kochst, _______ mehr Gäste kommen.", "answer": "Je ... desto"}
+      ]
+    },
+    {
+      "sectionId": 38,
+      "sectionName": "KARMA - GENITIV & N-DEKLINATION",
+      "exercises": [
+        {"exerciseId": "371", "type": "fill_in", "frage": "Das ist das Auto _______ .", "answer": "seines Vaters"},
+        {"exerciseId": "372", "type": "fill_in", "frage": "Kennen Sie den _______ ?", "answer": "Herrn"},
+        {"exerciseId": "373", "type": "fill_in", "frage": "Das ist das Buch _______ .", "answer": "meiner Mutter"},
+        {"exerciseId": "374", "type": "fill_in", "frage": "Ich helfe dem _______ .", "answer": "Studenten"},
+        {"exerciseId": "375", "type": "fill_in", "frage": "Das Haus _______ ist groß.", "answer": "des Nachbarn"},
+        {"exerciseId": "376", "type": "fill_in", "frage": "Ich sehe den _______ .", "answer": "Kollegen"},
+        {"exerciseId": "377", "type": "fill_in", "frage": "Die Blumen _______ sind schön.", "answer": "meiner Schwester"},
+        {"exerciseId": "378", "type": "fill_in", "frage": "Ich gebe dem _______ das Buch.", "answer": "Herrn"},
+        {"exerciseId": "379", "type": "fill_in", "frage": "Das ist der Hund _______ .", "answer": "meines Freundes"},
+        {"exerciseId": "380", "type": "fill_in", "frage": "Wir helfen den _______ .", "answer": "Studenten"}
+      ]
+    },
+    {
+      "sectionId": 39,
+      "sectionName": "KARMA - ADJEKTIVDEKLINATION & PARTIZIP I",
+      "exercises": [
+        {"exerciseId": "381", "type": "fill_in", "frage": "Der _______ Wein ist gut.", "answer": "gute"},
+        {"exerciseId": "382", "type": "fill_in", "frage": "Die _______ Vögel singen.", "answer": "singenden"},
+        {"exerciseId": "383", "type": "fill_in", "frage": "Die _______ Frau arbeitet.", "answer": "gute"},
+        {"exerciseId": "384", "type": "fill_in", "frage": "Die _______ Fische sind bunt.", "answer": "fliegenden"},
+        {"exerciseId": "385", "type": "fill_in", "frage": "Das _______ Bier schmeckt.", "answer": "gute"},
+        {"exerciseId": "386", "type": "fill_in", "frage": "Der _______ Student hört Musik.", "answer": "lesende"},
+        {"exerciseId": "387", "type": "fill_in", "frage": "Ich trinke _______ Wein.", "answer": "guten"},
+        {"exerciseId": "388", "type": "fill_in", "frage": "Die _______ Kinder spielen.", "answer": "laufenden"},
+        {"exerciseId": "389", "type": "fill_in", "frage": "Das ist _______ Bier.", "answer": "gutes"},
+        {"exerciseId": "390", "type": "fill_in", "frage": "Der _______ Mann trinkt Kaffee.", "answer": "lächelnde"}
+      ]
+    },
+    {
+      "sectionId": 40,
+      "sectionName": "FINAL TEST - TÜM KONULAR KARMA",
+      "exercises": [
+        {"exerciseId": "391", "type": "fill_in", "frage": "Ich _______ gestern im Park. (sein - Präteritum)", "answer": "war"},
+        {"exerciseId": "392", "type": "fill_in", "frage": "Ich wasche _______ die Hände.", "answer": "mir"},
+        {"exerciseId": "393", "type": "fill_in", "frage": "Wenn ich viel Geld _______ .", "answer": "hätte"},
+        {"exerciseId": "394", "type": "fill_in", "frage": "Das Auto _______ gebaut.", "answer": "wird"},
+        {"exerciseId": "395", "type": "fill_in", "frage": "Es ist schön, hier _______ .", "answer": "zu sein"},
+        {"exerciseId": "396", "type": "fill_in", "frage": "Das ist der Mann, _______ immer lacht.", "answer": "der"},
+        {"exerciseId": "397", "type": "fill_in", "frage": "Ich gehe, _______ es regnet.", "answer": "wenn"},
+        {"exerciseId": "398", "type": "fill_in", "frage": "Wir gehen _______ ins Kino _______ ins Theater.", "answer": "entweder ... oder"},
+        {"exerciseId": "399", "type": "fill_in", "frage": "_______ größer, _______ besser!", "answer": "Je ... desto"},
+        {"exerciseId": "400", "type": "fill_in", "frage": "Das ist das Auto _______ .", "answer": "seines Vaters"}
+      ]
+    }
+  ]
+}

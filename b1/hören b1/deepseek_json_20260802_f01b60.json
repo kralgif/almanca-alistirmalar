@@ -1,0 +1,60 @@
+{
+  "title": "GOETHE B1 - HÖREN (TECHNOLOGIE IM UNTERRICHT)",
+  "subtitle": "RADIOBEITRAG - TECHNOLOGIE IM UNTERRICHT",
+  "sectionId": 52,
+  "sectionName": "RADIOBEITRAG - TECHNOLOGIE IM UNTERRICHT",
+  "exercises": [
+    {
+      "exerciseId": "59",
+      "type": "multiple_choice",
+      "frage": "Warum nutzen Schulen digitale Medien?",
+      "turkce": "Okullar neden dijital medya kullanıyor?",
+      "ipucu": "den Unterricht interaktiver zu gestalten.",
+      "options": ["Um den Unterricht interaktiver zu gestalten.", "Um die Schüler zu langweilen.", "Um Geld zu sparen."],
+      "answer": "Um den Unterricht interaktiver zu gestalten."
+    },
+    {
+      "exerciseId": "60",
+      "type": "multiple_choice",
+      "frage": "Was ist ein Vorteil von Technologie im Unterricht?",
+      "turkce": "Sınıfta teknolojinin avantajı nedir?",
+      "ipucu": "Schüler motivieren.",
+      "options": ["Es ist immer ablenkend.", "Es kann Schüler motivieren.", "Es ist immer teuer."],
+      "answer": "Es kann Schüler motivieren."
+    },
+    {
+      "exerciseId": "61",
+      "type": "multiple_choice",
+      "frage": "Was ist ein Nachteil von Technologie im Unterricht?",
+      "turkce": "Sınıfta teknolojinin dezavantajı nedir?",
+      "ipucu": "kann ablenken und die Konzentration stören.",
+      "options": ["Es ist immer kostenlos.", "Es kann ablenken und die Konzentration stören.", "Es ist immer einfach zu benutzen."],
+      "answer": "Es kann ablenken und die Konzentration stören."
+    },
+    {
+      "exerciseId": "62",
+      "type": "fill_in",
+      "frage": "Die Nutzung von Geräten kann ablenken und die _______ stören.",
+      "turkce": "Cihaz kullanımı dikkat dağıtabilir ve _______ bozabilir.",
+      "ipucu": "Konzentration - konsantrasyon.",
+      "answer": "Konzentration"
+    },
+    {
+      "exerciseId": "63",
+      "type": "richtig_falsch",
+      "frage": "Technologie im Unterricht ist immer gut für alle Schüler.",
+      "turkce": "Sınıfta teknoloji her zaman tüm öğrenciler için iyidir.",
+      "ipucu": "Nachteile - dezavantajları da var.",
+      "answer": "Falsch"
+    },
+    {
+      "exerciseId": "64",
+      "type": "multiple_choice",
+      "frage": "Was bereitet der Umgang mit Technologie vor?",
+      "turkce": "Teknoloji kullanımı neye hazırlıyor?",
+      "ipucu": "bereitet der Umgang mit Technologie auf die Arbeitswelt vor.",
+      "options": ["Auf den Urlaub", "Auf die Arbeitswelt", "Auf das Hobby"],
+      "answer": "Auf die Arbeitswelt"
+    }
+  ]
+}

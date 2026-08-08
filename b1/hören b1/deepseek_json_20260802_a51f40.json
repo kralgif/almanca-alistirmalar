@@ -1,0 +1,43 @@
+{
+  "title": "GOETHE B1 - HÖREN (RADIO - VERANSTALTUNGSTIPP)",
+  "subtitle": "RADIO - VERANSTALTUNGSTIPP",
+  "sectionId": 55,
+  "sectionName": "RADIO - VERANSTALTUNGSTIPP",
+  "exercises": [
+    {
+      "exerciseId": "73",
+      "type": "multiple_choice",
+      "frage": "Wann findet das Konzert statt?",
+      "turkce": "Konser ne zaman?",
+      "ipucu": "15. Juni.",
+      "options": ["am 15. Mai", "am 15. Juni", "am 15. Juli"],
+      "answer": "am 15. Juni"
+    },
+    {
+      "exerciseId": "74",
+      "type": "multiple_choice",
+      "frage": "Wo findet das Konzert statt?",
+      "turkce": "Konser nerede?",
+      "ipucu": "im Stadtpark.",
+      "options": ["im Konzertsaal", "im Stadtpark", "im Theater"],
+      "answer": "im Stadtpark"
+    },
+    {
+      "exerciseId": "75",
+      "type": "multiple_choice",
+      "frage": "Wie viel kostet der Eintritt?",
+      "turkce": "Giriş ücreti ne kadar?",
+      "ipucu": "Eintritt ist frei - ücretsiz.",
+      "options": ["10 Euro", "5 Euro", "frei"],
+      "answer": "frei"
+    },
+    {
+      "exerciseId": "76",
+      "type": "richtig_falsch",
+      "frage": "Bei Regen findet das Konzert in der Sporthalle statt.",
+      "turkce": "Yağmurda konser spor salonunda yapılıyor.",
+      "ipucu": "Bei Regen findet das Konzert in der Sporthalle statt.",
+      "answer": "Richtig"
+    }
+  ]
+}

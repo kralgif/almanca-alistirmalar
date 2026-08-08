@@ -1,0 +1,74 @@
+{
+  "title": "GOETHE B1 - HÖREN (DENEME SINAVI)",
+  "subtitle": "RADIOBEITRAG - AUTOFREIE INNENSTADT",
+  "sectionId": 1,
+  "sectionName": "HÖREN - AUTOFREIE INNENSTADT",
+  "exercises": [
+    {
+      "exerciseId": "1",
+      "type": "multiple_choice",
+      "frage": "Worüber sprechen die Befürworter einer autofreien Innenstadt?",
+      "options": [
+        "Weniger Autos bedeuten weniger Lärm und Luftverschmutzung.",
+        "Mehr Autos bedeuten mehr Umsatz für Geschäfte.",
+        "Autos sind in der Innenstadt notwendig."
+      ],
+      "answer": "Weniger Autos bedeuten weniger Lärm und Luftverschmutzung."
+    },
+    {
+      "exerciseId": "2",
+      "type": "multiple_choice",
+      "frage": "Welche Städte zeigen, dass eine autofreie Stadt möglich ist?",
+      "options": [
+        "Berlin und München",
+        "Kopenhagen und Amsterdam",
+        "London und Paris"
+      ],
+      "answer": "Kopenhagen und Amsterdam"
+    },
+    {
+      "exerciseId": "3",
+      "type": "multiple_choice",
+      "frage": "Was befürchten Kritiker einer autofreien Innenstadt?",
+      "options": [
+        "Die Bürger werden unzufrieden sein.",
+        "Geschäfte könnten weniger Kunden bekommen.",
+        "Die Innenstadt wird unattraktiver."
+      ],
+      "answer": "Geschäfte könnten weniger Kunden bekommen."
+    },
+    {
+      "exerciseId": "4",
+      "type": "multiple_choice",
+      "frage": "Was könnte den Autoverkehr in der Innenstadt reduzieren?",
+      "options": [
+        "Mehr Parkhäuser",
+        "Park-and-Ride-Systeme und Fahrradverleihstationen",
+        "Höhere Parkgebühren"
+      ],
+      "answer": "Park-and-Ride-Systeme und Fahrradverleihstationen"
+    },
+    {
+      "exerciseId": "5",
+      "type": "multiple_choice",
+      "frage": "Was braucht es für eine autofreie Innenstadt?",
+      "options": [
+        "Sofortige Umsetzung",
+        "Langfristige Planung und Bürgerbereitschaft",
+        "Nur neue Gesetze"
+      ],
+      "answer": "Langfristige Planung und Bürgerbereitschaft"
+    },
+    {
+      "exerciseId": "6",
+      "type": "multiple_choice",
+      "frage": "Wie ist die Meinung des Radiosprechers?",
+      "options": [
+        "Er ist gegen eine autofreie Innenstadt.",
+        "Er ist für eine autofreie Innenstadt.",
+        "Er hat keine klare Meinung."
+      ],
+      "answer": "Er hat keine klare Meinung."
+    }
+  ]
+}

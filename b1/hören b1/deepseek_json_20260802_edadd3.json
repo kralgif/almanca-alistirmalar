@@ -1,0 +1,60 @@
+{
+  "title": "GOETHE B1 - HÖREN (ONLINE SHOPPING)",
+  "subtitle": "RADIOBEITRAG - ONLINE SHOPPING",
+  "sectionId": 49,
+  "sectionName": "RADIOBEITRAG - ONLINE SHOPPING",
+  "exercises": [
+    {
+      "exerciseId": "44",
+      "type": "multiple_choice",
+      "frage": "Was ist ein Vorteil von Online Shopping?",
+      "turkce": "Online alışverişin avantajı nedir?",
+      "ipucu": "bequem von zu Hause aus.",
+      "options": ["Man kann die Produkte anfassen.", "Man kann bequem von zu Hause aus einkaufen.", "Die Rücksendung ist einfach."],
+      "answer": "Man kann bequem von zu Hause aus einkaufen."
+    },
+    {
+      "exerciseId": "45",
+      "type": "multiple_choice",
+      "frage": "Was ist ein Nachteil von Online Shopping?",
+      "turkce": "Online alışverişin dezavantajı nedir?",
+      "ipucu": "Man kann die Produkte nicht anfassen oder anprobieren.",
+      "options": ["Die Lieferung ist immer teuer.", "Man kann die Produkte nicht anprobieren.", "Es gibt keine Auswahl."],
+      "answer": "Man kann die Produkte nicht anprobieren."
+    },
+    {
+      "exerciseId": "46",
+      "type": "multiple_choice",
+      "frage": "Warum wächst der Online-Handel weiter?",
+      "turkce": "Online alışveriş neden büyümeye devam ediyor?",
+      "ipucu": "Bequemlichkeit und Zeitersparnis.",
+      "options": ["Weil es immer teuer ist.", "Weil die Leute Bequemlichkeit und Zeitersparnis schätzen.", "Weil es keine Nachteile gibt."],
+      "answer": "Weil die Leute Bequemlichkeit und Zeitersparnis schätzen."
+    },
+    {
+      "exerciseId": "47",
+      "type": "fill_in",
+      "frage": "Beim Online Shopping besteht die Gefahr von Betrug und _______ .",
+      "turkce": "Online alışverişte dolandırıcılık ve _______ riski vardır.",
+      "ipucu": "Datenmissbrauch - veri kötüye kullanımı.",
+      "answer": "Datenmissbrauch"
+    },
+    {
+      "exerciseId": "48",
+      "type": "richtig_falsch",
+      "frage": "Beim Online Shopping kann man alles anprobieren.",
+      "turkce": "Online alışverişte her şey denenebilir.",
+      "ipucu": "Man kann die Produkte nicht anprobieren.",
+      "answer": "Falsch"
+    },
+    {
+      "exerciseId": "49",
+      "type": "multiple_choice",
+      "frage": "Was schätzen viele Menschen am Online Shopping?",
+      "turkce": "Birçok insan online alışverişte neyi takdir ediyor?",
+      "ipucu": "Bequemlichkeit und Zeitersparnis.",
+      "options": ["Die Auswahl und die Preise", "Die Bequemlichkeit und Zeitersparnis", "Die Rücksendung und den Service"],
+      "answer": "Die Bequemlichkeit und Zeitersparnis"
+    }
+  ]
+}

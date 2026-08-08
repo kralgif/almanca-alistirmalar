@@ -1,0 +1,94 @@
+{
+  "title": "GOETHE B1 - DENEME SINAVI (LESEN & SCHREIBEN)",
+  "subtitle": "LESEN - VEGETARISCHE ERNÄHRUNG & SCHREIBEN - E-MAIL",
+  "sections": [
+    {
+      "sectionId": 2,
+      "sectionName": "LESEN - VEGETARISCHE ERNÄHRUNG",
+      "type": "reading",
+      "text": "Vegetarische Ernährung - Ein gesunder Trend?\n\nVegetarische Ernährung wird in Deutschland immer beliebter. Die Gründe dafür sind vielfältig: Viele Menschen achten auf ihre Gesundheit, andere wollen die Umwelt schützen oder Tiere leiden nicht mehr sehen. Der Verzicht auf Fleisch kann das Risiko für Herz-Kreislauf-Erkrankungen senken und das Klima entlasten. Studien zeigen, dass Vegetarier im Durchschnitt gesünder leben und seltener an chronischen Krankheiten leiden.\n\nAllerdings ist eine vegetarische Ernährung nicht automatisch gesund. Wer auf Fleisch verzichtet, muss darauf achten, genug Eiweiß, Eisen und Vitamin B12 zu sich zu nehmen. Vegetarische Ersatzprodukte sind oft stark verarbeitet und enthalten viele Zusatzstoffe. Experten empfehlen daher eine ausgewogene Ernährung mit viel Gemüse, Hülsenfrüchten und Vollkornprodukten.\n\nEin weiterer Aspekt ist die Umweltbelastung. Die Produktion von Fleisch verbraucht viel Wasser und erzeugt Treibhausgase. Wer weniger Fleisch isst, kann seinen ökologischen Fußabdruck reduzieren. Allerdings sind auch vegetarische Produkte nicht immer umweltfreundlich, besonders wenn sie weite Transportwege haben.\n\nEine gesunde Ernährung muss nicht zwangsläufig vegetarisch sein. Es kommt auf die Qualität und die Auswahl der Lebensmittel an. Wer sich ausgewogen ernährt, kann auch mit Fleisch gesund bleiben. Die Deutsche Gesellschaft für Ernährung empfiehlt, nicht mehr als 300 bis 600 Gramm Fleisch pro Woche zu essen.\n\nZusammenfassend lässt sich sagen, dass vegetarische Ernährung viele Vorteile bietet, aber auch Nachteile hat. Jeder sollte selbst entscheiden, welche Ernährungsform für ihn am besten geeignet ist.",
+      "exercises": [
+        {
+          "exerciseId": "7",
+          "type": "multiple_choice",
+          "frage": "Warum wird vegetarische Ernährung immer beliebter?",
+          "turkce": "Vejetaryen beslenme neden giderek daha popüler oluyor?",
+          "options": [
+            "Nur wegen des Geschmacks",
+            "Wegen Gesundheit, Umwelt und Tierschutz",
+            "Weil es keine Nachteile gibt"
+          ],
+          "answer": "Wegen Gesundheit, Umwelt und Tierschutz"
+        },
+        {
+          "exerciseId": "8",
+          "type": "multiple_choice",
+          "frage": "Was ist ein Problem bei vegetarischen Ersatzprodukten?",
+          "turkce": "Vejetaryen ürünlerdeki sorun nedir?",
+          "options": [
+            "Sie sind immer teuer.",
+            "Sie sind oft stark verarbeitet.",
+            "Sie schmecken nicht."
+          ],
+          "answer": "Sie sind oft stark verarbeitet."
+        },
+        {
+          "exerciseId": "9",
+          "type": "multiple_choice",
+          "frage": "Was empfehlen Experten für eine gesunde Ernährung?",
+          "turkce": "Uzmanlar sağlıklı beslenme için ne tavsiye ediyor?",
+          "options": [
+            "Nur Fleisch essen",
+            "Eine ausgewogene Ernährung mit Gemüse, Hülsenfrüchten und Vollkornprodukten",
+            "Nur vegetarisch essen"
+          ],
+          "answer": "Eine ausgewogene Ernährung mit Gemüse, Hülsenfrüchten und Vollkornprodukten"
+        },
+        {
+          "exerciseId": "10",
+          "type": "multiple_choice",
+          "frage": "Was ist ein weiterer Vorteil von vegetarischer Ernährung?",
+          "turkce": "Vejetaryen beslenmenin bir başka avantajı nedir?",
+          "options": [
+            "Sie ist immer billiger.",
+            "Sie kann den ökologischen Fußabdruck reduzieren.",
+            "Sie ist immer gesünder."
+          ],
+          "answer": "Sie kann den ökologischen Fußabdruck reduzieren."
+        },
+        {
+          "exerciseId": "11",
+          "type": "multiple_choice",
+          "frage": "Was empfiehlt die Deutsche Gesellschaft für Ernährung?",
+          "turkce": "Alman Beslenme Derneği ne tavsiye ediyor?",
+          "options": [
+            "Kein Fleisch zu essen",
+            "Nicht mehr als 300 bis 600 Gramm Fleisch pro Woche",
+            "Nur Bio-Fleisch zu essen"
+          ],
+          "answer": "Nicht mehr als 300 bis 600 Gramm Fleisch pro Woche"
+        },
+        {
+          "exerciseId": "12",
+          "type": "multiple_choice",
+          "frage": "Was ist das Fazit des Textes?",
+          "turkce": "Metnin sonucu nedir?",
+          "options": [
+            "Vegetarische Ernährung ist immer die beste Wahl.",
+            "Jeder sollte selbst entscheiden, welche Ernährungsform für ihn am besten ist.",
+            "Fleisch ist immer ungesund."
+          ],
+          "answer": "Jeder sollte selbst entscheiden, welche Ernährungsform für ihn am besten ist."
+        }
+      ]
+    },
+    {
+      "sectionId": 3,
+      "sectionName": "SCHREIBEN - E-MAIL AN DIE SCHULLEITUNG",
+      "type": "writing",
+      "aufgabe": "Sie sind Schüler/in und möchten sich für die Einführung von vegetarischen Gerichten in der Schulmensa einsetzen. Schreiben Sie eine E-Mail an die Schulleitung (ca. 40-50 Wörter):\n1. Warum schreiben Sie?\n2. Nennen Sie Gründe für vegetarische Ernährung (Gesundheit, Umwelt).\n3. Bitten Sie um eine Rückmeldung.",
+      "turkce": "Öğrencisiniz ve okul kantininde vejetaryen yemeklerin sunulması için girişimde bulunmak istiyorsunuz. Okul yönetimine bir e-posta yazın:\n1. Neden yazıyorsunuz?\n2. Vejetaryen beslenme için nedenler sayın (sağlık, çevre).\n3. Geri bildirim isteyin.",
+      "solution": "Sehr geehrte Schulleitung,\n\nich schreibe Ihnen, weil ich mich für die Einführung vegetarischer Gerichte in unserer Mensa einsetzen möchte. Vegetarische Ernährung ist nicht nur gesund, sondern auch gut für die Umwelt, da sie weniger Ressourcen verbraucht. Ich bitte Sie, dieses Thema zu prüfen und mir eine Rückmeldung zu geben.\n\nMit freundlichen Grüßen\n[Ihr Name]"
+    }
+  ]
+}

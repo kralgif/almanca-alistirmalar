@@ -1,0 +1,78 @@
+{
+  "title": "GOETHE B2 - HÖREN (MODERNES REISEN - BILLIGFLUGLINIEN)",
+  "subtitle": "MODERNES REISEN - BILLIGFLUGLINIEN",
+  "sectionId": 60,
+  "sectionName": "MODERNES REISEN - BILLIGFLUGLINIEN",
+  "exercises": [
+    {
+      "exerciseId": "21",
+      "type": "multiple_choice",
+      "frage": "Was ist ein Vorteil von Billigfluglinien?",
+      "turkce": "Ucuz havayollarının avantajı nedir?",
+      "ipucu": "Sie machen Reisen für viele Menschen erschwinglich.",
+      "options": [
+        "Sie sind immer pünktlich.",
+        "Sie machen Reisen für viele Menschen erschwinglich.",
+        "Sie haben die beste Qualität.",
+        "Sie fliegen nur in Großstädte."
+      ],
+      "answer": "Sie machen Reisen für viele Menschen erschwinglich."
+    },
+    {
+      "exerciseId": "22",
+      "type": "multiple_choice",
+      "frage": "Was ist ein Nachteil von Billigfluglinien?",
+      "turkce": "Ucuz havayollarının dezavantajı nedir?",
+      "ipucu": "Die Flughäfen sind oft abgelegen.",
+      "options": [
+        "Sie sind immer teuer.",
+        "Die Flughäfen sind oft abgelegen.",
+        "Sie haben immer Verspätung.",
+        "Sie bieten kein Essen an."
+      ],
+      "answer": "Die Flughäfen sind oft abgelegen."
+    },
+    {
+      "exerciseId": "23",
+      "type": "multiple_choice",
+      "frage": "Wer nutzt besonders gern Billigfluglinien?",
+      "turkce": "Ucuz havayollarını özellikle kim kullanıyor?",
+      "ipucu": "Junge Leute.",
+      "options": [
+        "Ältere Menschen",
+        "Junge Leute",
+        "Familien mit Kindern",
+        "Geschäftsreisende"
+      ],
+      "answer": "Junge Leute"
+    },
+    {
+      "exerciseId": "24",
+      "type": "multiple_choice",
+      "frage": "Was ist eine Alternative zum Fliegen?",
+      "turkce": "Uçmaya alternatif nedir?",
+      "ipucu": "Reisen mit dem Zug oder Fernbus.",
+      "options": [
+        "Nur noch Auto fahren",
+        "Reisen mit dem Zug oder Fernbus",
+        "Nur noch Kreuzfahrten",
+        "Reisen mit dem Fahrrad"
+      ],
+      "answer": "Reisen mit dem Zug oder Fernbus"
+    },
+    {
+      "exerciseId": "25",
+      "type": "multiple_choice",
+      "frage": "Was ist ein Vorteil von Zugreisen gegenüber Flugreisen?",
+      "turkce": "Tren yolculuğunun uçak yolculuğuna göre avantajı nedir?",
+      "ipucu": "Sie sind umweltfreundlicher.",
+      "options": [
+        "Sie sind immer billiger.",
+        "Sie sind umweltfreundlicher.",
+        "Sie sind schneller.",
+        "Sie sind bequemer."
+      ],
+      "answer": "Sie sind umweltfreundlicher."
+    }
+  ]
+}

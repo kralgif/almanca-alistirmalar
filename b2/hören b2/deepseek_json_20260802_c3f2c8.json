@@ -1,0 +1,78 @@
+{
+  "title": "GOETHE B2 - HÖREN (HOME-OFFICE UND 4-TAGE-WOCHE)",
+  "subtitle": "HOME-OFFICE UND 4-TAGE-WOCHE",
+  "sectionId": 62,
+  "sectionName": "HOME-OFFICE UND 4-TAGE-WOCHE",
+  "exercises": [
+    {
+      "exerciseId": "36",
+      "type": "multiple_choice",
+      "frage": "Was hat die COVID-19-Pandemie in der Arbeitswelt verändert?",
+      "turkce": "COVID-19 salgını iş dünyasında neyi değiştirdi?",
+      "ipucu": "Home-Office ist zur Normalität geworden.",
+      "options": [
+        "Nichts",
+        "Home-Office ist zur Normalität geworden.",
+        "Alle haben gekündigt.",
+        "Die Arbeitszeiten wurden verlängert."
+      ],
+      "answer": "Home-Office ist zur Normalität geworden."
+    },
+    {
+      "exerciseId": "37",
+      "type": "multiple_choice",
+      "frage": "Was ist ein Vorteil von Home-Office für Arbeitnehmer?",
+      "turkce": "Evden çalışmanın çalışanlar için avantajı nedir?",
+      "ipucu": "Mehr Flexibilität und bessere Work-Life-Balance.",
+      "options": [
+        "Mehr Pendelzeit",
+        "Mehr Flexibilität und bessere Work-Life-Balance",
+        "Weniger Freizeit",
+        "Mehr Bürokosten"
+      ],
+      "answer": "Mehr Flexibilität und bessere Work-Life-Balance"
+    },
+    {
+      "exerciseId": "38",
+      "type": "multiple_choice",
+      "frage": "Was könnte eine 4-Tage-Woche bewirken?",
+      "turkce": "4 günlük çalışma haftası ne yapabilir?",
+      "ipucu": "Die Produktivität steigern und die Zufriedenheit erhöhen.",
+      "options": [
+        "Die Produktivität senken",
+        "Die Produktivität steigern und die Zufriedenheit erhöhen",
+        "Mehr Stress verursachen",
+        "Keine Auswirkungen haben"
+      ],
+      "answer": "Die Produktivität steigern und die Zufriedenheit erhöhen"
+    },
+    {
+      "exerciseId": "39",
+      "type": "multiple_choice",
+      "frage": "Was befürchten Kritiker der 4-Tage-Woche?",
+      "turkce": "4 günlük çalışma haftası eleştirmenleri neyden endişe ediyor?",
+      "ipucu": "Produktivitätsverlust und höhere Personalkosten.",
+      "options": [
+        "Höhere Produktivität",
+        "Produktivitätsverlust und höhere Personalkosten",
+        "Mehr Freizeit",
+        "Weniger Urlaub"
+      ],
+      "answer": "Produktivitätsverlust und höhere Personalkosten"
+    },
+    {
+      "exerciseId": "40",
+      "type": "multiple_choice",
+      "frage": "Was zeigen Studien zur 4-Tage-Woche?",
+      "turkce": "4 günlük çalışma haftasıyla ilgili çalışmalar ne gösteriyor?",
+      "ipucu": "Sie ist in vielen Berufen möglich.",
+      "options": [
+        "Sie ist in keinem Beruf möglich.",
+        "Sie ist in vielen Berufen möglich.",
+        "Sie ist nur in Bürojobs möglich.",
+        "Sie ist immer erfolgreich."
+      ],
+      "answer": "Sie ist in vielen Berufen möglich."
+    }
+  ]
+}

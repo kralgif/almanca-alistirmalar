@@ -1,0 +1,43 @@
+{
+  "title": "GOETHE B1 - HÖREN (TELEFONAT - NACHHILFE)",
+  "subtitle": "TELEFONAT - NACHHILFE",
+  "sectionId": 54,
+  "sectionName": "TELEFONAT - NACHHILFE",
+  "exercises": [
+    {
+      "exerciseId": "69",
+      "type": "multiple_choice",
+      "frage": "Warum ruft Frau Meier an?",
+      "turkce": "Bayan Meier neden arıyor?",
+      "ipucu": "Nachhilfe in Mathe - matematik özel ders.",
+      "options": ["Sie sucht einen Job.", "Sie sucht Nachhilfe für ihre Tochter.", "Sie möchte ein Buch kaufen."],
+      "answer": "Sie sucht Nachhilfe für ihre Tochter."
+    },
+    {
+      "exerciseId": "70",
+      "type": "multiple_choice",
+      "frage": "Wann findet die erste Nachhilfestunde statt?",
+      "turkce": "İlk özel ders ne zaman?",
+      "ipucu": "Dienstag um 16 Uhr.",
+      "options": ["am Montag um 16 Uhr", "am Dienstag um 16 Uhr", "am Mittwoch um 16 Uhr"],
+      "answer": "am Dienstag um 16 Uhr"
+    },
+    {
+      "exerciseId": "71",
+      "type": "multiple_choice",
+      "frage": "Wie viel kostet eine Stunde Nachhilfe?",
+      "turkce": "Bir saat özel ders ne kadar?",
+      "ipucu": "20 Euro pro Stunde.",
+      "options": ["15 Euro", "20 Euro", "25 Euro"],
+      "answer": "20 Euro"
+    },
+    {
+      "exerciseId": "72",
+      "type": "richtig_falsch",
+      "frage": "Frau Meiers Tochter hat Angst vor Tests.",
+      "turkce": "Bayan Meier'in kızı sınavlardan korkuyor.",
+      "ipucu": "hat Angst vor Tests.",
+      "answer": "Richtig"
+    }
+  ]
+}

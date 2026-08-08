@@ -1,0 +1,76 @@
+{
+  "title": "GOETHE B1 - HÖREN (RADIOBEITRAG - FAST FOOD)",
+  "subtitle": "RADIOBEITRAG - FAST FOOD",
+  "sectionId": 44,
+  "sectionName": "RADIOBEITRAG - FAST FOOD",
+  "exercises": [
+    {
+      "exerciseId": "17",
+      "type": "multiple_choice",
+      "frage": "Warum ist Fast Food bei Berufstätigen beliebt?",
+      "turkce": "Fast food neden çalışan kişiler arasında popüler?",
+      "ipucu": "schnell und günstig.",
+      "options": ["Weil es gesund ist.", "Weil es schnell und günstig ist.", "Weil es keine Kalorien hat."],
+      "answer": "Weil es schnell und günstig ist."
+    },
+    {
+      "exerciseId": "18",
+      "type": "multiple_choice",
+      "frage": "Was ist ein Nachteil von Fast Food?",
+      "turkce": "Fast food'un dezavantajı nedir?",
+      "ipucu": "enthält oft viel Fett, Salz und Zucker.",
+      "options": ["Es ist immer teuer.", "Es enthält viel Fett, Salz und Zucker.", "Es gibt keine Restaurants."],
+      "answer": "Es enthält viel Fett, Salz und Zucker."
+    },
+    {
+      "exerciseId": "19",
+      "type": "multiple_choice",
+      "frage": "Welches Problem verursacht Fast Food für die Umwelt?",
+      "turkce": "Fast food çevre için hangi soruna yol açıyor?",
+      "ipucu": "produziert Fast Food viel Verpackungsmüll.",
+      "options": ["Weniger Müll", "Verpackungsmüll", "Recycling-Programme"],
+      "answer": "Verpackungsmüll"
+    },
+    {
+      "exerciseId": "20",
+      "type": "multiple_choice",
+      "frage": "Was haben Fast-Food-Ketten heute verändert?",
+      "turkce": "Fast food zincirleri bugün neyi değiştirdi?",
+      "ipucu": "bieten heute auch Salate, Wasser und gesündere Alternativen an.",
+      "options": ["Sie verkaufen kein Fast Food mehr.", "Sie bieten auch gesündere Alternativen an.", "Sie sind nur für Kinder."],
+      "answer": "Sie bieten auch gesündere Alternativen an."
+    },
+    {
+      "exerciseId": "21",
+      "type": "richtig_falsch",
+      "frage": "Fast Food ist immer ungesund und hat keine Vorteile.",
+      "turkce": "Fast food her zaman sağlıksızdır ve hiç avantajı yoktur.",
+      "ipucu": "schnell, günstig, praktisch - avantajları da var.",
+      "answer": "Falsch"
+    },
+    {
+      "exerciseId": "22",
+      "type": "fill_in",
+      "frage": "Gesundheitsexperten empfehlen, Fast Food nur _______ zu essen.",
+      "turkce": "Sağlık uzmanları, fast food'u sadece _______ yemeyi tavsiye ediyor.",
+      "ipucu": "gelegentlich - ara sıra.",
+      "answer": "gelegentlich"
+    },
+    {
+      "exerciseId": "23",
+      "type": "multiple_choice",
+      "frage": "Wer isst besonders gern Fast Food am Wochenende?",
+      "turkce": "Hafta sonu özellikle kim fast food yemeyi seviyor?",
+      "ipucu": "Fast Food bleibt für viele Menschen eine beliebte Wahl.",
+      "options": ["Kinder", "Viele Menschen", "Vegetarier"],
+      "answer": "Viele Menschen"
+    },
+    {
+      "exerciseId": "24",
+      "type": "free_answer",
+      "frage": "Essen Sie Fast Food? Begründen Sie in einem Satz.",
+      "turkce": "Fast food yer misiniz? Bir cümleyle açıklayın.",
+      "ipucu": "Ja, ich esse Fast Food, weil... / Nein, ich esse kein Fast Food, weil..."
+    }
+  ]
+}

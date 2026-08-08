@@ -1,0 +1,78 @@
+{
+  "title": "GOETHE B2 - HÖREN (ALTENPFLEGE)",
+  "subtitle": "ALTENPFLEGE - EINE HERAUSFORDERUNG FÜR DIE GESELLSCHAFT",
+  "sectionId": 64,
+  "sectionName": "ALTENPFLEGE - EINE HERAUSFORDERUNG FÜR DIE GESELLSCHAFT",
+  "exercises": [
+    {
+      "exerciseId": "46",
+      "type": "multiple_choice",
+      "frage": "Welche demografische Entwicklung stellt die Gesellschaft vor Herausforderungen?",
+      "turkce": "Hangi demografik gelişme toplumu zorluyor?",
+      "ipucu": "Die Bevölkerung wird älter und es gibt weniger junge Menschen.",
+      "options": [
+        "Die Bevölkerung wird jünger.",
+        "Die Bevölkerung wird älter und es gibt weniger junge Menschen.",
+        "Die Bevölkerung bleibt gleich.",
+        "Es gibt mehr Geburten."
+      ],
+      "answer": "Die Bevölkerung wird älter und es gibt weniger junge Menschen."
+    },
+    {
+      "exerciseId": "47",
+      "type": "multiple_choice",
+      "frage": "Was ist ein Problem bei der Pflege zu Hause durch Angehörige?",
+      "turkce": "Evde aile üyeleri tarafından bakımın sorunu nedir?",
+      "ipucu": "Berufstätige Kinder können ihre Eltern nicht rund um die Uhr betreuen.",
+      "options": [
+        "Es ist immer günstig.",
+        "Berufstätige Kinder können ihre Eltern nicht rund um die Uhr betreuen.",
+        "Es gibt keine Probleme.",
+        "Die Qualität ist immer gut."
+      ],
+      "answer": "Berufstätige Kinder können ihre Eltern nicht rund um die Uhr betreuen."
+    },
+    {
+      "exerciseId": "48",
+      "type": "multiple_choice",
+      "frage": "Was ist ein Problem bei Pflegeheimen?",
+      "turkce": "Bakım evlerinin sorunu nedir?",
+      "ipucu": "Sie sind oft teuer und die Qualität variiert.",
+      "options": [
+        "Sie sind immer günstig.",
+        "Sie sind oft teuer und die Qualität variiert.",
+        "Sie haben immer freie Plätze.",
+        "Sie sind immer gut."
+      ],
+      "answer": "Sie sind oft teuer und die Qualität variiert."
+    },
+    {
+      "exerciseId": "49",
+      "type": "multiple_choice",
+      "frage": "Was könnte eine Lösung für die Altenpflege sein?",
+      "turkce": "Yaşlı bakımı için çözüm ne olabilir?",
+      "ipucu": "Kombination aus ambulanter Pflege und familiärer Unterstützung.",
+      "options": [
+        "Nur Pflegeheime",
+        "Kombination aus ambulanter Pflege und familiärer Unterstützung",
+        "Nur Pflege durch Angehörige",
+        "Keine Lösung"
+      ],
+      "answer": "Kombination aus ambulanter Pflege und familiärer Unterstützung"
+    },
+    {
+      "exerciseId": "50",
+      "type": "multiple_choice",
+      "frage": "Welche technologischen Hilfsmittel könnten in Zukunft eine Rolle spielen?",
+      "turkce": "Gelecekte hangi teknolojik yardımlar rol oynayabilir?",
+      "ipucu": "Notrufsysteme und Pflegeroboter.",
+      "options": [
+        "Nur Smartphones",
+        "Notrufsysteme und Pflegeroboter",
+        "Nur Tablets",
+        "Keine technologischen Hilfsmittel"
+      ],
+      "answer": "Notrufsysteme und Pflegeroboter"
+    }
+  ]
+}

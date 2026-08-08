@@ -1,0 +1,78 @@
+{
+  "title": "GOETHE B2 - HÖREN (FÜHRERSCHEIN AB 16)",
+  "subtitle": "FÜHRERSCHEIN AB 16",
+  "sectionId": 56,
+  "sectionName": "FÜHRERSCHEIN AB 16",
+  "exercises": [
+    {
+      "exerciseId": "1",
+      "type": "multiple_choice",
+      "frage": "Was ist das Hauptargument der Befürworter für den Führerschein ab 16?",
+      "turkce": "16'dan itibaren ehliyetin savunucularının ana argümanı nedir?",
+      "ipucu": "Jugendliche in ländlichen Gebieten sind auf ein Auto angewiesen.",
+      "options": [
+        "Jugendliche können so früher Verantwortung lernen.",
+        "Jugendliche in ländlichen Gebieten sind auf ein Auto angewiesen.",
+        "Der öffentliche Nahverkehr ist in Städten besser.",
+        "Es gibt weniger Unfälle mit jungen Fahrern."
+      ],
+      "answer": "Jugendliche in ländlichen Gebieten sind auf ein Auto angewiesen."
+    },
+    {
+      "exerciseId": "2",
+      "type": "multiple_choice",
+      "frage": "Was ist das Hauptargument der Kritiker gegen den Führerschein ab 16?",
+      "turkce": "Eleştirmenlerin ana argümanı nedir?",
+      "ipucu": "Junge Fahrer haben ein höheres Unfallrisiko.",
+      "options": [
+        "Junge Fahrer haben ein höheres Unfallrisiko.",
+        "Der Führerschein ist zu teuer.",
+        "Jugendliche haben kein Interesse am Fahren.",
+        "Der öffentliche Nahverkehr ist gut ausgebaut."
+      ],
+      "answer": "Junge Fahrer haben ein höheres Unfallrisiko."
+    },
+    {
+      "exerciseId": "3",
+      "type": "multiple_choice",
+      "frage": "Was ist das Modell des 'begleiteten Führerscheins'?",
+      "turkce": "'Eşlikli ehliyet' modeli nedir?",
+      "ipucu": "Jugendliche dürfen nur mit einem erfahrenen Fahrer fahren.",
+      "options": [
+        "Jugendliche dürfen nur mit einem erfahrenen Fahrer fahren.",
+        "Jugendliche dürfen gar nicht fahren.",
+        "Jugendliche müssen erst einen Theoriekurs machen.",
+        "Jugendliche dürfen nur in Städten fahren."
+      ],
+      "answer": "Jugendliche dürfen nur mit einem erfahrenen Fahrer fahren."
+    },
+    {
+      "exerciseId": "4",
+      "type": "multiple_choice",
+      "frage": "In welchen Gebieten ist der öffentliche Nahverkehr laut dem Text oft schlecht?",
+      "turkce": "Metne göre toplu taşıma hangi bölgelerde genellikle kötü?",
+      "ipucu": "in ländlichen Gebieten.",
+      "options": [
+        "in Großstädten",
+        "in ländlichen Gebieten",
+        "in Vororten",
+        "in Touristengebieten"
+      ],
+      "answer": "in ländlichen Gebieten"
+    },
+    {
+      "exerciseId": "5",
+      "type": "multiple_choice",
+      "frage": "Was könnte eine Alternative zum Führerschein ab 16 sein?",
+      "turkce": "16'dan itibaren ehliyete alternatif ne olabilir?",
+      "ipucu": "Den begleiteten Führerschein auf 16-Jährige auszuweiten.",
+      "options": [
+        "Den Führerschein ganz abzuschaffen",
+        "Den begleiteten Führerschein auf 16-Jährige auszuweiten",
+        "Nur noch Elektroautos zuzulassen",
+        "Das Mindestalter auf 20 zu erhöhen"
+      ],
+      "answer": "Den begleiteten Führerschein auf 16-Jährige auszuweiten"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "title": "GOETHE B1 - HÖREN (TABLETS IN DER SCHULE)",
+  "subtitle": "INTERVIEW - TABLETS IN DER SCHULE",
+  "sectionId": 53,
+  "sectionName": "INTERVIEW - TABLETS IN DER SCHULE",
+  "exercises": [
+    {
+      "exerciseId": "65",
+      "type": "multiple_choice",
+      "frage": "Wie findet Herr Schmidt Tablets im Unterricht?",
+      "turkce": "Bay Schmidt sınıfta tabletleri nasıl buluyor?",
+      "ipucu": "grundsätzlich gut.",
+      "options": ["Er findet sie schlecht.", "Er findet sie grundsätzlich gut.", "Er hat keine Meinung."],
+      "answer": "Er findet sie grundsätzlich gut."
+    },
+    {
+      "exerciseId": "66",
+      "type": "multiple_choice",
+      "frage": "Was ist ein Problem bei Tablets im Unterricht?",
+      "turkce": "Sınıfta tabletlerin sorunu ne?",
+      "ipucu": "manche Schüler nutzen die Tablets für private Zwecke.",
+      "options": ["Sie sind immer kaputt.", "Schüler nutzen sie für private Zwecke.", "Sie sind zu teuer."],
+      "answer": "Schüler nutzen sie für private Zwecke."
+    },
+    {
+      "exerciseId": "67",
+      "type": "richtig_falsch",
+      "frage": "Die Schule hat Regeln für die Nutzung von Tablets aufgestellt.",
+      "turkce": "Okul, tablet kullanımı için kurallar koydu.",
+      "ipucu": "Wir haben Regeln aufgestellt.",
+      "answer": "Richtig"
+    },
+    {
+      "exerciseId": "68",
+      "type": "multiple_choice",
+      "frage": "Wie finden die meisten Schüler den Unterricht mit Tablets?",
+      "turkce": "Çoğu öğrenci tabletli dersleri nasıl buluyor?",
+      "ipucu": "finden den Unterricht interessanter.",
+      "options": ["Langweilig", "Interessanter", "Schlechter"],
+      "answer": "Interessanter"
+    }
+  ]
+}
