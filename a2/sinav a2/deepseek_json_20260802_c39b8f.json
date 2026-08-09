@@ -1,0 +1,49 @@
+{
+  "title": "GOETHE A2 - HÖREN (SINAV 1)",
+  "subtitle": "RADIO BEITRAG - UMWELTBEWUSSTSEIN",
+  "dialog": "Radiosprecher: Guten Morgen, liebe Hörer! Heute sprechen wir über das Thema 'Umweltbewusstsein'. Immer mehr Menschen in Deutschland achten auf ihre Umwelt. Sie kaufen regionale Produkte, fahren Fahrrad und vermeiden Plastik. Besonders junge Leute zwischen 18 und 30 Jahren sind sehr umweltbewusst.\n\nEine neue Studie zeigt, dass 70 Prozent der Deutschen bereit sind, mehr Geld für umweltfreundliche Produkte auszugeben. Allerdings gibt es auch Kritik: Viele Menschen finden, dass umweltfreundliche Produkte zu teuer sind.\n\nDie Regierung möchte deshalb umweltfreundliche Produkte billiger machen. Das ist ein wichtiger Schritt für die Zukunft.",
+  "sections": [
+    {
+      "sectionId": 1,
+      "sectionName": "BÖLÜM 1: MULTIPLE CHOICE",
+      "exercises": [
+        {
+          "exerciseId": "1",
+          "type": "multiple_choice",
+          "frage": "Worüber spricht der Radiosprecher?",
+          "turkce": "Radyo spikeri ne hakkında konuşuyor?",
+          "ipucu": "Radyo spikeri 'Heute sprechen wir über das Thema...' diyor. Konuyu dinle.",
+          "options": ["über das Thema 'Gesundheit'", "über das Thema 'Umweltbewusstsein'", "über das Thema 'Arbeit'"],
+          "answer": "über das Thema 'Umweltbewusstsein'"
+        },
+        {
+          "exerciseId": "2",
+          "type": "multiple_choice",
+          "frage": "Wer ist besonders umweltbewusst?",
+          "turkce": "Kim özellikle çevre bilinçli?",
+          "ipucu": "Metinde 'Besonders ... sind sehr umweltbewusst.' diyor. Boşluğu doldur.",
+          "options": ["Ältere Menschen über 60", "Junge Leute zwischen 18 und 30", "Kinder unter 10"],
+          "answer": "Junge Leute zwischen 18 und 30"
+        },
+        {
+          "exerciseId": "3",
+          "type": "multiple_choice",
+          "frage": "Wie viel Prozent der Deutschen sind bereit, mehr Geld für umweltfreundliche Produkte auszugeben?",
+          "turkce": "Almanların yüzde kaçı çevre dostu ürünler için daha fazla para harcamaya hazır?",
+          "ipucu": "Metinde '... Prozent der Deutschen sind bereit' diyor. Sayıya dikkat et.",
+          "options": ["50 Prozent", "60 Prozent", "70 Prozent"],
+          "answer": "70 Prozent"
+        },
+        {
+          "exerciseId": "4",
+          "type": "multiple_choice",
+          "frage": "Was ist die Kritik an umweltfreundlichen Produkten?",
+          "turkce": "Çevre dostu ürünlere yönelik eleştiri nedir?",
+          "ipucu": "Metinde 'Allerdings gibt es auch Kritik: Viele Menschen finden, dass...' diyor. Eleştiriyi bul.",
+          "options": ["Sie schmecken nicht gut.", "Sie sind zu teuer.", "Sie sind nicht verfügbar."],
+          "answer": "Sie sind zu teuer."
+        }
+      ]
+    }
+  ]
+}

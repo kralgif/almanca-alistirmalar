@@ -1,0 +1,943 @@
+{
+  "title": "GOETHE A2 - SCHREIBEN",
+  "subtitle": "80 YAZMA ALIŞTIRMASI",
+  "writingStrategies": [
+    { "name": "1. Anrede & Grußformel", "description": "'Liebe...' / 'Hallo...' ve 'Viele Grüße' / 'Mit freundlichen Grüßen' unutmayın!" },
+    { "name": "2. Aufgabenerfüllung", "description": "Verilen tüm noktaları (3-4) mutlaka cevaplayın." },
+    { "name": "3. Einleitung & Schluss", "description": "Kısa bir giriş ve bitiş cümlesi ekleyin." },
+    { "name": "4. Konnektoren nutzen", "description": "'und, aber, denn, weil, dass' ile bağlayın." },
+    { "name": "5. Zeitformen", "description": "Präteritum (war, hatte) ve Perfekt (habe gemacht) kullanın." },
+    { "name": "6. Satzverbindungen", "description": "Basit cümleler yerine bağlaçlı cümleler kurun." },
+    { "name": "7. Rechtschreibung", "description": "Nomen groß schreiben! (der, die, das)" }
+  ],
+  "sections": [
+    {
+      "sectionId": 1,
+      "sectionName": "A) EINLADUNGEN",
+      "exercises": [
+        {
+          "exerciseId": "1",
+          "type": "writing",
+          "aufgabe": "Sie feiern Ihren 25. Geburtstag. Schreiben Sie eine E-Mail an Ihre Freundin Anna (ca. 30-40 Wörter):\n1. Warum schreiben Sie?\n2. Wann und wo findet die Party statt?\n3. Was soll Anna mitbringen?",
+          "turkce": "25. doğum gününüzü kutluyorsunuz. Arkadaşınız Anna'ya bir e-posta yazın:\n1. Neden yazıyorsunuz?\n2. Parti ne zaman ve nerede?\n3. Anna ne getirmeli?",
+          "keywords": ["Liebe", "schreibe", "Geburtstag", "feiere", "Party", "zu Hause", "Salat", "Kuchen", "freue mich", "Grüße"],
+          "min_matches": 5,
+          "solution_example": "Liebe Anna,\n\nich schreibe dir, weil ich am Samstag meinen 25. Geburtstag feiere. Die Party findet bei mir zu Hause um 19 Uhr statt. Bitte bring einen Salat oder einen Kuchen mit. Ich freue mich auf dich!\n\nViele Grüße\n[Dein Name]",
+          "feedback_correct": "Gut gemacht! Deine Einladung enthält alle wichtigen Informationen.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'Geburtstag', 'Party', 'Salat' und 'Kuchen'."
+        },
+        {
+          "exerciseId": "2",
+          "type": "writing",
+          "aufgabe": "Sie möchten Ihre Freundin Maria zum Kaffee einladen. Schreiben Sie eine Nachricht (ca. 20-30 Wörter):\n1. Warum schreiben Sie?\n2. Wann und wo möchten Sie sich treffen?\n3. Was sollen Sie mitbringen?",
+          "turkce": "Arkadaşınız Maria'yı kahveye davet etmek istiyorsunuz. Bir mesaj yazın:\n1. Neden yazıyorsunuz?\n2. Ne zaman ve nerede buluşmak istiyorsunuz?\n3. Ne getirmelisiniz?",
+          "keywords": ["Hallo", "Kaffee", "einladen", "Samstag", "Café", "Kuchen", "treffen", "Grüße"],
+          "min_matches": 4,
+          "solution_example": "Hallo Maria,\n\nich möchte dich gerne zum Kaffee einladen. Hast du am Samstag um 15 Uhr Zeit? Wir könnten uns im Café am Markt treffen. Ich bringe Kuchen mit.\n\nBis bald\n[Dein Name]",
+          "feedback_correct": "Sehr gut! Deine Nachricht ist klar und freundlich.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'Kaffee', 'einladen', 'Samstag' und 'Café'."
+        },
+        {
+          "exerciseId": "3",
+          "type": "writing",
+          "aufgabe": "Sie haben zwei Karten für ein Konzert. Schreiben Sie eine E-Mail an Ihren Freund Thomas (ca. 30-40 Wörter):\n1. Warum schreiben Sie?\n2. Wann und wo ist das Konzert?\n3. Möchte Thomas mitkommen?",
+          "turkce": "Bir konser için iki biletiniz var. Arkadaşınız Thomas'a bir e-posta yazın:\n1. Neden yazıyorsunuz?\n2. Konser ne zaman ve nerede?\n3. Thomas gelmek ister mi?",
+          "keywords": ["Hallo", "Konzert", "Karten", "Lieblingsband", "Samstag", "Stadthalle", "Lust", "mitkommen", "Grüße"],
+          "min_matches": 5,
+          "solution_example": "Hallo Thomas,\n\nich habe zwei Karten für ein Konzert von meiner Lieblingsband. Das Konzert ist am Samstag um 20 Uhr in der Stadthalle. Hast du Lust mitzukommen? Es wird bestimmt super!\n\nViele Grüße\n[Dein Name]",
+          "feedback_correct": "Gut gemacht! Deine E-Mail ist einladend und informativ.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'Konzert', 'Karten', 'Samstag' und 'Lust'."
+        },
+        {
+          "exerciseId": "4",
+          "type": "writing",
+          "aufgabe": "Sie planen eine Grillparty im Garten. Schreiben Sie eine E-Mail an Ihre Kollegen (ca. 40-50 Wörter):\n1. Warum schreiben Sie?\n2. Wann und wo findet die Party statt?\n3. Wer bringt was mit? (Fleisch, Salat, Getränke)\n4. Bitte um kurze Antwort.",
+          "turkce": "Bahçede bir mangal partisi planlıyorsunuz. İş arkadaşlarınıza bir e-posta yazın:\n1. Neden yazıyorsunuz?\n2. Parti ne zaman ve nerede?\n3. Kim ne getirsin? (Et, salata, içecek)\n4. Kısa cevap isteyin.",
+          "keywords": ["Liebe Kollegen", "Grillparty", "Garten", "Samstag", "Fleisch", "Salat", "Getränke", "mitbringen", "antworten", "Grüße"],
+          "min_matches": 5,
+          "solution_example": "Liebe Kollegen,\n\nich lade euch am Samstag zu einer Grillparty in meinem Garten ein. Wir beginnen um 17 Uhr. Bitte schreibt mir, wer was mitbringt: Fleisch, Salat oder Getränke. Ich freue mich auf eure Antwort.\n\nViele Grüße\n[Dein Name]",
+          "feedback_correct": "Hervorragend! Deine Einladung ist gut strukturiert und klar.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'Grillparty', 'Garten', 'Fleisch', 'Salat' ve 'Getränke'."
+        },
+        {
+          "exerciseId": "5",
+          "type": "writing",
+          "aufgabe": "Sie möchten Ihre Freundin Sarah zum Abendessen einladen. Schreiben Sie eine Nachricht (ca. 30-40 Wörter):\n1. Warum schreiben Sie?\n2. Wann und wo möchten Sie essen?\n3. Was sollen Sie mitbringen?",
+          "turkce": "Arkadaşınız Sarah'ı akşam yemeğine davet etmek istiyorsunuz. Bir mesaj yazın:\n1. Neden yazıyorsunuz?\n2. Ne zaman ve nerede yemek yemek istiyorsunuz?\n3. Ne getirmelisiniz?",
+          "keywords": ["Liebe Sarah", "Abendessen", "einladen", "Freitag", "italienisches Restaurant", "Hauptstraße", "einladen", "Grüße"],
+          "min_matches": 4,
+          "solution_example": "Liebe Sarah,\n\nich möchte dich zum Abendessen einladen. Hast du am Freitag um 19 Uhr Zeit? Wir könnten in das neue italienische Restaurant in der Hauptstraße gehen. Ich lade dich ein.\n\nBis bald\n[Dein Name]",
+          "feedback_correct": "Sehr gut! Deine Einladung ist herzlich und klar.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'Abendessen', 'einladen', 'Freitag' ve 'Restaurant'."
+        },
+        {
+          "exerciseId": "6",
+          "type": "writing",
+          "aufgabe": "Sie möchten Ihre Freunde zum Stadtfest einladen. Schreiben Sie eine E-Mail (ca. 40-50 Wörter):\n1. Warum schreiben Sie?\n2. Wann und wo ist das Stadtfest?\n3. Welche Aktivitäten gibt es? (Musik, Essen, Spiele)\n4. Bitte um Antwort bis Freitag.",
+          "turkce": "Arkadaşlarınızı şehir festivaline davet etmek istiyorsunuz. Bir e-posta yazın:\n1. Neden yazıyorsunuz?\n2. Festival ne zaman ve nerede?\n3. Hangi aktiviteler var? (Müzik, yemek, oyunlar)\n4. Cuma gününe kadar cevap isteyin.",
+          "keywords": ["Liebe Freunde", "Stadtfest", "Marktplatz", "Wochenende", "Musik", "Essen", "Spiele", "mitkommen", "Bescheid", "Grüße"],
+          "min_matches": 5,
+          "solution_example": "Liebe Freunde,\n\nam Wochenende ist Stadtfest auf dem Marktplatz. Es gibt tolle Musik, leckeres Essen und viele Spiele für Kinder. Wollt ihr mitkommen? Bitte sagt mir bis Freitag Bescheid.\n\nViele Grüße\n[Dein Name]",
+          "feedback_correct": "Gut gemacht! Deine Einladung ist motivierend und informativ.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'Stadtfest', 'Musik', 'Essen', 'Spiele' ve 'Bescheid'."
+        },
+        {
+          "exerciseId": "7",
+          "type": "writing",
+          "aufgabe": "Sie möchten ein Picknick im Park machen. Schreiben Sie eine Nachricht (ca. 20-30 Wörter):\n1. Warum schreiben Sie?\n2. Wann und wo?\n3. Was sollen die Gäste mitbringen?",
+          "turkce": "Parkta piknik yapmak istiyorsunuz. Bir mesaj yazın:\n1. Neden yazıyorsunuz?\n2. Ne zaman ve nerede?\n3. Misafirler ne getirmeli?",
+          "keywords": ["Hallo", "Picknick", "Stadtpark", "Sonntag", "Decke", "essen", "freue mich", "Grüße"],
+          "min_matches": 4,
+          "solution_example": "Hallo zusammen,\n\nich möchte am Sonntag um 12 Uhr ein Picknick im Stadtpark machen. Bitte bringt eine Decke und etwas zu essen mit. Ich freue mich auf euch!\n\nBis bald\n[Dein Name]",
+          "feedback_correct": "Sehr gut! Deine Nachricht ist kurz und klar.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'Picknick', 'Stadtpark', 'Sonntag' ve 'Decke'."
+        },
+        {
+          "exerciseId": "8",
+          "type": "writing",
+          "aufgabe": "Sie heiraten und möchten Gäste einladen. Schreiben Sie eine E-Mail (ca. 50-60 Wörter):\n1. Warum schreiben Sie?\n2. Wann und wo findet die Hochzeit statt?\n3. Gibt es ein Programm? (Essen, Musik, Tanz)\n4. Bis wann soll man sich anmelden?",
+          "turkce": "Evleniyorsunuz ve misafirleri davet etmek istiyorsunuz. Bir e-posta yazın:\n1. Neden yazıyorsunuz?\n2. Düğün ne zaman ve nerede?\n3. Program var mı? (Yemek, müzik, dans)\n4. Ne zamana kadar kayıt yapılmalı?",
+          "keywords": ["Liebe Freunde", "heiraten", "Hochzeit", "Garten", "Buffet", "Musik", "tanzen", "anmelden", "Grüße"],
+          "min_matches": 5,
+          "solution_example": "Liebe Freunde und Familie,\n\nwir heiraten am 15. Juni und laden euch herzlich ein. Die Feier findet im Garten unserer Eltern statt. Es gibt ein Buffet, Musik und wir werden tanzen. Bitte sagt uns bis zum 1. Juni, ob ihr kommen könnt.\n\nMit freundlichen Grüßen\n[Eure Namen]",
+          "feedback_correct": "Hervorragend! Deine Einladung ist herzlich und gut strukturiert.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'heiraten', 'Hochzeit', 'Buffet', 'Musik' ve 'anmelden'."
+        },
+        {
+          "exerciseId": "9",
+          "type": "writing",
+          "aufgabe": "Sie veranstalten einen Filmabend. Schreiben Sie eine Nachricht an Ihren Freund (ca. 20-30 Wörter):\n1. Warum schreiben Sie?\n2. Wann und wo?\n3. Welcher Film wird gezeigt?",
+          "turkce": "Bir film gecesi düzenliyorsunuz. Arkadaşınıza bir mesaj yazın:\n1. Neden yazıyorsunuz?\n2. Ne zaman ve nerede?\n3. Hangi film gösterilecek?",
+          "keywords": ["Hallo", "Filmabend", "Freitag", "zu Hause", "Avatar", "Lust", "mitkommen", "Grüße"],
+          "min_matches": 4,
+          "solution_example": "Hallo,\n\nich veranstalte am Freitag einen Filmabend bei mir zu Hause. Wir schauen den neuen Film 'Avatar' an. Hast du Lust mitzukommen? Wir fangen um 20 Uhr an.\n\nBis bald\n[Dein Name]",
+          "feedback_correct": "Sehr gut! Deine Nachricht ist einladend und informativ.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'Filmabend', 'Freitag', 'Avatar' ve 'Lust'."
+        },
+        {
+          "exerciseId": "10",
+          "type": "writing",
+          "aufgabe": "Sie möchten am Wochenende wandern gehen. Schreiben Sie eine E-Mail (ca. 30-40 Wörter):\n1. Warum schreiben Sie?\n2. Wohin und wann?\n3. Was soll man mitbringen? (Schuhe, Rucksack, Essen)",
+          "turkce": "Hafta sonu yürüyüşe gitmek istiyorsunuz. Bir e-posta yazın:\n1. Neden yazıyorsunuz?\n2. Nereye ve ne zaman?\n3. Ne getirmeli? (Ayakkabı, sırt çantası, yiyecek)",
+          "keywords": ["Hallo", "wandern", "Berge", "Samstag", "Hauptbahnhof", "Wanderschuhe", "Rucksack", "essen", "Grüße"],
+          "min_matches": 5,
+          "solution_example": "Hallo,\n\nich möchte am Samstag in die Berge wandern gehen. Wir treffen uns um 9 Uhr am Hauptbahnhof. Bitte bringt gute Wanderschuhe, einen Rucksack und etwas zu essen mit.\n\nViele Grüße\n[Dein Name]",
+          "feedback_correct": "Gut gemacht! Deine E-Mail ist klar und informativ.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'wandern', 'Berge', 'Wanderschuhe', 'Rucksack' ve 'Hauptbahnhof'."
+        }
+      ]
+    },
+    {
+      "sectionId": 2,
+      "sectionName": "B) INFORMATIONEN / ANFRAGEN",
+      "exercises": [
+        {
+          "exerciseId": "11",
+          "type": "writing",
+          "aufgabe": "Sie möchten ein Hotel in Berlin für 3 Nächte buchen. Schreiben Sie eine E-Mail (ca. 30-40 Wörter):\n1. Warum schreiben Sie?\n2. Welches Zimmer? (Einzel/Doppel) Wann?\n3. Ist das Frühstück inklusive? Wie viel kostet eine Nacht?",
+          "turkce": "Berlin'de 3 gecelik bir otel rezervasyonu yapmak istiyorsunuz. Bir e-posta yazın:\n1. Neden yazıyorsunuz?\n2. Hangi oda? (Tek/Çift) Ne zaman?\n3. Kahvaltı dahil mi? Bir gece ne kadar?",
+          "keywords": ["Guten Tag", "Hotel", "Berlin", "Einzelzimmer", "buchen", "Frühstück", "Nacht", "kosten", "antworten", "Grüßen"],
+          "min_matches": 5,
+          "solution_example": "Guten Tag,\n\nich möchte für drei Nächte ein Einzelzimmer in Ihrem Hotel in Berlin buchen, vom 10. bis 13. Mai. Ist das Frühstück im Preis inbegriffen? Wie viel kostet eine Nacht? Bitte schicken Sie mir eine Antwort.\n\nMit freundlichen Grüßen\n[Dein Name]",
+          "feedback_correct": "Sehr gut! Deine Anfrage ist klar und vollständig.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'Hotel', 'Einzelzimmer', 'buchen', 'Frühstück' ve 'Nacht'."
+        },
+        {
+          "exerciseId": "12",
+          "type": "writing",
+          "aufgabe": "Sie möchten einen Deutschkurs besuchen. Schreiben Sie eine E-Mail an die Sprachschule (ca. 30-40 Wörter):\n1. Warum schreiben Sie?\n2. Welchen Kurs (A2/B1) und wann?\n3. Wie viel kostet der Kurs? Wann beginnt er?",
+          "turkce": "Bir Almanca kursuna katılmak istiyorsunuz. Dil okuluna bir e-posta yazın:\n1. Neden yazıyorsunuz?\n2. Hangi kurs (A2/B1) ve ne zaman?\n3. Kurs ne kadar? Ne zaman başlıyor?",
+          "keywords": ["Guten Tag", "Deutschkurs", "A2", "interessieren", "beginnen", "kosten", "Informationen", "Anmeldung", "Grüßen"],
+          "min_matches": 5,
+          "solution_example": "Guten Tag,\n\nich interessiere mich für einen Deutschkurs auf A2-Niveau. Wann beginnt der nächste Kurs? Wie viel kostet er? Bitte senden Sie mir Informationen zu den Kurszeiten und der Anmeldung.\n\nMit freundlichen Grüßen\n[Dein Name]",
+          "feedback_correct": "Gut gemacht! Deine Anfrage ist klar und gut strukturiert.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'Deutschkurs', 'A2', 'beginnen', 'kosten' ve 'Anmeldung'."
+        },
+        {
+          "exerciseId": "13",
+          "type": "writing",
+          "aufgabe": "Sie möchten von München nach Berlin fahren. Schreiben Sie eine E-Mail (ca. 20-30 Wörter):\n1. Warum schreiben Sie?\n2. Wann fährt der Zug? Wie lange dauert die Fahrt?\n3. Wie viel kostet das Ticket?",
+          "turkce": "Münih'ten Berlin'e seyahat etmek istiyorsunuz. Bir e-posta yazın:\n1. Neden yazıyorsunuz?\n2. Tren ne zaman kalkıyor? Yolculuk ne kadar sürüyor?\n3. Bilet ne kadar?",
+          "keywords": ["Guten Tag", "München", "Berlin", "Zug", "fahren", "Ticket", "kosten", "Informationen", "Grüßen"],
+          "min_matches": 4,
+          "solution_example": "Guten Tag,\n\nich möchte am 5. Juni von München nach Berlin fahren. Wann fährt der Zug und wie lange dauert die Fahrt? Was kostet ein Ticket? Bitte senden Sie mir die Informationen.\n\nMit freundlichen Grüßen\n[Dein Name]",
+          "feedback_correct": "Sehr gut! Deine Anfrage ist kurz und klar.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'Zug', 'Ticket', 'München' ve 'Berlin'."
+        },
+        {
+          "exerciseId": "14",
+          "type": "writing",
+          "aufgabe": "Sie suchen eine Wohnung in Köln. Schreiben Sie eine E-Mail (ca. 40-50 Wörter):\n1. Warum schreiben Sie?\n2. Welche Wohnung suchen Sie? (Größe, Zimmer, Lage)\n3. Wie viel darf die Miete kosten?\n4. Wann möchten Sie einziehen?",
+          "turkce": "Köln'de bir daire arıyorsunuz. Bir e-posta yazın:\n1. Neden yazıyorsunuz?\n2. Nasıl bir daire arıyorsunuz? (Büyüklük, oda, konum)\n3. Kira ne kadar olmalı?\n4. Ne zaman taşınmak istiyorsunuz?",
+          "keywords": ["Sehr geehrte", "Wohnung", "Köln", "2 Zimmer", "Quadratmeter", "Miete", "einziehen", "Angebote", "Grüßen"],
+          "min_matches": 5,
+          "solution_example": "Sehr geehrte Damen und Herren,\n\nich suche eine 2-Zimmer-Wohnung in Köln, ca. 60 Quadratmeter. Die Miete sollte nicht mehr als 700 Euro warm sein. Ich möchte zum 1. September einziehen. Bitte senden Sie mir Angebote.\n\nMit freundlichen Grüßen\n[Dein Name]",
+          "feedback_correct": "Hervorragend! Deine Anfrage ist vollständig und gut strukturiert.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'Wohnung', '2 Zimmer', 'Miete', 'einziehen' ve 'Angebote'."
+        },
+        {
+          "exerciseId": "15",
+          "type": "writing",
+          "aufgabe": "Sie möchten einen Tisch im Restaurant reservieren. Schreiben Sie eine E-Mail (ca. 20-30 Wörter):\n1. Warum schreiben Sie?\n2. Wann und für wie viele Personen?\n3. Möchten Sie etwas Besonderes? (Fensterplatz, vegetarisch)",
+          "turkce": "Restoranda masa rezervasyonu yapmak istiyorsunuz. Bir e-posta yazın:\n1. Neden yazıyorsunuz?\n2. Ne zaman ve kaç kişi için?\n3. Özel bir şey ister misiniz? (Pencere kenarı, vejetaryen)",
+          "keywords": ["Guten Tag", "Tisch", "reservieren", "Personen", "Samstag", "Fenster", "vegetarisch", "Grüßen"],
+          "min_matches": 4,
+          "solution_example": "Guten Tag,\n\nich möchte einen Tisch für vier Personen am Samstag um 19 Uhr reservieren. Wir möchten einen Tisch am Fenster, wenn möglich. Vielen Dank.\n\nMit freundlichen Grüßen\n[Dein Name]",
+          "feedback_correct": "Sehr gut! Deine Reservierungsanfrage ist klar und höflich.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'Tisch', 'reservieren', 'Personen' ve 'Fenster'."
+        },
+        {
+          "exerciseId": "16",
+          "type": "writing",
+          "aufgabe": "Sie möchten nach Dresden reisen. Schreiben Sie eine E-Mail (ca. 30-40 Wörter):\n1. Warum schreiben Sie?\n2. Welche Sehenswürdigkeiten gibt es?\n3. Wann sind die Museen geöffnet? Wie komme ich in die Stadt?",
+          "turkce": "Dresden'e seyahat etmek istiyorsunuz. Bir e-posta yazın:\n1. Neden yazıyorsunuz?\n2. Hangi turistik yerler var?\n3. Müzeler ne zaman açık? Şehre nasıl gidilir?",
+          "keywords": ["Sehr geehrte", "Dresden", "Sehenswürdigkeiten", "Museen", "geöffnet", "Bahnhof", "Stadt", "Informationen", "Grüßen"],
+          "min_matches": 5,
+          "solution_example": "Sehr geehrte Damen und Herren,\n\nich möchte nach Dresden reisen. Welche Sehenswürdigkeiten empfehlen Sie? Wann sind die Museen geöffnet? Wie komme ich vom Bahnhof in die Stadt? Bitte senden Sie mir Informationen.\n\nMit freundlichen Grüßen\n[Dein Name]",
+          "feedback_correct": "Gut gemacht! Deine Anfrage ist klar und informativ.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'Dresden', 'Sehenswürdigkeiten', 'Museen', 'geöffnet' ve 'Bahnhof'."
+        },
+        {
+          "exerciseId": "17",
+          "type": "writing",
+          "aufgabe": "Sie möchten ein Produkt im Internet kaufen. Schreiben Sie eine E-Mail (ca. 20-30 Wörter):\n1. Warum schreiben Sie?\n2. Welches Produkt? Welche Farbe/Größe?\n3. Wie viel kostet es? Gibt es Versandkosten?",
+          "turkce": "İnternetten bir ürün satın almak istiyorsunuz. Bir e-posta yazın:\n1. Neden yazıyorsunuz?\n2. Hangi ürün? Hangi renk/boyut?\n3. Ne kadar? Kargo ücreti var mı?",
+          "keywords": ["Guten Tag", "Pullover", "weiß", "Größe M", "kosten", "Versand", "Gesamtsumme", "Grüßen"],
+          "min_matches": 4,
+          "solution_example": "Guten Tag,\n\nich möchte den weißen Pullover in Größe M kaufen. Wie viel kostet er inklusive Versand? Gibt es Versandkosten? Bitte senden Sie mir die Gesamtsumme.\n\nMit freundlichen Grüßen\n[Dein Name]",
+          "feedback_correct": "Sehr gut! Deine Anfrage ist kurz und klar.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'Pullover', 'Größe M', 'kosten' ve 'Versand'."
+        },
+        {
+          "exerciseId": "18",
+          "type": "writing",
+          "aufgabe": "Sie möchten ein Praktikum in einer Firma machen. Schreiben Sie eine E-Mail (ca. 40-50 Wörter):\n1. Warum schreiben Sie?\n2. Wer sind Sie? (Name, Alter, Studium)\n3. Wann möchten Sie das Praktikum machen?\n4. Was können Sie gut?",
+          "turkce": "Bir şirkette staj yapmak istiyorsunuz. Bir e-posta yazın:\n1. Neden yazıyorsunuz?\n2. Kimsiniz? (Ad, yaş, öğrenim)\n3. Stajı ne zaman yapmak istiyorsunuz?\n4. Neleri iyi yaparsınız?",
+          "keywords": ["Sehr geehrte", "Praktikum", "Max Müller", "20 Jahre", "BWL", "Sommer", "Computer", "Verkauf", "Grüßen"],
+          "min_matches": 5,
+          "solution_example": "Sehr geehrte Damen und Herren,\n\nich bin Max Müller, 20 Jahre alt und studiere BWL. Ich möchte im Sommer ein Praktikum in Ihrer Firma machen. Ich kann gut mit Computern arbeiten und habe Erfahrung im Verkauf.\n\nMit freundlichen Grüßen\nMax Müller",
+          "feedback_correct": "Hervorragend! Deine Bewerbung ist vollständig und überzeugend.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'Praktikum', 'Max Müller', 'BWL', 'Sommer' ve 'Computer'."
+        },
+        {
+          "exerciseId": "19",
+          "type": "writing",
+          "aufgabe": "Sie haben Schmerzen und möchten einen Arzttermin. Schreiben Sie eine E-Mail (ca. 20-30 Wörter):\n1. Warum schreiben Sie?\n2. Was haben Sie? (Zahnschmerzen, Kopfschmerzen)\n3. Wann können Sie kommen?",
+          "turkce": "Ağrınız var ve doktor randevusu almak istiyorsunuz. Bir e-posta yazın:\n1. Neden yazıyorsunuz?\n2. Ne rahatsızlığınız var? (Diş ağrısı, baş ağrısı)\n3. Ne zaman gelebilirsiniz?",
+          "keywords": ["Guten Tag", "Zahnschmerzen", "Termin", "morgen", "Vormittag", "zurückrufen", "Grüßen"],
+          "min_matches": 4,
+          "solution_example": "Guten Tag,\n\nich habe starke Zahnschmerzen und brauche dringend einen Termin. Kann ich morgen Vormittag kommen? Bitte rufen Sie mich zurück, wann es möglich ist.\n\nMit freundlichen Grüßen\n[Dein Name]",
+          "feedback_correct": "Sehr gut! Deine Anfrage ist dringend und klar.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'Zahnschmerzen', 'Termin', 'morgen' ve 'zurückrufen'."
+        },
+        {
+          "exerciseId": "20",
+          "type": "writing",
+          "aufgabe": "Sie möchten eine Krankenversicherung abschließen. Schreiben Sie eine E-Mail (ca. 30-40 Wörter):\n1. Warum schreiben Sie?\n2. Welche Versicherung brauchen Sie?\n3. Wie viel kostet sie? Was ist inklusive?",
+          "turkce": "Sağlık sigortası yaptırmak istiyorsunuz. Bir e-posta yazın:\n1. Neden yazıyorsunuz?\n2. Hangi sigortaya ihtiyacınız var?\n3. Ne kadar? Neler dahil?",
+          "keywords": ["Sehr geehrte", "Krankenversicherung", "abschließen", "Basistarif", "Monat", "kosten", "Informationen", "Grüßen"],
+          "min_matches": 5,
+          "solution_example": "Sehr geehrte Damen und Herren,\n\nich möchte eine private Krankenversicherung abschließen. Wie viel kostet der Basistarif pro Monat und was ist inbegriffen? Bitte senden Sie mir Informationen.\n\nMit freundlichen Grüßen\n[Dein Name]",
+          "feedback_correct": "Gut gemacht! Deine Anfrage ist klar und gut strukturiert.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'Krankenversicherung', 'abschließen', 'Basistarif', 'Monat' ve 'kosten'."
+        }
+      ]
+    },
+    {
+      "sectionId": 3,
+      "sectionName": "C) BESCHWERDEN / REKLAMATIONEN",
+      "exercises": [
+        {
+          "exerciseId": "21",
+          "type": "writing",
+          "aufgabe": "Sie haben ein falsches Produkt erhalten. Schreiben Sie eine E-Mail (ca. 30-40 Wörter):\n1. Warum schreiben Sie?\n2. Was haben Sie bestellt? Was haben Sie bekommen?\n3. Was möchten Sie? (Umtausch, Geld zurück)",
+          "turkce": "Yanlış ürün aldınız. Bir e-posta yazın:\n1. Neden yazıyorsunuz?\n2. Ne sipariş ettiniz? Ne aldınız?\n3. Ne istiyorsunuz? (Değişim, para iadesi)",
+          "keywords": ["Sehr geehrte", "bestellt", "roter Pullover", "Größe L", "blauer Pullover", "Größe M", "tauschen", "Geld zurück", "Grüßen"],
+          "min_matches": 5,
+          "solution_example": "Sehr geehrte Damen und Herren,\n\nich habe einen roten Pullover in Größe L bestellt, aber ich habe einen blauen Pullover in Größe M bekommen. Bitte tauschen Sie die Ware um oder senden Sie mir mein Geld zurück.\n\nMit freundlichen Grüßen\n[Dein Name]",
+          "feedback_correct": "Gut gemacht! Deine Beschwerde ist klar und präzise.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'bestellt', 'tauschen', 'Größe L' ve 'Geld zurück'."
+        },
+        {
+          "exerciseId": "22",
+          "type": "writing",
+          "aufgabe": "Ihr Hotelzimmer war nicht sauber. Schreiben Sie eine E-Mail (ca. 40-50 Wörter):\n1. Warum schreiben Sie?\n2. Wann waren Sie im Hotel? Welches Zimmer?\n3. Was war das Problem? (Schmutz, Lärm, kaputt)\n4. Was erwarten Sie? (Entschuldigung, Rabatt)",
+          "turkce": "Otel odanız temiz değildi. Bir e-posta yazın:\n1. Neden yazıyorsunuz?\n2. Otelde ne zaman kaldınız? Hangi oda?\n3. Sorun neydi? (Kir, gürültü, bozuk)\n4. Ne bekliyorsunuz? (Özür, indirim)",
+          "keywords": ["Sehr geehrte", "Hotel", "Zimmer", "schmutzig", "Heizung", "kaputt", "Entschuldigung", "Rabatt", "Grüßen"],
+          "min_matches": 5,
+          "solution_example": "Sehr geehrte Damen und Herren,\n\nich war vom 1. bis 3. Juni in Ihrem Hotel, Zimmer 205. Das Zimmer war leider sehr schmutzig und die Heizung war kaputt. Ich bitte um eine Entschuldigung und einen Rabatt.\n\nMit freundlichen Grüßen\n[Dein Name]",
+          "feedback_correct": "Hervorragend! Deine Beschwerde ist klar und höflich.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'Hotel', 'Zimmer', 'schmutzig', 'kaputt' ve 'Rabatt'."
+        },
+        {
+          "exerciseId": "23",
+          "type": "writing",
+          "aufgabe": "Sie waren im Restaurant und das Essen war kalt. Schreiben Sie eine E-Mail (ca. 30-40 Wörter):\n1. Warum schreiben Sie?\n2. Wann waren Sie dort? Was haben Sie gegessen?\n3. Was erwarten Sie? (Entschuldigung)",
+          "turkce": "Restorandaydınız ve yemek soğuktu. Bir e-posta yazın:\n1. Neden yazıyorsunuz?\n2. Ne zaman oradaydınız? Ne yediniz?\n3. Ne bekliyorsunuz? (Özür)",
+          "keywords": ["Guten Tag", "Restaurant", "Schnitzel", "kalt", "Service", "Entschuldigung", "Grüßen"],
+          "min_matches": 4,
+          "solution_example": "Guten Tag,\n\nich war am Samstag in Ihrem Restaurant und habe das Schnitzel bestellt. Das Essen war leider kalt, als es serviert wurde. Ich bitte um eine Entschuldigung für diesen schlechten Service.\n\nMit freundlichen Grüßen\n[Dein Name]",
+          "feedback_correct": "Sehr gut! Deine Beschwerde ist klar und höflich.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'Restaurant', 'Schnitzel', 'kalt' ve 'Service'."
+        },
+        {
+          "exerciseId": "24",
+          "type": "writing",
+          "aufgabe": "Ihr neues Handy funktioniert nicht. Schreiben Sie eine E-Mail (ca. 30-40 Wörter):\n1. Warum schreiben Sie?\n2. Welches Handy? Wie lange haben Sie es?\n3. Was ist das Problem? Was möchten Sie?",
+          "turkce": "Yeni telefonunuz çalışmıyor. Bir e-posta yazın:\n1. Neden yazıyorsunuz?\n2. Hangi telefon? Ne kadar zamandır sizde?\n3. Sorun ne? Ne istiyorsunuz?",
+          "keywords": ["Sehr geehrte", "Samsung Galaxy S23", "Bildschirm", "funktioniert nicht", "reparieren", "neues", "Grüßen"],
+          "min_matches": 4,
+          "solution_example": "Sehr geehrte Damen und Herren,\n\nich habe vor zwei Wochen ein Samsung Galaxy S23 bei Ihnen gekauft. Jetzt funktioniert der Bildschirm nicht mehr. Ich möchte das Gerät reparieren lassen oder ein neues erhalten.\n\nMit freundlichen Grüßen\n[Dein Name]",
+          "feedback_correct": "Gut gemacht! Deine Beschwerde ist klar und präzise.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'Samsung Galaxy', 'Bildschirm', 'reparieren' ve 'neues'."
+        },
+        {
+          "exerciseId": "25",
+          "type": "writing",
+          "aufgabe": "Ihr Flug hatte 4 Stunden Verspätung. Schreiben Sie eine E-Mail (ca. 40-50 Wörter):\n1. Warum schreiben Sie?\n2. Wann und wohin war der Flug?\n3. Warum sind Sie unzufrieden? (keine Information, keine Entschädigung)\n4. Was erwarten Sie?",
+          "turkce": "Uçuşunuz 4 saat gecikti. Bir e-posta yazın:\n1. Neden yazıyorsunuz?\n2. Uçuş ne zaman ve nereye?\n3. Neden memnun değilsiniz? (Bilgi yok, tazminat yok)\n4. Ne bekliyorsunuz?",
+          "keywords": ["Sehr geehrte", "Flug", "Verspätung", "Information", "Entschädigung", "Erklärung", "Grüßen"],
+          "min_matches": 5,
+          "solution_example": "Sehr geehrte Damen und Herren,\n\nmein Flug von Berlin nach London am 10. Mai hatte 4 Stunden Verspätung. Es gab keine Information am Flughafen und ich habe keine Entschädigung bekommen. Ich bitte um eine Erklärung und Entschädigung.\n\nMit freundlichen Grüßen\n[Dein Name]",
+          "feedback_correct": "Hervorragend! Deine Beschwerde ist klar und gut strukturiert.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'Flug', 'Verspätung', 'Information', 'Entschädigung' ve 'Erklärung'."
+        },
+        {
+          "exerciseId": "26",
+          "type": "writing",
+          "aufgabe": "Ihr Pullover hat ein Loch. Schreiben Sie eine E-Mail (ca. 20-30 Wörter):\n1. Warum schreiben Sie?\n2. Was haben Sie gekauft? Was ist das Problem?\n3. Was möchten Sie?",
+          "turkce": "Kazağınızda bir delik var. Bir e-posta yazın:\n1. Neden yazıyorsunuz?\n2. Ne aldınız? Sorun ne?\n3. Ne istiyorsunuz?",
+          "keywords": ["Guten Tag", "Pullover", "Loch", "Ärmel", "umtauschen", "Geld zurück", "Grüßen"],
+          "min_matches": 4,
+          "solution_example": "Guten Tag,\n\nich habe einen Pullover bei Ihnen gekauft. Leider hat der Pullover ein Loch am Ärmel. Ich möchte ihn umtauschen oder mein Geld zurück.\n\nMit freundlichen Grüßen\n[Dein Name]",
+          "feedback_correct": "Sehr gut! Deine Beschwerde ist kurz und klar.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'Pullover', 'Loch', 'Ärmel' ve 'umtauschen'."
+        },
+        {
+          "exerciseId": "27",
+          "type": "writing",
+          "aufgabe": "Ihr Internet funktioniert seit 3 Tagen nicht. Schreiben Sie eine E-Mail (ca. 30-40 Wörter):\n1. Warum schreiben Sie?\n2. Seit wann haben Sie das Problem?\n3. Was sollen Sie tun? Wann kommt ein Techniker?",
+          "turkce": "İnternetiniz 3 gündür çalışmıyor. Bir e-posta yazın:\n1. Neden yazıyorsunuz?\n2. Ne zamandan beri sorun var?\n3. Ne yapmalısınız? Teknisyen ne zaman gelecek?",
+          "keywords": ["Sehr geehrte", "Internet", "funktioniert nicht", "Techniker", "Lösung", "Arbeit", "Grüßen"],
+          "min_matches": 4,
+          "solution_example": "Sehr geehrte Damen und Herren,\n\nmein Internet funktioniert seit drei Tagen nicht mehr. Bitte senden Sie einen Techniker vorbei. Ich brauche das Internet für meine Arbeit und bin auf eine schnelle Lösung angewiesen.\n\nMit freundlichen Grüßen\n[Dein Name]",
+          "feedback_correct": "Gut gemacht! Deine Beschwerde ist klar und dringend.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'Internet', 'Techniker', 'Lösung' ve 'Arbeit'."
+        },
+        {
+          "exerciseId": "28",
+          "type": "writing",
+          "aufgabe": "Ihre Bestellung wurde nicht geliefert. Schreiben Sie eine E-Mail (ca. 20-30 Wörter):\n1. Warum schreiben Sie?\n2. Welche Bestellnummer? Was haben Sie bestellt?\n3. Was möchten Sie?",
+          "turkce": "Siparişiniz teslim edilmedi. Bir e-posta yazın:\n1. Neden yazıyorsunuz?\n2. Hangi sipariş numarası? Ne sipariş ettiniz?\n3. Ne istiyorsunuz?",
+          "keywords": ["Guten Tag", "Bestellung", "Bestellnummer 12345", "Bücher", "Lieferung", "Geld zurück", "Grüßen"],
+          "min_matches": 4,
+          "solution_example": "Guten Tag,\n\nmeine Bestellung mit der Nummer 12345 wurde nicht geliefert. Ich habe zwei Bücher bestellt. Bitte senden Sie mir eine neue Lieferung oder mein Geld zurück.\n\nMit freundlichen Grüßen\n[Dein Name]",
+          "feedback_correct": "Sehr gut! Deine Beschwerde ist kurz und klar.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'Bestellung', 'Bestellnummer', 'Bücher' ve 'Geld zurück'."
+        },
+        {
+          "exerciseId": "29",
+          "type": "writing",
+          "aufgabe": "Ihr Paket ist beschädigt angekommen. Schreiben Sie eine E-Mail (ca. 30-40 Wörter):\n1. Warum schreiben Sie?\n2. Was war im Paket? Wie sieht der Schaden aus?\n3. Was möchten Sie? (Ersatz, Geld zurück)",
+          "turkce": "Paketiniz hasarlı geldi. Bir e-posta yazın:\n1. Neden yazıyorsunuz?\n2. Pakette ne vardı? Hasar nasıl?\n3. Ne istiyorsunuz? (Yenisi, para iadesi)",
+          "keywords": ["Sehr geehrte", "Paket", "Gläser", "beschädigt", "zerbrochen", "Ersatz", "erstatten", "Grüßen"],
+          "min_matches": 5,
+          "solution_example": "Sehr geehrte Damen und Herren,\n\nmein Paket mit den Gläsern ist beschädigt angekommen. Zwei Gläser sind zerbrochen. Bitte schicken Sie mir Ersatz oder erstatten Sie mir den Betrag.\n\nMit freundlichen Grüßen\n[Dein Name]",
+          "feedback_correct": "Gut gemacht! Deine Beschwerde ist klar und präzise.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'Paket', 'Gläser', 'beschädigt', 'Ersatz' ve 'erstatten'."
+        },
+        {
+          "exerciseId": "30",
+          "type": "writing",
+          "aufgabe": "Sie waren im Restaurant und der Service war sehr langsam. Schreiben Sie eine E-Mail (ca. 40-50 Wörter):\n1. Warum schreiben Sie?\n2. Wann waren Sie dort? Wie lange haben Sie gewartet?\n3. Wie war der Service? (unfreundlich, langsam)\n4. Was erwarten Sie?",
+          "turkce": "Restorandaydınız ve servis çok yavaştı. Bir e-posta yazın:\n1. Neden yazıyorsunuz?\n2. Ne zaman oradaydınız? Ne kadar beklediniz?\n3. Servis nasıldı? (Kaba, yavaş)\n4. Ne bekliyorsunuz?",
+          "keywords": ["Guten Tag", "Restaurant", "45 Minuten", "gewartet", "Essen", "Kellner", "unfreundlich", "Service", "verbessern", "Grüßen"],
+          "min_matches": 5,
+          "solution_example": "Guten Tag,\n\nich war am Samstag in Ihrem Restaurant und habe 45 Minuten auf mein Essen gewartet. Die Kellner waren sehr unfreundlich. Ich bitte um eine Entschuldigung und hoffe, dass Sie den Service verbessern.\n\nMit freundlichen Grüßen\n[Dein Name]",
+          "feedback_correct": "Hervorragend! Deine Beschwerde ist klar und gut strukturiert.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'Restaurant', 'gewartet', 'Kellner', 'unfreundlich' ve 'Service'."
+        }
+      ]
+    },
+    {
+      "sectionId": 4,
+      "sectionName": "D) ABSAGEN / TERMINVERSCHIEBUNGEN",
+      "exercises": [
+        {
+          "exerciseId": "31",
+          "type": "writing",
+          "aufgabe": "Sie können den Arzttermin nicht wahrnehmen. Schreiben Sie eine E-Mail (ca. 20-30 Wörter):\n1. Warum schreiben Sie?\n2. Wann war der Termin? Warum können Sie nicht?\n3. Wann möchten Sie einen neuen Termin?",
+          "turkce": "Doktor randevusuna gelemeyeceksiniz. Bir e-posta yazın:\n1. Neden yazıyorsunuz?\n2. Randevu ne zamandı? Neden gelemiyorsunuz?\n3. Ne zaman yeni bir randevu istiyorsunuz?",
+          "keywords": ["Guten Tag", "Termin", "morgen", "krank", "neuen Termin", "nächste Woche", "Grüßen"],
+          "min_matches": 4,
+          "solution_example": "Guten Tag,\n\nich habe einen Termin für morgen um 10 Uhr, kann aber leider nicht kommen, weil ich krank bin. Könnten wir einen neuen Termin für nächste Woche vereinbaren?\n\nMit freundlichen Grüßen\n[Dein Name]",
+          "feedback_correct": "Sehr gut! Deine Absage ist höflich und klar.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'Termin', 'morgen', 'krank' ve 'neuen Termin'."
+        },
+        {
+          "exerciseId": "32",
+          "type": "writing",
+          "aufgabe": "Sie können nicht zur Party kommen. Schreiben Sie eine Nachricht (ca. 20-30 Wörter):\n1. Warum schreiben Sie?\n2. Warum können Sie nicht kommen?\n3. Wann können Sie sich treffen?",
+          "turkce": "Partiye gelemeyeceksiniz. Bir mesaj yazın:\n1. Neden yazıyorsunuz?\n2. Neden gelemiyorsunuz?\n3. Ne zaman buluşabilirsiniz?",
+          "keywords": ["Hallo", "Party", "leider", "arbeiten", "nächste Woche", "treffen", "Grüße"],
+          "min_matches": 4,
+          "solution_example": "Hallo,\n\nich kann leider nicht zu deiner Party kommen, weil ich am Samstag arbeiten muss. Vielleicht können wir uns nächste Woche treffen? Tut mir leid!\n\nBis bald\n[Dein Name]",
+          "feedback_correct": "Gut gemacht! Deine Absage ist freundlich und einfühlsam.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'Party', 'leider', 'arbeiten' ve 'nächste Woche'."
+        },
+        {
+          "exerciseId": "33",
+          "type": "writing",
+          "aufgabe": "Sie müssen einen Termin mit Ihrem Chef verschieben. Schreiben Sie eine E-Mail (ca. 30-40 Wörter):\n1. Warum schreiben Sie?\n2. Wann war der Termin? Warum können Sie nicht?\n3. Wann möchten Sie einen neuen Termin?",
+          "turkce": "Patronunuzla randevunuzu ertelemeniz gerekiyor. Bir e-posta yazın:\n1. Neden yazıyorsunuz?\n2. Randevu ne zamandı? Neden gelemeyeceksiniz?\n3. Ne zaman yeni bir randevu istiyorsunuz?",
+          "keywords": ["Sehr geehrter", "Termin", "morgen", "verschieben", "Arzt", "Donnerstag", "treffen", "Grüßen"],
+          "min_matches": 5,
+          "solution_example": "Sehr geehrter Herr Meier,\n\nunser Termin für morgen um 14 Uhr muss leider verschoben werden, denn ich habe einen dringenden Termin beim Arzt. Können wir uns am Donnerstag um 15 Uhr treffen?\n\nMit freundlichen Grüßen\n[Dein Name]",
+          "feedback_correct": "Hervorragend! Deine Verschiebung ist höflich und klar.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'Termin', 'verschieben', 'Arzt', 'Donnerstag' ve 'treffen'."
+        },
+        {
+          "exerciseId": "34",
+          "type": "writing",
+          "aufgabe": "Sie können nicht am Ausflug teilnehmen. Schreiben Sie eine Nachricht (ca. 20-30 Wörter):\n1. Warum schreiben Sie?\n2. Warum können Sie nicht?\n3. Wann können Sie etwas unternehmen?",
+          "turkce": "Gezintiye katılamayacaksınız. Bir mesaj yazın:\n1. Neden yazıyorsunuz?\n2. Neden katılamıyorsunuz?\n3. Ne zaman bir şey yapabilirsiniz?",
+          "keywords": ["Hallo", "Ausflug", "leider", "krank", "nächsten Samstag", "unternehmen", "Grüße"],
+          "min_matches": 4,
+          "solution_example": "Hallo,\n\nich kann leider nicht am Ausflug teilnehmen, weil ich krank bin. Vielleicht können wir nächsten Samstag etwas unternehmen? Das würde mich freuen.\n\nBis bald\n[Dein Name]",
+          "feedback_correct": "Sehr gut! Deine Absage ist freundlich und einfühlsam.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'Ausflug', 'leider', 'krank' ve 'nächsten Samstag'."
+        },
+        {
+          "exerciseId": "35",
+          "type": "writing",
+          "aufgabe": "Sie können nicht am Deutschkurs teilnehmen. Schreiben Sie eine E-Mail (ca. 30-40 Wörter):\n1. Warum schreiben Sie?\n2. Welcher Kurs? Warum können Sie nicht?\n3. Können Sie später teilnehmen?",
+          "turkce": "Almanca kursuna katılamayacaksınız. Bir e-posta yazın:\n1. Neden yazıyorsunuz?\n2. Hangi kurs? Neden katılamıyorsunuz?\n3. Daha sonra katılabilir misiniz?",
+          "keywords": ["Guten Tag", "Deutschkurs", "A2", "leider", "Urlaub", "nächsten Monat", "Informationen", "Grüßen"],
+          "min_matches": 5,
+          "solution_example": "Guten Tag,\n\nich kann leider nicht am Deutschkurs A2 teilnehmen, weil ich nächste Woche im Urlaub bin. Kann ich im nächsten Monat mit dem Kurs beginnen? Bitte senden Sie mir Informationen.\n\nMit freundlichen Grüßen\n[Dein Name]",
+          "feedback_correct": "Gut gemacht! Deine Absage ist klar und gut strukturiert.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'Deutschkurs', 'A2', 'Urlaub', 'nächsten Monat' ve 'Informationen'."
+        },
+        {
+          "exerciseId": "36",
+          "type": "writing",
+          "aufgabe": "Sie müssen Ihre Geburtstagsfeier verschieben. Schreiben Sie eine E-Mail (ca. 40-50 Wörter):\n1. Warum schreiben Sie?\n2. Wann war die Party geplant? Warum verschieben Sie?\n3. Wann ist der neue Termin?\n4. Bitte um Verständnis.",
+          "turkce": "Doğum günü partinizi ertelemeniz gerekiyor. Bir e-posta yazın:\n1. Neden yazıyorsunuz?\n2. Parti ne zaman planlanmıştı? Neden erteliyorsunuz?\n3. Yeni tarih ne zaman?\n4. Anlayış rica edin.",
+          "keywords": ["Liebe Freunde", "Geburtstagsfeier", "verschieben", "krank", "Samstag", "nächsten Samstag", "Verständnis", "Grüße"],
+          "min_matches": 5,
+          "solution_example": "Liebe Freunde,\n\nich muss meine Geburtstagsfeier leider verschieben, weil ich krank bin. Die Party war für Samstag geplant. Der neue Termin ist am nächsten Samstag. Ich bitte um Verständnis und hoffe, dass ihr kommen könnt.\n\nViele Grüße\n[Dein Name]",
+          "feedback_correct": "Hervorragend! Deine Verschiebung ist einfühlsam und klar.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'Geburtstagsfeier', 'verschieben', 'krank', 'Samstag' ve 'Verständnis'."
+        },
+        {
+          "exerciseId": "37",
+          "type": "writing",
+          "aufgabe": "Sie möchten Ihr Fitnessstudio-Abonnement kündigen. Schreiben Sie eine E-Mail (ca. 30-40 Wörter):\n1. Warum schreiben Sie?\n2. Welcher Vertrag? Wie lange sind Sie Mitglied?\n3. Wann soll die Kündigung wirksam sein?",
+          "turkce": "Fitness salonu aboneliğinizi iptal etmek istiyorsunuz. Bir e-posta yazın:\n1. Neden yazıyorsunuz?\n2. Hangi sözleşme? Ne kadar süredir üyesiniz?\n3. İptal ne zaman geçerli olsun?",
+          "keywords": ["Guten Tag", "Vertrag", "Fitnessstudio", "kündigen", "Mitglied", "1. August", "Bestätigung", "Grüßen"],
+          "min_matches": 5,
+          "solution_example": "Guten Tag,\n\nich möchte meinen Vertrag bei Ihrem Fitnessstudio zum 1. August kündigen, da ich umziehe. Ich bin seit zwei Jahren Mitglied. Bitte senden Sie mir eine Bestätigung.\n\nMit freundlichen Grüßen\n[Dein Name]",
+          "feedback_correct": "Gut gemacht! Deine Kündigung ist klar und vollständig.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'Vertrag', 'Fitnessstudio', 'kündigen', 'Mitglied' ve '1. August'."
+        },
+        {
+          "exerciseId": "38",
+          "type": "writing",
+          "aufgabe": "Sie können nicht am Meeting teilnehmen. Schreiben Sie eine E-Mail (ca. 20-30 Wörter):\n1. Warum schreiben Sie?\n2. Wann ist das Meeting? Warum können Sie nicht?\n3. Wer kann Sie vertreten?",
+          "turkce": "Toplantıya katılamayacaksınız. Bir e-posta yazın:\n1. Neden yazıyorsunuz?\n2. Toplantı ne zaman? Neden katılamıyorsunuz?\n3. Sizi kim temsil edebilir?",
+          "keywords": ["Liebe Kollegen", "Meeting", "morgen", "krank", "Thomas", "vertreten", "Grüße"],
+          "min_matches": 4,
+          "solution_example": "Liebe Kollegen,\n\nich kann am Meeting morgen um 10 Uhr leider nicht teilnehmen, da ich krank bin. Bitte vertritt mich mein Kollege Thomas. Ich werde die Ergebnisse später nachlesen.\n\nViele Grüße\n[Dein Name]",
+          "feedback_correct": "Sehr gut! Deine Absage ist klar und hilfreich.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'Meeting', 'morgen', 'krank', 'Thomas' ve 'vertreten'."
+        },
+        {
+          "exerciseId": "39",
+          "type": "writing",
+          "aufgabe": "Sie müssen Ihren Urlaub verschieben. Schreiben Sie eine E-Mail (ca. 40-50 Wörter):\n1. Warum schreiben Sie?\n2. Wann war der Urlaub geplant? Warum verschieben Sie?\n3. Wann ist der neue Zeitraum?\n4. Bitte um Bestätigung.",
+          "turkce": "Tatilinizi ertelemeniz gerekiyor. Bir e-posta yazın:\n1. Neden yazıyorsunuz?\n2. Tatil ne zaman planlanmıştı? Neden erteliyorsunuz?\n3. Yeni zaman ne zaman?\n4. Onay rica edin.",
+          "keywords": ["Guten Tag", "Urlaub", "verschieben", "Projekte", "1. Juli", "Bestätigung", "Verständnis", "Grüßen"],
+          "min_matches": 5,
+          "solution_example": "Guten Tag,\n\nich muss meinen Urlaub vom 10. Juni auf den 1. Juli verschieben, da ich noch Projekte abschließen muss. Bitte bestätigen Sie mir die neue Urlaubszeit. Vielen Dank für Ihr Verständnis.\n\nMit freundlichen Grüßen\n[Dein Name]",
+          "feedback_correct": "Hervorragend! Deine Verschiebung ist höflich und klar.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'Urlaub', 'verschieben', 'Projekte', '1. Juli' ve 'Bestätigung'."
+        },
+        {
+          "exerciseId": "40",
+          "type": "writing",
+          "aufgabe": "Sie müssen Ihre Restaurantreservierung absagen. Schreiben Sie eine E-Mail (ca. 20-30 Wörter):\n1. Warum schreiben Sie?\n2. Wann war die Reservierung? Warum sagen Sie ab?\n3. Entschuldigung.",
+          "turkce": "Restoran rezervasyonunuzu iptal etmeniz gerekiyor. Bir e-posta yazın:\n1. Neden yazıyorsunuz?\n2. Rezervasyon ne zamandı? Neden iptal ediyorsunuz?\n3. Özür dileyin.",
+          "keywords": ["Guten Tag", "Reservierung", "heute Abend", "leider", "Zug Verspätung", "Unannehmlichkeiten", "Grüßen"],
+          "min_matches": 4,
+          "solution_example": "Guten Tag,\n\nich muss meine Reservierung für heute Abend um 19 Uhr leider absagen, weil mein Zug Verspätung hat. Es tut mir leid für die Unannehmlichkeiten.\n\nMit freundlichen Grüßen\n[Dein Name]",
+          "feedback_correct": "Sehr gut! Deine Absage ist höflich und klar.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'Reservierung', 'heute Abend', 'leider' ve 'Zug Verspätung'."
+        }
+      ]
+    },
+    {
+      "sectionId": 5,
+      "sectionName": "E) DANKESCHREIBEN / GRATULATIONEN",
+      "exercises": [
+        {
+          "exerciseId": "41",
+          "type": "writing",
+          "aufgabe": "Sie haben ein Geschenk bekommen. Schreiben Sie eine E-Mail (ca. 20-30 Wörter):\n1. Warum schreiben Sie?\n2. Was haben Sie bekommen? Von wem?\n3. Wie finden Sie das Geschenk?",
+          "turkce": "Bir hediye aldınız. Bir e-posta yazın:\n1. Neden yazıyorsunuz?\n2. Ne aldınız? Kimden?\n3. Hediyeyi nasıl buluyorsunuz?",
+          "keywords": ["Liebe Tante", "bedanken", "Geschenk", "Schuhe", "gefreut", "passen", "Grüße"],
+          "min_matches": 4,
+          "solution_example": "Liebe Tante,\n\nich schreibe dir, um mich für das tolle Geschenk zu bedanken. Ich habe mich sehr über die neuen Schuhe gefreut. Sie passen perfekt und sind sehr schön. Vielen Dank!\n\nViele Grüße\n[Dein Name]",
+          "feedback_correct": "Gut gemacht! Dein Dankeschön ist herzlich und persönlich.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'bedanken', 'Geschenk', 'Schuhe' ve 'gefreut'."
+        },
+        {
+          "exerciseId": "42",
+          "type": "writing",
+          "aufgabe": "Ihr Nachbar hat Ihnen geholfen. Schreiben Sie eine Nachricht (ca. 20-30 Wörter):\n1. Warum schreiben Sie?\n2. Wofür bedanken Sie sich?\n3. Möchten Sie etwas zurückgeben? (Kaffee einladen)",
+          "turkce": "Komşunuz size yardım etti. Bir mesaj yazın:\n1. Neden yazıyorsunuz?\n2. Ne için teşekkür ediyorsunuz?\n3. Bir şeyi karşılık olarak vermek ister misiniz? (Kahve ısmarlamak)",
+          "keywords": ["Lieber Herr Müller", "bedanken", "Hilfe", "Umzug", "Kaffee", "einladen", "Grüße"],
+          "min_matches": 4,
+          "solution_example": "Lieber Herr Müller,\n\nich bedanke mich herzlich für Ihre Hilfe beim Umzug. Ohne Sie hätte ich das nicht geschafft. Darf ich Sie nächste Woche auf einen Kaffee einladen?\n\nViele Grüße\n[Dein Name]",
+          "feedback_correct": "Sehr gut! Dein Dankeschön ist herzlich und einladend.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'bedanken', 'Hilfe', 'Umzug' ve 'Kaffee'."
+        },
+        {
+          "exerciseId": "43",
+          "type": "writing",
+          "aufgabe": "Sie waren auf einer Party eingeladen. Schreiben Sie eine E-Mail (ca. 30-40 Wörter):\n1. Warum schreiben Sie?\n2. Wie war die Party? (Essen, Musik, Leute)\n3. Bedanken Sie sich und kommentieren Sie etwas.",
+          "turkce": "Bir partiye davetliydiniz. Bir e-posta yazın:\n1. Neden yazıyorsunuz?\n2. Parti nasıldı? (Yemek, müzik, insanlar)\n3. Teşekkür edin ve yorum yapın.",
+          "keywords": ["Liebe Petra", "bedanken", "Party", "Essen", "lecker", "Musik", "nett", "gefreut", "Grüße"],
+          "min_matches": 5,
+          "solution_example": "Liebe Petra,\n\nich schreibe dir, um mich für die tolle Party zu bedanken. Das Essen war super lecker und die Musik war auch sehr gut. Alle waren sehr nett. Ich habe mich sehr gefreut!\n\nViele Grüße\n[Dein Name]",
+          "feedback_correct": "Hervorragend! Dein Dankeschön ist herzlich und detailliert.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'bedanken', 'Party', 'Essen', 'lecker' ve 'Musik'."
+        },
+        {
+          "exerciseId": "44",
+          "type": "writing",
+          "aufgabe": "Ihre Freundin hat Geburtstag. Schreiben Sie eine Nachricht (ca. 20-30 Wörter):\n1. Warum schreiben Sie?\n2. Was wünschen Sie? (Gesundheit, Glück)\n3. Wie feiert sie?",
+          "turkce": "Arkadaşınızın doğum günü var. Bir mesaj yazın:\n1. Neden yazıyorsunuz?\n2. Ne diliyorsunuz? (Sağlık, mutluluk)\n3. Nasıl kutluyor?",
+          "keywords": ["Liebe Anna", "Geburtstag", "Glück", "Gesundheit", "feiern", "Tag", "Grüße"],
+          "min_matches": 4,
+          "solution_example": "Liebe Anna,\n\nalles Gute zum Geburtstag! Ich wünsche dir viel Glück und Gesundheit. Wie feierst du heute? Ich hoffe, du hast einen wunderschönen Tag.\n\nViele Grüße\n[Dein Name]",
+          "feedback_correct": "Sehr gut! Deine Gratulation ist herzlich und persönlich.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'Geburtstag', 'Glück', 'Gesundheit' ve 'feiern'."
+        },
+        {
+          "exerciseId": "45",
+          "type": "writing",
+          "aufgabe": "Ihre Freunde haben geheiratet. Schreiben Sie eine E-Mail (ca. 30-40 Wörter):\n1. Warum schreiben Sie?\n2. Was wünschen Sie? (Glück, Liebe)\n3. Wie war die Hochzeit?",
+          "turkce": "Arkadaşlarınız evlendi. Bir e-posta yazın:\n1. Neden yazıyorsunuz?\n2. Ne diliyorsunuz? (Mutluluk, sevgi)\n3. Düğün nasıldı?",
+          "keywords": ["Liebe Freunde", "Glückwunsch", "Hochzeit", "Glück", "Liebe", "Feier", "schön", "Grüße"],
+          "min_matches": 5,
+          "solution_example": "Liebe Freunde,\n\nherzlichen Glückwunsch zu eurer Hochzeit! Ich wünsche euch alles Glück dieser Welt. Die Feier war sehr schön und ich habe mich sehr gefreut, dabei zu sein.\n\nViele Grüße\n[Dein Name]",
+          "feedback_correct": "Gut gemacht! Deine Gratulation ist herzlich und warm.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'Glückwunsch', 'Hochzeit', 'Glück', 'Liebe' ve 'Feier'."
+        },
+        {
+          "exerciseId": "46",
+          "type": "writing",
+          "aufgabe": "Sie waren zum Abendessen eingeladen. Schreiben Sie eine E-Mail (ca. 40-50 Wörter):\n1. Warum schreiben Sie?\n2. Wie war das Essen? (lecker, selbstgemacht)\n3. Wie war die Gastgeberin? (freundlich, nett)\n4. Möchten Sie sich revanchieren?",
+          "turkce": "Akşam yemeğine davetliydiniz. Bir e-posta yazın:\n1. Neden yazıyorsunuz?\n2. Yemek nasıldı? (Lezzetli, ev yapımı)\n3. Ev sahibesi nasıldı? (Güler yüzlü, kibar)\n4. Karşılık olarak bir şey yapmak ister misiniz?",
+          "keywords": ["Liebe Maria", "bedanken", "Abendessen", "selbstgemacht", "lecker", "Gastgeberin", "nett", "einladen", "Grüße"],
+          "min_matches": 5,
+          "solution_example": "Liebe Maria,\n\nich möchte mich herzlich für das leckere Abendessen bei dir bedanken. Das Essen war wirklich selbstgemacht und super lecker. Du warst eine wundervolle Gastgeberin. Ich lade dich nächste Woche zum Essen ein.\n\nViele Grüße\n[Dein Name]",
+          "feedback_correct": "Hervorragend! Dein Dankeschön ist herzlich und detailliert.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'bedanken', 'Abendessen', 'selbstgemacht', 'Gastgeberin' ve 'einladen'."
+        },
+        {
+          "exerciseId": "47",
+          "type": "writing",
+          "aufgabe": "Sie haben einen Job bekommen. Schreiben Sie eine E-Mail (ca. 30-40 Wörter):\n1. Warum schreiben Sie?\n2. Für was bedanken Sie sich?\n3. Wann können Sie anfangen?",
+          "turkce": "Bir iş buldunuz. Bir e-posta yazın:\n1. Neden yazıyorsunuz?\n2. Ne için teşekkür ediyorsunuz?\n3. Ne zaman başlayabilirsiniz?",
+          "keywords": ["Sehr geehrte Frau Meier", "bedanken", "Job", "Zusage", "Team", "1. August", "anfangen", "Grüßen"],
+          "min_matches": 5,
+          "solution_example": "Sehr geehrte Frau Meier,\n\nich bedanke mich für die Zusage des Jobs. Ich freue mich sehr, in Ihrem Team zu arbeiten. Ich kann am 1. August anfangen und stehe für Fragen jederzeit zur Verfügung.\n\nMit freundlichen Grüßen\n[Dein Name]",
+          "feedback_correct": "Gut gemacht! Dein Dankeschön ist professionell und klar.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'bedanken', 'Job', 'Zusage', 'Team' ve '1. August'."
+        },
+        {
+          "exerciseId": "48",
+          "type": "writing",
+          "aufgabe": "Ihr Freund hat die Prüfung bestanden. Schreiben Sie eine Nachricht (ca. 20-30 Wörter):\n1. Warum schreiben Sie?\n2. Was gratulieren Sie?\n3. Wie feiert man?",
+          "turkce": "Arkadaşınız sınavı geçti. Bir mesaj yazın:\n1. Neden yazıyorsunuz?\n2. Neyi kutluyorsunuz?\n3. Nasıl kutlanıyor?",
+          "keywords": ["Hallo", "Glückwunsch", "Prüfung", "bestanden", "feiern", "Grüße"],
+          "min_matches": 4,
+          "solution_example": "Hallo,\n\nherzlichen Glückwunsch zur bestandenen Prüfung! Das hast du toll gemacht. Wann feiern wir das? Ich freue mich mit dir!\n\nBis bald\n[Dein Name]",
+          "feedback_correct": "Sehr gut! Deine Gratulation ist herzlich und mitreißend.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'Glückwunsch', 'Prüfung', 'bestanden' ve 'feiern'."
+        },
+        {
+          "exerciseId": "49",
+          "type": "writing",
+          "aufgabe": "Ihre Freunde haben beim Umzug geholfen. Schreiben Sie eine E-Mail (ca. 40-50 Wörter):\n1. Warum schreiben Sie?\n2. Wofür bedanken Sie sich?\n3. Wie war der Umzug?\n4. Möchten Sie etwas zurückgeben? (Einladung zum Essen)",
+          "turkce": "Arkadaşlarınız taşınırken yardım etti. Bir e-posta yazın:\n1. Neden yazıyorsunuz?\n2. Ne için teşekkür ediyorsunuz?\n3. Taşınma nasıldı?\n4. Karşılık olarak bir şey yapmak ister misiniz? (Yemek daveti)",
+          "keywords": ["Liebe Freunde", "bedanken", "Umzug", "Hilfe", "anstrengend", "Essen", "einladen", "Grüße"],
+          "min_matches": 5,
+          "solution_example": "Liebe Freunde,\n\nich möchte mich bei euch für die Hilfe beim Umzug bedanken. Ohne euch wäre das nicht möglich gewesen. Der Umzug war anstrengend, aber mit eurer Hilfe hat es gut geklappt. Ich lade euch alle zum Essen ein.\n\nViele Grüße\n[Dein Name]",
+          "feedback_correct": "Hervorragend! Dein Dankeschön ist herzlich und großzügig.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'bedanken', 'Umzug', 'Hilfe', 'Essen' ve 'einladen'."
+        },
+        {
+          "exerciseId": "50",
+          "type": "writing",
+          "aufgabe": "Jemand hat Ihnen ein Restaurant empfohlen. Schreiben Sie eine Nachricht (ca. 20-30 Wörter):\n1. Warum schreiben Sie?\n2. Wie war das Restaurant?\n3. Bedanken Sie sich.",
+          "turkce": "Birisi size bir restoran önerdi. Bir mesaj yazın:\n1. Neden yazıyorsunuz?\n2. Restoran nasıldı?\n3. Teşekkür edin.",
+          "keywords": ["Hallo", "danke", "Restaurant", "Empfehlung", "lecker", "Service", "freundlich", "Grüße"],
+          "min_matches": 4,
+          "solution_example": "Hallo,\n\ndanke für deine Restaurant-Empfehlung. Ich war gestern dort und es war wirklich super! Das Essen war lecker und der Service war sehr freundlich. Ich komme gerne wieder.\n\nBis bald\n[Dein Name]",
+          "feedback_correct": "Sehr gut! Dein Dankeschön ist herzlich und hilfreich.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'danke', 'Restaurant', 'Empfehlung', 'lecker' ve 'Service'."
+        }
+      ]
+    },
+    {
+      "sectionId": 6,
+      "sectionName": "F) URLAUB / FREIZEIT",
+      "exercises": [
+        {
+          "exerciseId": "51",
+          "type": "writing",
+          "aufgabe": "Sie sind im Urlaub. Schreiben Sie eine Postkarte (ca. 20-30 Wörter):\n1. Wo sind Sie?\n2. Wie ist das Wetter?\n3. Was machen Sie?",
+          "turkce": "Tatildesiniz. Bir kartpostal yazın:\n1. Neredesiniz?\n2. Hava nasıl?\n3. Ne yapıyorsunuz?",
+          "keywords": ["Liebe Eltern", "Italien", "wunderschön", "Wetter", "Strand", "Meer", "Grüße"],
+          "min_matches": 4,
+          "solution_example": "Liebe Eltern,\n\nich bin in Italien und es ist wunderschön hier! Das Wetter ist super, jeden Tag 30 Grad. Ich bin am Strand und genieße das Meer. Liebe Grüße!\n\n[Dein Name]",
+          "feedback_correct": "Gut gemacht! Deine Postkarte ist kurz und informativ.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'Italien', 'Wetter', 'Strand' ve 'Meer'."
+        },
+        {
+          "exerciseId": "52",
+          "type": "writing",
+          "aufgabe": "Sie planen einen Urlaub mit der Familie. Schreiben Sie eine E-Mail (ca. 30-40 Wörter):\n1. Wohin möchten Sie fahren?\n2. Wann und wie lange?\n3. Was möchten Sie dort machen?",
+          "turkce": "Ailenizle bir tatil planlıyorsunuz. Bir e-posta yazın:\n1. Nereye gitmek istiyorsunuz?\n2. Ne zaman ve ne kadar?\n3. Orada ne yapmak istiyorsunuz?",
+          "keywords": ["Hallo", "Urlaub", "Ostsee", "Sommer", "Woche", "wandern", "Strand", "Fisch", "Unterkunft", "Grüße"],
+          "min_matches": 5,
+          "solution_example": "Hallo,\n\nwir planen im Sommer eine Woche Urlaub an der Ostsee. Wir möchten dort wandern gehen, am Strand liegen und Fisch essen. Hast du eine Empfehlung für eine Unterkunft?\n\nViele Grüße\n[Dein Name]",
+          "feedback_correct": "Sehr gut! Deine Planung ist klar und detailliert.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'Urlaub', 'Ostsee', 'wandern', 'Strand' ve 'Unterkunft'."
+        },
+        {
+          "exerciseId": "53",
+          "type": "writing",
+          "aufgabe": "Sie möchten ins Kino gehen. Schreiben Sie eine Nachricht (ca. 20-30 Wörter):\n1. Welcher Film läuft?\n2. Wann und wo?\n3. Soll der Freund mitkommen?",
+          "turkce": "Sinemaya gitmek istiyorsunuz. Bir mesaj yazın:\n1. Hangi film oynuyor?\n2. Ne zaman ve nerede?\n3. Arkadaş gelsin mi?",
+          "keywords": ["Hallo", "Kino", "Oppenheimer", "Samstag", "Cinemaxx", "Lust", "mitkommen", "Grüße"],
+          "min_matches": 4,
+          "solution_example": "Hallo,\n\nim Kino läuft der neue Film 'Oppenheimer'. Ich möchte ihn am Samstag um 18 Uhr im Cinemaxx sehen. Hast du Lust mitzukommen?\n\nBis bald\n[Dein Name]",
+          "feedback_correct": "Gut gemacht! Deine Nachricht ist einladend und klar.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'Kino', 'Oppenheimer', 'Samstag' ve 'Lust'."
+        },
+        {
+          "exerciseId": "54",
+          "type": "writing",
+          "aufgabe": "Sie planen einen Tagesausflug. Schreiben Sie eine E-Mail (ca. 40-50 Wörter):\n1. Wohin möchten Sie fahren?\n2. Wann und wie?\n3. Was sollen die Teilnehmer mitbringen?\n4. Wann und wo ist das Treffen?",
+          "turkce": "Bir günlük gezi planlıyorsunuz. Bir e-posta yazın:\n1. Nereye gitmek istiyorsunuz?\n2. Ne zaman ve nasıl?\n3. Katılımcılar ne getirmeli?\n4. Buluşma ne zaman ve nerede?",
+          "keywords": ["Hallo zusammen", "Tagesausflug", "Heidelberg", "Sonntag", "Zug", "essen", "Kamera", "Hauptbahnhof", "Grüße"],
+          "min_matches": 5,
+          "solution_example": "Hallo zusammen,\n\nam Sonntag machen wir einen Tagesausflug nach Heidelberg. Wir fahren um 8 Uhr mit dem Zug. Bitte bringt etwas zu essen und eine Kamera mit. Wir treffen uns um 7:45 Uhr am Hauptbahnhof.\n\nViele Grüße\n[Dein Name]",
+          "feedback_correct": "Hervorragend! Deine Planung ist klar und vollständig.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'Tagesausflug', 'Heidelberg', 'Zug', 'Kamera' ve 'Hauptbahnhof'."
+        },
+        {
+          "exerciseId": "55",
+          "type": "writing",
+          "aufgabe": "Sie waren im Museum. Schreiben Sie eine E-Mail (ca. 30-40 Wörter):\n1. Welches Museum haben Sie besucht?\n2. Was haben Sie gesehen?\n3. Wie war es? (interessant, langweilig)",
+          "turkce": "Müzeyi ziyaret ettiniz. Bir e-posta yazın:\n1. Hangi müzeyi ziyaret ettiniz?\n2. Ne gördünüz?\n3. Nasıldı? (İlginç, sıkıcı)",
+          "keywords": ["Hallo", "Historisches Museum", "Köln", "Artefakte", "Mittelalter", "interessant", "gelernt", "empfehlen", "Grüße"],
+          "min_matches": 5,
+          "solution_example": "Hallo,\n\nich war gestern im Historischen Museum in Köln. Ich habe viele interessante Artefakte aus dem Mittelalter gesehen. Es war sehr interessant und ich habe viel gelernt. Das Museum kann ich nur empfehlen.\n\nViele Grüße\n[Dein Name]",
+          "feedback_correct": "Gut gemacht! Dein Bericht ist informativ und interessant.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'Historisches Museum', 'Artefakte', 'Mittelalter', 'interessant' ve 'empfehlen'."
+        },
+        {
+          "exerciseId": "56",
+          "type": "writing",
+          "aufgabe": "Sie waren wandern. Schreiben Sie eine Nachricht (ca. 20-30 Wörter):\n1. Wo waren Sie?\n2. Wie war das Wetter?\n3. Wie war die Wanderung?",
+          "turkce": "Yürüyüş yaptınız. Bir mesaj yazın:\n1. Neredeydiniz?\n2. Hava nasıldı?\n3. Yürüyüş nasıldı?",
+          "keywords": ["Hallo", "Bayerischer Wald", "wandern", "Wetter", "wunderschön", "Blick", "anstrengend", "gelohnt", "Grüße"],
+          "min_matches": 4,
+          "solution_example": "Hallo,\n\nich war im Bayerischen Wald wandern. Das Wetter war wunderschön und der Blick von oben war atemberaubend. Die Wanderung war anstrengend, aber es hat sich gelohnt.\n\nBis bald\n[Dein Name]",
+          "feedback_correct": "Sehr gut! Deine Nachricht ist lebendig und informativ.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'Bayerischer Wald', 'wandern', 'Wetter', 'Blick' ve 'gelohnt'."
+        },
+        {
+          "exerciseId": "57",
+          "type": "writing",
+          "aufgabe": "Sie waren auf einem Konzert. Schreiben Sie eine E-Mail (ca. 30-40 Wörter):\n1. Welches Konzert?\n2. Wie war die Musik?\n3. Wie waren die Leute? (Stimmung, Lautstärke)",
+          "turkce": "Konserdeydiniz. Bir e-posta yazın:\n1. Hangi konser?\n2. Müzik nasıldı?\n3. İnsanlar nasıldı? (Hava, ses seviyesi)",
+          "keywords": ["Hallo", "Konzert", "Die Ärzte", "Musik", "großartig", "Stimmung", "fantastisch", "mitgesungen", "unvergesslich", "Grüße"],
+          "min_matches": 5,
+          "solution_example": "Hallo,\n\nich war gestern auf dem Konzert von 'Die Ärzte'. Die Musik war großartig und die Stimmung im Saal war fantastisch. Alle haben mitgesungen und es war sehr laut. Ich hatte einen unvergesslichen Abend.\n\nViele Grüße\n[Dein Name]",
+          "feedback_correct": "Hervorragend! Dein Bericht ist lebendig und begeisternd.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'Konzert', 'Musik', 'Stimmung', 'fantastisch' ve 'unvergesslich'."
+        },
+        {
+          "exerciseId": "58",
+          "type": "writing",
+          "aufgabe": "Sie haben eine neue Sportart ausprobiert. Schreiben Sie eine Nachricht (ca. 20-30 Wörter):\n1. Welche Sportart?\n2. Wie war es? (schwer, einfach, Spaß)\n3. Möchten Sie es wieder machen?",
+          "turkce": "Yeni bir spor denediniz. Bir mesaj yazın:\n1. Hangi spor?\n2. Nasıldı? (Zor, kolay, eğlenceli)\n3. Tekrar yapmak ister misiniz?",
+          "keywords": ["Hallo", "Yoga", "entspannend", "Übungen", "anspruchsvoll", "genossen", "weitermachen", "Grüße"],
+          "min_matches": 4,
+          "solution_example": "Hallo,\n\nich habe heute Yoga ausprobiert und es war unglaublich entspannend. Die Übungen waren anspruchsvoll, aber ich habe es genossen. Ich möchte auf jeden Fall weitermachen!\n\nBis bald\n[Dein Name]",
+          "feedback_correct": "Sehr gut! Deine Nachricht ist begeistert und motivierend.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'Yoga', 'entspannend', 'Übungen' ve 'weitermachen'."
+        },
+        {
+          "exerciseId": "59",
+          "type": "writing",
+          "aufgabe": "Sie haben ein Buch gelesen. Schreiben Sie eine E-Mail (ca. 30-40 Wörter):\n1. Welches Buch?\n2. Was handelt das Buch?\n3. Empfehlen Sie das Buch?",
+          "turkce": "Bir kitap okudunuz. Bir e-posta yazın:\n1. Hangi kitap?\n2. Kitap ne hakkında?\n3. Kitabı önerir misiniz?",
+          "keywords": ["Hallo", "Buch", "Der Vorleser", "Bernhard Schlink", "Liebesgeschichte", "Krieg", "bewegend", "empfehlen", "Grüße"],
+          "min_matches": 5,
+          "solution_example": "Hallo,\n\nich habe das Buch 'Der Vorleser' von Bernhard Schlink gelesen. Es handelt von einer ungewöhnlichen Liebesgeschichte und den Nachwirkungen des Krieges. Das Buch ist sehr bewegend, ich kann es nur empfehlen!\n\nViele Grüße\n[Dein Name]",
+          "feedback_correct": "Gut gemacht! Deine Buchbesprechung ist interessant und einladend.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'Buch', 'Der Vorleser', 'Liebesgeschichte', 'bewegend' ve 'empfehlen'."
+        },
+        {
+          "exerciseId": "60",
+          "type": "writing",
+          "aufgabe": "Sie waren in einem Restaurant. Schreiben Sie eine E-Mail (ca. 40-50 Wörter):\n1. Wo waren Sie?\n2. Was haben Sie gegessen und getrunken?\n3. Wie war das Essen? (lecker, teuer, gut)\n4. Würden Sie es empfehlen?",
+          "turkce": "Restorandaydınız. Bir e-posta yazın:\n1. Neredeydiniz?\n2. Ne yediniz ve içtiniz?\n3. Yemek nasıldı? (Lezzetli, pahalı, iyi)\n4. Önerir misiniz?",
+          "keywords": ["Hallo", "Restaurant", "Zur Sonne", "Schnitzel", "Pommes", "Bier", "gut", "teuer", "Service", "empfehlen", "Grüße"],
+          "min_matches": 5,
+          "solution_example": "Hallo,\n\nich war im Restaurant 'Zur Sonne'. Ich habe das Schnitzel mit Pommes gegessen und ein Bier getrunken. Das Essen war sehr gut, aber etwas teuer. Trotzdem kann ich das Restaurant empfehlen, denn der Service war ausgezeichnet.\n\nViele Grüße\n[Dein Name]",
+          "feedback_correct": "Hervorragend! Dein Restaurantbericht ist detailliert und hilfreich.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'Restaurant', 'Schnitzel', 'Pommes', 'teuer' ve 'Service'."
+        }
+      ]
+    },
+    {
+      "sectionId": 7,
+      "sectionName": "G) BERUFLICHES / SCHULE",
+      "exercises": [
+        {
+          "exerciseId": "61",
+          "type": "writing",
+          "aufgabe": "Sie bewerben sich um eine Stelle. Schreiben Sie eine E-Mail (ca. 40-50 Wörter):\n1. Warum schreiben Sie?\n2. Wer sind Sie? (Name, Alter, Ausbildung)\n3. Warum möchten Sie bei der Firma arbeiten?\n4. Wann können Sie ein Vorstellungsgespräch machen?",
+          "turkce": "Bir işe başvuruyorsunuz. Bir e-posta yazın:\n1. Neden yazıyorsunuz?\n2. Kimsiniz? (Ad, yaş, eğitim)\n3. Neden şirkette çalışmak istiyorsunuz?\n4. Ne zaman mülakata gelebilirsiniz?",
+          "keywords": ["Sehr geehrte", "bewerben", "Verkäufer", "Max Müller", "25 Jahre", "Ausbildung", "Einzelhandel", "Menschen", "Erfahrung", "Vorstellungsgespräch", "Grüßen"],
+          "min_matches": 6,
+          "solution_example": "Sehr geehrte Damen und Herren,\n\nich möchte mich auf die Stelle als Verkäufer bewerben. Ich heiße Max Müller, bin 25 Jahre alt und habe eine Ausbildung im Einzelhandel. Ich arbeite gerne mit Menschen und möchte meine Erfahrung bei Ihnen einbringen. Ich kann ab nächster Woche zu einem Vorstellungsgespräch kommen.\n\nMit freundlichen Grüßen\nMax Müller",
+          "feedback_correct": "Hervorragend! Deine Bewerbung ist vollständig und überzeugend.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'bewerben', 'Verkäufer', 'Ausbildung', 'Einzelhandel' ve 'Vorstellungsgespräch'."
+        },
+        {
+          "exerciseId": "62",
+          "type": "writing",
+          "aufgabe": "Sie möchten als Kellner arbeiten. Schreiben Sie eine E-Mail (ca. 30-40 Wörter):\n1. Warum schreiben Sie?\n2. Wer sind Sie? (Name, Alter, Erfahrung)\n3. Wann können Sie arbeiten?",
+          "turkce": "Garson olarak çalışmak istiyorsunuz. Bir e-posta yazın:\n1. Neden yazıyorsunuz?\n2. Kimsiniz? (Ad, yaş, deneyim)\n3. Ne zaman çalışabilirsiniz?",
+          "keywords": ["Guten Tag", "Kellner", "Anna", "22 Jahre", "Erfahrung", "Gastronomie", "flexibel", "Grüßen"],
+          "min_matches": 5,
+          "solution_example": "Guten Tag,\n\nich interessiere mich für die Stelle als Kellner. Ich heiße Anna, bin 22 Jahre alt und habe bereits zwei Jahre Erfahrung in der Gastronomie. Ich kann ab sofort und flexibel arbeiten.\n\nMit freundlichen Grüßen\nAnna",
+          "feedback_correct": "Gut gemacht! Deine Bewerbung ist kurz und klar.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'Kellner', 'Anna', 'Erfahrung', 'Gastronomie' ve 'flexibel'."
+        },
+        {
+          "exerciseId": "63",
+          "type": "writing",
+          "aufgabe": "Sie können nicht zur Arbeit kommen. Schreiben Sie eine E-Mail (ca. 20-30 Wörter):\n1. Warum schreiben Sie?\n2. Was haben Sie? (Grippe, Fieber)\n3. Wie lange bleiben Sie zu Hause?",
+          "turkce": "İşe gelemeyeceksiniz. Bir e-posta yazın:\n1. Neden yazıyorsunuz?\n2. Ne rahatsızlığınız var? (Grip, ateş)\n3. Ne kadar evde kalacaksınız?",
+          "keywords": ["Sehr geehrte Frau Meier", "krank", "Fieber", "Kopfschmerzen", "Arzt", "zwei Tage", "melden", "Grüßen"],
+          "min_matches": 4,
+          "solution_example": "Sehr geehrte Frau Meier,\n\nich kann heute nicht zur Arbeit kommen, weil ich Fieber habe und starke Kopfschmerzen. Ich werde morgen zum Arzt gehen und voraussichtlich zwei Tage zu Hause bleiben. Ich melde mich, wenn es mir besser geht.\n\nMit freundlichen Grüßen\n[Dein Name]",
+          "feedback_correct": "Sehr gut! Deine Krankmeldung ist klar und vollständig.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'krank', 'Fieber', 'Kopfschmerzen', 'Arzt' ve 'zwei Tage'."
+        },
+        {
+          "exerciseId": "64",
+          "type": "writing",
+          "aufgabe": "Sie haben eine Schulaufgabe nicht gemacht. Schreiben Sie eine E-Mail (ca. 30-40 Wörter):\n1. Warum schreiben Sie?\n2. Welche Aufgabe?\n3. Warum haben Sie sie nicht gemacht?\n4. Wann können Sie sie nachreichen?",
+          "turkce": "Bir ödev yapmadınız. Bir e-posta yazın:\n1. Neden yazıyorsunuz?\n2. Hangi ödev?\n3. Neden yapmadınız?\n4. Ne zaman teslim edebilirsiniz?",
+          "keywords": ["Liebe Frau Lehrerin", "Hausaufgabe", "Geschichte", "Kapitel 5", "krank", "nachreichen", "entschuldigen", "Grüßen"],
+          "min_matches": 5,
+          "solution_example": "Liebe Frau Lehrerin,\n\nich habe die Hausaufgabe für Geschichte nicht gemacht, weil ich krank war. Die Aufgabe war die Zusammenfassung von Kapitel 5. Ich kann sie bis nächsten Mittwoch nachreichen. Bitte entschuldigen Sie die Verspätung.\n\nMit freundlichen Grüßen\n[Dein Name]",
+          "feedback_correct": "Gut gemacht! Deine Entschuldigung ist höflich und klar.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'Hausaufgabe', 'Geschichte', 'krank', 'nachreichen' ve 'entschuldigen'."
+        },
+        {
+          "exerciseId": "65",
+          "type": "writing",
+          "aufgabe": "Sie möchten Ihre Arbeitszeit ändern. Schreiben Sie eine E-Mail (ca. 40-50 Wörter):\n1. Warum schreiben Sie?\n2. Wann arbeiten Sie jetzt?\n3. Wann möchten Sie arbeiten? Warum?\n4. Bitte um Antwort.",
+          "turkce": "Çalışma saatlerinizi değiştirmek istiyorsunuz. Bir e-posta yazın:\n1. Neden yazıyorsunuz?\n2. Şimdi ne zaman çalışıyorsunuz?\n3. Ne zaman çalışmak istiyorsunuz? Neden?\n4. Cevap rica edin.",
+          "keywords": ["Sehr geehrte Frau Meier", "Arbeitszeit", "ändern", "8 bis 16 Uhr", "Sprachkurs", "7 bis 15 Uhr", "antworten", "Grüßen"],
+          "min_matches": 5,
+          "solution_example": "Sehr geehrte Frau Meier,\n\nich möchte meine Arbeitszeit ändern. Im Moment arbeite ich von 8 bis 16 Uhr. Wegen eines Sprachkurses am Abend würde ich gerne von 7 bis 15 Uhr arbeiten. Ist das möglich? Bitte antworten Sie mir.\n\nMit freundlichen Grüßen\n[Dein Name]",
+          "feedback_correct": "Hervorragend! Deine Anfrage ist klar und gut begründet.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'Arbeitszeit', 'ändern', 'Sprachkurs', 'antworten' ve 'möglich'."
+        },
+        {
+          "exerciseId": "66",
+          "type": "writing",
+          "aufgabe": "Sie haben ein Praktikum gemacht. Schreiben Sie eine E-Mail (ca. 30-40 Wörter):\n1. Wo haben Sie das Praktikum gemacht?\n2. Was haben Sie dort gemacht?\n3. Wie war es? (interessant, hilfreich)",
+          "turkce": "Staj yaptınız. Bir e-posta yazın:\n1. Stajı nerede yaptınız?\n2. Orada ne yaptınız?\n3. Nasıldı? (İlginç, faydalı)",
+          "keywords": ["Hallo", "Praktikum", "IT-Firma", "München", "Software", "Entwicklung", "helfen", "interessant", "Karriere", "Grüße"],
+          "min_matches": 5,
+          "solution_example": "Hallo,\n\nich habe ein Praktikum bei einer IT-Firma in München gemacht. Ich durfte bei der Entwicklung einer Software mithelfen und viele neue Sachen lernen. Es war sehr interessant und hilfreich für meine Karriere.\n\nViele Grüße\n[Dein Name]",
+          "feedback_correct": "Gut gemacht! Dein Erfahrungsbericht ist informativ und positiv.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'Praktikum', 'IT-Firma', 'Software', 'interessant' ve 'Karriere'."
+        },
+        {
+          "exerciseId": "67",
+          "type": "writing",
+          "aufgabe": "Sie suchen einen Job. Schreiben Sie eine E-Mail (ca. 20-30 Wörter):\n1. Warum schreiben Sie?\n2. Welchen Job suchen Sie?\n3. Was können Sie gut?",
+          "turkce": "Bir iş arıyorsunuz. Bir e-posta yazın:\n1. Neden yazıyorsunuz?\n2. Hangi işi arıyorsunuz?\n3. Neleri iyi yaparsınız?",
+          "keywords": ["Guten Tag", "Job", "Verkäufer", "Teilzeit", "Erfahrung", "Einzelhandel", "Kunden", "Grüßen"],
+          "min_matches": 4,
+          "solution_example": "Guten Tag,\n\nich suche einen Job als Verkäufer in Teilzeit. Ich habe bereits drei Jahre Erfahrung im Einzelhandel und kann sehr gut mit Kunden umgehen.\n\nMit freundlichen Grüßen\n[Dein Name]",
+          "feedback_correct": "Sehr gut! Deine Bewerbung ist kurz und klar.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'Job', 'Verkäufer', 'Teilzeit', 'Erfahrung' ve 'Kunden'."
+        },
+        {
+          "exerciseId": "68",
+          "type": "writing",
+          "aufgabe": "Sie brauchen Hilfe bei der Arbeit. Schreiben Sie eine E-Mail (ca. 20-30 Wörter):\n1. Warum schreiben Sie?\n2. Wobei brauchen Sie Hilfe?\n3. Wann wäre es möglich?",
+          "turkce": "İşte yardıma ihtiyacınız var. Bir e-posta yazın:\n1. Neden yazıyorsunuz?\n2. Nerede yardıma ihtiyacınız var?\n3. Ne zaman uygun olur?",
+          "keywords": ["Lieber Kollege", "Hilfe", "Excel-Tabelle", "Formeln", "Zeit", "erklären", "Grüße"],
+          "min_matches": 4,
+          "solution_example": "Lieber Kollege,\n\nich brauche deine Hilfe bei der Excel-Tabelle. Ich komme mit den Formeln nicht klar. Wann hast du Zeit, mir das kurz zu erklären? Das wäre sehr hilfreich.\n\nViele Grüße\n[Dein Name]",
+          "feedback_correct": "Gut gemacht! Deine Anfrage ist klar und höflich.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'Hilfe', 'Excel-Tabelle', 'Formeln' ve 'Zeit'."
+        },
+        {
+          "exerciseId": "69",
+          "type": "writing",
+          "aufgabe": "Sie möchten eine Weiterbildung machen. Schreiben Sie eine E-Mail (ca. 40-50 Wörter):\n1. Warum schreiben Sie?\n2. Welche Weiterbildung?\n3. Warum ist sie wichtig?\n4. Wann beginnt sie? Wie teuer ist sie?",
+          "turkce": "Bir ileri eğitim yapmak istiyorsunuz. Bir e-posta yazın:\n1. Neden yazıyorsunuz?\n2. Hangi ileri eğitim?\n3. Neden önemli?\n4. Ne zaman başlıyor? Ne kadar?",
+          "keywords": ["Sehr geehrte", "Weiterbildung", "Projektmanagement", "berufliche Entwicklung", "1. September", "1200 Euro", "Informationen", "Grüßen"],
+          "min_matches": 5,
+          "solution_example": "Sehr geehrte Damen und Herren,\n\nich möchte an Ihrer Weiterbildung 'Projektmanagement' teilnehmen. Der Kurs ist wichtig für meine berufliche Entwicklung. Er beginnt am 1. September und kostet 1200 Euro. Bitte senden Sie mir weitere Informationen.\n\nMit freundlichen Grüßen\n[Dein Name]",
+          "feedback_correct": "Hervorragend! Deine Anfrage ist klar und vollständig.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'Weiterbildung', 'Projektmanagement', '1. September', '1200 Euro' ve 'Informationen'."
+        },
+        {
+          "exerciseId": "70",
+          "type": "writing",
+          "aufgabe": "Sie brauchen ein Arbeitszeugnis. Schreiben Sie eine E-Mail (ca. 30-40 Wörter):\n1. Warum schreiben Sie?\n2. Wann haben Sie dort gearbeitet?\n3. Wie war Ihre Position? Bitte um Zeugnis.",
+          "turkce": "Bir iş referansına ihtiyacınız var. Bir e-posta yazın:\n1. Neden yazıyorsunuz?\n2. Orada ne zaman çalıştınız?\n3. Pozisyonunuz neydi? Referans rica edin.",
+          "keywords": ["Sehr geehrte Frau Meier", "Arbeitszeugnis", "Verkäufer", "2020 bis 2023", "Bewerbung", "E-Mail", "danken", "Grüßen"],
+          "min_matches": 5,
+          "solution_example": "Sehr geehrte Frau Meier,\n\nich arbeite von 2020 bis 2023 in Ihrer Firma als Verkäufer. Für meine neue Bewerbung brauche ich ein Arbeitszeugnis. Bitte senden Sie es mir per E-Mail. Vielen Dank.\n\nMit freundlichen Grüßen\n[Dein Name]",
+          "feedback_correct": "Gut gemacht! Deine Anfrage ist klar und höflich.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'Arbeitszeugnis', 'Verkäufer', 'Bewerbung', 'E-Mail' ve 'danken'."
+        }
+      ]
+    },
+    {
+      "sectionId": 8,
+      "sectionName": "H) SONSTIGE",
+      "exercises": [
+        {
+          "exerciseId": "71",
+          "type": "writing",
+          "aufgabe": "Sie ziehen um. Schreiben Sie eine E-Mail (ca. 40-50 Wörter):\n1. Warum schreiben Sie?\n2. Wann ziehen Sie um? Wohin?\n3. Wie ist Ihre neue Adresse?\n4. Was ändert sich? (neue Telefonnummer)",
+          "turkce": "Taşınıyorsunuz. Bir e-posta yazın:\n1. Neden yazıyorsunuz?\n2. Ne zaman taşınıyorsunuz? Nereye?\n3. Yeni adresiniz ne?\n4. Ne değişiyor? (Yeni telefon numarası)",
+          "keywords": ["Liebe Freunde", "ziehe um", "Hauptstraße 10", "München", "Telefonnummer", "bleibt", "besuchen", "Grüße"],
+          "min_matches": 5,
+          "solution_example": "Liebe Freunde,\n\nich ziehe nächste Woche um. Meine neue Adresse ist Hauptstraße 10, 80331 München. Meine Telefonnummer bleibt gleich. Ich würde mich freuen, wenn ihr mich bald besuchen kommt.\n\nViele Grüße\n[Dein Name]",
+          "feedback_correct": "Gut gemacht! Deine Umzugsmitteilung ist klar und einladend.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'ziehe um', 'Adresse', 'München', 'Telefonnummer' ve 'besuchen'."
+        },
+        {
+          "exerciseId": "72",
+          "type": "writing",
+          "aufgabe": "Sie haben ein neues Haustier. Schreiben Sie eine Nachricht (ca. 20-30 Wörter):\n1. Warum schreiben Sie?\n2. Welches Tier? Wie heißt es?\n3. Wie ist es?",
+          "turkce": "Yeni bir evcil hayvanınız var. Bir mesaj yazın:\n1. Neden yazıyorsunuz?\n2. Hangi hayvan? Adı ne?\n3. Nasıl?",
+          "keywords": ["Hallo", "Hund", "Max", "Labrador", "verspielt", "Park", "süß", "Grüße"],
+          "min_matches": 4,
+          "solution_example": "Hallo,\n\nich habe einen neuen Hund! Er heißt Max und ist ein Labrador. Er ist sehr verspielt und liebt es, im Park herumzutoben. Er ist wirklich süß!\n\nBis bald\n[Dein Name]",
+          "feedback_correct": "Sehr gut! Deine Nachricht ist fröhlich und persönlich.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'Hund', 'Max', 'Labrador', 'verspielt' ve 'Park'."
+        },
+        {
+          "exerciseId": "73",
+          "type": "writing",
+          "aufgabe": "Ihr Freund ist krank. Schreiben Sie eine E-Mail (ca. 30-40 Wörter):\n1. Warum schreiben Sie?\n2. Was fehlt ihm? (Husten, Fieber)\n3. Was soll er tun? (Arzt, Tee, Bettruhe)",
+          "turkce": "Arkadaşınız hasta. Bir e-posta yazın:\n1. Neden yazıyorsunuz?\n2. Ne rahatsızlığı var? (Öksürük, ateş)\n3. Ne yapmalı? (Doktor, çay, yatak istirahati)",
+          "keywords": ["Hallo", "krank", "ausruhen", "Tee", "Arzt", "Gute Besserung", "Grüße"],
+          "min_matches": 4,
+          "solution_example": "Hallo,\n\nich habe gehört, dass du krank bist. Du solltest dich ausruhen, viel Tee trinken und einen Arzt aufsuchen. Ich hoffe, dass es dir bald besser geht. Gute Besserung!\n\nViele Grüße\n[Dein Name]",
+          "feedback_correct": "Gut gemacht! Deine Nachricht ist einfühlsam und hilfreich.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'krank', 'ausruhen', 'Tee', 'Arzt' ve 'Gute Besserung'."
+        },
+        {
+          "exerciseId": "74",
+          "type": "writing",
+          "aufgabe": "Sie bitten einen Freund um Hilfe beim Umzug. Schreiben Sie eine Nachricht (ca. 20-30 Wörter):\n1. Warum schreiben Sie?\n2. Wann ist der Umzug?\n3. Was muss helfen? (tragen, Auto)",
+          "turkce": "Taşınmada yardım etmesi için bir arkadaşınızdan rica ediyorsunuz. Bir mesaj yazın:\n1. Neden yazıyorsunuz?\n2. Taşınma ne zaman?\n3. Ne yardım etmeli? (Taşımak, araba)",
+          "keywords": ["Hallo", "Hilfe", "Umzug", "Samstag", "Möbel", "tragen", "Auto", "Bescheid", "Grüße"],
+          "min_matches": 4,
+          "solution_example": "Hallo,\n\nich brauche deine Hilfe beim Umzug am Samstag. Kannst du mir beim Tragen der Möbel helfen? Dein Auto wäre auch sehr nützlich. Bitte sag mir Bescheid!\n\nBis bald\n[Dein Name]",
+          "feedback_correct": "Sehr gut! Deine Bitte ist klar und freundlich.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'Hilfe', 'Umzug', 'Samstag', 'Möbel' ve 'Auto'."
+        },
+        {
+          "exerciseId": "75",
+          "type": "writing",
+          "aufgabe": "Ihre Mutter soll einkaufen gehen. Schreiben Sie eine E-Mail (ca. 20-30 Wörter):\n1. Warum schreiben Sie?\n2. Was soll sie kaufen?\n3. Danke.",
+          "turkce": "Anneniz alışverişe gitmeli. Bir e-posta yazın:\n1. Neden yazıyorsunuz?\n2. Ne almalı?\n3. Teşekkür edin.",
+          "keywords": ["Liebe Mama", "einkaufen", "Milch", "Brot", "Äpfel", "Eier", "danke", "Grüße"],
+          "min_matches": 4,
+          "solution_example": "Liebe Mama,\n\nkannst du bitte einkaufen gehen? Wir brauchen noch Milch, Brot, Äpfel und Eier. Vielen Dank, dass du das für mich machst.\n\nViele Grüße\n[Dein Name]",
+          "feedback_correct": "Gut gemacht! Deine Nachricht ist kurz und klar.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'einkaufen', 'Milch', 'Brot', 'Äpfel' ve 'danke'."
+        },
+        {
+          "exerciseId": "76",
+          "type": "writing",
+          "aufgabe": "Sie helfen einem Nachbarn. Schreiben Sie eine E-Mail (ca. 30-40 Wörter):\n1. Warum schreiben Sie?\n2. Wem helfen Sie? Wobei?\n3. Wie war die Aktion?",
+          "turkce": "Bir komşuya yardım ediyorsunuz. Bir e-posta yazın:\n1. Neden yazıyorsunuz?\n2. Kime yardım ediyorsunuz? Nerede?\n3. Yardım nasıldı?",
+          "keywords": ["Hallo", "Nachbarn", "Herr Müller", "Garten", "säubern", "anstrengend", "dankbar", "Kaffee", "Grüße"],
+          "min_matches": 4,
+          "solution_example": "Hallo,\n\nich habe heute meinem Nachbarn Herrn Müller geholfen, seinen Garten zu säubern. Es war anstrengend, aber wir haben viel geschafft. Er war sehr dankbar und hat mich zum Kaffee eingeladen.\n\nViele Grüße\n[Dein Name]",
+          "feedback_correct": "Sehr gut! Deine Nachricht ist positiv und herzlich.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'Nachbarn', 'Garten', 'säubern', 'anstrengend' ve 'dankbar'."
+        },
+        {
+          "exerciseId": "77",
+          "type": "writing",
+          "aufgabe": "Sie wollen ein Tier adoptieren. Schreiben Sie eine E-Mail (ca. 40-50 Wörter):\n1. Warum schreiben Sie?\n2. Welches Tier? (Hund, Katze)\n3. Warum möchten Sie es? (liebe Tiere)\n4. Haben Sie Erfahrung?",
+          "turkce": "Bir hayvan sahiplenmek istiyorsunuz. Bir e-posta yazın:\n1. Neden yazıyorsunuz?\n2. Hangi hayvan? (Köpek, kedi)\n3. Neden istiyorsunuz? (Hayvanları seviyorum)\n4. Deneyiminiz var mı?",
+          "keywords": ["Sehr geehrte", "Hund", "adoptieren", "liebe Tiere", "Erfahrung", "Labrador", "Zuhause", "Bewegung", "Grüßen"],
+          "min_matches": 5,
+          "solution_example": "Sehr geehrte Damen und Herren,\n\nich möchte einen Hund adoptieren. Ich liebe Tiere und habe bereits Erfahrung mit Hunden, weil ich früher einen Labrador hatte. Der Hund bekommt bei mir ein liebevolles Zuhause und viel Bewegung.\n\nMit freundlichen Grüßen\n[Dein Name]",
+          "feedback_correct": "Hervorragend! Deine Anfrage ist herzlich und überzeugend.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'Hund', 'adoptieren', 'Erfahrung', 'Labrador' ve 'Zuhause'."
+        },
+        {
+          "exerciseId": "78",
+          "type": "writing",
+          "aufgabe": "Sie sammeln für eine Wohltätigkeitsorganisation. Schreiben Sie eine Nachricht (ca. 20-30 Wörter):\n1. Warum schreiben Sie?\n2. Wofür sammeln Sie?\n3. Wie kann man spenden?",
+          "turkce": "Bir yardım kuruluşu için bağış topluyorsunuz. Bir mesaj yazın:\n1. Neden yazıyorsunuz?\n2. Ne için bağış topluyorsunuz?\n3. Nasıl bağış yapabiliriz?",
+          "keywords": ["Hallo", "Spenden", "Tierheim", "Tierarztkosten", "Futter", "Konto", "Grüße"],
+          "min_matches": 4,
+          "solution_example": "Hallo,\n\nich sammle Spenden für das Tierheim. Das Geld wird für Tierarztkosten und Futter verwendet. Bitte spendet, wenn ihr könnt, über das Konto 12345.\n\nViele Grüße\n[Dein Name]",
+          "feedback_correct": "Sehr gut! Deine Spendenaufruf ist klar und motivierend.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'Spenden', 'Tierheim', 'Tierarztkosten', 'Futter' ve 'Konto'."
+        },
+        {
+          "exerciseId": "79",
+          "type": "writing",
+          "aufgabe": "Sie suchen eine Mitfahrgelegenheit. Schreiben Sie eine E-Mail (ca. 30-40 Wörter):\n1. Warum schreiben Sie?\n2. Wohin und wann?\n3. Wie viele Personen? Würden Sie sich beteiligen?",
+          "turkce": "Bir araç paylaşımı arıyorsunuz. Bir e-posta yazın:\n1. Neden yazıyorsunuz?\n2. Nereye ve ne zaman?\n3. Kaç kişi? Katkı payı öder misiniz?",
+          "keywords": ["Guten Tag", "Mitfahrgelegenheit", "München", "Berlin", "15. Juli", "Person", "Rucksack", "Fahrtkosten", "beteiligen", "Grüßen"],
+          "min_matches": 5,
+          "solution_example": "Guten Tag,\n\nich suche eine Mitfahrgelegenheit von München nach Berlin am 15. Juli. Ich bin eine Person und habe nur einen Rucksack dabei. Ich würde mich natürlich an den Fahrtkosten beteiligen.\n\nMit freundlichen Grüßen\n[Dein Name]",
+          "feedback_correct": "Gut gemacht! Deine Anfrage ist klar und vollständig.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'Mitfahrgelegenheit', 'München', 'Berlin', 'Rucksack' ve 'Fahrtkosten'."
+        },
+        {
+          "exerciseId": "80",
+          "type": "writing",
+          "aufgabe": "Sie suchen einen Sprachpartner. Schreiben Sie eine E-Mail (ca. 40-50 Wörter):\n1. Warum schreiben Sie?\n2. Welche Sprache? (Deutsch, Englisch)\n3. Was ist Ihr Niveau?\n4. Wie oft möchten Sie sich treffen? (2x pro Woche)",
+          "turkce": "Bir dil partneri arıyorsunuz. Bir e-posta yazın:\n1. Neden yazıyorsunuz?\n2. Hangi dil? (Almanca, İngilizce)\n3. Seviyeniz ne?\n4. Ne sıklıkla buluşmak istiyorsunuz? (Haftada 2 kez)",
+          "keywords": ["Hallo", "Sprachpartner", "Deutsch", "A2", "verbessern", "zweimal pro Woche", "treffen", "sprechen", "unterhalten", "Grüße"],
+          "min_matches": 5,
+          "solution_example": "Hallo,\n\nich suche einen Sprachpartner für Deutsch. Mein Niveau ist A2 und ich möchte mein Deutsch verbessern. Ich würde mich gerne zweimal pro Woche mit dir treffen und sprechen. Wir könnten uns abwechselnd auf Deutsch unterhalten.\n\nViele Grüße\n[Dein Name]",
+          "feedback_correct": "Hervorragend! Deine Anfrage ist klar und motivierend.",
+          "feedback_wrong": "Bitte verwende mehr Schlüsselbegriffe wie 'Sprachpartner', 'Deutsch', 'A2', 'verbessern' ve 'zweimal pro Woche'."
+        }
+      ]
+    }
+  ]
+}

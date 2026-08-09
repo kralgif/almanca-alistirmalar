@@ -1,0 +1,58 @@
+{
+  "title": "GOETHE A2 - HÖREN (SINAV 2)",
+  "subtitle": "REISE NACH ITALIEN BUCHEN",
+  "dialog": "Frau: Guten Tag! Ich möchte eine Reise nach Italien buchen.\n\nAngestellte: Guten Tag! Wann möchten Sie reisen?\n\nFrau: Im August, für zwei Wochen.\n\nAngestellte: Möchten Sie ein Hotel oder eine Ferienwohnung?\n\nFrau: Ein Hotel, bitte. Mit Frühstück.\n\nAngestellte: Das kostet 850 Euro pro Person.\n\nFrau: Das ist okay. Ich buche.",
+  "sections": [
+    {
+      "sectionId": 1,
+      "sectionName": "BÖLÜM 1: MULTIPLE CHOICE",
+      "exercises": [
+        {
+          "exerciseId": "1",
+          "type": "multiple_choice",
+          "frage": "Wohin möchte die Frau reisen?",
+          "turkce": "Kadın nereye seyahat etmek istiyor?",
+          "ipucu": "Die Frau sagt: 'Ich möchte eine Reise nach ... buchen.'",
+          "options": ["Nach Spanien", "Nach Italien", "Nach Frankreich", "Nach Griechenland"],
+          "answer": "Nach Italien"
+        },
+        {
+          "exerciseId": "2",
+          "type": "multiple_choice",
+          "frage": "Wann möchte die Frau reisen?",
+          "turkce": "Kadın ne zaman seyahat etmek istiyor?",
+          "ipucu": "Die Frau sagt: 'Im ..., für zwei Wochen.'",
+          "options": ["Im Juli", "Im September", "Im August", "Im Oktober"],
+          "answer": "Im August"
+        },
+        {
+          "exerciseId": "3",
+          "type": "multiple_choice",
+          "frage": "Wie lange möchte die Frau bleiben?",
+          "turkce": "Kadın ne kadar kalmak istiyor?",
+          "ipucu": "Die Frau sagt: 'Im August, für ...'",
+          "options": ["Eine Woche", "Zwei Wochen", "Drei Wochen", "Vier Wochen"],
+          "answer": "Zwei Wochen"
+        },
+        {
+          "exerciseId": "4",
+          "type": "multiple_choice",
+          "frage": "Was möchte die Frau buchen?",
+          "turkce": "Kadın ne rezerve etmek istiyor?",
+          "ipucu": "Die Frau sagt: 'Ein ..., bitte. Mit Frühstück.'",
+          "options": ["Eine Ferienwohnung", "Ein Hotel mit Frühstück", "Ein Hotel ohne Frühstück", "Eine Pension"],
+          "answer": "Ein Hotel mit Frühstück"
+        },
+        {
+          "exerciseId": "5",
+          "type": "multiple_choice",
+          "frage": "Wie viel kostet die Reise pro Person?",
+          "turkce": "Seyahat kişi başı ne kadar?",
+          "ipucu": "Der Angestellte sagt: 'Das kostet ... Euro pro Person.'",
+          "options": ["650 Euro", "750 Euro", "850 Euro", "950 Euro"],
+          "answer": "850 Euro"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "title": "GOETHE A2 - START DEUTSCH 2 (DENEME SINAVI)",
+  "subtitle": "HÖREN, LESEN, SCHREIBEN",
+  "sections": [
+    {
+      "sectionId": 1,
+      "sectionName": "HÖREN BÖLÜM 1: MULTIPLE CHOICE",
+      "type": "listening",
+      "dialog": "Radiosprecher: Guten Morgen, liebe Hörer! Heute sprechen wir über das Thema 'Umweltbewusstsein'. Immer mehr Menschen in Deutschland achten auf ihre Umwelt. Sie kaufen regionale Produkte, fahren Fahrrad und vermeiden Plastik. Besonders junge Leute zwischen 18 und 30 Jahren sind sehr umweltbewusst.\n\nEine neue Studie zeigt, dass 70 Prozent der Deutschen bereit sind, mehr Geld für umweltfreundliche Produkte auszugeben. Allerdings gibt es auch Kritik: Viele Menschen finden, dass umweltfreundliche Produkte zu teuer sind.\n\nDie Regierung möchte deshalb umweltfreundliche Produkte billiger machen. Das ist ein wichtiger Schritt für die Zukunft.",
+      "exercises": [
+        {
+          "exerciseId": "1",
+          "type": "multiple_choice",
+          "frage": "Worüber spricht der Radiosprecher?",
+          "turkce": "Radyo spikeri ne hakkında konuşuyor?",
+          "ipucu": "Radyo spikeri 'Heute sprechen wir über das Thema...' diyor.",
+          "options": ["über das Thema 'Gesundheit'", "über das Thema 'Umweltbewusstsein'", "über das Thema 'Arbeit'"],
+          "answer": "über das Thema 'Umweltbewusstsein'"
+        },
+        {
+          "exerciseId": "2",
+          "type": "multiple_choice",
+          "frage": "Wer ist besonders umweltbewusst?",
+          "turkce": "Özellikle kim çevre bilincine sahip?",
+          "ipucu": "Metinde 'Besonders ... sind sehr umweltbewusst.' diyor.",
+          "options": ["Ältere Menschen über 60", "Junge Leute zwischen 18 und 30", "Kinder unter 10"],
+          "answer": "Junge Leute zwischen 18 und 30"
+        },
+        {
+          "exerciseId": "3",
+          "type": "multiple_choice",
+          "frage": "Wie viel Prozent der Deutschen sind bereit, mehr Geld für umweltfreundliche Produkte auszugeben?",
+          "turkce": "Almanların yüzde kaçı çevre dostu ürünler için daha fazla para ödemeye hazır?",
+          "ipucu": "Metinde '... Prozent der Deutschen sind bereit' diyor.",
+          "options": ["50 Prozent", "60 Prozent", "70 Prozent"],
+          "answer": "70 Prozent"
+        },
+        {
+          "exerciseId": "4",
+          "type": "multiple_choice",
+          "frage": "Was ist die Kritik an umweltfreundlichen Produkten?",
+          "turkce": "Çevre dostu ürünlerle ilgili eleştiri nedir?",
+          "ipucu": "Metinde 'Viele Menschen finden, dass...' diyor.",
+          "options": ["Sie schmecken nicht gut.", "Sie sind zu teuer.", "Sie sind nicht verfügbar."],
+          "answer": "Sie sind zu teuer."
+        }
+      ]
+    },
+    {
+      "sectionId": 2,
+      "sectionName": "HÖREN BÖLÜM 2: MULTIPLE CHOICE",
+      "type": "listening",
+      "dialog": "Frau: Guten Tag! Ich möchte eine Reise nach Italien buchen.\n\nAngestellte: Guten Tag! Wann möchten Sie reisen?\n\nFrau: Im August, für zwei Wochen.\n\nAngestellte: Möchten Sie ein Hotel oder eine Ferienwohnung?\n\nFrau: Ein Hotel, bitte. Mit Frühstück.\n\nAngestellte: Das kostet 850 Euro pro Person.\n\nFrau: Das ist okay. Ich buche.",
+      "exercises": [
+        {
+          "exerciseId": "5",
+          "type": "multiple_choice",
+          "frage": "Wohin möchte die Frau reisen?",
+          "turkce": "Kadın nereye seyahat etmek istiyor?",
+          "ipucu": "Die Frau sagt: 'Ich möchte eine Reise nach ... buchen.'",
+          "options": ["nach Spanien", "nach Italien", "nach Frankreich"],
+          "answer": "nach Italien"
+        }
+      ]
+    },
+    {
+      "sectionId": 3,
+      "sectionName": "HÖREN BÖLÜM 3: BİLGİ DOLDURMA",
+      "type": "listening",
+      "dialog": "Interviewer: Guten Tag! Stellen Sie sich bitte vor!\n\nHerr Wagner: Guten Tag! Ich heiße Thomas Wagner. Ich bin 35 Jahre alt und komme aus Deutschland, aus München. Ich wohne jetzt in Berlin. Ich arbeite als Ingenieur in einer großen Firma. In meiner Freizeit wandere ich gern und lese Bücher. Ich bin verheiratet und habe zwei Kinder.",
+      "exercises": [
+        {
+          "exerciseId": "6",
+          "type": "fill_in",
+          "frage": "Name:",
+          "turkce": "İsim:",
+          "ipucu": "Herr Wagner sagt: 'Ich heiße ...'",
+          "answer": "Thomas Wagner"
+        },
+        {
+          "exerciseId": "7",
+          "type": "fill_in",
+          "frage": "Alter:",
+          "turkce": "Yaş:",
+          "ipucu": "Herr Wagner sagt: 'Ich bin ... Jahre alt.'",
+          "answer": "35"
+        },
+        {
+          "exerciseId": "8",
+          "type": "fill_in",
+          "frage": "Herkunft (Stadt):",
+          "turkce": "Memleket (Şehir):",
+          "ipucu": "Herr Wagner sagt: 'Ich komme aus ...'",
+          "answer": "München"
+        },
+        {
+          "exerciseId": "9",
+          "type": "fill_in",
+          "frage": "Wohnort (Stadt):",
+          "turkce": "Yaşadığı şehir:",
+          "ipucu": "Herr Wagner sagt: 'Ich wohne jetzt in ...'",
+          "answer": "Berlin"
+        },
+        {
+          "exerciseId": "10",
+          "type": "fill_in",
+          "frage": "Beruf:",
+          "turkce": "Meslek:",
+          "ipucu": "Herr Wagner sagt: 'Ich arbeite als ...'",
+          "answer": "Ingenieur"
+        }
+      ]
+    },
+    {
+      "sectionId": 4,
+      "sectionName": "LESEN BÖLÜM 1: GAZETE METNİ",
+      "type": "reading",
+      "text": "Immer mehr Deutsche arbeiten im Home-Office\n\nDie Corona-Pandemie hat die Arbeitswelt verändert. Immer mehr Deutsche arbeiten im Home-Office. Das hat eine neue Studie gezeigt. Die Vorteile sind klar: Man spart Zeit, weil man nicht zur Arbeit fahren muss. Man hat mehr Flexibilität und kann die Arbeit besser mit dem Privatleben verbinden.\n\nAllerdings gibt es auch Nachteile. Viele Menschen fühlen sich einsam, wenn sie allein zu Hause arbeiten. Auch die Trennung von Arbeit und Freizeit ist schwierig. Viele vermissen den direkten Kontakt mit den Kollegen.\n\nTrotzdem möchte die Hälfte der Deutschen auch nach der Pandemie im Home-Office arbeiten.",
+      "exercises": [
+        {
+          "exerciseId": "11",
+          "type": "multiple_choice",
+          "frage": "Was hat die Corona-Pandemie verändert?",
+          "turkce": "Corona salgını neyi değiştirdi?",
+          "ipucu": "Metinde 'Die Corona-Pandemie hat die ... verändert.' yazıyor.",
+          "options": ["Die Essgewohnheiten", "Die Arbeitswelt", "Das Reiseverhalten"],
+          "answer": "Die Arbeitswelt"
+        },
+        {
+          "exerciseId": "12",
+          "type": "multiple_choice",
+          "frage": "Was ist ein Vorteil von Home-Office?",
+          "turkce": "Evden çalışmanın avantajı nedir?",
+          "ipucu": "Metinde 'Die Vorteile sind klar: Man spart Zeit...' yazıyor.",
+          "options": ["Man hat mehr Stress.", "Man spart Zeit und hat mehr Flexibilität.", "Man sieht mehr Kollegen."],
+          "answer": "Man spart Zeit und hat mehr Flexibilität."
+        },
+        {
+          "exerciseId": "13",
+          "type": "multiple_choice",
+          "frage": "Was ist ein Nachteil von Home-Office?",
+          "turkce": "Evden çalışmanın dezavantajı nedir?",
+          "ipucu": "Metinde 'Allerdings gibt es auch Nachteile. Viele Menschen fühlen sich ...' yazıyor.",
+          "options": ["Man hat mehr Arbeit.", "Man fühlt sich einsam.", "Man verdient weniger Geld."],
+          "answer": "Man fühlt sich einsam."
+        },
+        {
+          "exerciseId": "14",
+          "type": "multiple_choice",
+          "frage": "Was vermissen viele Menschen im Home-Office?",
+          "turkce": "Birçok insan evden çalışırken neyi özlüyor?",
+          "ipucu": "Metinde 'Viele vermissen den ... Kontakt mit den Kollegen.' yazıyor.",
+          "options": ["Das Essen in der Kantine", "Den direkten Kontakt mit den Kollegen", "Die Ruhe zu Hause"],
+          "answer": "Den direkten Kontakt mit den Kollegen"
+        },
+        {
+          "exerciseId": "15",
+          "type": "multiple_choice",
+          "frage": "Wie viel Prozent der Deutschen möchten auch nach der Pandemie im Home-Office arbeiten?",
+          "turkce": "Almanların yüzde kaçı salgından sonra da evden çalışmak istiyor?",
+          "ipucu": "Metinde '... der Deutschen möchten auch nach der Pandemie im Home-Office arbeiten.' yazıyor.",
+          "options": ["30 Prozent", "50 Prozent", "70 Prozent"],
+          "answer": "50 Prozent"
+        }
+      ]
+    },
+    {
+      "sectionId": 5,
+      "sectionName": "LESEN BÖLÜM 2: LÜCKENTEXT",
+      "type": "reading",
+      "text": "Hallo Max,\n\nich schreibe dir, weil ich nächste Woche nach Berlin fahre. Ich möchte dich besuchen. Hast du am Wochenende Zeit? Wir könnten uns am Samstag um 14 Uhr treffen. Wo möchtest du dich treffen? Bitte antworte mir bald!\n\nViele Grüße\nAnna",
+      "exercises": [
+        {
+          "exerciseId": "16",
+          "type": "fill_in",
+          "frage": "ich _______ dir",
+          "turkce": "sana _______ (yazıyorum)",
+          "ipucu": "Mektup yazarken kullanılan fiil. 'ich' ile birlikte düşün.",
+          "answer": "schreibe"
+        },
+        {
+          "exerciseId": "17",
+          "type": "fill_in",
+          "frage": "Ich möchte dich _______.",
+          "turkce": "Seni _______ istiyorum. (ziyaret etmek)",
+          "ipucu": "Birini ziyaret etmek için kullanılan fiil. 'besuchen' olabilir.",
+          "answer": "besuchen"
+        },
+        {
+          "exerciseId": "18",
+          "type": "fill_in",
+          "frage": "Hast du am Wochenende _______?",
+          "turkce": "Hafta sonu _______ var mı? (vakit)",
+          "ipucu": "Zaman/boş vakit anlamında kullanılır. 'Zeit' sözcüğünü düşün.",
+          "answer": "Zeit"
+        },
+        {
+          "exerciseId": "19",
+          "type": "fill_in",
+          "frage": "Wir könnten uns am Samstag um 14 Uhr _______.",
+          "turkce": "Cumartesi saat 14'te _______ (buluşabiliriz)",
+          "ipucu": "Birisiyle buluşmak için kullanılan fiil. 'treffen' düşün.",
+          "answer": "treffen"
+        },
+        {
+          "exerciseId": "20",
+          "type": "fill_in",
+          "frage": "Wo möchtest du dich _______?",
+          "turkce": "Nerede _______ istiyorsun? (buluşmak)",
+          "ipucu": "Birisiyle buluşmak için kullanılan fiil. 'treffen' düşün.",
+          "answer": "treffen"
+        }
+      ]
+    },
+    {
+      "sectionId": 6,
+      "sectionName": "SCHREIBEN BÖLÜM 1: E-MAIL",
+      "type": "writing",
+      "aufgabe": "Sie möchten Ihren Freund Max in Berlin besuchen. Schreiben Sie eine E-Mail (ca. 30-40 Wörter):\n1. Warum schreiben Sie?\n2. Wann möchten Sie nach Berlin kommen?\n3. Wann und wo möchten Sie sich treffen?",
+      "turkce": "Arkadaşınız Max'ı Berlin'de ziyaret etmek istiyorsunuz. Bir e-posta yazın:\n1. Neden yazıyorsunuz?\n2. Berlin'e ne zaman gelmek istiyorsunuz?\n3. Ne zaman ve nerede buluşmak istiyorsunuz?",
+      "ipucu": "Anrede: 'Hallo Max,' - Grußformel: 'Viele Grüße' - Tüm noktaları cevapla.",
+      "solution": "Hallo Max,\n\nich schreibe dir, weil ich nächste Woche nach Berlin komme. Ich möchte dich gerne besuchen. Hast du am Samstag um 14 Uhr Zeit? Wir könnten uns vor dem Hauptbahnhof treffen. Bitte sag mir Bescheid!\n\nViele Grüße\n[Dein Name]"
+    }
+  ]
+}

@@ -1,0 +1,514 @@
+{
+  "title": "LESERVERSTEHEN A2",
+  "subtitle": "OKUMA ANLAMA ALIŞTIRMALARI",
+  "readingStrategies": [
+    { "name": "1. Überfliegen", "description": "Metnin genel konusunu anlamak için hızlıca okuyun." },
+    { "name": "2. Schlüsselwörter suchen", "description": "Sorudaki önemli kelimeleri metinde bulun." },
+    { "name": "3. Konnektoren erkennen", "description": "'weil, dass, wenn, aber, denn' gibi bağlaçlar metnin anlamını değiştirir." },
+    { "name": "4. Synonyme erkennen", "description": "Metinde aynı anlamdaki farklı kelimeleri tanıyın." },
+    { "name": "5. Zeitformen beachten", "description": "Präteritum, Perfekt, Präsens zamanlarına dikkat edin." },
+    { "name": "6. Negationen", "description": "'nicht, kein, nie' kelimelerini atlamayın!" }
+  ],
+  "sections": [
+    {
+      "sectionId": 1,
+      "sectionName": "METİN 1: TAGESABLAUF",
+      "text": "Mein Tagesablauf\n\nIch stehe jeden Tag um 7 Uhr auf. Dann frühstücke ich und gehe um 8 Uhr zur Arbeit. Ich arbeite von 9 bis 17 Uhr. Um 12 Uhr habe ich Mittagspause. Nach der Arbeit gehe ich nach Hause und koche zu Abend. Am Abend sehe ich fern oder lese ein Buch. Um 22 Uhr gehe ich ins Bett.",
+      "exercises": [
+        {
+          "exerciseId": "1",
+          "type": "multiple_choice",
+          "frage": "Wann steht der Autor auf?",
+          "turkce": "Yazar kaçta kalkıyor?",
+          "ipucu": "Metinde 'Ich stehe jeden Tag um 7 Uhr auf.' yazıyor.",
+          "options": ["um 6 Uhr", "um 7 Uhr", "um 8 Uhr"],
+          "answer": "um 7 Uhr"
+        },
+        {
+          "exerciseId": "2",
+          "type": "multiple_choice",
+          "frage": "Wie lange arbeitet der Autor?",
+          "turkce": "Yazar ne kadar çalışıyor?",
+          "ipucu": "Metinde 'Ich arbeite von 9 bis 17 Uhr.' yazıyor.",
+          "options": ["von 8 bis 17 Uhr", "von 9 bis 17 Uhr", "von 9 bis 18 Uhr"],
+          "answer": "von 9 bis 17 Uhr"
+        },
+        {
+          "exerciseId": "3",
+          "type": "richtig_falsch",
+          "frage": "Der Autor hat um 13 Uhr Mittagspause.",
+          "turkce": "Yazarın öğle arası 13:00'te.",
+          "ipucu": "Metinde 'Um 12 Uhr habe ich Mittagspause.' - 12:00 yazıyor.",
+          "answer": "Falsch"
+        },
+        {
+          "exerciseId": "4",
+          "type": "lückentext",
+          "frage": "Am Abend sieht der Autor _______ oder liest ein Buch.",
+          "turkce": "Akşam yazar _______ izler veya kitap okur.",
+          "ipucu": "Metinde 'Am Abend sehe ich fern oder lese ein Buch.'",
+          "answer": "fern"
+        },
+        {
+          "exerciseId": "5",
+          "type": "multiple_choice",
+          "frage": "Wann geht der Autor ins Bett?",
+          "turkce": "Yazar kaçta yatağa gidiyor?",
+          "ipucu": "Metinde 'Um 22 Uhr gehe ich ins Bett.' yazıyor.",
+          "options": ["um 21 Uhr", "um 22 Uhr", "um 23 Uhr"],
+          "answer": "um 22 Uhr"
+        }
+      ]
+    },
+    {
+      "sectionId": 2,
+      "sectionName": "METİN 2: URLAUB IN SPANIEN",
+      "text": "Mein Urlaub in Spanien\n\nLetztes Jahr war ich mit meiner Familie in Spanien. Wir waren zwei Wochen an der Costa del Sol. Das Wetter war super! Jeden Tag hatten wir 30 Grad und Sonnenschein. Wir haben viel unternommen: Wir sind am Strand gelegen, haben im Meer gebadet und leckere Tapas gegessen. Mein Sohn hat jeden Tag im Hotelpool geschwommen. Meine Tochter hat sich für die spanische Kultur interessiert. Wir haben auch eine Stadtbesichtigung in Málaga gemacht. Das Essen war sehr gut, aber manchmal war es zu scharf für mich. Wir haben viele Fotos gemacht. Es war ein wunderbarer Urlaub. Nächstes Jahr möchten wir nach Italien fahren.",
+      "exercises": [
+        {
+          "exerciseId": "6",
+          "type": "multiple_choice",
+          "frage": "Wo war die Familie im Urlaub?",
+          "turkce": "Aile tatilde neredeydi?",
+          "ipucu": "Metinde 'Letztes Jahr war ich mit meiner Familie in Spanien.' yazıyor.",
+          "options": ["in Italien", "in Spanien", "in Deutschland"],
+          "answer": "in Spanien"
+        },
+        {
+          "exerciseId": "7",
+          "type": "multiple_choice",
+          "frage": "Wie lange war die Familie in Spanien?",
+          "turkce": "Aile İspanya'da ne kadar kaldı?",
+          "ipucu": "Metinde 'Wir waren zwei Wochen an der Costa del Sol.' yazıyor.",
+          "options": ["eine Woche", "zwei Wochen", "drei Wochen"],
+          "answer": "zwei Wochen"
+        },
+        {
+          "exerciseId": "8",
+          "type": "richtig_falsch",
+          "frage": "Das Wetter war schlecht.",
+          "turkce": "Hava kötüydü.",
+          "ipucu": "Metinde 'Das Wetter war super!' - süperdi yazıyor.",
+          "answer": "Falsch"
+        },
+        {
+          "exerciseId": "9",
+          "type": "multiple_choice",
+          "frage": "Was hat der Sohn jeden Tag gemacht?",
+          "turkce": "Oğul her gün ne yaptı?",
+          "ipucu": "Metinde 'Mein Sohn hat jeden Tag im Hotelpool geschwommen.' yazıyor.",
+          "options": ["Er hat Tapas gegessen.", "Er hat im Hotelpool geschwommen.", "Er hat Fotos gemacht."],
+          "answer": "Er hat im Hotelpool geschwommen."
+        },
+        {
+          "exerciseId": "10",
+          "type": "lückentext",
+          "frage": "Nächstes Jahr möchten wir nach _______ fahren.",
+          "turkce": "Gelecek yıl _______'ya gitmek istiyoruz.",
+          "ipucu": "Metinde 'Nächstes Jahr möchten wir nach Italien fahren.'",
+          "answer": "Italien"
+        }
+      ]
+    },
+    {
+      "sectionId": 3,
+      "sectionName": "METİN 3: NEUE WOHNUNG",
+      "text": "Unsere neue Wohnung\n\nHallo liebe Freunde!\n\nIch möchte euch unsere neue Wohnung vorstellen. Wir sind letzte Woche umgezogen. Die Wohnung ist in der Innenstadt, nur 5 Minuten vom Bahnhof entfernt. Sie hat 3 Zimmer, eine große Küche und ein schönes Bad. Wir haben auch einen kleinen Balkon, auf dem wir im Sommer frühstücken können.\n\nDie Wohnung ist 85 Quadratmeter groß und die Miete beträgt 650 Euro warm. Das ist etwas teurer als unsere alte Wohnung, aber die Lage ist viel besser. Mein Mann arbeitet jetzt im Zentrum, deshalb können wir jetzt zu Fuß gehen.\n\nMeine Tochter ist sehr glücklich, weil sie jetzt ihr eigenes Zimmer hat. Sie hat es schon mit ihren Poster und Bildern dekoriert. Mein Sohn ist auch zufrieden, weil die Schule nur 10 Minuten entfernt ist.\n\nAm Wochenende wollen wir eine Einweihungsparty machen. Kommt doch alle vorbei! Wir freuen uns auf euch.\n\nViele Grüße\nAnna",
+      "exercises": [
+        {
+          "exerciseId": "11",
+          "type": "multiple_choice",
+          "frage": "Wo liegt die neue Wohnung?",
+          "turkce": "Yeni daire nerede?",
+          "ipucu": "Metinde 'Die Wohnung ist in der Innenstadt' yazıyor.",
+          "options": ["am Stadtrand", "in der Innenstadt", "auf dem Land"],
+          "answer": "in der Innenstadt"
+        },
+        {
+          "exerciseId": "12",
+          "type": "multiple_choice",
+          "frage": "Wie viele Zimmer hat die Wohnung?",
+          "turkce": "Daire kaç odalı?",
+          "ipucu": "Metinde 'Sie hat 3 Zimmer' yazıyor.",
+          "options": ["2 Zimmer", "3 Zimmer", "4 Zimmer"],
+          "answer": "3 Zimmer"
+        },
+        {
+          "exerciseId": "13",
+          "type": "multiple_choice",
+          "frage": "Wie groß ist die Wohnung?",
+          "turkce": "Daire kaç metrekare?",
+          "ipucu": "Metinde 'Die Wohnung ist 85 Quadratmeter groß' yazıyor.",
+          "options": ["75 Quadratmeter", "85 Quadratmeter", "95 Quadratmeter"],
+          "answer": "85 Quadratmeter"
+        },
+        {
+          "exerciseId": "14",
+          "type": "richtig_falsch",
+          "frage": "Die Miete ist 650 Euro warm.",
+          "turkce": "Kira 650 Euro.",
+          "ipucu": "Metinde 'die Miete beträgt 650 Euro warm' yazıyor.",
+          "answer": "Richtig"
+        },
+        {
+          "exerciseId": "15",
+          "type": "lückentext",
+          "frage": "Meine Tochter hat ihr eigenes Zimmer und hat es mit _______ und Bildern dekoriert.",
+          "turkce": "Kızımın kendi odası var ve onu _______ ve resimlerle dekore etmiş.",
+          "ipucu": "Metinde 'Sie hat es schon mit ihren Poster und Bildern dekoriert.'",
+          "answer": "Postern"
+        },
+        {
+          "exerciseId": "16",
+          "type": "richtig_falsch",
+          "frage": "Anna möchte eine Einweihungsparty machen.",
+          "turkce": "Anna bir eve taşınma partisi yapmak istiyor.",
+          "ipucu": "Metinde 'Am Wochenende wollen wir eine Einweihungsparty machen.' yazıyor.",
+          "answer": "Richtig"
+        }
+      ]
+    },
+    {
+      "sectionId": 4,
+      "sectionName": "METİN 4: DEUTSCHKURS",
+      "text": "Deutschkurs an der VHS\n\nDie Volkshochschule (VHS) bietet im September einen neuen Deutschkurs an. Der Kurs ist für Anfänger mit Vorkenntnissen (A2). Er findet jeden Montag und Mittwoch von 18:00 bis 20:00 Uhr statt. Die Kursgebühr beträgt 180 Euro für 8 Wochen. Die Anmeldung ist bis zum 25. August möglich. Interessierte können sich online anmelden oder das Anmeldeformular in der VHS abgeben. Bei Fragen schreiben Sie eine E-Mail an: deutschkurs@vhs.de.",
+      "exercises": [
+        {
+          "exerciseId": "17",
+          "type": "multiple_choice",
+          "frage": "Für welches Niveau ist der Deutschkurs?",
+          "turkce": "Almanca kursu hangi seviye için?",
+          "ipucu": "Metinde 'Der Kurs ist für Anfänger mit Vorkenntnissen (A2).' yazıyor.",
+          "options": ["A1", "A2", "B1"],
+          "answer": "A2"
+        },
+        {
+          "exerciseId": "18",
+          "type": "multiple_choice",
+          "frage": "Wann findet der Kurs statt?",
+          "turkce": "Kurs ne zaman yapılıyor?",
+          "ipucu": "Metinde 'jeden Montag und Mittwoch von 18:00 bis 20:00 Uhr' yazıyor.",
+          "options": ["Montag und Freitag", "Montag und Mittwoch", "Dienstag und Donnerstag"],
+          "answer": "Montag und Mittwoch"
+        },
+        {
+          "exerciseId": "19",
+          "type": "multiple_choice",
+          "frage": "Wie lange dauert der Kurs?",
+          "turkce": "Kurs ne kadar sürüyor?",
+          "ipucu": "Metinde 'für 8 Wochen' yazıyor.",
+          "options": ["6 Wochen", "8 Wochen", "10 Wochen"],
+          "answer": "8 Wochen"
+        },
+        {
+          "exerciseId": "20",
+          "type": "richtig_falsch",
+          "frage": "Die Kursgebühr beträgt 150 Euro.",
+          "turkce": "Kurs ücreti 150 Euro.",
+          "ipucu": "Metinde 'Die Kursgebühr beträgt 180 Euro' - 180 yazıyor.",
+          "answer": "Falsch"
+        },
+        {
+          "exerciseId": "21",
+          "type": "lückentext",
+          "frage": "Die Anmeldung ist bis zum _______ August möglich.",
+          "turkce": "Kayıt _______ Ağustos'a kadar mümkün.",
+          "ipucu": "Metinde 'Die Anmeldung ist bis zum 25. August möglich.'",
+          "answer": "25."
+        }
+      ]
+    },
+    {
+      "sectionId": 5,
+      "sectionName": "METİN 5: EINLADUNG ZUM GEBURTSTAG",
+      "text": "Liebe Marie,\n\nich lade dich herzlich zu meinem 30. Geburtstag ein. Die Party findet am Samstag, den 14. Juni, bei mir im Garten statt. Wir fangen um 19:00 Uhr an. Es wird ein Buffet mit Grillwurst, Salaten und kalten Getränken geben. Bitte bring einen Salat oder einen Kuchen mit! Denk auch an eine Jacke, denn abends wird es kühl.\n\nIch habe schon viele Gäste eingeladen. Du kennst sicher einige: Anna, Thomas und Julia kommen auch. Wir wollen Spiele spielen und Musik hören. Ich hoffe, du kannst kommen!\n\nBitte sag mir bis zum 1. Juni Bescheid, ob du Zeit hast.\n\nViele Grüße\nPetra",
+      "exercises": [
+        {
+          "exerciseId": "22",
+          "type": "multiple_choice",
+          "frage": "Wer feiert Geburtstag?",
+          "turkce": "Kim doğum günü kutluyor?",
+          "ipucu": "Metnin sonundaki imza 'Petra' yazıyor.",
+          "options": ["Marie", "Petra", "Thomas"],
+          "answer": "Petra"
+        },
+        {
+          "exerciseId": "23",
+          "type": "multiple_choice",
+          "frage": "Wann findet die Party statt?",
+          "turkce": "Parti ne zaman?",
+          "ipucu": "Metinde 'am Samstag, den 14. Juni' yazıyor.",
+          "options": ["am 14. Juni", "am 1. Juni", "am 30. Juni"],
+          "answer": "am 14. Juni"
+        },
+        {
+          "exerciseId": "24",
+          "type": "richtig_falsch",
+          "frage": "Die Party beginnt um 20:00 Uhr.",
+          "turkce": "Parti 20:00'de başlıyor.",
+          "ipucu": "Metinde 'Wir fangen um 19:00 Uhr an.' - 19:00 yazıyor.",
+          "answer": "Falsch"
+        },
+        {
+          "exerciseId": "25",
+          "type": "multiple_choice",
+          "frage": "Was soll Marie mitbringen?",
+          "turkce": "Marie ne getirmeli?",
+          "ipucu": "Metinde 'Bitte bring einen Salat oder einen Kuchen mit!' yazıyor.",
+          "options": ["Grillwurst und Salate", "einen Salat oder Kuchen", "kalte Getränke"],
+          "answer": "einen Salat oder Kuchen"
+        },
+        {
+          "exerciseId": "26",
+          "type": "lückentext",
+          "frage": "Marie soll bis zum _______ antworten.",
+          "turkce": "Marie _______'a kadar cevap vermeli.",
+          "ipucu": "Metinde 'Bitte sag mir bis zum 1. Juni Bescheid'",
+          "answer": "1. Juni"
+        }
+      ]
+    },
+    {
+      "sectionId": 6,
+      "sectionName": "METİN 6: BAHNHOFDURCHSAGE",
+      "text": "Durchsage am Bahnhof:\n\n'Achtung, liebe Fahrgäste! Der ICE 785 nach München, Abfahrt 14:15 Uhr von Gleis 5, hat 20 Minuten Verspätung. Die neue Abfahrt ist um 14:35 Uhr. Der Regionalzug nach Nürnberg fährt planmäßig um 14:30 Uhr von Gleis 2. Reisende nach Stuttgart, bitte beachten Sie: Ihr Zug fährt heute von Gleis 7 statt von Gleis 3. Wir bitten um Entschuldigung.'",
+      "exercises": [
+        {
+          "exerciseId": "27",
+          "type": "multiple_choice",
+          "frage": "Wohin fährt der ICE 785?",
+          "turkce": "ICE 785 nereye gidiyor?",
+          "ipucu": "Metinde 'Der ICE 785 nach München' yazıyor.",
+          "options": ["nach Nürnberg", "nach München", "nach Stuttgart"],
+          "answer": "nach München"
+        },
+        {
+          "exerciseId": "28",
+          "type": "multiple_choice",
+          "frage": "Wie viel Verspätung hat der ICE 785?",
+          "turkce": "ICE 785 ne kadar gecikti?",
+          "ipucu": "Metinde 'hat 20 Minuten Verspätung' yazıyor.",
+          "options": ["15 Minuten", "20 Minuten", "25 Minuten"],
+          "answer": "20 Minuten"
+        },
+        {
+          "exerciseId": "29",
+          "type": "richtig_falsch",
+          "frage": "Der Zug nach München fährt jetzt um 14:35 Uhr ab.",
+          "turkce": "Münih treni şimdi 14:35'te kalkıyor.",
+          "ipucu": "Metinde 'Die neue Abfahrt ist um 14:35 Uhr.' yazıyor.",
+          "answer": "Richtig"
+        },
+        {
+          "exerciseId": "30",
+          "type": "multiple_choice",
+          "frage": "Der Regionalzug nach Nürnberg fährt von Gleis?",
+          "turkce": "Nürnberg bölgesel treni hangi perondan?",
+          "ipucu": "Metinde 'von Gleis 2' yazıyor.",
+          "options": ["Gleis 2", "Gleis 5", "Gleis 7"],
+          "answer": "Gleis 2"
+        },
+        {
+          "exerciseId": "31",
+          "type": "lückentext",
+          "frage": "Reisende nach Stuttgart müssen heute von Gleis 7 statt von Gleis _______ fahren.",
+          "turkce": "Stuttgart yolcuları bugün 3. peron yerine 7. perondan gitmeli.",
+          "ipucu": "Metinde 'von Gleis 7 statt von Gleis 3'",
+          "answer": "3"
+        }
+      ]
+    },
+    {
+      "sectionId": 7,
+      "sectionName": "METİN 7: ZAHNARZTTERMIN",
+      "text": "Erinnerung - Ihr Zahnarzttermin\n\nGuten Tag Frau Schmidt!\n\nwir möchten Sie an Ihren Zahnarzttermin erinnern:\n\nTermin: Mittwoch, der 12. März\nUhrzeit: 14:30 Uhr\nOrt: Zahnarztpraxis Dr. Weber, Hauptstraße 23, 1. Stock\n\nBitte bringen Sie mit:\n- Ihre Krankenversicherungskarte\n- Ihren Personalausweis\n\nWichtige Hinweise:\n- Bitte kommen Sie 10 Minuten früher zur Anmeldung.\n- Falls Sie den Termin nicht wahrnehmen können, sagen Sie bitte bis zum 10. März ab unter Tel. 089 / 12345.",
+      "exercises": [
+        {
+          "exerciseId": "32",
+          "type": "multiple_choice",
+          "frage": "Wann ist der Zahnarzttermin?",
+          "turkce": "Dişçi randevusu ne zaman?",
+          "ipucu": "Metinde 'Termin: Mittwoch, der 12. März' yazıyor.",
+          "options": ["am 10. März", "am 12. März", "am 15. März"],
+          "answer": "am 12. März"
+        },
+        {
+          "exerciseId": "33",
+          "type": "multiple_choice",
+          "frage": "Wo ist die Zahnarztpraxis?",
+          "turkce": "Dişçi muayenehanesi nerede?",
+          "ipucu": "Metinde 'Hauptstraße 23, 1. Stock' yazıyor.",
+          "options": ["Hauptstraße 23, 1. Stock", "Hauptstraße 32, 1. Stock", "Hauptstraße 23, 2. Stock"],
+          "answer": "Hauptstraße 23, 1. Stock"
+        },
+        {
+          "exerciseId": "34",
+          "type": "multiple_choice",
+          "frage": "Was muss Frau Schmidt mitbringen?",
+          "turkce": "Bayan Schmidt ne getirmeli?",
+          "ipucu": "Metinde '- Ihre Krankenversicherungskarte - Ihren Personalausweis' yazıyor.",
+          "options": ["nur die Krankenversicherungskarte", "die Krankenversicherungskarte und den Personalausweis", "den Personalausweis und ein Passfoto"],
+          "answer": "die Krankenversicherungskarte und den Personalausweis"
+        },
+        {
+          "exerciseId": "35",
+          "type": "richtig_falsch",
+          "frage": "Frau Schmidt soll 15 Minuten früher kommen.",
+          "turkce": "Bayan Schmidt 15 dakika erken gelmeli.",
+          "ipucu": "Metinde 'Bitte kommen Sie 10 Minuten früher' - 10 dakika yazıyor.",
+          "answer": "Falsch"
+        }
+      ]
+    },
+    {
+      "sectionId": 8,
+      "sectionName": "METİN 8: WOCHENENDPLAN",
+      "text": "Hallo Lisa!\n\nIch schreibe dir, weil ich für das Wochenende einen Ausflug plane. Meine Idee ist, am Samstag mit dem Zug in die Berge zu fahren. Das Wetter soll schön sein, etwa 25 Grad und sonnig. Wir können wandern gehen und ein Picknick machen.\n\nMeine Schwester und ihr Freund wollen auch mitkommen. Wir könnten zusammen fahren. Der Zug fährt um 8:30 Uhr vom Hauptbahnhof. Wir treffen uns um 8:15 Uhr vor dem Bahnhof.\n\nWir brauchen Wanderschuhe, eine Jacke und etwas zu essen. Bitte bring auch eine Decke mit für das Picknick. Wir bleiben den ganzen Tag, also bis etwa 18:00 Uhr.\n\nSag mir bitte bis Donnerstag, ob du Zeit hast!\n\nLiebe Grüße\nJulia",
+      "exercises": [
+        {
+          "exerciseId": "36",
+          "type": "multiple_choice",
+          "frage": "Was plant Julia für das Wochenende?",
+          "turkce": "Julia hafta sonu için ne planlıyor?",
+          "ipucu": "Metinde 'mit dem Zug in die Berge zu fahren' yazıyor.",
+          "options": ["einen Ausflug ans Meer", "einen Ausflug in die Berge", "einen Ausflug in die Stadt"],
+          "answer": "einen Ausflug in die Berge"
+        },
+        {
+          "exerciseId": "37",
+          "type": "multiple_choice",
+          "frage": "Wann fährt der Zug?",
+          "turkce": "Tren ne zaman kalkıyor?",
+          "ipucu": "Metinde 'Der Zug fährt um 8:30 Uhr' yazıyor.",
+          "options": ["um 8:00 Uhr", "um 8:15 Uhr", "um 8:30 Uhr"],
+          "answer": "um 8:30 Uhr"
+        },
+        {
+          "exerciseId": "38",
+          "type": "richtig_falsch",
+          "frage": "Julias Schwester will auch mitkommen.",
+          "turkce": "Julia'nın kız kardeşi de gelmek istiyor.",
+          "ipucu": "Metinde 'Meine Schwester und ihr Freund wollen auch mitkommen.' yazıyor.",
+          "answer": "Richtig"
+        },
+        {
+          "exerciseId": "39",
+          "type": "multiple_choice",
+          "frage": "Was soll Lisa mitbringen?",
+          "turkce": "Lisa ne getirmeli?",
+          "ipucu": "Metinde 'Wir brauchen Wanderschuhe, eine Jacke und etwas zu essen. Bitte bring auch eine Decke mit' yazıyor.",
+          "options": ["Wanderschuhe, eine Jacke und etwas zu essen", "Wanderschuhe, eine Decke und etwas zu trinken", "eine Decke und etwas zu essen"],
+          "answer": "Wanderschuhe, eine Jacke und etwas zu essen"
+        },
+        {
+          "exerciseId": "40",
+          "type": "lückentext",
+          "frage": "Lisa soll bis _______ antworten.",
+          "turkce": "Lisa _______'a kadar cevap vermeli.",
+          "ipucu": "Metinde 'Sag mir bitte bis Donnerstag'",
+          "answer": "Donnerstag"
+        }
+      ]
+    },
+    {
+      "sectionId": 9,
+      "sectionName": "METİN 9: FERIENWOHNUNG",
+      "text": "Ferienwohnung in den Alpen\n\nSie suchen eine gemütliche Ferienwohnung für Ihren nächsten Urlaub? Dann sind Sie bei uns genau richtig! Unsere Ferienwohnung liegt in den bayerischen Alpen, in einem kleinen Dorf mit 500 Einwohnern. Die Wohnung ist 70 Quadratmeter groß und hat 2 Schlafzimmer, ein Wohnzimmer mit Kamin, eine Küche und ein Badezimmer. Der Balkon bietet einen wunderbaren Blick auf die Berge.\n\nPreise:\n- 2 Personen: 80 Euro pro Nacht\n- Jede weitere Person: +15 Euro pro Nacht\n- Mindestaufenthalt: 3 Nächte\n\nIm Preis inbegriffen:\n- Bettwäsche und Handtücher\n- Parkplatz vor dem Haus\n- WLAN\n\nNicht inbegriffen:\n- Frühstück\n- Endreinigung (40 Euro einmalig)\n\nAktivitäten in der Umgebung:\n- Wandern (viele Wege direkt vor der Tür)\n- Skifahren im Winter (Skilift 5 km entfernt)\n- Schwimmen im See (3 km entfernt)\n- Ausflüge nach München (ca. 1 Stunde mit dem Auto)\n\nKontakt:\nE-Mail: alpen-ferien@web.de\nTelefon: 0800 / 98765",
+      "exercises": [
+        {
+          "exerciseId": "41",
+          "type": "multiple_choice",
+          "frage": "Wo liegt die Ferienwohnung?",
+          "turkce": "Tatil dairesi nerede?",
+          "ipucu": "Metinde 'in den bayerischen Alpen' yazıyor.",
+          "options": ["in den Alpen", "am Meer", "in einer großen Stadt"],
+          "answer": "in den Alpen"
+        },
+        {
+          "exerciseId": "42",
+          "type": "multiple_choice",
+          "frage": "Wie groß ist die Wohnung?",
+          "turkce": "Daire kaç metrekare?",
+          "ipucu": "Metinde '70 Quadratmeter' yazıyor.",
+          "options": ["60 Quadratmeter", "70 Quadratmeter", "80 Quadratmeter"],
+          "answer": "70 Quadratmeter"
+        },
+        {
+          "exerciseId": "43",
+          "type": "multiple_choice",
+          "frage": "Was kostet eine Nacht für 2 Personen?",
+          "turkce": "2 kişi için bir gece ne kadar?",
+          "ipucu": "Metinde '- 2 Personen: 80 Euro pro Nacht' yazıyor.",
+          "options": ["65 Euro", "80 Euro", "95 Euro"],
+          "answer": "80 Euro"
+        },
+        {
+          "exerciseId": "44",
+          "type": "richtig_falsch",
+          "frage": "Das Frühstück ist im Preis inbegriffen.",
+          "turkce": "Kahvaltı fiyata dahil.",
+          "ipucu": "Metinde 'Nicht inbegriffen: - Frühstück' - dahil değil yazıyor.",
+          "answer": "Falsch"
+        },
+        {
+          "exerciseId": "45",
+          "type": "multiple_choice",
+          "frage": "Wie weit ist der See von der Wohnung entfernt?",
+          "turkce": "Daireden göl ne kadar uzakta?",
+          "ipucu": "Metinde 'Schwimmen im See (3 km entfernt)' yazıyor.",
+          "options": ["1 km", "3 km", "5 km"],
+          "answer": "3 km"
+        },
+        {
+          "exerciseId": "46",
+          "type": "lückentext",
+          "frage": "Die Endreinigung kostet _______ Euro einmalig.",
+          "turkce": "Son temizlik _______ Euro (tek seferlik).",
+          "ipucu": "Metinde '- Endreinigung (40 Euro einmalig)'",
+          "answer": "40"
+        }
+      ]
+    },
+    {
+      "sectionId": 10,
+      "sectionName": "METİN 10: JOBANGEBOT",
+      "text": "Stellenangebot: Verkäufer/in gesucht!\n\nFür unser Modegeschäft in der Innenstadt suchen wir ab sofort eine/n Verkäufer/in. Sie arbeiten in einem netten Team mit 5 anderen Kollegen. Ihre Aufgaben sind: Kundenberatung, Verkauf, Kassenarbeit und Warenpräsentation.\n\nWir erwarten:\n- Abgeschlossene Ausbildung im Einzelhandel (oder Erfahrung)\n- Gute Deutschkenntnisse\n- Teamfähigkeit und Freundlichkeit\n- Flexibilität (auch Samstagsarbeit)\n\nWir bieten:\n- 30 Stunden pro Woche\n- Gehalt: 1800 Euro brutto\n- 25 Tage Urlaub pro Jahr\n- Mitarbeiterrabatt von 20 %\n\nInteressiert?\nDann senden Sie Ihre Bewerbung per E-Mail an: bewerbung@mode-shop.de\nWir freuen uns auf Sie!",
+      "exercises": [
+        {
+          "exerciseId": "47",
+          "type": "multiple_choice",
+          "frage": "Welchen Beruf sucht das Modegeschäft?",
+          "turkce": "Moda mağazası hangi mesleği arıyor?",
+          "ipucu": "Metinde 'Verkäufer/in gesucht!' yazıyor.",
+          "options": ["Kassierer/in", "Verkäufer/in", "Berater/in"],
+          "answer": "Verkäufer/in"
+        },
+        {
+          "exerciseId": "48",
+          "type": "multiple_choice",
+          "frage": "Wie viele Stunden pro Woche muss man arbeiten?",
+          "turkce": "Haftada kaç saat çalışılmalı?",
+          "ipucu": "Metinde '30 Stunden pro Woche' yazıyor.",
+          "options": ["25 Stunden", "30 Stunden", "35 Stunden"],
+          "answer": "30 Stunden"
+        },
+        {
+          "exerciseId": "49",
+          "type": "richtig_falsch",
+          "frage": "Man braucht eine Ausbildung im Einzelhandel.",
+          "turkce": "Perakende sektöründe eğitim gerekli.",
+          "ipucu": "Metinde 'Abgeschlossene Ausbildung im Einzelhandel (oder Erfahrung)' - veya deneyim yazıyor.",
+          "answer": "Richtig"
+        },
+        {
+          "exerciseId": "50",
+          "type": "lückentext",
+          "frage": "Die Bewerbung soll per _______ geschickt werden.",
+          "turkce": "Başvuru _______ ile gönderilmeli.",
+          "ipucu": "Metinde 'Senden Sie Ihre Bewerbung per E-Mail an'",
+          "answer": "E-Mail"
+        }
+      ]
+    }
+  ]
+}
